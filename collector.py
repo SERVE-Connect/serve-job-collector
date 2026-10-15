@@ -1,9 +1,15 @@
 #!/usr/bin/env python3
-"""SERVE daily job collector.
+"""SERVE daily job collector (v3).
 
-Reads public ATS job boards listed in companies.json, keeps India IT jobs posted
-within the last N days, checks each one is still open, estimates the experience
-asked for, and writes data/it_jobs_latest.json + data/it_jobs_latest.md.
+Reads public ATS job boards listed in companies.json, keeps India jobs posted within
+the last N days, checks each one is still open, estimates the experience asked for,
+sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and writes:
+
+  data/jobs_latest.md          every job, by section then city
+  data/it_jobs_shortlist.md    IT sections only, for 0-5 years (fit yes / unknown)
+  data/jobs_latest.json        same data for scripts
+  data/run_report.json         which boards worked
+  data/seen.json               job IDs seen before
 
 Standard library only. Run:  python collector.py [--days 7]
 """
@@ -22,6 +28,8 @@ DATA = os.path.join(ROOT, "data")
 UA = "SERVE-Job-Collector/1.0 (nonprofit job awareness)"
 NOW = datetime.now(timezone.utc)
 PAUSE = 0.25  # seconds between calls, be polite
+WINDOW = 7
+
 
 # ---------------------------------------------------------------- http
 def http(url, body=None, tries=3, timeout=30):
@@ -49,7 +57,7 @@ def http(url, body=None, tries=3, timeout=30):
     raise RuntimeError(last)
 
 
-# ---------------------------------------------------------------- helpers
+# ---------------------------------------------------------------- places
 INDIA_WORDS = [
     "pune", "pimpri", "hinjewadi", "hinjawadi", "mumbai", "navi mumbai", "thane",
     "powai", "airoli", "sambhajinagar", "aurangabad", "nashik", "nagpur", "kolhapur",
@@ -60,6 +68,22 @@ INDIA_WORDS = [
     "mysuru", "mysore", "visakhapatnam", "bhopal", "patna",
 ]
 
+# Order = the order jobs are listed in. Remote sits after the three priority cities.
+CITY_GROUPS = [
+    ("Pune", ("pune", "pimpri", "hinjewadi", "hinjawadi")),
+    ("Mumbai", ("mumbai", "thane", "powai", "airoli")),
+    ("Chhatrapati Sambhajinagar", ("sambhajinagar", "aurangabad")),
+    ("Delhi NCR / Haryana", ("delhi", "noida", "gurgaon", "gurugram", "faridabad", "ghaziabad", "haryana")),
+    ("Bangalore", ("bangalore", "bengaluru")),
+    ("Chennai", ("chennai",)),
+    ("Kolkata", ("kolkata",)),
+    ("Hyderabad", ("hyderabad",)),
+    ("Ahmedabad", ("ahmedabad", "gandhinagar")),
+]
+GROUP_ORDER = ["Pune", "Mumbai", "Chhatrapati Sambhajinagar", "Remote (India)",
+               "Delhi NCR / Haryana", "Bangalore", "Chennai", "Kolkata", "Hyderabad",
+               "Ahmedabad", "Other India"]
+
 
 def is_india(loc):
     s = (loc or "").lower()
@@ -68,20 +92,46 @@ def is_india(loc):
     return any(w in s for w in INDIA_WORDS)
 
 
-def geo_rank(loc):
-    """1 Pune, 2 Mumbai, 3 Sambhajinagar, 4 Remote India, 5 other India."""
+def mode_of(loc, declared=""):
+    """remote / hybrid / onsite / unspecified. Uses the employer's own field first."""
+    d = (declared or "").strip().lower().replace("-", "")
+    if d in ("remote", "hybrid", "onsite"):
+        return d
+    if d in ("flexible", "flex"):
+        return "hybrid"
     s = (loc or "").lower()
-    if any(w in s for w in ("pune", "pimpri", "hinjewadi", "hinjawadi")):
-        return 1
-    if any(w in s for w in ("mumbai", "thane", "powai", "airoli")):
-        return 2
-    if "sambhajinagar" in s or "aurangabad" in s:
-        return 3
-    if "remote" in s:
-        return 4
-    return 5
+    if "remote" in s or "virtual" in s:
+        return "remote"
+    return "unspecified"
 
 
+def city_group(loc, mode):
+    if mode == "remote":
+        return "Remote (India)"
+    s = (loc or "").lower()
+    for name, words in CITY_GROUPS:
+        if any(w in s for w in words):
+            return name
+    return "Other India"
+
+
+def is_multi_city(loc):
+    s = (loc or "").lower()
+    return sum(w in s for w in INDIA_WORDS) >= 3
+
+
+# ---------------------------------------------------------------- classify
+DROP = re.compile(r"pooling|talent community|evergreen", re.I)
+CLINICAL = re.compile(
+    r"clinical|pharmacovigilance|drug safety|biostat|regulatory affairs|medical|\blab\b|"
+    r"research associate", re.I)
+NON_IT = re.compile(
+    r"account executive|\bsales\b|marketing|recruit|talent acqui|human resources|\bhr\b|"
+    r"accountant|accounting|legal|counsel|customer success|business development|"
+    r"supply chain|procurement|content writer|mechanical|civil engineer|chemical|"
+    r"manufacturing|field engineer|program manager|operations manager|product manager|"
+    r"facility|data cent(er|re)|\bdceo\b|\bict design|hardware compute|semiconductor|"
+    r"\btax\b|finance|investigat|offboarding|training and quality|coordinator", re.I)
 IT_YES = re.compile(
     r"software|developer|engineer|devops|\bsre\b|site reliability|data scien|data analy|"
     r"data engineer|analytics|machine learning|\bml\b|\bai\b|genai|cloud|security|cyber|"
@@ -90,27 +140,46 @@ IT_YES = re.compile(
     r"android|\bios\b|mobile|database|\bdba\b|network|sysadmin|system admin|infrastructure|"
     r"it support|technical support|application support|solutions? architect|programmer|"
     r"salesforce|\bsap\b|mainframe|\betl\b|business intelligence|penetration|vulnerab|"
-    r"firmware|embedded|\bsdk\b|\bapi\b|data program|technology",
-    re.I,
-)
-IT_NO = re.compile(
-    r"account executive|\bsales\b|marketing|recruit|talent acqui|human resources|\bhr\b|"
-    r"accountant|accounting|legal|counsel|customer success|business development|"
-    r"supply chain|procurement|content writer|mechanical|civil engineer|chemical|"
-    r"manufacturing|field engineer|pooling|talent community|evergreen",
-    re.I,
-)
+    r"firmware|embedded|\bsdk\b|\bapi\b|systems? (development|engineer|admin)|"
+    r"support engineer|programmer analyst|business analyst", re.I)
+SEC = re.compile(r"security|cyber|\bsoc\b|penetration|vulnerab|threat|\biam\b|identity (and|&) access|appsec|infosec", re.I)
+DATA_RE = re.compile(r"\bdata\b|analytic|machine learning|\bml\b|\bai\b|genai|business intelligence|\bbi\b|scientist|\betl\b", re.I)
+CLOUD = re.compile(r"devops|\bsre\b|site reliability|cloud|infrastructure|network|systems? (admin|engineer|development)|sysadmin|kubernetes|platform engineer", re.I)
+QA_RE = re.compile(r"\bqa\b|quality assurance|\btest|sdet|automation", re.I)
+SUPPORT = re.compile(r"support|helpdesk|help desk|service desk", re.I)
+
+SECTIONS = ["IT / Software", "Data / Analytics / AI", "Cybersecurity",
+            "Cloud / DevOps / Infrastructure", "QA / Testing", "IT Support / Operations",
+            "Clinical / Research", "Non-IT / Other"]
+IT_SECTIONS = set(SECTIONS[:6])
+
 SENIOR = re.compile(
     r"\b(senior|sr\.?|staff|principal|lead|manager|director|vp|vice president|head|"
-    r"architect|distinguished|avp)\b",
-    re.I,
-)
+    r"architect|distinguished|avp)\b", re.I)
 
 
-def is_it(title):
-    return bool(IT_YES.search(title or "")) and not IT_NO.search(title or "")
+def section_of(title):
+    t = title or ""
+    if CLINICAL.search(t):
+        return "Clinical / Research"
+    if NON_IT.search(t):
+        return "Non-IT / Other"
+    if SEC.search(t):
+        return "Cybersecurity"
+    if DATA_RE.search(t):
+        return "Data / Analytics / AI"
+    if CLOUD.search(t):
+        return "Cloud / DevOps / Infrastructure"
+    if QA_RE.search(t):
+        return "QA / Testing"
+    if SUPPORT.search(t) and IT_YES.search(t):
+        return "IT Support / Operations"
+    if IT_YES.search(t):
+        return "IT / Software"
+    return "Non-IT / Other"
 
 
+# ---------------------------------------------------------------- dates, experience
 def to_dt(v):
     if v in (None, ""):
         return None
@@ -153,7 +222,7 @@ def clean(text):
 
 
 def parse_exp(text):
-    """Return (estimated_min_years or None, short hint). Uses the largest 'N years'."""
+    """Return (largest 'N years' figure or None, short hint). Lower bound of ranges."""
     t = clean(text)
     best, hint = None, ""
     for m in re.finditer(
@@ -165,7 +234,10 @@ def parse_exp(text):
             continue
         if best is None or lo > best:
             best = lo
-            hint = t[max(0, m.start() - 25): m.end() + 45].strip()
+            start = max(0, m.start() - 25)
+            if start:  # begin at a word boundary, not mid-word
+                start = t.find(" ", start) + 1 or start
+            hint = t[start: m.end() + 45].strip()
     return best, hint
 
 
@@ -180,13 +252,13 @@ def fit(title, est):
 def cand(**kw):
     c = {"company": "", "title": "", "id": "", "req_id": "", "location": "",
          "posted_dt": None, "apply_url": "", "source": "", "text": "",
-         "token": "", "status": "unchecked"}
+         "token": "", "status": "unchecked", "mode": ""}
     c.update(kw)
     return c
 
 
 # ---------------------------------------------------------------- adapters
-# Each adapter: list_<src>(board) -> [cand];  verify_<src>(cand) -> bool (open?)
+# Each source: list_<src>(board) -> [cand];  verify_<src>(cand) -> bool (open?)
 def list_greenhouse(b):
     _, d = http("https://boards-api.greenhouse.io/v1/boards/%s/jobs" % b["token"])
     out = []
@@ -204,7 +276,7 @@ def verify_greenhouse(c):
     if st != 200 or not d:
         return False
     c["req_id"] = str(d.get("requisition_id") or "")
-    if re.search(r"pooling|evergreen|talent community", c["req_id"] + c["title"], re.I):
+    if DROP.search(c["req_id"] + " " + c["title"]):
         return False
     c["text"] = d.get("content", "")
     c["status"] = "open (ATS verified)"
@@ -218,11 +290,9 @@ def list_lever(b):
         cat = j.get("categories") or {}
         locs = [cat.get("location", "")] + list(cat.get("allLocations") or [])
         loc = ", ".join(sorted({x for x in locs if x}))
-        if j.get("workplaceType") == "remote" and loc:
-            loc += " (remote)"
         out.append(cand(
             company=b["name"], title=j.get("text", ""), id=j.get("id", ""),
-            location=loc, posted_dt=to_dt(j.get("createdAt")),
+            location=loc, posted_dt=to_dt(j.get("createdAt")), mode=j.get("workplaceType", ""),
             apply_url=j.get("hostedUrl", ""), source="lever", token=b["token"],
             text=j.get("descriptionPlain", "")))
     return out
@@ -241,28 +311,29 @@ def verify_lever(c):
 def list_workday(b):
     base = "https://%s/wday/cxs/%s/%s" % (b["host"], b["tenant"], b["site"])
     apply_base = b.get("apply_base") or "https://%s/%s" % (b["host"], b["site"])
-    out, offset = [], 0
-    for page in range(int(b.get("max_pages", 10))):
-        _, d = http(base + "/jobs", {"appliedFacets": {}, "limit": 20, "offset": offset,
-                                     "searchText": b.get("search", "")})
-        posts = (d or {}).get("jobPostings", [])
-        if not posts:
-            break
-        recent = 0
-        for p in posts:
-            a = wd_posted_age(p.get("postedOn", ""))
-            if a is not None and a <= WINDOW:
-                recent += 1
-            path = p.get("externalPath", "")
-            c = cand(company=b["name"], title=p.get("title", ""), id=path.rsplit("_", 1)[-1],
-                     location=p.get("locationsText", ""),
-                     posted_dt=(NOW - timedelta(days=a)) if a is not None else None,
-                     apply_url=apply_base + path, source="workday", token=base + path)
-            out.append(c)
-        if recent == 0 and page >= 1:  # list is newest-first; nothing recent left
-            break
-        offset += 20
-        time.sleep(PAUSE)
+    searches = b.get("searches") or [b.get("search", "")]
+    out, seen = [], set()
+    for text in searches:  # Workday has no date filter and no date sort, so search several keywords
+        offset = 0
+        for _ in range(int(b.get("max_pages", 6))):
+            _, d = http(base + "/jobs", {"appliedFacets": {}, "limit": 20, "offset": offset,
+                                         "searchText": text})
+            posts = (d or {}).get("jobPostings", [])
+            if not posts:
+                break
+            for p in posts:
+                path = p.get("externalPath", "")
+                if not path or path in seen:
+                    continue
+                seen.add(path)
+                a = wd_posted_age(p.get("postedOn", ""))
+                out.append(cand(
+                    company=b["name"], title=p.get("title", ""), id=path.rsplit("_", 1)[-1],
+                    location=p.get("locationsText", ""),
+                    posted_dt=(NOW - timedelta(days=a)) if a is not None else None,
+                    apply_url=apply_base + path, source="workday", token=base + path))
+            offset += 20
+            time.sleep(PAUSE)
     return out
 
 
@@ -275,6 +346,7 @@ def verify_workday(c):
     if sd:
         c["posted_dt"] = sd
     c["req_id"] = str(info.get("jobReqId") or "")
+    c["mode"] = info.get("remoteType", "") or ""
     extra = " ".join([info.get("location", "")] + list(info.get("additionalLocations") or []) +
                      [(info.get("country") or {}).get("descriptor", "")])
     if not is_india(c["location"]) and is_india(extra):
@@ -334,6 +406,7 @@ def list_smartrecruiters(b):
             out.append(cand(
                 company=b["name"], title=j.get("name", ""), id=str(j.get("id", "")),
                 location=", ".join(x for x in (loc.get("city"), loc.get("region"), "India") if x),
+                mode="remote" if loc.get("remote") else ("hybrid" if loc.get("hybrid") else ""),
                 posted_dt=to_dt(j.get("releasedDate")),
                 apply_url="https://jobs.smartrecruiters.com/%s/%s" % (b["company"], j.get("id", "")),
                 source="smartrecruiters", token=b["company"]))
@@ -360,7 +433,8 @@ def list_ashby(b):
             continue
         out.append(cand(
             company=b["name"], title=j.get("title", ""), id=str(j.get("id", "")),
-            location=j.get("location", "") + (" (remote)" if j.get("isRemote") else ""),
+            location=j.get("location", ""),
+            mode=j.get("workplaceType", "") or ("remote" if j.get("isRemote") else ""),
             posted_dt=to_dt(j.get("publishedAt")), apply_url=j.get("jobUrl", ""),
             source="ashby", token=b["token"], text=j.get("descriptionPlain", "")))
     return out
@@ -380,7 +454,6 @@ ADAPTERS = {
     "ashby": (list_ashby, verify_ashby),
 }
 
-WINDOW = 7
 
 # ---------------------------------------------------------------- main
 def board_list(cfg):
@@ -411,7 +484,7 @@ def run(cfg):
         a = age_days(c["posted_dt"])
         if a is not None and a > WINDOW:
             continue
-        if not is_it(c["title"]):
+        if DROP.search(c["title"]):
             continue
         if not is_india(c["location"]) and not re.search(r"\d+\s+locations?", c["location"], re.I):
             continue
@@ -430,9 +503,13 @@ def run(cfg):
         if a is not None and a > WINDOW:  # real date from detail can differ from list
             continue
         est, hint = parse_exp(c["text"])
+        mode = mode_of(c["location"], c["mode"])
+        group = city_group(c["location"], mode)
         jobs.append({
             "company": c["company"], "title": c["title"], "id": c["id"], "req_id": c["req_id"],
-            "location": c["location"], "geo_rank": geo_rank(c["location"]),
+            "section": section_of(c["title"]),
+            "location": c["location"], "work_mode": mode, "multi_city": is_multi_city(c["location"]),
+            "city_group": group, "geo_rank": GROUP_ORDER.index(group) + 1,
             "posted": c["posted_dt"].date().isoformat() if c["posted_dt"] else "",
             "age_days": a, "exp_years_est": est, "exp_hint": hint,
             "fit_0_5": fit(c["title"], est), "status": c["status"],
@@ -440,6 +517,21 @@ def run(cfg):
         })
         time.sleep(PAUSE)
     return jobs, report
+
+
+def collapse(jobs):
+    """Same company + same title (e.g. 17 identical openings) -> one row."""
+    groups = {}
+    for j in jobs:
+        groups.setdefault((j["company"], j["title"].strip().lower()), []).append(j)
+    out = []
+    for g in groups.values():
+        g.sort(key=lambda j: (j["geo_rank"], j["age_days"] if j["age_days"] is not None else 99))
+        best = dict(g[0])
+        best["copies"] = len(g)
+        best["also_in"] = sorted({j["location"] for j in g[1:] if j["location"] != best["location"]})
+        out.append(best)
+    return out
 
 
 def add_history(jobs):
@@ -463,38 +555,100 @@ def add_history(jobs):
 FIT_ORDER = {"yes": 0, "unknown": 1, "no": 2}
 
 
+def render(rows):
+    """Markdown grouped by section, then city."""
+    out = []
+    for sec in SECTIONS:
+        in_sec = [j for j in rows if j["section"] == sec]
+        if not in_sec:
+            continue
+        out += ["## %s (%d)" % (sec, len(in_sec)), ""]
+        for grp in GROUP_ORDER:
+            in_grp = [j for j in in_sec if j["city_group"] == grp]
+            if not in_grp:
+                continue
+            out += ["### %s (%d)" % (grp, len(in_grp)), ""]
+            for j in in_grp:
+                loc = j["location"] + (" [multi-city]" if j["multi_city"] else "")
+                more = " | Also hiring in: %s" % "; ".join(j["also_in"][:6]) if j.get("also_in") else ""
+                out += [
+                    "**%s | %s**" % (j["title"], j["company"]),
+                    "- Location: %s | Work mode: %s%s" % (loc, j["work_mode"], more),
+                    "- Posted: %s (%s days ago) | New today: %s"
+                    % (j["posted"] or "unknown", j["age_days"] if j["age_days"] is not None else "?",
+                       "yes" if j["new_today"] else "no"),
+                    "- Experience: fit %s%s" % (j["fit_0_5"], " | " + j["exp_hint"] if j["exp_hint"] else ""),
+                    "- ID: %s%s | Status: %s" % (j["id"], " / " + j["req_id"] if j["req_id"] else "", j["status"]),
+                    "- Apply: " + j["apply_url"], ""]
+    return out
+
+
+def write_summary(meta, report, jobs):
+    """Shown on the GitHub run page (Actions -> the run -> Summary)."""
+    path = os.environ.get("GITHUB_STEP_SUMMARY")
+    kept = {}
+    for j in jobs:
+        kept[j["company"]] = kept.get(j["company"], 0) + 1
+    L = ["## SERVE job collector run", "",
+         "- Time: %s UTC | Window: %d days" % (meta["generated_utc"], meta["window_days"]),
+         "- Boards read: %d OK, %d failed" % (meta["boards_ok"], len(meta["boards_failed"])),
+         "- Jobs published: **%d** (IT: %d)" % (meta["job_count"], meta["it_job_count"]), "",
+         "| Section | Jobs | Pune | Mumbai | Sambhajinagar | Remote |", "|---|---|---|---|---|---|"]
+    for sec in SECTIONS:
+        r = [j for j in jobs if j["section"] == sec]
+        cnt = lambda g: sum(1 for j in r if j["city_group"] == g)
+        L.append("| %s | %d | %d | %d | %d | %d |" % (sec, len(r), cnt("Pune"), cnt("Mumbai"),
+                 cnt("Chhatrapati Sambhajinagar"), cnt("Remote (India)")))
+    L += ["", "| Board | Listed | Published | Status |", "|---|---|---|---|"]
+    for k, v in report.items():
+        name = k.split(":", 1)[1]
+        L.append("| %s | %s | %d | %s |" % (k, v.get("listed", "-"), kept.get(name, 0),
+                 "OK" if v["ok"] else "FAILED: " + v["error"]))
+    text = "\n".join(L)
+    print(text)
+    if path:
+        with open(path, "a") as f:
+            f.write(text + "\n")
+
+
 def write_outputs(jobs, report):
     os.makedirs(DATA, exist_ok=True)
+    jobs = collapse(jobs)
     add_history(jobs)
-    jobs.sort(key=lambda j: (j["geo_rank"], FIT_ORDER[j["fit_0_5"]], j["age_days"] if j["age_days"] is not None else 99))
+    jobs.sort(key=lambda j: (SECTIONS.index(j["section"]), j["geo_rank"],
+                             FIT_ORDER[j["fit_0_5"]], j["age_days"] if j["age_days"] is not None else 99))
     ok = [k for k, v in report.items() if v["ok"]]
     bad = {k: v["error"] for k, v in report.items() if not v["ok"]}
+    it = [j for j in jobs if j["section"] in IT_SECTIONS]
     meta = {"generated_utc": NOW.strftime("%Y-%m-%d %H:%M"), "window_days": WINDOW,
-            "boards_ok": len(ok), "boards_failed": bad, "job_count": len(jobs)}
-    with open(os.path.join(DATA, "it_jobs_latest.json"), "w") as f:
+            "boards_ok": len(ok), "boards_failed": bad, "job_count": len(jobs),
+            "it_job_count": len(it)}
+    with open(os.path.join(DATA, "jobs_latest.json"), "w") as f:
         json.dump({"meta": meta, "jobs": jobs}, f, indent=1, ensure_ascii=False)
     with open(os.path.join(DATA, "run_report.json"), "w") as f:
         json.dump(report, f, indent=1)
 
-    lines = ["# SERVE IT jobs, collected %s UTC" % meta["generated_utc"],
-             "Window: last %d days. Boards read OK: %d. Boards failed: %d. Jobs: %d."
-             % (WINDOW, len(ok), len(bad), len(jobs)),
-             "Geography rank: 1 Pune, 2 Mumbai, 3 Sambhajinagar, 4 Remote India, 5 other India.",
-             "fit_0_5: yes = asks 5 years or less, unknown = no years found, no = senior or over 5 years.", ""]
+    legend = ["Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), "
+              "Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.",
+              "Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). "
+              "[multi-city] means the job is open in 3 or more cities.",
+              "fit_0_5: yes = asks 5 years or less, unknown = no years found, no = senior or over 5 years.", ""]
+    head = ["# SERVE jobs, collected %s UTC" % meta["generated_utc"],
+            "Window: last %d days. Boards read OK: %d. Boards failed: %d. Jobs: %d (IT: %d)."
+            % (WINDOW, len(ok), len(bad), len(jobs), len(it))]
     if bad:
-        lines.append("Failed boards: " + "; ".join("%s (%s)" % (k, v) for k, v in bad.items()))
-        lines.append("")
-    for i, j in enumerate(jobs, 1):
-        lines += [
-            "### %d. %s | %s" % (i, j["title"], j["company"]),
-            "- Location: %s (rank %d) | Posted: %s (%s days ago) | New today: %s"
-            % (j["location"], j["geo_rank"], j["posted"] or "unknown",
-               j["age_days"] if j["age_days"] is not None else "?", "yes" if j["new_today"] else "no"),
-            "- Experience: fit %s%s" % (j["fit_0_5"], " | " + j["exp_hint"] if j["exp_hint"] else ""),
-            "- ID: %s%s | Status: %s" % (j["id"], " / " + j["req_id"] if j["req_id"] else "", j["status"]),
-            "- Apply: " + j["apply_url"], ""]
-    with open(os.path.join(DATA, "it_jobs_latest.md"), "w") as f:
-        f.write("\n".join(lines))
+        head.append("Failed boards: " + "; ".join("%s (%s)" % (k, v) for k, v in bad.items()))
+    head.append("")
+    with open(os.path.join(DATA, "jobs_latest.md"), "w") as f:
+        f.write("\n".join(head + legend + render(jobs)))
+
+    # short file for chats: only IT jobs a 0-5 year candidate can apply to
+    short = [j for j in it if j["fit_0_5"] in ("yes", "unknown")]
+    shead = head[:1] + ["Shortlist: IT sections only, fit_0_5 = yes or unknown. "
+                        "Jobs: %d. Full list: jobs_latest.md" % len(short), ""]
+    with open(os.path.join(DATA, "it_jobs_shortlist.md"), "w") as f:
+        f.write("\n".join(shead + legend + render(short)))
+    write_summary(meta, report, jobs)
     return meta
 
 
@@ -509,7 +663,6 @@ def main():
         cfg["window_days"] = a.days
     jobs, report = run(cfg)
     meta = write_outputs(jobs, report)
-    print(json.dumps(meta, indent=1))
     if meta["boards_ok"] == 0:  # nothing worked: fail the run so GitHub emails you
         sys.exit("No board could be read. Check run_report.json")
 
