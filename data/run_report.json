@@ -13,11 +13,11 @@
  },
  "greenhouse:Rubrik": {
   "ok": true,
-  "listed": 136
+  "listed": 135
  },
  "greenhouse:Elastic": {
   "ok": true,
-  "listed": 381
+  "listed": 383
  },
  "greenhouse:Druva": {
   "ok": true,
@@ -25,7 +25,7 @@
  },
  "greenhouse:Zscaler": {
   "ok": true,
-  "listed": 368
+  "listed": 367
  },
  "greenhouse:PubMatic": {
   "ok": true,
@@ -37,7 +37,7 @@
  },
  "greenhouse:Razorpay": {
   "ok": true,
-  "listed": 28
+  "listed": 27
  },
  "greenhouse:Graviton Research Capital": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "lever:Coupa": {
   "ok": true,
-  "listed": 34
+  "listed": 33
  },
  "lever:Saviynt": {
   "ok": true,
@@ -81,14 +81,34 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 160
+  "listed": 498
  },
- "workday:Labcorp": {
+ "workday:Mastercard": {
   "ok": true,
-  "listed": 100
+  "listed": 117
+ },
+ "workday:Autodesk": {
+  "ok": true,
+  "listed": 41
+ },
+ "workday:NVIDIA": {
+  "ok": true,
+  "listed": 152
+ },
+ "workday:Broadcom": {
+  "ok": true,
+  "listed": 4
+ },
+ "workday:BMC Software": {
+  "ok": true,
+  "listed": 0
+ },
+ "workday:Fiserv": {
+  "ok": true,
+  "listed": 15
  },
  "amazon:Amazon": {
   "ok": true,
-  "listed": 339
+  "listed": 336
  }
 }
