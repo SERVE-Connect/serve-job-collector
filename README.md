@@ -1,12 +1,15 @@
 # SERVE daily job collector
 
-Runs every day at 08:00 IST on GitHub Actions. Reads company ATS job boards, keeps India IT jobs
+Runs every day at 08:00 IST on GitHub Actions. Reads company ATS job boards, keeps India jobs
 posted in the last 7 days, checks each is still open, and writes:
 
-- `data/it_jobs_latest.md`   easy to read, give this link to the chat
-- `data/it_jobs_latest.json` same data for scripts
-- `data/run_report.json`     which boards worked and which failed
-- `data/seen.json`           job IDs already seen (marks `New today`)
+- `data/it_jobs_shortlist.md` IT sections only, for 0-5 years, give this link to the chat
+- `data/jobs_latest.md`       every job, grouped by section (IT, Data, Security, Cloud, QA, Support, Clinical, Non-IT) then city
+- `data/jobs_latest.json`     same data for scripts (fields: section, city_group, work_mode, multi_city, fit_0_5)
+- `data/run_report.json`      which boards worked and which failed
+- `data/seen.json`            job IDs already seen (marks `New today`)
+
+The run page on GitHub (Actions -> the run -> Summary) shows a table of boards and counts.
 
 ## Add a company
 Edit `companies.json`.
