@@ -1,0 +1,37 @@
+{
+  "window_days": 7,
+  "greenhouse": [
+    {"name": "AlphaSense", "token": "alphasenseindia"},
+    {"name": "Zinnia", "token": "zinnia"},
+    {"name": "Meltplan", "token": "meltplan"},
+    {"name": "Rubrik", "token": "rubrik"},
+    {"name": "Elastic", "token": "elastic"},
+    {"name": "Druva", "token": "druva"},
+    {"name": "Zscaler", "token": "zscaler"},
+    {"name": "PubMatic", "token": "pubmatic"},
+    {"name": "DoorDash India", "token": "doordashindia"},
+    {"name": "Razorpay", "token": "razorpaysoftwareprivatelimited"},
+    {"name": "Graviton Research Capital", "token": "gravitonresearchcapital"}
+  ],
+  "lever": [
+    {"name": "JumpCloud", "token": "jumpcloud"},
+    {"name": "Termgrid", "token": "termgrid"},
+    {"name": "Smart Working Solutions", "token": "smart-working-solutions"},
+    {"name": "Meesho", "token": "meesho"},
+    {"name": "Paytm", "token": "paytm"},
+    {"name": "Coupa", "token": "coupa"},
+    {"name": "Saviynt", "token": "saviynt"},
+    {"name": "Mindtickle", "token": "mindtickle"},
+    {"name": "CRED", "token": "cred"}
+  ],
+  "workday": [
+    {"name": "Accenture", "host": "accenture.wd103.myworkdayjobs.com", "tenant": "accenture", "site": "AccentureCareers", "search": "India", "max_pages": 15},
+    {"name": "Labcorp", "host": "labcorp.wd1.myworkdayjobs.com", "tenant": "labcorp", "site": "External", "search": "India", "max_pages": 8}
+  ],
+  "smartrecruiters": [],
+  "ashby": [],
+  "amazon": {
+    "queries": ["software engineer", "data", "machine learning", "security", "cloud", "devops", "quality assurance", "technical support", "business intelligence"],
+    "max_pages": 3
+  }
+}
