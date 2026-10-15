@@ -25,8 +25,14 @@
     {"name": "CRED", "token": "cred"}
   ],
   "workday": [
-    {"name": "Accenture", "host": "accenture.wd103.myworkdayjobs.com", "tenant": "accenture", "site": "AccentureCareers", "search": "India", "max_pages": 15},
-    {"name": "Labcorp", "host": "labcorp.wd1.myworkdayjobs.com", "tenant": "labcorp", "site": "External", "search": "India", "max_pages": 8}
+    {"name": "Accenture", "host": "accenture.wd103.myworkdayjobs.com", "tenant": "accenture", "site": "AccentureCareers", "max_pages": 4,
+     "searches": ["Pune", "Mumbai", "Software Engineer India", "Data India", "Cloud India", "Security India", "DevOps India", "Quality India"]},
+    {"name": "Mastercard", "note": "unverified, check run_report", "host": "mastercard.wd1.myworkdayjobs.com", "tenant": "mastercard", "site": "CorporateCareers", "max_pages": 5, "searches": ["Pune", "Mumbai"]},
+    {"name": "Autodesk", "note": "unverified, check run_report", "host": "autodesk.wd1.myworkdayjobs.com", "tenant": "autodesk", "site": "Ext", "max_pages": 5, "searches": ["Pune", "India"]},
+    {"name": "NVIDIA", "note": "unverified, check run_report", "host": "nvidia.wd5.myworkdayjobs.com", "tenant": "nvidia", "site": "NVIDIAExternalCareerSite", "max_pages": 5, "searches": ["Pune", "India"]},
+    {"name": "Broadcom", "note": "unverified, check run_report", "host": "broadcom.wd1.myworkdayjobs.com", "tenant": "broadcom", "site": "External_Career", "max_pages": 5, "searches": ["Pune", "India"]},
+    {"name": "BMC Software", "note": "unverified, check run_report", "host": "bmc.wd1.myworkdayjobs.com", "tenant": "bmc", "site": "BMC", "max_pages": 5, "searches": ["Pune"]},
+    {"name": "Fiserv", "note": "unverified, check run_report", "host": "fiserv.wd5.myworkdayjobs.com", "tenant": "fiserv", "site": "EXT", "max_pages": 5, "searches": ["Pune", "Mumbai"]}
   ],
   "smartrecruiters": [],
   "ashby": [],
