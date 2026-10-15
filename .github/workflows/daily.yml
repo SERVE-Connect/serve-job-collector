@@ -1,4 +1,4 @@
-name: Daily IT job collector
+name: Daily job collector
 
 on:
   schedule:
