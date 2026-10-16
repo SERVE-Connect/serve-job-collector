@@ -1,11 +1,11 @@
 {
  "greenhouse:AlphaSense": {
   "ok": true,
-  "listed": 29
+  "listed": 32
  },
  "greenhouse:Zinnia": {
   "ok": true,
-  "listed": 18
+  "listed": 19
  },
  "greenhouse:Meltplan": {
   "ok": true,
@@ -13,19 +13,19 @@
  },
  "greenhouse:Rubrik": {
   "ok": true,
-  "listed": 135
+  "listed": 132
  },
  "greenhouse:Elastic": {
   "ok": true,
-  "listed": 383
+  "listed": 380
  },
  "greenhouse:Druva": {
   "ok": true,
-  "listed": 33
+  "listed": 34
  },
  "greenhouse:Zscaler": {
   "ok": true,
-  "listed": 367
+  "listed": 366
  },
  "greenhouse:PubMatic": {
   "ok": true,
@@ -37,7 +37,7 @@
  },
  "greenhouse:Razorpay": {
   "ok": true,
-  "listed": 27
+  "listed": 26
  },
  "greenhouse:Graviton Research Capital": {
   "ok": true,
@@ -45,7 +45,7 @@
  },
  "lever:JumpCloud": {
   "ok": true,
-  "listed": 31
+  "listed": 33
  },
  "lever:Termgrid": {
   "ok": true,
@@ -57,19 +57,19 @@
  },
  "lever:Meesho": {
   "ok": true,
-  "listed": 60
+  "listed": 59
  },
  "lever:Paytm": {
   "ok": true,
-  "listed": 180
+  "listed": 181
  },
  "lever:Coupa": {
   "ok": true,
-  "listed": 33
+  "listed": 34
  },
  "lever:Saviynt": {
   "ok": true,
-  "listed": 69
+  "listed": 68
  },
  "lever:Mindtickle": {
   "ok": true,
@@ -81,11 +81,11 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 498
+  "listed": 541
  },
  "workday:Mastercard": {
   "ok": true,
-  "listed": 117
+  "listed": 116
  },
  "workday:Autodesk": {
   "ok": true,
@@ -93,7 +93,7 @@
  },
  "workday:NVIDIA": {
   "ok": true,
-  "listed": 152
+  "listed": 151
  },
  "workday:Broadcom": {
   "ok": true,
@@ -105,10 +105,10 @@
  },
  "workday:Fiserv": {
   "ok": true,
-  "listed": 15
+  "listed": 13
  },
  "amazon:Amazon": {
   "ok": true,
-  "listed": 336
+  "listed": 330
  }
 }
