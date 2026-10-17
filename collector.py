@@ -10,12 +10,14 @@ sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and w
   data/it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
   data/sent_ids.txt            you add what you posted; lines are cleared after 7 days
   data/jobs_latest.json        same data for scripts
+  data/jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
   data/run_report.json         which boards worked
   data/seen.json               job IDs seen before
 
 Standard library only. Run:  python collector.py [--days 7]
 """
 import argparse
+import csv
 import html
 import json
 import os
@@ -660,6 +662,26 @@ def choose(jobs):
     return picks
 
 
+CSV_COLUMNS = ["score_rank", "score", "section", "city_group", "geo_rank", "posted", "age_days",
+               "title", "company", "location", "work_mode", "multi_city", "fit_0_5", "exp_years_est",
+               "exp_hint", "bulletin_pick", "new_today", "already_sent", "id", "req_id", "status",
+               "apply_url", "source"]
+
+
+def write_csv(jobs, picks):
+    """One row per job. utf-8-sig so Excel opens it correctly; Google Sheets reads it too."""
+    picked = {(p["company"], str(p["id"])): n for n, p in enumerate(picks, 1)}
+    ranked = sorted(jobs, key=lambda j: -j["score"])
+    rank = {(j["company"], str(j["id"])): n for n, j in enumerate(ranked, 1)}
+    with open(os.path.join(DATA, "jobs_latest.csv"), "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.writer(f)
+        w.writerow(CSV_COLUMNS)
+        for j in jobs:
+            k = (j["company"], str(j["id"]))
+            row = dict(j, section=dsec(j), score_rank=rank[k], bulletin_pick=picked.get(k, ""))
+            w.writerow([row.get(c, "") if row.get(c) is not None else "" for c in CSV_COLUMNS])
+
+
 def pick_markdown(picks, meta):
     fresh = sum(1 for p in picks if p["tier"] == "fresh")
     out = ["# SERVE bulletin picks, %s UTC" % meta["generated_utc"],
@@ -780,6 +802,7 @@ def write_outputs(jobs, report):
     picks = choose(jobs)
     with open(os.path.join(DATA, "bulletin_pick.md"), "w") as f:
         f.write("\n".join(pick_markdown(picks, meta)))
+    write_csv(jobs, picks)
     meta["picked"] = len(picks)
     write_summary(meta, report, jobs)
     return meta
