@@ -6,6 +6,7 @@ posted in the last 7 days, checks each is still open, and writes:
 - `data/bulletin_pick.md`      today's best 8-10 IT jobs for 0-5 years, give this link to the chat
 - `data/it_jobs_shortlist.md`  every IT job for 0-5 years, by section then city
 - `data/jobs_latest.md`        everything, including "Senior IT roles (5+ yrs)", Clinical and Non-IT
+- `data/jobs_latest.csv`       the same table for Google Sheets or Excel: sort and filter by score_rank, posted, section, city_group, company, fit_0_5
 - `data/jobs_latest.json`      same data for scripts (fields: section, city_group, work_mode, score, fit_0_5)
 - `data/sent_ids.txt`          you fill this in (see below)
 - `data/run_report.json`       which boards worked and which failed
