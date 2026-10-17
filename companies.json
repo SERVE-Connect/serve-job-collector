@@ -11,7 +11,22 @@
     {"name": "PubMatic", "token": "pubmatic"},
     {"name": "DoorDash India", "token": "doordashindia"},
     {"name": "Razorpay", "token": "razorpaysoftwareprivatelimited"},
-    {"name": "Graviton Research Capital", "token": "gravitonresearchcapital"}
+    {"name": "Graviton Research Capital", "token": "gravitonresearchcapital"},
+    {"name": "Databricks", "token": "databricks", "note": "unverified, check run_report"},
+    {"name": "Cloudflare", "token": "cloudflare", "note": "unverified, check run_report"},
+    {"name": "Stripe", "token": "stripe", "note": "unverified, check run_report"},
+    {"name": "Twilio", "token": "twilio", "note": "unverified, check run_report"},
+    {"name": "Okta", "token": "okta", "note": "unverified, check run_report"},
+    {"name": "Datadog", "token": "datadog", "note": "unverified, check run_report"},
+    {"name": "MongoDB", "token": "mongodb", "note": "unverified, check run_report"},
+    {"name": "Postman", "token": "postman", "note": "unverified, check run_report"},
+    {"name": "BrowserStack", "token": "browserstack", "note": "unverified, check run_report"},
+    {"name": "Sprinklr", "token": "sprinklr", "note": "unverified, check run_report"},
+    {"name": "ThoughtSpot", "token": "thoughtspot", "note": "unverified, check run_report"},
+    {"name": "Netskope", "token": "netskope", "note": "unverified, check run_report"},
+    {"name": "CleverTap", "token": "clevertap", "note": "unverified, check run_report"},
+    {"name": "Icertis", "token": "icertis", "note": "unverified, check run_report"},
+    {"name": "PagerDuty", "token": "pagerduty", "note": "unverified, check run_report"}
   ],
   "lever": [
     {"name": "JumpCloud", "token": "jumpcloud"},
@@ -22,22 +37,40 @@
     {"name": "Coupa", "token": "coupa"},
     {"name": "Saviynt", "token": "saviynt"},
     {"name": "Mindtickle", "token": "mindtickle"},
-    {"name": "CRED", "token": "cred"}
+    {"name": "CRED", "token": "cred"},
+    {"name": "Groww", "token": "groww", "note": "unverified, check run_report"},
+    {"name": "Whatfix", "token": "whatfix", "note": "unverified, check run_report"},
+    {"name": "Palantir", "token": "palantir", "note": "unverified, check run_report"},
+    {"name": "PayU", "token": "payu", "note": "unverified, check run_report"},
+    {"name": "Nium", "token": "nium", "note": "unverified, check run_report"}
   ],
   "workday": [
-    {"name": "Accenture", "host": "accenture.wd103.myworkdayjobs.com", "tenant": "accenture", "site": "AccentureCareers", "max_pages": 4,
-     "searches": ["Pune", "Mumbai", "Software Engineer India", "Data India", "Cloud India", "Security India", "DevOps India", "Quality India"]},
+    {"name": "Accenture", "host": "accenture.wd103.myworkdayjobs.com", "tenant": "accenture", "site": "AccentureCareers", "max_pages": 4, "searches": ["Pune", "Mumbai", "Software Engineer India", "Data India", "Cloud India", "Security India", "DevOps India", "Quality India"]},
     {"name": "Mastercard", "note": "unverified, check run_report", "host": "mastercard.wd1.myworkdayjobs.com", "tenant": "mastercard", "site": "CorporateCareers", "max_pages": 5, "searches": ["Pune", "Mumbai"]},
     {"name": "Autodesk", "note": "unverified, check run_report", "host": "autodesk.wd1.myworkdayjobs.com", "tenant": "autodesk", "site": "Ext", "max_pages": 5, "searches": ["Pune", "India"]},
     {"name": "NVIDIA", "note": "unverified, check run_report", "host": "nvidia.wd5.myworkdayjobs.com", "tenant": "nvidia", "site": "NVIDIAExternalCareerSite", "max_pages": 5, "searches": ["Pune", "India"]},
     {"name": "Broadcom", "note": "unverified, check run_report", "host": "broadcom.wd1.myworkdayjobs.com", "tenant": "broadcom", "site": "External_Career", "max_pages": 5, "searches": ["Pune", "India"]},
     {"name": "BMC Software", "note": "unverified, check run_report", "host": "bmc.wd1.myworkdayjobs.com", "tenant": "bmc", "site": "BMC", "max_pages": 5, "searches": ["Pune"]},
-    {"name": "Fiserv", "note": "unverified, check run_report", "host": "fiserv.wd5.myworkdayjobs.com", "tenant": "fiserv", "site": "EXT", "max_pages": 5, "searches": ["Pune", "Mumbai"]}
+    {"name": "Fiserv", "note": "unverified, check run_report", "host": "fiserv.wd5.myworkdayjobs.com", "tenant": "fiserv", "site": "EXT", "max_pages": 5, "searches": ["Pune", "Mumbai"]},
+    {"name": "Salesforce", "note": "unverified, check run_report", "host": "salesforce.wd12.myworkdayjobs.com", "tenant": "salesforce", "site": "External_Career_Site", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Adobe", "note": "unverified, check run_report", "host": "adobe.wd5.myworkdayjobs.com", "tenant": "adobe", "site": "external_experienced", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Dell", "note": "unverified, check run_report", "host": "dell.wd1.myworkdayjobs.com", "tenant": "dell", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "HP", "note": "unverified, check run_report", "host": "hp.wd5.myworkdayjobs.com", "tenant": "hp", "site": "ExternalCareerSite", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Wells Fargo", "note": "unverified, check run_report", "host": "wf.wd1.myworkdayjobs.com", "tenant": "wf", "site": "WellsFargoJobs", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Barclays", "note": "unverified, check run_report", "host": "barclays.wd3.myworkdayjobs.com", "tenant": "barclays", "site": "External_Career_Site_Barclays", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Citi", "note": "unverified, check run_report", "host": "citi.wd5.myworkdayjobs.com", "tenant": "citi", "site": "2", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Capital One", "note": "unverified, check run_report", "host": "capitalone.wd12.myworkdayjobs.com", "tenant": "capitalone", "site": "Capital_One", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Intel", "note": "unverified, check run_report", "host": "intel.wd1.myworkdayjobs.com", "tenant": "intel", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Qualcomm", "note": "unverified, check run_report", "host": "qualcomm.wd12.myworkdayjobs.com", "tenant": "qualcomm", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Micron", "note": "unverified, check run_report", "host": "micron.wd1.myworkdayjobs.com", "tenant": "micron", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Honeywell", "note": "unverified, check run_report", "host": "honeywell.wd5.myworkdayjobs.com", "tenant": "honeywell", "site": "Honeywell", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "PayPal", "note": "unverified, check run_report", "host": "paypal.wd1.myworkdayjobs.com", "tenant": "paypal", "site": "jobs", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Workday", "note": "unverified, check run_report", "host": "workday.wd5.myworkdayjobs.com", "tenant": "workday", "site": "Workday", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]}
   ],
-  "smartrecruiters": [],
+  "smartrecruiters": [
+    {"name": "Bosch", "company": "BoschGroup", "note": "unverified, check run_report"},
+    {"name": "ServiceNow", "company": "ServiceNow", "note": "unverified, check run_report"}
+  ],
   "ashby": [],
-  "amazon": {
-    "queries": ["software engineer", "data", "machine learning", "security", "cloud", "devops", "quality assurance", "technical support", "business intelligence"],
-    "max_pages": 3
-  }
+  "amazon": {"queries": ["software engineer", "data", "machine learning", "security", "cloud", "devops", "quality assurance", "technical support", "business intelligence"], "max_pages": 3}
 }
