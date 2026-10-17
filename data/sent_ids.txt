@@ -1,3 +1,1 @@
-# One line per bulletin: the date, then the job IDs you posted. Example:
-# 2026-10-15 10579652 R-293119 5261571007
-# Lines older than 7 days are removed automatically by the daily run.
+2026-10-17 10581459 744000155905259 10581357 744000155907509 5261571007 8200625 8245230
