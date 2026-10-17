@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-"""SERVE daily job collector (v3).
+"""SERVE daily job collector (v4).
 
 Reads public ATS job boards listed in companies.json, keeps India jobs posted within
 the last N days, checks each one is still open, estimates the experience asked for,
 sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and writes:
 
   data/jobs_latest.md          every job, by section then city
-  data/it_jobs_shortlist.md    IT sections only, for 0-5 years (fit yes / unknown)
+  data/bulletin_pick.md        today's best 8-10 IT jobs for 0-5 years (give this to the chat)
+  data/it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
+  data/sent_ids.txt            you add what you posted; lines are cleared after 7 days
   data/jobs_latest.json        same data for scripts
   data/run_report.json         which boards worked
   data/seen.json               job IDs seen before
@@ -130,7 +132,7 @@ NON_IT = re.compile(
     r"accountant|accounting|legal|counsel|customer success|business development|"
     r"supply chain|procurement|content writer|mechanical|civil engineer|chemical|"
     r"manufacturing|field engineer|program manager|operations manager|product manager|"
-    r"facility|data cent(er|re)|\bdceo\b|\bict design|hardware compute|semiconductor|"
+    r"facility|data cent(er|re)|\bdceo\b|\bict design|hardware|\bdft\b|\basic\b|semiconductor|telecom operations|multi-?lingual|"
     r"\btax\b|finance|investigat|offboarding|training and quality|coordinator", re.I)
 IT_YES = re.compile(
     r"software|developer|engineer|devops|\bsre\b|site reliability|data scien|data analy|"
@@ -152,6 +154,13 @@ SECTIONS = ["IT / Software", "Data / Analytics / AI", "Cybersecurity",
             "Cloud / DevOps / Infrastructure", "QA / Testing", "IT Support / Operations",
             "Clinical / Research", "Non-IT / Other"]
 IT_SECTIONS = set(SECTIONS[:6])
+SENIOR_SEC = "Senior IT roles (5+ yrs)"
+DISPLAY = SECTIONS[:6] + [SENIOR_SEC] + SECTIONS[6:]
+
+
+def dsec(j):
+    """Section shown in the files: IT jobs asking 5+ years or with a senior title get their own section."""
+    return SENIOR_SEC if j["section"] in IT_SECTIONS and j["fit_0_5"] == "no" else j["section"]
 
 SENIOR = re.compile(
     r"\b(senior|sr\.?|staff|principal|lead|manager|director|vp|vice president|head|"
@@ -201,7 +210,7 @@ def to_dt(v):
 def age_days(dt):
     if dt is None:
         return None
-    return max(0, (NOW - dt).days)
+    return max(0, (NOW.date() - dt.date()).days)  # calendar days, so "yesterday" is always 1
 
 
 def wd_posted_age(text):
@@ -232,6 +241,10 @@ def parse_exp(text):
         lo = int(m.group(1))
         if lo > 15:
             continue
+        hi = int(m.group(2)) if m.group(2) else None
+        plus = "+" in m.group(0) or "plus" in m.group(0).lower()
+        if lo >= 5 and (plus or (hi and hi > 5)):
+            lo += 0.5  # "5+" or "5-8" means more than 5 years, so not for 0-5
         if best is None or lo > best:
             best = lo
             start = max(0, m.start() - 25)
@@ -246,7 +259,7 @@ def fit(title, est):
         return "no"
     if est is None:
         return "unknown"
-    return "yes" if est <= 5 else "no"
+    return "yes" if est <= 4 else "no"  # "5+ years" and "5 to 8 years" both mean 5 or more
 
 
 def cand(**kw):
@@ -546,7 +559,7 @@ def add_history(jobs):
         k = "%s|%s" % (j["company"], j["id"])
         j["first_seen"] = seen.setdefault(k, today)
         j["new_today"] = j["first_seen"] == today
-    cutoff = (NOW - timedelta(days=90)).date().isoformat()
+    cutoff = (NOW - timedelta(days=8)).date().isoformat()
     seen = {k: v for k, v in seen.items() if v >= cutoff}
     with open(path, "w") as f:
         json.dump(seen, f, indent=0, sort_keys=True)
@@ -554,15 +567,128 @@ def add_history(jobs):
 
 FIT_ORDER = {"yes": 0, "unknown": 1, "no": 2}
 
+# ---------------------------------------------------------------- picking the best jobs
+TARGET, MINIMUM = 10, 8
+LOC_PTS = {"Pune": 25, "Mumbai": 24, "Chhatrapati Sambhajinagar": 24, "Remote (India)": 20,
+           "Delhi NCR / Haryana": 14, "Chennai": 13, "Kolkata": 12, "Hyderabad": 12,
+           "Ahmedabad": 12, "Bangalore": 11, "Other India": 8}
+WEAK = re.compile(r"hardware|firmware|embedded|telecom|applied scientist|research scientist|"
+                  r"ml data|data operations|operations associate", re.I)
+ENTRY = re.compile(r"\b(associate|junior|jr|graduate|trainee|analyst|i|ii|1|2)\b", re.I)
+SENT = os.path.join(DATA, "sent_ids.txt")
+SENT_HEAD = ["# One line per bulletin: the date, then the job IDs you posted. Example:",
+             "# 2026-10-15 10579652 R-293119 5261571007",
+             "# Lines older than 7 days are removed automatically by the daily run."]
 
-def render(rows):
+
+def score(j):
+    """0-100. Fit 30, location 25, freshness 15, role 15, verification 10, completeness 5."""
+    est = j["exp_years_est"]
+    f = 15 if est is None else 30 if est <= 2 else 24 if est <= 3 else 16 if est <= 4 else 10
+    loc = LOC_PTS.get(j["city_group"], 8)
+    fresh = max(0, 15 - 3 * (j["age_days"] or 0))
+    ver = 10 if "ATS verified" in j["status"] else 6 if "live search" in j["status"] else 3
+    t = j["title"]
+    rel = 4 if WEAK.search(t) else 15 if ENTRY.search(t) else 10
+    comp = (2 if j["apply_url"] else 0) + (2 if est is not None else 0) + (1 if j["work_mode"] != "unspecified" else 0)
+    return f + loc + fresh + ver + rel + comp
+
+
+def load_sent():
+    """Read data/sent_ids.txt, drop lines older than 7 days, return the set of IDs."""
+    ids, keep = set(), []
+    try:
+        with open(SENT) as f:
+            lines = f.read().splitlines()
+    except OSError:
+        lines = list(SENT_HEAD)
+    for ln in lines:
+        parts = ln.split()
+        try:
+            day = datetime.strptime(parts[0], "%Y-%m-%d").date()
+        except (ValueError, IndexError):
+            keep.append(ln)  # comment or blank
+            continue
+        if (NOW.date() - day).days <= 7:
+            keep.append(ln)
+            ids.update(parts[1:])
+    os.makedirs(DATA, exist_ok=True)
+    with open(SENT, "w") as f:
+        f.write("\n".join(keep) + "\n")
+    return ids
+
+
+def eligible(jobs, lo, hi):
+    return sorted((j for j in jobs if j["section"] in IT_SECTIONS and j["fit_0_5"] in ("yes", "unknown")
+                   and not j["already_sent"] and j["age_days"] is not None and lo <= j["age_days"] <= hi),
+                  key=lambda j: -j["score"])
+
+
+def choose(jobs):
+    """Best fresh jobs for the bulletin.
+    1. Today + yesterday, best job per company.
+    2. Still under MINIMUM: a 2nd job from a company, for at most 2 companies.
+    3. Still under MINIMUM: same two steps on days 2-7 (fallback window).
+    Returns the picks, each tagged with tier ('fresh' / 'fallback') and extra ('' / 'second job')."""
+    picks, companies, doubled = [], set(), set()
+
+    def firsts(pool, tier):
+        for j in pool:
+            if len(picks) >= TARGET:
+                return
+            if j["company"] not in companies:
+                companies.add(j["company"])
+                picks.append(dict(j, tier=tier, extra=""))
+
+    def seconds(pool, tier):
+        for j in pool:
+            if len(picks) >= MINIMUM or len(doubled) >= 2:
+                return
+            if j["company"] in companies and j["company"] not in doubled and \
+               not any(p["id"] == j["id"] and p["company"] == j["company"] for p in picks):
+                doubled.add(j["company"])
+                picks.append(dict(j, tier=tier, extra="second job"))
+
+    fresh, older = eligible(jobs, 0, 1), eligible(jobs, 2, WINDOW)
+    firsts(fresh, "fresh")
+    if len(picks) < MINIMUM:
+        seconds(fresh, "fresh")
+    if len(picks) < MINIMUM:
+        firsts([j for j in older], "fallback")
+    if len(picks) < MINIMUM:
+        seconds(older, "fallback")
+    return picks
+
+
+def pick_markdown(picks, meta):
+    fresh = sum(1 for p in picks if p["tier"] == "fresh")
+    out = ["# SERVE bulletin picks, %s UTC" % meta["generated_utc"],
+           "%d jobs: %d from today/yesterday, %d from the 7-day fallback. One job per company; "
+           "a second job only when short (max 2 companies). Already-sent jobs are skipped."
+           % (len(picks), fresh, len(picks) - fresh), ""]
+    for n, p in enumerate(picks, 1):
+        out += ["%d. **%s | %s**" % (n, p["title"], p["company"]),
+                "   - %s | Work mode: %s | Posted: %s (%s days ago) | %s"
+                % (p["location"], p["work_mode"], p["posted"], p["age_days"],
+                   "fresh" if p["tier"] == "fresh" else "fallback (older than yesterday)"),
+                "   - Experience: fit %s%s | Score %s%s" % (
+                    p["fit_0_5"], " | " + p["exp_hint"] if p["exp_hint"] else "", p["score"],
+                    " | " + p["extra"] if p["extra"] else ""),
+                "   - ID: %s | %s" % (p["id"], p["status"]),
+                "   - Apply: " + p["apply_url"], ""]
+    out += ["After you post, paste this line into data/sent_ids.txt:", "",
+            "```", "%s %s" % (NOW.date().isoformat(), " ".join(str(p["id"]) for p in picks)), "```", ""]
+    return out
+
+
+def render(rows, tag=""):
     """Markdown grouped by section, then city."""
     out = []
-    for sec in SECTIONS:
-        in_sec = [j for j in rows if j["section"] == sec]
+    for sec in DISPLAY:
+        in_sec = [j for j in rows if dsec(j) == sec]
         if not in_sec:
             continue
-        out += ["## %s (%d)" % (sec, len(in_sec)), ""]
+        out += ["## %s%s (%d)" % (tag, sec, len(in_sec)), ""]
         for grp in GROUP_ORDER:
             in_grp = [j for j in in_sec if j["city_group"] == grp]
             if not in_grp:
@@ -576,8 +702,8 @@ def render(rows):
                     "- Location: %s | Work mode: %s%s" % (loc, j["work_mode"], more),
                     "- Posted: %s (%s days ago) | New today: %s"
                     % (j["posted"] or "unknown", j["age_days"] if j["age_days"] is not None else "?",
-                       "yes" if j["new_today"] else "no"),
-                    "- Experience: fit %s%s" % (j["fit_0_5"], " | " + j["exp_hint"] if j["exp_hint"] else ""),
+                       "yes" if j["new_today"] else "no") + (" | ALREADY SENT" if j.get("already_sent") else ""),
+                    "- Experience: fit %s%s | Score: %s" % (j["fit_0_5"], " | " + j["exp_hint"] if j["exp_hint"] else "", j["score"]),
                     "- ID: %s%s | Status: %s" % (j["id"], " / " + j["req_id"] if j["req_id"] else "", j["status"]),
                     "- Apply: " + j["apply_url"], ""]
     return out
@@ -592,10 +718,10 @@ def write_summary(meta, report, jobs):
     L = ["## SERVE job collector run", "",
          "- Time: %s UTC | Window: %d days" % (meta["generated_utc"], meta["window_days"]),
          "- Boards read: %d OK, %d failed" % (meta["boards_ok"], len(meta["boards_failed"])),
-         "- Jobs published: **%d** (IT: %d)" % (meta["job_count"], meta["it_job_count"]), "",
+         "- Jobs published: **%d** (IT: %d) | Bulletin picks: **%d**" % (meta["job_count"], meta["it_job_count"], meta.get("picked", 0)), "",
          "| Section | Jobs | Pune | Mumbai | Sambhajinagar | Remote |", "|---|---|---|---|---|---|"]
-    for sec in SECTIONS:
-        r = [j for j in jobs if j["section"] == sec]
+    for sec in DISPLAY:
+        r = [j for j in jobs if dsec(j) == sec]
         cnt = lambda g: sum(1 for j in r if j["city_group"] == g)
         L.append("| %s | %d | %d | %d | %d | %d |" % (sec, len(r), cnt("Pune"), cnt("Mumbai"),
                  cnt("Chhatrapati Sambhajinagar"), cnt("Remote (India)")))
@@ -615,8 +741,11 @@ def write_outputs(jobs, report):
     os.makedirs(DATA, exist_ok=True)
     jobs = collapse(jobs)
     add_history(jobs)
-    jobs.sort(key=lambda j: (SECTIONS.index(j["section"]), j["geo_rank"],
-                             FIT_ORDER[j["fit_0_5"]], j["age_days"] if j["age_days"] is not None else 99))
+    sent = load_sent()
+    for j in jobs:
+        j["already_sent"] = str(j["id"]) in sent or str(j["req_id"]) in sent
+        j["score"] = score(j)
+    jobs.sort(key=lambda j: (DISPLAY.index(dsec(j)), j["geo_rank"], -j["score"]))
     ok = [k for k, v in report.items() if v["ok"]]
     bad = {k: v["error"] for k, v in report.items() if not v["ok"]}
     it = [j for j in jobs if j["section"] in IT_SECTIONS]
@@ -632,7 +761,7 @@ def write_outputs(jobs, report):
               "Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.",
               "Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). "
               "[multi-city] means the job is open in 3 or more cities.",
-              "fit_0_5: yes = asks 5 years or less, unknown = no years found, no = senior or over 5 years.", ""]
+              "fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ years (listed under Senior IT roles).", ""]
     head = ["# SERVE jobs, collected %s UTC" % meta["generated_utc"],
             "Window: last %d days. Boards read OK: %d. Boards failed: %d. Jobs: %d (IT: %d)."
             % (WINDOW, len(ok), len(bad), len(jobs), len(it))]
@@ -643,11 +772,15 @@ def write_outputs(jobs, report):
         f.write("\n".join(head + legend + render(jobs)))
 
     # short file for chats: only IT jobs a 0-5 year candidate can apply to
-    short = [j for j in it if j["fit_0_5"] in ("yes", "unknown")]
+    short = [j for j in it if j["fit_0_5"] in ("yes", "unknown") and not j["already_sent"]]
     shead = head[:1] + ["Shortlist: IT sections only, fit_0_5 = yes or unknown. "
                         "Jobs: %d. Full list: jobs_latest.md" % len(short), ""]
     with open(os.path.join(DATA, "it_jobs_shortlist.md"), "w") as f:
         f.write("\n".join(shead + legend + render(short)))
+    picks = choose(jobs)
+    with open(os.path.join(DATA, "bulletin_pick.md"), "w") as f:
+        f.write("\n".join(pick_markdown(picks, meta)))
+    meta["picked"] = len(picks)
     write_summary(meta, report, jobs)
     return meta
 
