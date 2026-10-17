@@ -1,4 +1,4 @@
-# SERVE bulletin picks, 2026-10-17 07:08 UTC
+# SERVE bulletin picks, 2026-10-17 07:50 UTC
 7 jobs: 4 from today/yesterday, 3 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
 1. **Software Development Engineer, AI Runtime | Amazon**

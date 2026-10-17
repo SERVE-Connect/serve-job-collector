@@ -71,33 +71,9 @@
   "ok": true,
   "listed": 401
  },
- "greenhouse:Postman": {
-  "ok": true,
-  "listed": 0
- },
- "greenhouse:BrowserStack": {
-  "ok": true,
-  "listed": 0
- },
- "greenhouse:Sprinklr": {
-  "ok": true,
-  "listed": 0
- },
- "greenhouse:ThoughtSpot": {
-  "ok": true,
-  "listed": 0
- },
  "greenhouse:Netskope": {
   "ok": true,
   "listed": 131
- },
- "greenhouse:CleverTap": {
-  "ok": true,
-  "listed": 0
- },
- "greenhouse:Icertis": {
-  "ok": true,
-  "listed": 0
  },
  "greenhouse:PagerDuty": {
   "ok": true,
@@ -139,21 +115,9 @@
   "ok": true,
   "listed": 7
  },
- "lever:Groww": {
-  "ok": true,
-  "listed": 0
- },
- "lever:Whatfix": {
-  "ok": true,
-  "listed": 0
- },
  "lever:Palantir": {
   "ok": true,
   "listed": 310
- },
- "lever:PayU": {
-  "ok": true,
-  "listed": 0
  },
  "lever:Nium": {
   "ok": true,
@@ -161,87 +125,79 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 461
+  "listed": 537
  },
  "workday:Mastercard": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Autodesk": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:NVIDIA": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Broadcom": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:BMC Software": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Fiserv": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "The read operation timed out"
  },
  "workday:Salesforce": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Adobe": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- "workday:Dell": {
-  "ok": false,
-  "error": "HTTP 422"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:HP": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Wells Fargo": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Barclays": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Citi": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Capital One": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Intel": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Qualcomm": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Micron": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
- },
- "workday:Honeywell": {
-  "ok": false,
-  "error": "HTTP 422"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:PayPal": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "workday:Workday": {
   "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
  },
  "smartrecruiters:Bosch": {
   "ok": true,
