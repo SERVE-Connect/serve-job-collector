@@ -43,4 +43,4 @@ Check `data/run_report.json` after the next run. A board that shows `"ok": false
 Companies that use their own career portal with no public API (TCS, Infosys, Wipro, HCL, Citi and similar).
 The experience figure is a guess from the job text (`fit_0_5`), so read `exp_hint` before publishing.
 
-Qualification, salary and requirements are filled only when the job text states them (salary also from the Greenhouse and Lever pay fields). Nothing is guessed. `requirements` is raw text of about 300 characters for the chat to summarise.
+Qualification, salary and requirements are filled only when the job text states them (salary also from the Greenhouse and Lever pay fields). Nothing is guessed. `requirements` is raw text of up to 300 characters, which the chat condenses into a summary of about 150 characters for the bulletin.
