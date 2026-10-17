@@ -19,13 +19,7 @@
     {"name": "Okta", "token": "okta", "note": "unverified, check run_report"},
     {"name": "Datadog", "token": "datadog", "note": "unverified, check run_report"},
     {"name": "MongoDB", "token": "mongodb", "note": "unverified, check run_report"},
-    {"name": "Postman", "token": "postman", "note": "unverified, check run_report"},
-    {"name": "BrowserStack", "token": "browserstack", "note": "unverified, check run_report"},
-    {"name": "Sprinklr", "token": "sprinklr", "note": "unverified, check run_report"},
-    {"name": "ThoughtSpot", "token": "thoughtspot", "note": "unverified, check run_report"},
     {"name": "Netskope", "token": "netskope", "note": "unverified, check run_report"},
-    {"name": "CleverTap", "token": "clevertap", "note": "unverified, check run_report"},
-    {"name": "Icertis", "token": "icertis", "note": "unverified, check run_report"},
     {"name": "PagerDuty", "token": "pagerduty", "note": "unverified, check run_report"}
   ],
   "lever": [
@@ -38,10 +32,7 @@
     {"name": "Saviynt", "token": "saviynt"},
     {"name": "Mindtickle", "token": "mindtickle"},
     {"name": "CRED", "token": "cred"},
-    {"name": "Groww", "token": "groww", "note": "unverified, check run_report"},
-    {"name": "Whatfix", "token": "whatfix", "note": "unverified, check run_report"},
     {"name": "Palantir", "token": "palantir", "note": "unverified, check run_report"},
-    {"name": "PayU", "token": "payu", "note": "unverified, check run_report"},
     {"name": "Nium", "token": "nium", "note": "unverified, check run_report"}
   ],
   "workday": [
@@ -54,7 +45,6 @@
     {"name": "Fiserv", "note": "unverified, check run_report", "host": "fiserv.wd5.myworkdayjobs.com", "tenant": "fiserv", "site": "EXT", "max_pages": 5, "searches": ["Pune", "Mumbai"]},
     {"name": "Salesforce", "note": "unverified, check run_report", "host": "salesforce.wd12.myworkdayjobs.com", "tenant": "salesforce", "site": "External_Career_Site", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "Adobe", "note": "unverified, check run_report", "host": "adobe.wd5.myworkdayjobs.com", "tenant": "adobe", "site": "external_experienced", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
-    {"name": "Dell", "note": "unverified, check run_report", "host": "dell.wd1.myworkdayjobs.com", "tenant": "dell", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "HP", "note": "unverified, check run_report", "host": "hp.wd5.myworkdayjobs.com", "tenant": "hp", "site": "ExternalCareerSite", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "Wells Fargo", "note": "unverified, check run_report", "host": "wf.wd1.myworkdayjobs.com", "tenant": "wf", "site": "WellsFargoJobs", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "Barclays", "note": "unverified, check run_report", "host": "barclays.wd3.myworkdayjobs.com", "tenant": "barclays", "site": "External_Career_Site_Barclays", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
@@ -63,7 +53,6 @@
     {"name": "Intel", "note": "unverified, check run_report", "host": "intel.wd1.myworkdayjobs.com", "tenant": "intel", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "Qualcomm", "note": "unverified, check run_report", "host": "qualcomm.wd12.myworkdayjobs.com", "tenant": "qualcomm", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "Micron", "note": "unverified, check run_report", "host": "micron.wd1.myworkdayjobs.com", "tenant": "micron", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
-    {"name": "Honeywell", "note": "unverified, check run_report", "host": "honeywell.wd5.myworkdayjobs.com", "tenant": "honeywell", "site": "Honeywell", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "PayPal", "note": "unverified, check run_report", "host": "paypal.wd1.myworkdayjobs.com", "tenant": "paypal", "site": "jobs", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "Workday", "note": "unverified, check run_report", "host": "workday.wd5.myworkdayjobs.com", "tenant": "workday", "site": "Workday", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]}
   ],
