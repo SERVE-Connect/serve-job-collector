@@ -32,13 +32,16 @@ DATA = os.path.join(ROOT, "data")
 UA = "SERVE-Job-Collector/1.0 (nonprofit job awareness)"
 NOW = datetime.now(timezone.utc)
 PAUSE = 0.25  # seconds between calls, be polite
+WD_PAUSE = 1.0   # Workday throttles by IP, so go slower: seconds between its calls
+WD_GAP = 4.0     # seconds between two Workday companies
+WD_RETRY = 20.0  # wait before retrying a Workday company that failed
 WINDOW = 7
 
 
 # ---------------------------------------------------------------- http
 def http(url, body=None, tries=3, timeout=30):
     """Return (status, json). 404/410 -> (code, None). Other failures raise."""
-    headers = {"User-Agent": UA, "Accept": "application/json"}
+    headers = {"User-Agent": UA, "Accept": "application/json", "Accept-Language": "en-US,en;q=0.9"}
     data = None
     if body is not None:
         data = json.dumps(body).encode()
@@ -48,12 +51,17 @@ def http(url, body=None, tries=3, timeout=30):
         try:
             req = request.Request(url, data=data, headers=headers)
             with request.urlopen(req, timeout=timeout) as r:
-                return r.status, json.loads(r.read().decode("utf-8", "replace"))
+                text = r.read().decode("utf-8", "replace")
+                try:
+                    return r.status, json.loads(text)
+                except ValueError:  # an HTML/empty page instead of JSON: usually blocked or throttled
+                    last = "not JSON (HTTP %s, %s): %r" % (
+                        r.status, r.headers.get("Content-Type", "?"), " ".join(text.split())[:70])
         except error.HTTPError as e:
             if e.code in (404, 410):
                 return e.code, None
             last = "HTTP %s" % e.code
-            if e.code < 500 and e.code != 429:
+            if e.code < 500 and e.code not in (403, 429):
                 break
         except Exception as e:  # network, timeout, bad json
             last = str(e)[:120]
@@ -275,7 +283,9 @@ def cand(**kw):
 # ---------------------------------------------------------------- adapters
 # Each source: list_<src>(board) -> [cand];  verify_<src>(cand) -> bool (open?)
 def list_greenhouse(b):
-    _, d = http("https://boards-api.greenhouse.io/v1/boards/%s/jobs" % b["token"])
+    st, d = http("https://boards-api.greenhouse.io/v1/boards/%s/jobs" % b["token"])
+    if st == 404:
+        raise RuntimeError("board not found (404), check the token")
     out = []
     for j in (d or {}).get("jobs", []):
         out.append(cand(
@@ -299,7 +309,9 @@ def verify_greenhouse(c):
 
 
 def list_lever(b):
-    _, d = http("https://api.lever.co/v0/postings/%s?mode=json" % b["token"])
+    st, d = http("https://api.lever.co/v0/postings/%s?mode=json" % b["token"])
+    if st == 404:
+        raise RuntimeError("board not found (404), check the token")
     out = []
     for j in d or []:
         cat = j.get("categories") or {}
@@ -331,8 +343,10 @@ def list_workday(b):
     for text in searches:  # Workday has no date filter and no date sort, so search several keywords
         offset = 0
         for _ in range(int(b.get("max_pages", 6))):
-            _, d = http(base + "/jobs", {"appliedFacets": {}, "limit": 20, "offset": offset,
+            st, d = http(base + "/jobs", {"appliedFacets": {}, "limit": 20, "offset": offset,
                                          "searchText": text})
+            if st == 404:
+                raise RuntimeError("Workday site not found (404), check host/tenant/site")
             posts = (d or {}).get("jobPostings", [])
             if not posts:
                 break
@@ -348,7 +362,7 @@ def list_workday(b):
                     posted_dt=(NOW - timedelta(days=a)) if a is not None else None,
                     apply_url=apply_base + path, source="workday", token=base + path))
             offset += 20
-            time.sleep(PAUSE)
+            time.sleep(WD_PAUSE)
     return out
 
 
@@ -441,7 +455,9 @@ def verify_smartrecruiters(c):
 
 
 def list_ashby(b):
-    _, d = http("https://api.ashbyhq.com/posting-api/job-board/%s" % b["token"])
+    st, d = http("https://api.ashbyhq.com/posting-api/job-board/%s" % b["token"])
+    if st == 404:
+        raise RuntimeError("board not found (404), check the token")
     out = []
     for j in (d or {}).get("jobs", []):
         if j.get("isListed") is False:
@@ -485,13 +501,18 @@ def run(cfg):
     report, pool = {}, []
     for src, b in board_list(cfg):
         key = "%s:%s" % (src, b.get("name"))
-        try:
-            found = ADAPTERS[src][0](b)
-            report[key] = {"ok": True, "listed": len(found)}
-            pool.extend(found)
-        except Exception as e:
-            report[key] = {"ok": False, "error": str(e)[:150]}
-        time.sleep(PAUSE)
+        for attempt in (1, 2):
+            try:
+                found = ADAPTERS[src][0](b)
+                report[key] = {"ok": True, "listed": len(found)}
+                pool.extend(found)
+                break
+            except Exception as e:
+                report[key] = {"ok": False, "error": str(e)[:200]}
+                if src != "workday" or attempt == 2:
+                    break
+                time.sleep(WD_RETRY)  # Workday often recovers after a short wait
+        time.sleep(WD_GAP if src == "workday" else PAUSE)
 
     # cheap filters first, so we only verify what could be published
     short = []
@@ -530,7 +551,7 @@ def run(cfg):
             "fit_0_5": fit(c["title"], est), "status": c["status"],
             "apply_url": c["apply_url"], "source": c["source"],
         })
-        time.sleep(PAUSE)
+        time.sleep(WD_PAUSE if c["source"] == "workday" else PAUSE)
     return jobs, report
 
 
