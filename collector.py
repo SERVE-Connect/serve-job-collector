@@ -272,10 +272,75 @@ def fit(title, est):
     return "yes" if est <= 4 else "no"  # "5+ years" and "5 to 8 years" both mean 5 or more
 
 
+EXP_RE = re.compile(r"(\d{1,2})\s*(\+|plus)?\s*(?:(?:-|–|to)\s*(\d{1,2})\s*(\+)?\s*)?(?:years?|yrs?)\b", re.I)
+
+
+def exp_label(hint):
+    """'3-5 years of experience' -> '3-5 yrs'; '4+ years' -> '4+ yrs'. Empty if no figure."""
+    m = EXP_RE.search(hint or "")
+    if not m:
+        return ""
+    lo, hi = m.group(1), m.group(3)
+    if hi:
+        return "%s-%s yrs" % (lo, hi)
+    return "%s%s yrs" % (lo, "+" if (m.group(2) or m.group(4)) else "")
+
+
+DEGREES = [("Diploma", r"diploma"),
+           ("Bachelor", r"bachelor|b\.?\s?tech|\bb\.?e\b|b\.?\s?sc\b|\bbca\b|\bb\.?com\b|graduat|\bdegree\b"),
+           ("Master", r"master|m\.?\s?tech|\bmba\b|\bmca\b|m\.?\s?sc\b"),
+           ("PhD", r"ph\.?\s?d|doctorate")]
+
+
+def parse_qual(text):
+    """Lowest degree level named in the text (Diploma < Bachelor < Master < PhD), else ''."""
+    t = clean(text).lower()
+    for name, rx in DEGREES:
+        if re.search(rx, t):
+            return name
+    return ""
+
+
+SALARY_RE = re.compile(
+    r"((?:₹|rs\.?|inr)\s?[\d,.]+(?:\s?(?:-|–|to)\s?(?:₹|rs\.?|inr)?\s?[\d,.]+)?\s?(?:lpa|lakhs?|lacs?|k|per (?:year|month|annum)|a year|/yr)?"
+    r"|[\d.]+(?:\s?(?:-|–|to)\s?[\d.]+)?\s?(?:lpa|lakhs?|lacs?)"
+    r"|\$\s?[\d,]+(?:\.\d+)?k?\s?(?:-|–|to)\s?\$?\s?[\d,]+(?:\.\d+)?k?)", re.I)
+
+
+def parse_salary(text):
+    """A salary only when the text states one near a pay word. Never guessed."""
+    t = clean(text)
+    for m in re.finditer(r"salary|compensation|pay range|pay rate|ctc|lpa|per annum|remuneration", t, re.I):
+        w = t[max(0, m.start() - 20): m.end() + 140]
+        sm = SALARY_RE.search(w)
+        if sm and re.search(r"\d{2}", sm.group(0)):
+            return sm.group(0).strip(" .,;:")[:60]
+    return ""
+
+
+REQ_HEAD = re.compile(
+    r"(?:basic qualifications|minimum qualifications|preferred qualifications|qualifications|requirements|"
+    r"what you(?:'|’)ll need|what you will need|what we(?:'|’)re looking for|must[- ]have|"
+    r"you (?:have|bring)|about you|key skills|skills)\s*:?\s*", re.I)
+
+
+def parse_requirements(text, limit=300):
+    """Raw requirements text (about 300 characters) for the chat to summarise. Empty if none found."""
+    t = clean(text)
+    m = REQ_HEAD.search(t)
+    seg = t[m.end(): m.end() + limit] if m else ""
+    seg = re.split(r"\b(?:benefits|what we offer|perks|why join|about us|equal opportunity)\b", seg, 1, flags=re.I)[0]
+    seg = re.sub(r"^[\s•\-–*:]+", "", seg)
+    if len(seg) >= limit - 5:
+        cut = seg.rfind(" ")
+        seg = seg[: cut if cut > 120 else limit]
+    return seg.strip()
+
+
 def cand(**kw):
     c = {"company": "", "title": "", "id": "", "req_id": "", "location": "",
          "posted_dt": None, "apply_url": "", "source": "", "text": "",
-         "token": "", "status": "unchecked", "mode": ""}
+         "token": "", "status": "unchecked", "mode": "", "salary": ""}
     c.update(kw)
     return c
 
@@ -297,15 +362,28 @@ def list_greenhouse(b):
 
 
 def verify_greenhouse(c):
-    st, d = http("https://boards-api.greenhouse.io/v1/boards/%s/jobs/%s" % (c["token"], c["id"]))
+    st, d = http("https://boards-api.greenhouse.io/v1/boards/%s/jobs/%s?pay_transparency=true" % (c["token"], c["id"]))
     if st != 200 or not d:
         return False
+    for r in d.get("pay_input_ranges") or []:
+        lo, hi = r.get("min_cents"), r.get("max_cents")
+        if lo and hi:
+            c["salary"] = "%s %s-%s" % (r.get("currency_type", ""), "{:,}".format(lo // 100), "{:,}".format(hi // 100))
+            break
     c["req_id"] = str(d.get("requisition_id") or "")
     if DROP.search(c["req_id"] + " " + c["title"]):
         return False
     c["text"] = d.get("content", "")
     c["status"] = "open (ATS verified)"
     return True
+
+
+def lever_salary(j):
+    r = j.get("salaryRange") or {}
+    if r.get("min") and r.get("max"):
+        return "%s %s-%s%s" % (r.get("currency", ""), "{:,}".format(int(r["min"])), "{:,}".format(int(r["max"])),
+                               " per " + r["interval"] if r.get("interval") else "")
+    return ""
 
 
 def list_lever(b):
@@ -321,7 +399,7 @@ def list_lever(b):
             company=b["name"], title=j.get("text", ""), id=j.get("id", ""),
             location=loc, posted_dt=to_dt(j.get("createdAt")), mode=j.get("workplaceType", ""),
             apply_url=j.get("hostedUrl", ""), source="lever", token=b["token"],
-            text=j.get("descriptionPlain", "")))
+            text=j.get("descriptionPlain", ""), salary=lever_salary(j)))
     return out
 
 
@@ -539,6 +617,7 @@ def run(cfg):
         if a is not None and a > WINDOW:  # real date from detail can differ from list
             continue
         est, hint = parse_exp(c["text"])
+        salary = c["salary"] or parse_salary(c["text"])
         mode = mode_of(c["location"], c["mode"])
         group = city_group(c["location"], mode)
         jobs.append({
@@ -547,7 +626,9 @@ def run(cfg):
             "location": c["location"], "work_mode": mode, "multi_city": is_multi_city(c["location"]),
             "city_group": group, "geo_rank": GROUP_ORDER.index(group) + 1,
             "posted": c["posted_dt"].date().isoformat() if c["posted_dt"] else "",
-            "age_days": a, "exp_years_est": est, "exp_hint": hint,
+            "age_days": a, "exp_years_est": est, "exp_hint": hint, "exp_label": exp_label(hint),
+            "qualification": parse_qual(c["text"]), "salary": salary,
+            "requirements": parse_requirements(c["text"]),
             "fit_0_5": fit(c["title"], est), "status": c["status"],
             "apply_url": c["apply_url"], "source": c["source"],
         })
@@ -685,7 +766,7 @@ def choose(jobs):
 
 CSV_COLUMNS = ["score_rank", "score", "section", "city_group", "geo_rank", "posted", "age_days",
                "title", "company", "location", "work_mode", "multi_city", "fit_0_5", "exp_years_est",
-               "exp_hint", "bulletin_pick", "new_today", "already_sent", "id", "req_id", "status",
+               "exp_hint", "exp_label", "qualification", "salary", "requirements", "bulletin_pick", "new_today", "already_sent", "id", "req_id", "status",
                "apply_url", "source"]
 
 
@@ -703,6 +784,18 @@ def write_csv(jobs, picks):
             w.writerow([row.get(c, "") if row.get(c) is not None else "" for c in CSV_COLUMNS])
 
 
+def details(j, pre):
+    """Experience label, qualification, salary and requirements lines. Only the ones that exist."""
+    line = " | ".join(x for x in (
+        "Experience: " + j["exp_label"] if j.get("exp_label") else "",
+        "Qualification: " + j["qualification"] if j.get("qualification") else "",
+        "Salary: " + j["salary"] if j.get("salary") else "") if x)
+    out = [pre + line] if line else []
+    if j.get("requirements"):
+        out.append(pre + "Requirements: " + j["requirements"])
+    return out
+
+
 def pick_markdown(picks, meta):
     fresh = sum(1 for p in picks if p["tier"] == "fresh")
     out = ["# SERVE bulletin picks, %s UTC" % meta["generated_utc"],
@@ -714,11 +807,12 @@ def pick_markdown(picks, meta):
                 "   - %s | Work mode: %s | Posted: %s (%s days ago) | %s"
                 % (p["location"], p["work_mode"], p["posted"], p["age_days"],
                    "fresh" if p["tier"] == "fresh" else "fallback (older than yesterday)"),
-                "   - Experience: fit %s%s | Score %s%s" % (
+                "   - Fit: %s%s | Score %s%s" % (
                     p["fit_0_5"], " | " + p["exp_hint"] if p["exp_hint"] else "", p["score"],
                     " | " + p["extra"] if p["extra"] else ""),
-                "   - ID: %s | %s" % (p["id"], p["status"]),
-                "   - Apply: " + p["apply_url"], ""]
+                "   - ID: %s | %s" % (p["id"], p["status"])]
+        out += details(p, "   - ")
+        out += ["   - Apply: " + p["apply_url"], ""]
     out += ["After you post, paste this line into data/sent_ids.txt:", "",
             "```", "%s %s" % (NOW.date().isoformat(), " ".join(str(p["id"]) for p in picks)), "```", ""]
     return out
@@ -746,7 +840,9 @@ def render(rows, tag=""):
                     "- Posted: %s (%s days ago) | New today: %s"
                     % (j["posted"] or "unknown", j["age_days"] if j["age_days"] is not None else "?",
                        "yes" if j["new_today"] else "no") + (" | ALREADY SENT" if j.get("already_sent") else ""),
-                    "- Experience: fit %s%s | Score: %s" % (j["fit_0_5"], " | " + j["exp_hint"] if j["exp_hint"] else "", j["score"]),
+                    "- Fit: %s%s | Score: %s" % (j["fit_0_5"], " | " + j["exp_hint"] if j["exp_hint"] else "", j["score"])]
+                out += details(j, "- ")
+                out += [
                     "- ID: %s%s | Status: %s" % (j["id"], " / " + j["req_id"] if j["req_id"] else "", j["status"]),
                     "- Apply: " + j["apply_url"], ""]
     return out
