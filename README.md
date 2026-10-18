@@ -1,11 +1,12 @@
 # SERVE daily job collector
 
-Runs every day at 08:00 IST on GitHub Actions. Reads company ATS job boards, keeps India jobs
+Runs every night on GitHub Actions (02:47 IST, retries at 04:17 and 06:17 if the first run was not good). Reads company ATS job boards, keeps India jobs
 posted in the last 7 days, checks each is still open, and writes:
 
 - `data/bulletin_pick.md`      today's best 8-10 IT jobs for 0-5 years, give this link to the chat
 - `data/it_jobs_shortlist.md`  every IT job for 0-5 years, by section then city
 - `data/jobs_latest.md`        everything, including "Senior IT roles (5+ yrs)", Clinical and Non-IT
+- `data/top_10.md`, `city_<city>.md`, `domain_<domain>.md`  ready top-10 lists built in code (overall, per city, per domain); `ranked_index.md` lists them all
 - `data/jobs_latest.csv`       the same table for Google Sheets or Excel: sort and filter by score_rank, posted, section, city_group, company, fit_0_5
 - `data/jobs_latest.json`      same data for scripts (fields: section, city_group, work_mode, score, fit_0_5, exp_label, qualification, salary, requirements)
 - `data/sent_ids.txt`          you fill this in (see below)
@@ -17,8 +18,18 @@ posted in the last 7 days, checks each is still open, and writes:
 2. If fewer than 8: a second job from a company, for at most 2 companies.
 3. If still fewer than 8: the same steps on days 2-7 (marked `fallback`).
 
-Score (100): fit for 0-5 years 30, city 25 (Pune highest), freshness 15, role relevance 15,
-verified open on the company's own page 10, completeness 5.
+Score (100): fit for 0-5 years 30 (senior title or 5+ years: 6), city 25 (Pune highest), freshness 15,
+role relevance 15, verified open on the company's own page 10, completeness 5. The score is fixed for each job
+when the collector runs; asking for a city or domain does not change it.
+
+## Ranked lists (top_10, city_*, domain_*)
+The same pick rules as above, applied to any pool, with already-sent jobs left out:
+- `top_10.md`: all cities and domains, 0-5 years.
+- `city_*.md`: one per city group, all domains, senior roles included. Multi-city jobs count for each city they list.
+- `domain_*.md`: one per section (Senior IT roles includes 5+ years), plus keyword domains
+  (pharma, logistics, hospitality, healthcare, banking and finance, customer support, HR, sales and marketing),
+  which are matched by words in the title and requirements within Non-IT / Other and Clinical / Research.
+The chat commands read one of these files and only format it, so they cannot break the company or sent rules.
 
 ## Telling the collector what you posted
 After a bulletin, open `data/sent_ids.txt` on GitHub, add the line shown at the bottom of
