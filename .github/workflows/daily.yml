@@ -2,8 +2,15 @@ name: Daily job collector
 
 on:
   schedule:
-    - cron: "30 2 * * *"   # 08:00 IST every day
-  workflow_dispatch:        # lets you run it by hand from the Actions tab
+    - cron: "17 21 * * *"   # 02:47 IST, main run
+    - cron: "47 22 * * *"   # 04:17 IST, retry, skipped if today's run was good
+    - cron: "47 0 * * *"    # 06:17 IST, last retry, skipped if today's run was good
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run anyway, even if today's data was already collected successfully"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -13,12 +20,54 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Was today's run already successful?
+        id: chk
+        env:
+          FORCE: ${{ github.event.inputs.force }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from datetime import datetime, timedelta, timezone
+          IST = timedelta(hours=5, minutes=30)
+          out = os.environ.get("GITHUB_OUTPUT", "/dev/null")
+          summary = os.environ.get("GITHUB_STEP_SUMMARY", "/dev/null")
+          skip, note = "false", ""
+          try:
+              meta = json.load(open("data/jobs_latest.json"))["meta"]
+              last = datetime.strptime(meta["generated_utc"], "%Y-%m-%d %H:%M") + IST
+              today = datetime.now(timezone.utc).replace(tzinfo=None) + IST
+              ok = int(meta.get("boards_ok", 0))
+              bad = len(meta.get("boards_failed", {}))
+              total = ok + bad
+              good = last.date() == today.date() and total > 0 and bad <= 0.2 * total
+              info = "collected %s IST, %s jobs, %d of %d boards read OK" % (
+                  last.strftime("%d %b %Y %H:%M"), meta.get("job_count"), ok, total)
+              if good and os.environ.get("FORCE") != "true":
+                  skip = "true"
+                  note = ("### These are the latest results\n%s.\n\n"
+                          "Nothing was run. To run anyway, start the workflow again "
+                          "with **Run anyway** ticked.\n" % info)
+              elif not good:
+                  note = "Today's data is missing or incomplete (%s). Collecting now.\n" % info
+          except Exception as e:
+              note = "No usable earlier data (%s). Collecting now.\n" % e
+          open(out, "a").write("skip=%s\n" % skip)
+          open(summary, "a").write(note)
+          print(note)
+          PY
+
       - uses: actions/setup-python@v5
+        if: steps.chk.outputs.skip != 'true'
         with:
           python-version: "3.11"
+
       - name: Collect jobs
+        if: steps.chk.outputs.skip != 'true'
         run: python collector.py
+
       - name: Save results
+        if: steps.chk.outputs.skip != 'true'
         run: |
           git config user.name "serve-collector"
           git config user.email "actions@users.noreply.github.com"
