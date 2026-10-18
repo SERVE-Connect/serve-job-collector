@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""SERVE daily job collector (v4).
+"""SERVE daily job collector (v5).
 
 Reads public ATS job boards listed in companies.json, keeps India jobs posted within
 the last N days, checks each one is still open, estimates the experience asked for,
@@ -9,6 +9,8 @@ sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and w
   data/bulletin_pick.md        today's best 8-10 IT jobs for 0-5 years (give this to the chat)
   data/it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
   data/sent_ids.txt            you add what you posted; lines are cleared after 7 days
+  data/top_10.md, city_*.md,   ready top-10 lists (overall, per city, per domain), ranked in code
+  domain_*.md, ranked_index.md  (one job per company, already-sent excluded, fresh first)
   data/jobs_latest.json        same data for scripts
   data/jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
   data/run_report.json         which boards worked
@@ -689,6 +691,8 @@ def score(j):
     """0-100. Fit 30, location 25, freshness 15, role 15, verification 10, completeness 5."""
     est = j["exp_years_est"]
     f = 15 if est is None else 30 if est <= 2 else 24 if est <= 3 else 16 if est <= 4 else 10
+    if j.get("fit_0_5") == "no":  # senior title or 5+ years: the audience is 0-5 years
+        f = 6
     loc = LOC_PTS.get(j["city_group"], 8)
     fresh = max(0, 15 - 3 * (j["age_days"] or 0))
     ver = 10 if "ATS verified" in j["status"] else 6 if "live search" in j["status"] else 3
@@ -762,6 +766,122 @@ def choose(jobs):
     if len(picks) < MINIMUM:
         seconds(older, "fallback")
     return picks
+
+
+def pick_list(jobs):
+    """Same rules as choose(), for any pool: not already sent, today + yesterday first, one job per
+    company, a 2nd job from a company only when under MINIMUM (max 2 companies), 7-day fallback only
+    when still under MINIMUM. The result is shown best score first."""
+    pool = sorted((j for j in jobs if not j["already_sent"] and j["age_days"] is not None
+                   and 0 <= j["age_days"] <= WINDOW), key=lambda j: (-j["score"], j["age_days"]))
+    picks, companies, doubled = [], set(), set()
+
+    def firsts(sub, tier):
+        for j in sub:
+            if len(picks) >= TARGET:
+                return
+            if j["company"] not in companies:
+                companies.add(j["company"])
+                picks.append(dict(j, tier=tier, extra=""))
+
+    def seconds(sub, tier):
+        for j in sub:
+            if len(picks) >= MINIMUM or len(doubled) >= 2:
+                return
+            if j["company"] in companies and j["company"] not in doubled and \
+               not any(p["id"] == j["id"] and p["company"] == j["company"] for p in picks):
+                doubled.add(j["company"])
+                picks.append(dict(j, tier=tier, extra="second job"))
+
+    fresh = [j for j in pool if j["age_days"] <= 1]
+    older = [j for j in pool if j["age_days"] >= 2]
+    firsts(fresh, "fresh")
+    if len(picks) < MINIMUM:
+        seconds(fresh, "fresh")
+    if len(picks) < MINIMUM:
+        firsts(older, "fallback")
+    if len(picks) < MINIMUM:
+        seconds(older, "fallback")
+    return sorted(picks, key=lambda p: (-p["score"], p["age_days"]))
+
+
+# domains without their own section: matched by words in the title and requirements, Non-IT / Clinical only
+KEYWORD_DOMAINS = {
+    "Pharma": r"pharma|drug|biotech|pharmacovigilance|regulatory affairs|medical affairs|clinical",
+    "Logistics": r"logistic|supply chain|warehouse|freight|transport|inventory|procurement|fleet|last mile|shipping",
+    "Hospitality": r"hospitality|hotel|restaurant|guest|front office|housekeeping|food and beverage|culinary|chef",
+    "Healthcare": r"healthcare|health care|hospital|nurs|patient|medical|clinic",
+    "Banking & Finance": r"\bbank|financ|account(ant|ing)|audit|\bloan|lending|treasury|securities|derivatives|credit|payroll|\btax",
+    "Customer Support": r"customer (support|service|success)|support (analyst|associate|specialist)|technical support|helpdesk|service desk",
+    "HR & Recruitment": r"\bhr\b|human resources|recruit|talent acquisition|people operations",
+    "Sales & Marketing": r"\bsales\b|marketing|business development|account executive",
+}
+
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+
+
+def ranked_lists(jobs):
+    """{file name: (title, picks)}: top 10 overall, per city, per domain. Built here in code so the
+    chat only formats a ready list. Overall and domain lists are for 0-5 years (not fit 'no');
+    city lists and the Senior IT list include senior roles."""
+    out = {}
+    out["top_10.md"] = ("Top jobs, all cities and domains (0-5 years)",
+                        pick_list([j for j in jobs if j["fit_0_5"] != "no"]))
+    for g in GROUP_ORDER:
+        pool = [j for j in jobs if j["city_group"] == g or
+                any(city_group(loc, "unspecified") == g for loc in j.get("also_in") or [])]
+        out["city_%s.md" % slug(g)] = ("Jobs in %s (all domains, all experience levels)" % g, pick_list(pool))
+    for sec in DISPLAY:
+        pool = [j for j in jobs if dsec(j) == sec and (sec == SENIOR_SEC or j["fit_0_5"] != "no")]
+        out["domain_%s.md" % slug(sec)] = ("%s jobs%s" % (sec, "" if sec == SENIOR_SEC else " (0-5 years)"),
+                                          pick_list(pool))
+    for name, rx in KEYWORD_DOMAINS.items():
+        r = re.compile(rx, re.I)
+        pool = [j for j in jobs if j["section"] in ("Non-IT / Other", "Clinical / Research")
+                and j["fit_0_5"] != "no" and r.search("%s %s" % (j["title"], j.get("requirements") or ""))]
+        out["domain_%s.md" % slug(name)] = ("%s jobs (0-5 years, matched by keyword)" % name, pick_list(pool))
+    return out
+
+
+def ranked_markdown(title, picks, meta):
+    fresh = sum(1 for p in picks if p["tier"] == "fresh")
+    out = ["# SERVE ranked list: %s, collected %s UTC" % (title, meta["generated_utc"]),
+           "%d jobs, best score first: %d from today/yesterday, %d from the 7-day fallback. "
+           "One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. "
+           "Use them in this order, do not re-rank." % (len(picks), fresh, len(picks) - fresh), ""]
+    if not picks:
+        out += ["No qualifying jobs in this list today.", ""]
+    for n, p in enumerate(picks, 1):
+        loc = p["location"] + (" [multi-city]" if p["multi_city"] else "")
+        more = " | Also hiring in: %s" % "; ".join(p["also_in"][:6]) if p.get("also_in") else ""
+        out += ["%d. **%s | %s**" % (n, p["title"], p["company"]),
+                "   - %s | Work mode: %s%s | Section: %s" % (loc, p["work_mode"], more, dsec(p)),
+                "   - Posted: %s (%s days ago) | %s | Score %s%s" % (
+                    p["posted"], p["age_days"], "fresh" if p["tier"] == "fresh" else "fallback",
+                    p["score"], " | " + p["extra"] if p["extra"] else ""),
+                "   - Fit: %s%s" % (p["fit_0_5"], " | " + p["exp_hint"] if p["exp_hint"] else "")]
+        out += details(p, "   - ")
+        out += ["   - ID: %s | %s" % (p["id"], p["status"]), "   - Apply: " + p["apply_url"], ""]
+    return out
+
+
+def write_ranked(jobs, meta):
+    for fn in os.listdir(DATA):  # drop lists from older runs
+        if re.match(r"(top_10|city_.+|domain_.+)\.md$", fn):
+            os.remove(os.path.join(DATA, fn))
+    lists = ranked_lists(jobs)
+    index = ["# SERVE ranked lists, collected %s UTC" % meta["generated_utc"],
+             "Each file below is a ready top-10 list. Commands read one file only.", "",
+             "| File | List | Jobs |", "|---|---|---|"]
+    for fn, (title, picks) in lists.items():
+        with open(os.path.join(DATA, fn), "w", encoding="utf-8") as f:
+            f.write("\n".join(ranked_markdown(title, picks, meta)))
+        index.append("| %s | %s | %d |" % (fn, title, len(picks)))
+    with open(os.path.join(DATA, "ranked_index.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(index) + "\n")
+    return lists
 
 
 CSV_COLUMNS = ["score_rank", "score", "section", "city_group", "geo_rank", "posted", "age_days",
@@ -920,6 +1040,7 @@ def write_outputs(jobs, report):
     with open(os.path.join(DATA, "bulletin_pick.md"), "w") as f:
         f.write("\n".join(pick_markdown(picks, meta)))
     write_csv(jobs, picks)
+    write_ranked(jobs, meta)
     meta["picked"] = len(picks)
     write_summary(meta, report, jobs)
     return meta
