@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_utc": "2026-10-18 04:39",
+  "generated_utc": "2026-10-18 07:19",
   "window_days": 7,
   "boards_ok": 53,
   "boards_failed": {},
@@ -35,7 +35,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 82
   },
   {
@@ -65,7 +65,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 79
   },
   {
@@ -335,7 +335,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 74
   },
   {
@@ -395,7 +395,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 70
   },
   {
@@ -967,7 +967,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 77
   },
   {
@@ -1627,7 +1627,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 86
   },
   {
@@ -1692,7 +1692,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 83
   },
   {
@@ -1902,7 +1902,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 68
   },
   {
@@ -3014,7 +3014,7 @@
    "also_in": [],
    "first_seen": "2026-10-15",
    "new_today": false,
-   "already_sent": false,
+   "already_sent": true,
    "score": 80
   },
   {
@@ -3104,7 +3104,7 @@
    "also_in": [],
    "first_seen": "2026-10-18",
    "new_today": true,
-   "already_sent": false,
+   "already_sent": true,
    "score": 72
   },
   {
@@ -5334,8 +5334,8 @@
   {
    "company": "Zscaler",
    "title": "Sr. Staff Software Development Engineer",
-   "id": "5253929007",
-   "req_id": "261001_I35920",
+   "id": "5253927007",
+   "req_id": "261001_I35919",
    "section": "IT / Software",
    "location": "Bangalore, IND",
    "work_mode": "unspecified",
@@ -5345,14 +5345,14 @@
    "posted": "2026-10-15",
    "age_days": 3,
    "exp_years_est": 8.5,
-   "exp_hint": "your functional domain 8+ years of software development experience with flue",
+   "exp_hint": "your functional domain 8+ years of software development experience in buildi",
    "exp_label": "8+ yrs",
    "qualification": "Bachelor",
    "salary": "",
-   "requirements": "(Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 8+ years of software development experience with fluency in C and C++ Demonstrated expertise in",
+   "requirements": "Defining software design specifications and implementing bug free code using test driven methodology Looking for opportunities to refactor existing code in the interests of maintainability and reusability Collaborating closely with other cross functional engineering teams (security, UI, platform,",
    "fit_0_5": "no",
    "status": "open (ATS verified)",
-   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5253929007",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5253927007",
    "source": "greenhouse",
    "copies": 2,
    "also_in": [],
@@ -12577,6 +12577,36 @@
   },
   {
    "company": "Amazon",
+   "title": "Business Analyst, Support, Supply Chain",
+   "id": "10582081",
+   "req_id": "",
+   "section": "Non-IT / Other",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-10-18",
+   "age_days": 0,
+   "exp_years_est": null,
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "fit_0_5": "unknown",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10582081/business-analyst-support-supply-chain",
+   "source": "amazon",
+   "copies": 1,
+   "also_in": [],
+   "first_seen": "2026-10-18",
+   "new_today": true,
+   "already_sent": false,
+   "score": 64
+  },
+  {
+   "company": "Amazon",
    "title": "Brand Specialist - AVS, Paid Selling Partner Services",
    "id": "10578292",
    "req_id": "",
@@ -14193,36 +14223,6 @@
    "fit_0_5": "no",
    "status": "open (listed in employer's live search)",
    "apply_url": "https://www.amazon.jobs/en/jobs/10579628/head-linehaul-procurement-amazon-india-operations",
-   "source": "amazon",
-   "copies": 1,
-   "also_in": [],
-   "first_seen": "2026-10-15",
-   "new_today": false,
-   "already_sent": false,
-   "score": 47
-  },
-  {
-   "company": "Amazon",
-   "title": "Category Manager, IN Beauty",
-   "id": "10576850",
-   "req_id": "",
-   "section": "Non-IT / Other",
-   "location": "Bengaluru, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-10-13",
-   "age_days": 5,
-   "exp_years_est": 4,
-   "exp_hint": "- 4+ years of previous retail experience - Experience i",
-   "exp_label": "4+ yrs",
-   "qualification": "",
-   "salary": "",
-   "requirements": "",
-   "fit_0_5": "no",
-   "status": "open (listed in employer's live search)",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10576850/category-manager-in-beauty",
    "source": "amazon",
    "copies": 1,
    "also_in": [],

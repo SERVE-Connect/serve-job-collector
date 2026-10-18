@@ -1,31 +1,13 @@
-# SERVE jobs, collected 2026-10-18 04:39 UTC
-Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 97. Full list: jobs_latest.md
+# SERVE jobs, collected 2026-10-18 07:19 UTC
+Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 87. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
 fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ years (listed under Senior IT roles).
 
-## IT / Software (43)
+## IT / Software (38)
 
-### Pune (9)
-
-**Tools Development Engineer | NVIDIA**
-- Location: India, Pune | Work mode: unspecified
-- Posted: 2026-10-16 (2 days ago) | New today: yes
-- Fit: yes | equivalent experience. 3+ years of programming experience in Python or equiv | Score: 82
-- Experience: 3+ yrs | Qualification: Bachelor
-- Requirements: (interpersonal and across teams). Excellent analytical and problem-solving skills. Very organized, proactive, and has good learning ability. The ability to work with a team of engineers in a fast-paced environment Ways to stand out from the crowd: Good problem-solving skills (solid logic to apply
-- ID: JR2028195 / JR2028195 | Status: open (ATS verified)
-- Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Tools-Development-Engineer_JR2028195
-
-**Forward Deployed Software Engineer | Barclays**
-- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
-- Fit: yes | enhance productivity 3+ years of software development experience with stro | Score: 79
-- Experience: 3+ yrs | Qualification: Bachelor
-- Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-- ID: JR-0000040669 / JR-0000040669 | Status: open (ATS verified)
-- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer-Permissions_JR-0000040669
+### Pune (7)
 
 **Software Engineer I-1 | Mastercard**
 - Location: Pune, India | Work mode: unspecified
@@ -100,16 +82,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10578008 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10578008/software-dev-engineer-ii-amazon-india-cfx-team
 
-### Bangalore (18)
-
-**GPU Performance Verification Engineer | Intel**
-- Location: India, Bangalore | Work mode: unspecified
-- Posted: 2026-10-16 (2 days ago) | New today: yes
-- Fit: yes | or Masters with 2-10 years of Experience in Design Verification Experie | Score: 74
-- Experience: 2-10 yrs | Qualification: Bachelor
-- Requirements: . Defines and develops scalable and reusable IP verification plans, test benches, and architecture for verification environment to ensure coverage to confirm to graphics microarchitecture specifications. Executes verification plans and defines and runs system simulation models to verify the design,
-- ID: JR0288229 / JR0288229 | Status: open (ATS verified)
-- Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Performance-Verification-Engineer_JR0288229
+### Bangalore (16)
 
 **Programmer Analyst II, Relay Product Excellence Agentic Solutions | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -118,14 +91,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 2+ yrs
 - ID: 10579584 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10579584/programmer-analyst-ii-relay-product-excellence-agentic-solutions
-
-**Software Development Engineer, Customer Experience and Business Trends | Amazon**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-10-18 (0 days ago) | New today: yes
-- Fit: yes | - 3+ years of non-internship professional software deve | Score: 70
-- Experience: 3+ yrs
-- ID: 10582077 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10582077/software-development-engineer-customer-experience-and-business-trends
 
 **Software Dev Engineer II, Amazon Detail Page | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -272,16 +237,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10578772 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10578772/software-development-engineer-fire-tablet
 
-### Hyderabad (10)
-
-**Associate Engineer, IT Eng System Mgr | Micron**
-- Location: Hyderabad - Phoenix Aquila, India | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
-- Fit: yes | to fresh graduates with 0 years of experience. ( Linux and Windows knowledge | Score: 77
-- Experience: 0 yrs | Qualification: Bachelor
-- Requirements: , and supporting Micron’s Responsible AI principles. Provide day-to-day technology direction across Linux and Windows hosts in Lab, Data Center, and Cloud environments. Technical Skills & Tools: Ansible, Kubernetes/OpenShift, RH Satellite, Zabbix, and infrastructure monitoring tools. Virtual
-- ID: JR112672 / JR112672 | Status: open (ATS verified)
-- Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer--IT-Eng-System-Mgr_JR112672
+### Hyderabad (9)
 
 **Software Development Engineer I | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -386,7 +342,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR109114 / JR109114 | Status: open (ATS verified)
 - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303C---FacilitiesConstruction-India/Construction-Engineer--CSA_JR109114
 
-## Data / Analytics / AI (29)
+## Data / Analytics / AI (26)
 
 ### Pune (6)
 
@@ -444,17 +400,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0000123921 / JR-0000123921 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Colleague-Experience-Analytics---Adoption-Engineer_JR-0000123921
 
-### Mumbai (1)
-
-**Associate Analyst, Analytics & Metrics | Mastercard**
-- Location: Navi Mumbai, India (Finicity) | Work mode: unspecified
-- Posted: 2026-10-16 (2 days ago) | New today: yes
-- Fit: yes | a related discipline. 3-4 years of experience in data analytics, business in | Score: 86
-- Experience: 3-4 yrs | Qualification: Bachelor
-- Requirements: . Analysis and Business Insights • Analyze payments and transaction data to identify trends, anomalies, customer behavior, operational performance, and potential growth or efficiency opportunities. Use descriptive statistics, trend analysis, segmentation, model testing, and root-cause analysis •
-- ID: R-293135 / R-293135 | Status: open (ATS verified)
-- Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Associate-Analyst--Analytics---Metrics_R-293135
-
 ### Remote (India) (1)
 
 **Associate, ML Data Operations, GO-AI Operations | Amazon**
@@ -465,16 +410,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10576811 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10576811/associate-ml-data-operations-go-ai-operations
 
-### Delhi NCR / Haryana (5)
-
-**SAS SQL - BI Analyst | Citi**
-- Location: Gurugram Haryana India | Work mode: hybrid
-- Posted: 2026-10-16 (2 days ago) | New today: yes
-- Fit: yes | we are seeking a 2-5 years experienced analytics candidate who should b | Score: 83
-- Experience: 2-5 yrs | Qualification: Bachelor
-- Requirements: Clear articulation of your work to the leadership. Ability to coach and mentor juniors . Skillset you should possess The most important skill that our analyst should possess is their love for data and their eagerness for new challenges & solving new problems. Apart from these, they should also have
-- ID: 26995705 / 26995705 | Status: open (ATS verified)
-- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/SAS-SQL---BI-Analyst_26995705
+### Delhi NCR / Haryana (4)
 
 **Machine learning and GEN AI Data Scientist | Citi**
 - Location: Gurugram Haryana India | Work mode: hybrid
@@ -512,7 +448,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 26995715 / 26995715 | Status: open (ATS verified)
 - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/SAS-SQL-BI---Python-Developer_26995715
 
-### Bangalore (11)
+### Bangalore (10)
 
 **Business Analyst, Amazon Pay, Data Products | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -521,15 +457,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 1+ yrs | Qualification: Bachelor
 - ID: 10578343 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10578343/business-analyst-amazon-pay-data-products
-
-**Data Engineer | HP**
-- Location: Bengaluru, Karnataka, India | Work mode: unspecified
-- Posted: 2026-10-14 (4 days ago) | New today: yes
-- Fit: yes | • Typically has 2-4 years of work experience, preferably in data analy | Score: 68
-- Experience: 2-4 yrs | Qualification: Bachelor
-- Requirements: into semantic access, conceptual, logical and/or physical data models. • Translates data into information and insights with clear scenario analysis and business impact and execution plan to drive impact. • Models and frames business scenarios that are meaningful and impact critical business
-- ID: 3169354-1 / 3169354 | Status: open (ATS verified)
-- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Engineer_3169354-1
 
 **Data Product Management Consultant | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -846,18 +773,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10577670 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10577670/wifi-test-engineer-eero
 
-## IT Support / Operations (5)
-
-### Pune (1)
-
-**Professional, Client Tech Support Engineering | Fiserv**
-- Location: Pune - Trion Business Park, India | Work mode: onsite
-- Posted: 2026-10-15 (3 days ago) | New today: no
-- Fit: yes | you'll need to have: 3+ years of experience in technical support and clien | Score: 80
-- Experience: 3+ yrs | Qualification: Bachelor
-- Requirements: r role:As a Client Tech Support Engineering - Professional I, you will play a critical role in providing technical support to our clients. Your contributions will help ensure client satisfaction and facilitate the smooth operation of our services. You will work closely with clients to troubleshoot
-- ID: R-10401490 / R-10401490 | Status: open (ATS verified)
-- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional--Client-Tech-Support-Engineering_R-10401490
+## IT Support / Operations (3)
 
 ### Bangalore (1)
 
@@ -879,17 +795,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 4+ yrs
 - ID: 10575888 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10575888/software-support-engineer-devices-support-engineering-team-devices-support-engineering
-
-### Hyderabad (1)
-
-**Systems Operations Engineer - Dotnet/SQL server/Platform support | Wells Fargo**
-- Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
-- Fit: yes | Qualifications: 2+ years of Systems Engineering experience, or equiva | Score: 72
-- Experience: 2+ yrs | Qualification: Bachelor
-- Requirements: 2+ years of Systems Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: University degree (B.E. / B.Tech / MCA) in Technology. Hands on experience in MSBI, .NET, .NET Web
-- ID: R-560210 / R-560210 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Systems-Operations-Engineer_R-560210
 
 ### Other India (1)
 

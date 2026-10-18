@@ -1,4 +1,4 @@
-# SERVE jobs, collected 2026-10-18 04:39 UTC
+# SERVE jobs, collected 2026-10-18 07:19 UTC
 Window: last 7 days. Boards read OK: 53. Boards failed: 0. Jobs: 575 (IT: 303).
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
@@ -11,7 +11,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Tools Development Engineer | NVIDIA**
 - Location: India, Pune | Work mode: unspecified
-- Posted: 2026-10-16 (2 days ago) | New today: yes
+- Posted: 2026-10-16 (2 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | equivalent experience. 3+ years of programming experience in Python or equiv | Score: 82
 - Experience: 3+ yrs | Qualification: Bachelor
 - Requirements: (interpersonal and across teams). Excellent analytical and problem-solving skills. Very organized, proactive, and has good learning ability. The ability to work with a team of engineers in a fast-paced environment Ways to stand out from the crowd: Good problem-solving skills (solid logic to apply
@@ -20,7 +20,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Forward Deployed Software Engineer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
+- Posted: 2026-10-15 (3 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | enhance productivity 3+ years of software development experience with stro | Score: 79
 - Experience: 3+ yrs | Qualification: Bachelor
 - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
@@ -104,7 +104,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **GPU Performance Verification Engineer | Intel**
 - Location: India, Bangalore | Work mode: unspecified
-- Posted: 2026-10-16 (2 days ago) | New today: yes
+- Posted: 2026-10-16 (2 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | or Masters with 2-10 years of Experience in Design Verification Experie | Score: 74
 - Experience: 2-10 yrs | Qualification: Bachelor
 - Requirements: . Defines and develops scalable and reusable IP verification plans, test benches, and architecture for verification environment to ensure coverage to confirm to graphics microarchitecture specifications. Executes verification plans and defines and runs system simulation models to verify the design,
@@ -121,7 +121,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Development Engineer, Customer Experience and Business Trends | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-10-18 (0 days ago) | New today: yes
+- Posted: 2026-10-18 (0 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | - 3+ years of non-internship professional software deve | Score: 70
 - Experience: 3+ yrs
 - ID: 10582077 | Status: open (listed in employer's live search)
@@ -285,7 +285,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Associate Engineer, IT Eng System Mgr | Micron**
 - Location: Hyderabad - Phoenix Aquila, India | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
+- Posted: 2026-10-15 (3 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | to fresh graduates with 0 years of experience. ( Linux and Windows knowledge | Score: 77
 - Experience: 0 yrs | Qualification: Bachelor
 - Requirements: , and supporting Micron’s Responsible AI principles. Provide day-to-day technology direction across Linux and Windows hosts in Lab, Data Center, and Cloud environments. Technical Skills & Tools: Ansible, Kubernetes/OpenShift, RH Satellite, Zabbix, and infrastructure monitoring tools. Virtual
@@ -485,7 +485,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Associate Analyst, Analytics & Metrics | Mastercard**
 - Location: Navi Mumbai, India (Finicity) | Work mode: unspecified
-- Posted: 2026-10-16 (2 days ago) | New today: yes
+- Posted: 2026-10-16 (2 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | a related discipline. 3-4 years of experience in data analytics, business in | Score: 86
 - Experience: 3-4 yrs | Qualification: Bachelor
 - Requirements: . Analysis and Business Insights • Analyze payments and transaction data to identify trends, anomalies, customer behavior, operational performance, and potential growth or efficiency opportunities. Use descriptive statistics, trend analysis, segmentation, model testing, and root-cause analysis •
@@ -506,7 +506,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **SAS SQL - BI Analyst | Citi**
 - Location: Gurugram Haryana India | Work mode: hybrid
-- Posted: 2026-10-16 (2 days ago) | New today: yes
+- Posted: 2026-10-16 (2 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | we are seeking a 2-5 years experienced analytics candidate who should b | Score: 83
 - Experience: 2-5 yrs | Qualification: Bachelor
 - Requirements: Clear articulation of your work to the leadership. Ability to coach and mentor juniors . Skillset you should possess The most important skill that our analyst should possess is their love for data and their eagerness for new challenges & solving new problems. Apart from these, they should also have
@@ -569,7 +569,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Data Engineer | HP**
 - Location: Bengaluru, Karnataka, India | Work mode: unspecified
-- Posted: 2026-10-14 (4 days ago) | New today: yes
+- Posted: 2026-10-14 (4 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | • Typically has 2-4 years of work experience, preferably in data analy | Score: 68
 - Experience: 2-4 yrs | Qualification: Bachelor
 - Requirements: into semantic access, conceptual, logical and/or physical data models. • Translates data into information and insights with clear scenario analysis and business impact and execution plan to drive impact. • Models and frames business scenarios that are meaningful and impact critical business
@@ -915,7 +915,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Professional, Client Tech Support Engineering | Fiserv**
 - Location: Pune - Trion Business Park, India | Work mode: onsite
-- Posted: 2026-10-15 (3 days ago) | New today: no
+- Posted: 2026-10-15 (3 days ago) | New today: no | ALREADY SENT
 - Fit: yes | you'll need to have: 3+ years of experience in technical support and clien | Score: 80
 - Experience: 3+ yrs | Qualification: Bachelor
 - Requirements: r role:As a Client Tech Support Engineering - Professional I, you will play a critical role in providing technical support to our clients. Your contributions will help ensure client satisfaction and facilitate the smooth operation of our services. You will work closely with clients to troubleshoot
@@ -947,7 +947,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Systems Operations Engineer - Dotnet/SQL server/Platform support | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
+- Posted: 2026-10-15 (3 days ago) | New today: yes | ALREADY SENT
 - Fit: yes | Qualifications: 2+ years of Systems Engineering experience, or equiva | Score: 72
 - Experience: 2+ yrs | Qualification: Bachelor
 - Requirements: 2+ years of Systems Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: University degree (B.E. / B.Tech / MCA) in Technology. Hands on experience in MSBI, .NET, .NET Web
@@ -1634,11 +1634,11 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 **Sr. Staff Software Development Engineer | Zscaler**
 - Location: Bangalore, IND | Work mode: unspecified
 - Posted: 2026-10-15 (3 days ago) | New today: no
-- Fit: no | your functional domain 8+ years of software development experience with flue | Score: 51
+- Fit: no | your functional domain 8+ years of software development experience in buildi | Score: 51
 - Experience: 8+ yrs | Qualification: Bachelor
-- Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 8+ years of software development experience with fluency in C and C++ Demonstrated expertise in
-- ID: 5253929007 / 261001_I35920 | Status: open (ATS verified)
-- Apply: https://job-boards.greenhouse.io/zscaler/jobs/5253929007
+- Requirements: Defining software design specifications and implementing bug free code using test driven methodology Looking for opportunities to refactor existing code in the interests of maintainability and reusability Collaborating closely with other cross functional engineering teams (security, UI, platform,
+- ID: 5253927007 / 261001_I35919 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/zscaler/jobs/5253927007
 
 **Manager, Engineering - Identity Threat Protection | Okta**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -3787,6 +3787,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000154983679 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000154983679
 
+**Business Analyst, Support, Supply Chain | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-10-18 (0 days ago) | New today: yes
+- Fit: unknown | Score: 64
+- Qualification: Bachelor
+- ID: 10582081 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10582081/business-analyst-support-supply-chain
+
 **Brand Specialist - AVS, Paid Selling Partner Services | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
 - Posted: 2026-10-14 (4 days ago) | New today: no
@@ -4258,14 +4266,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: 10579628 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10579628/head-linehaul-procurement-amazon-india-operations
-
-**Category Manager, IN Beauty | Amazon**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-10-13 (5 days ago) | New today: no
-- Fit: no | - 4+ years of previous retail experience - Experience i | Score: 47
-- Experience: 4+ yrs
-- ID: 10576850 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10576850/category-manager-in-beauty
 
 **Program Manager - Engineering & Automation Projects , GESI-IN | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified

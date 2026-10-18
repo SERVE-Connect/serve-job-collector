@@ -1,87 +1,87 @@
-# SERVE bulletin picks, 2026-10-18 04:39 UTC
-10 jobs: 1 from today/yesterday, 9 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
+# SERVE bulletin picks, 2026-10-18 07:19 UTC
+10 jobs: 0 from today/yesterday, 10 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
-1. **Software Development Engineer, Customer Experience and Business Trends | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Posted: 2026-10-18 (0 days ago) | fresh
-   - Fit: yes | - 3+ years of non-internship professional software deve | Score 70
-   - ID: 10582077 | open (listed in employer's live search)
-   - Experience: 3+ yrs
-   - Apply: https://www.amazon.jobs/en/jobs/10582077/software-development-engineer-customer-experience-and-business-trends
+1. **Software Engineer I-1 | Mastercard**
+   - Pune, India | Work mode: unspecified | Posted: 2026-10-16 (2 days ago) | fallback (older than yesterday)
+   - Fit: unknown | Score 76
+   - ID: R-293576-1 | open (ATS verified)
+   - Qualification: Bachelor
+   - Requirements: specifications and design artifacts within expected time and budget. •Research, create and evaluate technical solution alternatives for the business needs. •Create systems and testing documentation per department standards. •Follow standards in development and testing to ensure compliance with
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1
 
-2. **Associate Analyst, Analytics & Metrics | Mastercard**
-   - Navi Mumbai, India (Finicity) | Work mode: unspecified | Posted: 2026-10-16 (2 days ago) | fallback (older than yesterday)
-   - Fit: yes | a related discipline. 3-4 years of experience in data analytics, business in | Score 86
-   - ID: R-293135 | open (ATS verified)
-   - Experience: 3-4 yrs | Qualification: Bachelor
-   - Requirements: . Analysis and Business Insights • Analyze payments and transaction data to identify trends, anomalies, customer behavior, operational performance, and potential growth or efficiency opportunities. Use descriptive statistics, trend analysis, segmentation, model testing, and root-cause analysis •
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Associate-Analyst--Analytics---Metrics_R-293135
-
-3. **SAS SQL - BI Analyst | Citi**
-   - Gurugram Haryana India | Work mode: hybrid | Posted: 2026-10-16 (2 days ago) | fallback (older than yesterday)
-   - Fit: yes | we are seeking a 2-5 years experienced analytics candidate who should b | Score 83
-   - ID: 26995705 | open (ATS verified)
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - Requirements: Clear articulation of your work to the leadership. Ability to coach and mentor juniors . Skillset you should possess The most important skill that our analyst should possess is their love for data and their eagerness for new challenges & solving new problems. Apart from these, they should also have
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/SAS-SQL---BI-Analyst_26995705
-
-4. **Tools Development Engineer | NVIDIA**
-   - India, Pune | Work mode: unspecified | Posted: 2026-10-16 (2 days ago) | fallback (older than yesterday)
-   - Fit: yes | equivalent experience. 3+ years of programming experience in Python or equiv | Score 82
-   - ID: JR2028195 | open (ATS verified)
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: (interpersonal and across teams). Excellent analytical and problem-solving skills. Very organized, proactive, and has good learning ability. The ability to work with a team of engineers in a fast-paced environment Ways to stand out from the crowd: Good problem-solving skills (solid logic to apply
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Tools-Development-Engineer_JR2028195
-
-5. **Professional, Client Tech Support Engineering | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Posted: 2026-10-15 (3 days ago) | fallback (older than yesterday)
-   - Fit: yes | you'll need to have: 3+ years of experience in technical support and clien | Score 80
-   - ID: R-10401490 | open (ATS verified)
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: r role:As a Client Tech Support Engineering - Professional I, you will play a critical role in providing technical support to our clients. Your contributions will help ensure client satisfaction and facilitate the smooth operation of our services. You will work closely with clients to troubleshoot
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional--Client-Tech-Support-Engineering_R-10401490
-
-6. **Forward Deployed Software Engineer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-10-15 (3 days ago) | fallback (older than yesterday)
-   - Fit: yes | enhance productivity 3+ years of software development experience with stro | Score 79
-   - ID: JR-0000040669 | open (ATS verified)
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer-Permissions_JR-0000040669
-
-7. **Associate Engineer, IT Eng System Mgr | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Posted: 2026-10-15 (3 days ago) | fallback (older than yesterday)
-   - Fit: yes | to fresh graduates with 0 years of experience. ( Linux and Windows knowledge | Score 77
-   - ID: JR112672 | open (ATS verified)
-   - Experience: 0 yrs | Qualification: Bachelor
-   - Requirements: , and supporting Micron’s Responsible AI principles. Provide day-to-day technology direction across Linux and Windows hosts in Lab, Data Center, and Cloud environments. Technical Skills & Tools: Ansible, Kubernetes/OpenShift, RH Satellite, Zabbix, and infrastructure monitoring tools. Virtual
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer--IT-Eng-System-Mgr_JR112672
-
-8. **GPU Performance Verification Engineer | Intel**
-   - India, Bangalore | Work mode: unspecified | Posted: 2026-10-16 (2 days ago) | fallback (older than yesterday)
-   - Fit: yes | or Masters with 2-10 years of Experience in Design Verification Experie | Score 74
-   - ID: JR0288229 | open (ATS verified)
-   - Experience: 2-10 yrs | Qualification: Bachelor
-   - Requirements: . Defines and develops scalable and reusable IP verification plans, test benches, and architecture for verification environment to ensure coverage to confirm to graphics microarchitecture specifications. Executes verification plans and defines and runs system simulation models to verify the design,
-   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Performance-Verification-Engineer_JR0288229
-
-9. **Systems Operations Engineer - Dotnet/SQL server/Platform support | Wells Fargo**
+2. **Software Development Engineer I | Amazon**
    - Hyderabad, India | Work mode: unspecified | Posted: 2026-10-15 (3 days ago) | fallback (older than yesterday)
-   - Fit: yes | Qualifications: 2+ years of Systems Engineering experience, or equiva | Score 72
-   - ID: R-560210 | open (ATS verified)
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: 2+ years of Systems Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: University degree (B.E. / B.Tech / MCA) in Technology. Hands on experience in MSBI, .NET, .NET Web
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Systems-Operations-Engineer_R-560210
+   - Fit: yes | - 1+ years of non-internship professional software deve | Score 73
+   - ID: 10580014 | open (listed in employer's live search)
+   - Experience: 1+ yrs
+   - Apply: https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i
 
-10. **Data Engineer | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Posted: 2026-10-14 (4 days ago) | fallback (older than yesterday)
-   - Fit: yes | • Typically has 2-4 years of work experience, preferably in data analy | Score 68
-   - ID: 3169354-1 | open (ATS verified)
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: into semantic access, conceptual, logical and/or physical data models. • Translates data into information and insights with clear scenario analysis and business impact and execution plan to drive impact. • Models and frames business scenarios that are meaningful and impact critical business
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Engineer_3169354-1
+3. **Software QA Engineer | NVIDIA**
+   - India, Pune | Work mode: unspecified | Posted: 2026-10-13 (5 days ago) | fallback (older than yesterday)
+   - Fit: yes | BS degree in CS/EE with 3+ Years of Experience Able to build PCs/Systems: Ass | Score 73
+   - ID: JR2027627 | open (ATS verified)
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: and a dedication to meticulous engineering practices are a requirement. Note: This SWQA position is system software related, Selenium web related experience is not applicable for this position. What you’ll be doing: Engineer on this team is expected to - validate products through the use of
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Software-QA-Engineer_JR2027627
+
+4. **Professional, Quality Assurance Engineering | Fiserv**
+   - Pune - Trion Business Park, India | Work mode: onsite | Posted: 2026-10-15 (3 days ago) | fallback (older than yesterday)
+   - Fit: yes | you'll need to have: 4+ years of experience in software quality assurance | Score 72
+   - ID: R-10401189 | open (ATS verified)
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - Requirements: r role: As a Technical Quality Assurance - Sr Professional II, you will play a crucial role in maintaining and improving the quality of our software products. Your expertise will help ensure that our solutions meet the highest standards of performance and reliability. Working closely with
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Tech-Lead--Technical-Quality-Assurance_R-10401189
+
+5. **Software Engineer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-10-16 (2 days ago) | fallback (older than yesterday)
+   - Fit: unknown | Score 71
+   - ID: JR-0000118677 | open (ATS verified)
+   - Qualification: Bachelor
+   - Requirements: and solutions that address business problems and opportunities. Accountabilities Identification and analysis of business problems and client requirements that require change within the organisation. Development of business requirements that will address business problems and opportunities.
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000118677
+
+6. **Machine learning and GEN AI Data Scientist | Citi**
+   - Gurugram Haryana India | Work mode: hybrid | Posted: 2026-10-15 (3 days ago) | fallback (older than yesterday)
+   - Fit: yes | Bachelor’s Degree with 3 years of experience in data analytics, or Master’s | Score 69
+   - ID: 261001979 | open (ATS verified)
+   - Experience: 3 yrs | Qualification: Bachelor
+   - Requirements: Ability to translate and articulate technical thoughts and ideas to a larger audience including influencing skills with peers and senior management. Strong project management skills. Ability to coach and mentor juniors . Contribute to organizational initiatives in wide ranging areas including
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Machine-learning-and-GEN-AI-Data-Scientist_261001979
+
+7. **Systems Engineer -  Workday Platform | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Posted: 2026-10-16 (2 days ago) | fallback (older than yesterday)
+   - Fit: yes | Required Experience: 3-5 years of hands-on configuration/implementation exp | Score 68
+   - ID: JR364391 | open (ATS verified)
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: breakdown and elaboration, configuration, testing execution, compliance mechanics, sprint-level delivery and post-production validation, working with minimal supervision. Integration awareness is also required to evaluate technical complexity and feasibility. Strong understanding of the Workday
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer----Workday-Platform_JR364391
+
+8. **PLC Automation Engineer-ECF2 | Bosch**
+   - bengaluru, India | Work mode: unspecified | Posted: 2026-10-16 (2 days ago) | fallback (older than yesterday)
+   - Fit: yes | or any equivalent 3 - 6 years of related experience Candidate should be wi | Score 68
+   - ID: 744000155960139 | open (ATS verified)
+   - Experience: 3-6 yrs | Qualification: Bachelor
+   - Requirements: . Commissioning the machine in customer location.Ensuring safety of the operator on the machine usage. Good to Have skills: Experience in interfacing with external devices like Servo Drives, Motion Controllers, Screwers Hands-on experience in any HMI building tools like Factory Talk View, InTouch,
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155960139
+
+9. **Site Reliability Engineer | PayPal**
+   - Chennai, Tamil Nadu, India | Work mode: unspecified | Posted: 2026-10-12 (6 days ago) | fallback (older than yesterday)
+   - Fit: yes | and DNS management 2+ years of experience in site reliability engineerin | Score 67
+   - ID: R0138236 | open (ATS verified)
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: to ensure scalability and prevent capacity-related issues. Work with development teams to design and implement reliable, fault-tolerant systems, incorporating best practices for high availability. Ensure smooth and reliable software releases by managing continuous integration and continuous
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Site-Reliability-Engineer_R0138236
+
+10. **Data Product Management Consultant | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Posted: 2026-10-13 (5 days ago) | fallback (older than yesterday)
+   - Fit: yes | Qualifications: 2+ years of data product or data management experienc | Score 65
+   - ID: R-579868 | open (ATS verified)
+   - Experience: 2+ yrs
+   - Requirements: and prioritization and ensure data product solutions are built for optimal performance Manage low to moderate-complexity datasets continuously focusing on the consumers of the data and their business needs, while adhering to set data governance and standards Participate in the creation and
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868
 
 After you post, paste this line into data/sent_ids.txt:
 
 ```
-2026-10-18 10582077 R-293135 26995705 JR2028195 R-10401490 JR-0000040669 JR112672 JR0288229 R-560210 3169354-1
+2026-10-18 R-293576-1 10580014 JR2027627 R-10401189 JR-0000118677 261001979 JR364391 744000155960139 R0138236 R-579868
 ```
