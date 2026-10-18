@@ -13,7 +13,7 @@
  },
  "greenhouse:Rubrik": {
   "ok": true,
-  "listed": 143
+  "listed": 144
  },
  "greenhouse:Elastic": {
   "ok": true,
@@ -25,7 +25,7 @@
  },
  "greenhouse:Zscaler": {
   "ok": true,
-  "listed": 366
+  "listed": 365
  },
  "greenhouse:PubMatic": {
   "ok": true,
@@ -37,7 +37,7 @@
  },
  "greenhouse:Razorpay": {
   "ok": true,
-  "listed": 24
+  "listed": 25
  },
  "greenhouse:Graviton Research Capital": {
   "ok": true,
@@ -53,7 +53,7 @@
  },
  "greenhouse:Stripe": {
   "ok": true,
-  "listed": 731
+  "listed": 732
  },
  "greenhouse:Twilio": {
   "ok": true,
@@ -125,79 +125,79 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 537
+  "listed": 504
  },
  "workday:Mastercard": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 116
  },
  "workday:Autodesk": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 42
  },
  "workday:NVIDIA": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 153
  },
  "workday:Broadcom": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 4
  },
  "workday:BMC Software": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 0
  },
  "workday:Fiserv": {
-  "ok": false,
-  "error": "The read operation timed out"
+  "ok": true,
+  "listed": 13
  },
  "workday:Salesforce": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 103
  },
  "workday:Adobe": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 59
  },
  "workday:HP": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 76
  },
  "workday:Wells Fargo": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 85
  },
  "workday:Barclays": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 122
  },
  "workday:Citi": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 217
  },
  "workday:Capital One": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 14
  },
  "workday:Intel": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 78
  },
  "workday:Qualcomm": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 0
  },
  "workday:Micron": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 80
  },
  "workday:PayPal": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 18
  },
  "workday:Workday": {
-  "ok": false,
-  "error": "not JSON (HTTP 200, text/html): '<!DOCTYPE html> <html lang=\"en\" dir=\"ltr\"> <head> <meta http-equiv=\"Co'"
+  "ok": true,
+  "listed": 35
  },
  "smartrecruiters:Bosch": {
   "ok": true,
@@ -209,6 +209,6 @@
  },
  "amazon:Amazon": {
   "ok": true,
-  "listed": 332
+  "listed": 330
  }
 }
