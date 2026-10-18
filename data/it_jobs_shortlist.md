@@ -1,5 +1,5 @@
-# SERVE jobs, collected 2026-10-18 07:19 UTC
-Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 87. Full list: jobs_latest.md
+# SERVE jobs, collected 2026-10-18 23:18 UTC
+Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 80. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
@@ -7,16 +7,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 ## IT / Software (38)
 
-### Pune (7)
-
-**Software Engineer I-1 | Mastercard**
-- Location: Pune, India | Work mode: unspecified
-- Posted: 2026-10-16 (2 days ago) | New today: yes
-- Fit: unknown | Score: 76
-- Qualification: Bachelor
-- Requirements: specifications and design artifacts within expected time and budget. •Research, create and evaluate technical solution alternatives for the business needs. •Create systems and testing documentation per department standards. •Follow standards in development and testing to ensure compliance with
-- ID: R-293576-1 / R-293576 | Status: open (ATS verified)
-- Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1
+### Pune (6)
 
 **Software Engineer II | Mastercard**
 - Location: Pune, India | Work mode: unspecified
@@ -82,7 +73,16 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10578008 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10578008/software-dev-engineer-ii-amazon-india-cfx-team
 
-### Bangalore (16)
+### Bangalore (17)
+
+**CAD Engineer | NVIDIA**
+- Location: India, Bengaluru | Work mode: unspecified
+- Posted: 2026-10-18 (0 days ago) | New today: yes
+- Fit: yes | equivalent experience 2+ years of relevant work experience Strong problem-s | Score: 80
+- Experience: 2+ yrs | Qualification: Bachelor
+- Requirements: and a dedication to high quality work. A proven track record to conceptualize, design and implement modular and robust EDA tools with well thought out APIs and interfaces would make you an excellent fit. Having a deep understanding of object oriented programming is a prerequisite for this role. If
+- ID: JR2014480-1 / JR2014480 | Status: open (ATS verified)
+- Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/CAD-Engineer_JR2014480-1
 
 **Programmer Analyst II, Relay Product Excellence Agentic Solutions | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -342,9 +342,9 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR109114 / JR109114 | Status: open (ATS verified)
 - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303C---FacilitiesConstruction-India/Construction-Engineer--CSA_JR109114
 
-## Data / Analytics / AI (26)
+## Data / Analytics / AI (24)
 
-### Pune (6)
+### Pune (4)
 
 **Software engineer II (Java, Apache/ Spark, AWS and ETL) | Mastercard**
 - Location: Pune, India | Work mode: unspecified
@@ -363,24 +363,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: , from coding to infrastructure, from data analysis to database management. The ideal candidate will have experience working with large-scale data and building automated data ETL processes for large-scale data analysis. ODS or data warehousing experience would be ideal. Key responsibilities
 - ID: R-292431 / R-292431 | Status: open (ATS verified)
 - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-292431
-
-**Software Engineer - PBI Data Analytics | Barclays**
-- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
-- Fit: unknown | Score: 68
-- Qualification: Bachelor
-- Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-- ID: JR-0000128767 / JR-0000128767 | Status: open (ATS verified)
-- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer---PBI-Data-Analytics_JR-0000128767
-
-**Cloud Data Engineer | Barclays**
-- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
-- Fit: unknown | Score: 68
-- Qualification: Bachelor
-- Requirements: and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L –
-- ID: JR-0000128770 / JR-0000128770 | Status: open (ATS verified)
-- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Cloud-Data-Engineer_JR-0000128770
 
 **IFC - Cloud Data Engineer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
@@ -580,18 +562,9 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000155924839 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155924839
 
-## Cloud / DevOps / Infrastructure (10)
+## Cloud / DevOps / Infrastructure (6)
 
-### Pune (2)
-
-**Site Reliability Engineer II | Mastercard**
-- Location: Pune, India | Work mode: unspecified
-- Posted: 2026-10-13 (5 days ago) | New today: no
-- Fit: unknown | Score: 67
-- Qualification: Master
-- Requirements: The ideal candidate for this position will have: • Experience with one or more application performance management tools such as Dynatrace, AppDynamics, Datadog, etc. • Specific familiarity with Dynatrace strongly preferred • Ability to confidently navigate a Linux environment • Ability to use and
-- ID: R-293452 / R-293452 | Status: open (ATS verified)
-- Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-II_R-293452
+### Pune (1)
 
 **Network Solution Engineer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
@@ -602,16 +575,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0000070248 / JR-0000070248 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Network-Solution-Engineer_JR-0000070248
 
-### Bangalore (4)
-
-**Systems Engineer -  Workday Platform | Salesforce**
-- Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-10-16 (2 days ago) | New today: yes
-- Fit: yes | Required Experience: 3-5 years of hands-on configuration/implementation exp | Score: 68
-- Experience: 3-5 yrs | Qualification: Bachelor
-- Requirements: breakdown and elaboration, configuration, testing execution, compliance mechanics, sprint-level delivery and post-production validation, working with minimal supervision. Integration awareness is also required to evaluate technical complexity and feasibility. Strong understanding of the Workday
-- ID: JR364391 / JR364391 | Status: open (ATS verified)
-- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer----Workday-Platform_JR364391
+### Bangalore (1)
 
 **DevOps Engineer (Application Deployment & Configuration - K8S) | Bosch**
 - Location: bangalore, India | Work mode: unspecified
@@ -621,24 +585,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: Having minimum 3+ years of relevant, hands-on experience as DevOps or experience deployment and operation in Kubernetes (K8S) environment of medium to large scale enterprise Platform, Databases, and application systems. Experience with Software Development Lifecycle – SDLC including development,
 - ID: 744000155720139 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155720139
-
-**Technical Support Engineer - Commerce Cloud | Salesforce**
-- Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-10-14 (4 days ago) | New today: yes
-- Fit: yes | Required 3-4 years engineering/programming experience B2C Comme | Score: 62
-- Experience: 3-4 yrs | Qualification: Bachelor
-- Requirements: Required 3-4 years engineering/programming experience B2C Commerce Cloud (SFCC/SFRA/PWA Kit) JavaScript, HTML, CSS Web services (REST/SOAP APIs) Debugging & troubleshooting Ideal candidates will have strong experience in several of the following: Proficient with HTML, CSS, JavaScript Familiarity
-- ID: JR353944-1 / JR353944 | Status: open (ATS verified)
-- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Support-Engineer---Commerce-Cloud_JR353944-1
-
-**Systems Engineer - Workday HCM | Salesforce**
-- Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-10-15 (3 days ago) | New today: yes
-- Fit: yes | and integration. 4+ years of implementation experience in Workday HRMS | Score: 57
-- Experience: 4+ yrs | Qualification: Bachelor
-- Requirements: a solid background in Workday with hands-on experience in one or more Workday HRMS modules and a good understanding of industry best practices. You will be responsible for configuration, development, and testing through all phases of the implementation lifecycle. Key Responsibilities: Deliver
-- ID: JR364388 / JR364388 | Status: open (ATS verified)
-- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday-HCM_JR364388
 
 ### Chennai (2)
 
@@ -677,9 +623,9 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10575903 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10575903/systems-development-engineer-ii-fo-support
 
-## QA / Testing (10)
+## QA / Testing (9)
 
-### Pune (3)
+### Pune (2)
 
 **Software QA Engineer | NVIDIA**
 - Location: India, Pune | Work mode: unspecified
@@ -689,15 +635,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: and a dedication to meticulous engineering practices are a requirement. Note: This SWQA position is system software related, Selenium web related experience is not applicable for this position. What you’ll be doing: Engineer on this team is expected to - validate products through the use of
 - ID: JR2027627 / JR2027627 | Status: open (ATS verified)
 - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Software-QA-Engineer_JR2027627
-
-**Professional, Quality Assurance Engineering | Fiserv**
-- Location: Pune - Trion Business Park, India | Work mode: onsite
-- Posted: 2026-10-15 (3 days ago) | New today: no
-- Fit: yes | you'll need to have: 4+ years of experience in software quality assurance | Score: 72
-- Experience: 4+ yrs | Qualification: Bachelor
-- Requirements: r role: As a Technical Quality Assurance - Sr Professional II, you will play a crucial role in maintaining and improving the quality of our software products. Your expertise will help ensure that our solutions meet the highest standards of performance and reliability. Working closely with
-- ID: R-10401189 / R-10401189 | Status: open (ATS verified)
-- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Tech-Lead--Technical-Quality-Assurance_R-10401189
 
 **Test Engineer | Barclays**
 - Location: Pune, Gera Commerzone SEZ Chennai, DLF IT Park India | Work mode: unspecified
