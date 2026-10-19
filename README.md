@@ -1,6 +1,6 @@
 # SERVE daily job collector
 
-Runs every night on GitHub Actions (02:47 IST, retries at 04:17 and 06:17 if the first run was not good). Reads company ATS job boards, keeps India jobs
+Runs every morning on GitHub Actions (01:07 UTC = 06:37 IST, retries at 08:07 and 09:37 IST if the first run was not good; GitHub can start scheduled runs late). Reads company ATS job boards, keeps India jobs
 posted in the last 7 days, checks each is still open, and writes:
 
 - `data/bulletin_pick.md`      today's best 8-10 IT jobs for 0-5 years, give this link to the chat
