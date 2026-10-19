@@ -145,6 +145,11 @@ NON_IT = re.compile(
     r"supply chain|procurement|content writer|mechanical|civil engineer|chemical|"
     r"manufacturing|field engineer|program manager|operations manager|product manager|"
     r"facility|data cent(er|re)|\bdceo\b|\bict design|hardware|\bdft\b|\basic\b|semiconductor|telecom operations|multi-?lingual|"
+    r"lithograph|\bplc\b|\bcad\b|chassis|\bvlsi\b|\brtl\b|physical design|pick and place|wafer|\bfab\b|"
+    r"analog|mixed[- ]signal|\bpcb\b|\bip design|soc design|silicon|foundry|metrology|"
+    r"(gpu|asic|soc|rtl|design) verification|process engineer|"
+    r"circuit|clock design|floor ?plan|logic design|\bnand\b|process integration|civil|architectural|interiors?\b|"
+    r"electrical|milkrun|inbound logistic|"
     r"\btax\b|finance|investigat|offboarding|training and quality|coordinator", re.I)
 IT_YES = re.compile(
     r"software|developer|engineer|devops|\bsre\b|site reliability|data scien|data analy|"
@@ -159,7 +164,7 @@ IT_YES = re.compile(
 SEC = re.compile(r"security|cyber|\bsoc\b|penetration|vulnerab|threat|\biam\b|identity (and|&) access|appsec|infosec", re.I)
 DATA_RE = re.compile(r"\bdata\b|analytic|machine learning|\bml\b|\bai\b|genai|business intelligence|\bbi\b|scientist|\betl\b", re.I)
 CLOUD = re.compile(r"devops|\bsre\b|site reliability|cloud|infrastructure|network|systems? (admin|engineer|development)|sysadmin|kubernetes|platform engineer", re.I)
-QA_RE = re.compile(r"\bqa\b|quality assurance|\btest|sdet|automation", re.I)
+QA_RE = re.compile(r"\bqa\b|quality assurance|\btest|sdet|test automation|automation test|qa automation", re.I)
 SUPPORT = re.compile(r"support|helpdesk|help desk|service desk", re.I)
 
 SECTIONS = ["IT / Software", "Data / Analytics / AI", "Cybersecurity",
