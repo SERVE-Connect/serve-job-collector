@@ -2,9 +2,9 @@ name: Daily job collector
 
 on:
   schedule:
-    - cron: "17 21 * * *"   # 02:47 IST, main run
-    - cron: "47 22 * * *"   # 04:17 IST, retry, skipped if today's run was good
-    - cron: "47 0 * * *"    # 06:17 IST, last retry, skipped if today's run was good
+    - cron: "7 1 * * *"     # 06:37 IST, main run (01:07 UTC, same calendar date in UTC and IST)
+    - cron: "37 2 * * *"    # 08:07 IST, retry, skipped if today's run was good
+    - cron: "7 4 * * *"     # 09:37 IST, last retry, skipped if today's run was good
   workflow_dispatch:
     inputs:
       force:
