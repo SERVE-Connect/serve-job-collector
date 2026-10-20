@@ -1,90 +1,74 @@
-# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-10-18 23:18 UTC
-10 jobs, best score first: 1 from today/yesterday, 9 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-10-20 04:35 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Associate Specialist, Implementation | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-16 (2 days ago) | fallback | Score 93
-   - Fit: yes | All About You • 1 to 2 years of experience in “Information Technology” sy
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: 1 to 2 years of experience in “Information Technology” system knowledge, with good understanding of network technology, applications, and project management. • Basic knowledge of payment transaction processing and industry business knowledge • Ability to interact well with the customer •
-   - ID: R-292849 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Associate-Specialist--Implementation_R-292849
+1. **Data Engineer II (Data Warehouse, Big Data, Spark with Scala/Python/Java on Hadoop, Oracle/SQL) | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 90
+   - Fit: yes | All About You • 3-5 years of overall career experience in Data Warehou
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: 3-5 years of overall career experience in Data Warehouse related projects in product or service-based organization • Expertise in Data Engineering and implementing multiple end-to-end DW projects in Big Data environment • Experience of building data pipelines through Spark with Scala/Python/Java
+   - ID: R-292591-1 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II--Data-Warehouse--Big-Data--Spark-with-Scala-Python-Java-on-Hadoop--Oracle-SQL-_R-292591-1
 
-2. **Customer Support Analyst (HCM, Talent, Compensation & Benefits) | Workday**
+2. **SWQA Test Developer Engineer | NVIDIA**
+   - India, Pune | Work mode: unspecified | Section: QA / Testing
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 85
+   - Fit: yes | Engineering. 3-5 years of professional experience in software valid
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: for every SDLC phase. This will expedite key objectives and important metrics of test and quality engineering. Develop AI framework for test strategies, plans, and detailed test cases from customer requirements; regularly implement tests for software features on Tegra-based platforms using
+   - ID: JR2028109 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/SWQA-Test-Developer-Engineer_JR2028109
+
+3. **Fraud & Dispute Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 79
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: and internal policies related to fraud prevention and detection activities. Management and development of KPIs to measure the effectiveness of customer care fraud prevention operations, utilising data and technology to support the identification of areas that require improvement. Monitoring
+   - ID: JR-0000133202-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Fraud---Dispute-Analyst_JR-0000133202-1
+
+4. **Data Engineer II | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 79 | second job
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , review deliverables, assess technical feasibility, and translate data needs into maintainable technical solutions. -Document technical designs, data processes, reusable patterns, and operational procedures while contributing to continuous improvement and knowledge sharing across the team. All
+   - ID: R-292972 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-292972
+
+5. **Automation Engineer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 74 | second job
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+   - ID: JR-0000069743 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Automation-Engineer_JR-0000069743
+
+6. **Sr. Associate Customer Support Analyst (HCM, Talent, Compensation & Benefits) | Workday**
    - IND.Pune | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-14 (4 days ago) | fallback | Score 88
-   - Fit: yes | Experience: Minimum 1 year of experience in technical support, customer
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 73
+   - Fit: no | Experience: Minimum 1 year of experience in technical support, customer
    - Experience: 1 yrs | Qualification: Bachelor
    - Requirements: to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team About the Team At Workday, we bring technical rigor,
    - ID: JR-0110060 | open (ATS verified)
    - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Customer-Support-Analyst--AI-ML-Application-Support-_JR-0110060
 
-3. **Securities & Derivatives Analyst | Citi**
-   - Pune Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-14 (4 days ago) | fallback | Score 87
-   - Fit: yes | doing it for more than 200 years. We do this through our unparalleled global
-   - Experience: 00 yrs | Qualification: Bachelor
-   - Requirements: and knowledge as your career progresses. We have a variety of programs that help employees balance their work and life. In this role, you’re expected to: The Securities & Derivative Analyst 1 is an entry level position responsible for processing orders and transactions originating from trading
-   - ID: 261001143 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst_261001143
+7. **Vice President, Software Engineering | Fiserv**
+   - Pune - Trion Business Park, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-20 (0 days ago) | fresh | Score 71
+   - Fit: no | you will need to have: 10+ years of experience in core banking engineering, m
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: to have: 10+ years of experience in core banking engineering, modernization, implementation, platform transformation, or related technical leadership in banking, fintech, processing, or vendor environments 8+ years of experience defining and delivering migration, upgrade, consolidation, or
+   - ID: R-10404245 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Vice-President--Software-Engineering_R-10404245
 
-4. **HR Associate Partner, AMZL | Amazon**
-   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-14 (4 days ago) | fallback | Score 83
-   - Fit: yes | - 2+ years of human resources experience - 2+ years of
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 10578570 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10578570/hr-associate-partner-amzl
-
-5. **PC Equities Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ Chennai, DLF IT Park India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-18 (0 days ago) | fresh | Score 82
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: , and provision of insights into trading performance. Accountabilities Reconciliation of daily profit and loss (P&L) figures for trading desks to ensure they align with the valued positions in the trading book, investigating and resolving discrepancies between P&L figures to ensure they reflect the
-   - ID: JR-0000115408-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/PC-Equities-Analyst_JR-0000115408-1
-
-6. **SOX IT Compliance Analyst | NVIDIA**
-   - India, Pune India, Bengaluru India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-13 (5 days ago) | fallback | Score 78
-   - Fit: yes | (preferred). Minimum of 3+ years of IT SOX Audit Compliance experience, with
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: . Perform audit, create and document SOX testing work papers, planning & scoping memos, reports, and other documentation in a timely manner. Identify, evaluate, assess, communicate, and document process exceptions, control deficiencies, and remediation plans, understanding the broader impact on
-   - ID: JR2008881 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/SOX-IT-Compliance-Analyst_JR2008881
-
-7. **IN_RBIC_Operations Controller – Outbound Logistics  | Bosch**
-   - Pune, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-13 (5 days ago) | fallback | Score 73
-   - Fit: yes | Mgt. Sciences., Minimum 3-5 years of work experience in similar capacity in Mi
-   - Experience: 3-5 yrs | Qualification: Diploma
-   - ID: 744000155238219 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155238219
-
-8. **Process Trainer - TL - Lending | Paytm**
-   - Pune, Maharashtra | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-10-15 (3 days ago) | fallback | Score 72
-   - Fit: yes | Requirements: -4+ years of experience in Sales Training, Learning &
-   - Experience: 4+ yrs | Qualification: Bachelor
-   - Requirements: 4+ years of experience in Sales Training, Learning & Development, or Training Delivery within Banking, NBFC, Fintech, or Lending domains. -The ideal candidate will be responsible for enhancing product knowledge, sales capabilities, and process adherence through engaging learning interventions and
-   - ID: 601f0c35-ed32-4447-b39d-82cd4c6e14b8 | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/601f0c35-ed32-4447-b39d-82cd4c6e14b8
-
-9. **Expertise Technical Writer (8+ Years - Madcap Flare, HTML, Microsoft Word, SharePoint)  || Noida | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-10-16 (2 days ago) | fallback | Score 65
-   - Fit: no | Technical Writer (8+ Years - Madcap Flare, HTML, Microsoft Word, ShareP
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: excellent writing and verbal communication skills, experience writing business documentation, and a demonstrated ability to work in a fast-paced development environment. What you will do: Create user guides, release notes, quick references, and other assigned content. Analyze and translate
-   - ID: R-10403875 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Expertise-Technical-Writer--8--Years---Madcap-Flare--HTML--Microsoft-Word--SharePoint------Noida_R-10403875
-
-10. **Senior Product Manager, Analytics and Agentic Platform  | PubMatic**
-   - Pune, IN | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-16 (2 days ago) | fallback | Score 64
-   - Fit: no | Required Qualifications 6-8+ years of Product Management experience, including
-   - Experience: 6-8 yrs | Qualification: Bachelor
-   - Requirements: for PubMatic's data visualization, reporting, and analytics platform. Develop clear, compelling PRDs and user stories for new initiatives and enhancements, including business justification, revenue potential, and operational impact. Monitor product adoption, proactively identify opportunities, and
-   - ID: 5452327008 | open (ATS verified)
-   - Apply: https://pubmatic.com/job/?gh_jid=5452327008
+8. **Senior Technical Consultant - Agentforce (Salesforce development exp mandatory) | Salesforce**
+   - India - Bangalore India - Pune India - Hyderabad India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 67
+   - Fit: no | Consultant with 5+ years of experience to lead the charge on complex
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: and integrate seamlessly with existing customer ecosystems. • Data Configuration & Integration : Own the entire data lifecycle, from strategic design of data models to hands-on building of efficient processing pipelines and establishing seamless integration strategies. You'll ensure data is always
+   - ID: JR364838 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---Agentforce--Salesforce-development-exp-mandatory-_JR364838

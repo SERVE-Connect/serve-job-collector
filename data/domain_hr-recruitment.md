@@ -1,35 +1,36 @@
-# SERVE ranked list: HR & Recruitment jobs (0-5 years, matched by keyword), collected 2026-10-18 23:18 UTC
-4 jobs, best score first: 1 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: HR & Recruitment jobs (0-5 years, matched by keyword), collected 2026-10-20 04:35 UTC
+4 jobs, best score first: 2 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **HR Associate Partner, AMZL | Amazon**
-   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-14 (4 days ago) | fallback | Score 83
-   - Fit: yes | - 2+ years of human resources experience - 2+ years of
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 10578570 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10578570/hr-associate-partner-amzl
-
-2. **GSS - Tech Sourcing Recruiter , WWAS TA C Sourcing | Amazon**
+1. **GSS - Tech Sourcing Recruiter , WWAS TA C Sourcing | Amazon**
    - Hyderabad - Virtual, India | Work mode: remote | Section: Non-IT / Other
-   - Posted: 2026-10-15 (3 days ago) | fallback | Score 77 | second job
+   - Posted: 2026-10-15 (5 days ago) | fallback | Score 71
    - Fit: yes | - 2+ years of corporate or search firm progressive recr
    - Experience: 2+ yrs | Qualification: Bachelor
    - ID: 10579616 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10579616/gss-tech-sourcing-recruiter-wwas-ta-c-sourcing
 
-3. **Talent Acquisition- Intern || Noida || | Paytm**
+2. **Talent Acquisition Intern | Paytm**
    - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-10-18 (0 days ago) | fresh | Score 67
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 64
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , coordinating interviews, candidate communication, maintaining recruitment trackers, and supporting hiring drives. Key Responsibilities: * Source and screen candidates for roles through LinkedIn, Naukri and other platforms. * Identify relevant profiles based on technical requirements and job
+   - ID: 6d7551f7-34c3-46a2-a4e4-18b29f15338c | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/6d7551f7-34c3-46a2-a4e4-18b29f15338c
+
+3. **Cloud Account Executive | Salesforce**
+   - India - Gurgaon | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 63
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
+   - ID: JR364828 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Cloud-Account-Executive_JR364828
+
+4. **Talent Acquisition- Intern || Noida || | Paytm**
+   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-10-18 (2 days ago) | fallback | Score 61 | second job
    - Fit: unknown
    - Requirements: Required -Strong communication and interpersonal skills -Basic understanding of recruitment and hiring processes, candidate sourcing and screening skills -Good stakeholder and candidate coordination abilities -Proficiency in MS Excel, Google Sheets, and Microsoft Office -Strong organizational and
    - ID: 648841ab-2778-4759-a4c9-eabae97ec65d | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/648841ab-2778-4759-a4c9-eabae97ec65d
-
-4. **HR- Talent Acquisition | Paytm**
-   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-10-14 (4 days ago) | fallback | Score 58 | second job
-   - Fit: yes | Noida Experience: 4–6 years About the Role Paytm is looking for a sharp,
-   - Experience: 4-6 yrs
-   - Requirements: 4–6 years of experience in Talent Acquisition, with exposure to leadership or executive hiring. - Strong headhunting, sourcing, talent mapping, and stakeholder management skills. - Excellent communication, negotiation, and relationship-building abilities. - Proven ability to engage senior
-   - ID: f36b0ad5-3b34-45e0-ae01-da693a8adc0f | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/f36b0ad5-3b34-45e0-ae01-da693a8adc0f

@@ -1,92 +1,92 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-18 23:18 UTC
-10 jobs, best score first: 2 from today/yesterday, 8 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-20 04:35 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Engineering Manager - Software Engineering | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-16 (2 days ago) | fallback | Score 64
-   - Fit: no | & Qualifications • 10+ years of experience in software engineering with l
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: , design, dependencies) • Drive predictable execution with clear milestones and timelines • Proactively manage risks, blockers, and cross-team dependencies Operational Excellence • Ensure systems meet expectations for reliability, scalability, and performance • Drive adoption of monitoring,
-   - ID: R-293579 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Engineering-Manager---Software-Engineering_R-293579
-
-2. **Vice President – AI Engineer | Barclays**
-   - Pune, Gera Commerzone SEZ Bengaluru, Maruthi Onyx - TESCO TSA India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-16 (2 days ago) | fallback | Score 64
-   - Fit: no | or related discipline 12+ years software engineering experience or experienc
-   - Experience: 12+ yrs | Qualification: Bachelor
-   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - ID: JR-0000101368-3 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Vice-President---AI-Engineer_JR-0000101368-3
-
-3. **Sr. Associate Support Engineer (AI & ML Application Support) | Workday**
-   - IND.Pune | Work mode: onsite | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-14 (4 days ago) | fallback | Score 64
-   - Fit: no | Experience: Minimum 3 years of experience in technical support engineeri
-   - Experience: 3 yrs | Qualification: Bachelor
-   - Requirements: to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team At Workday, we bring technical rigor, customer empathy,
-   - ID: JR-0110061 | open (ATS verified)
-   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Support-Engineer--AI-ML---Platform-Operations-_JR-0110061
-
-4. **Expertise QA Automation (12+ Years Exp - Hands on Selenium, JAVA,  API, SQL, DevOps, AWS / Azure) || Pune | Fiserv**
+1. **Vice President, Software Engineering | Fiserv**
    - Pune - Trion Business Park, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-15 (3 days ago) | fallback | Score 62
-   - Fit: no | QA Automation (12+ Years Exp - Hands on Selenium, JAVA, API, SQL, Dev
-   - Experience: 12+ yrs | Qualification: Bachelor
-   - Requirements: r role: At Fiserv, we are dedicated to transforming financial services technology to benefit our clients. As an Automation QA - Advisor , you will play a critical role in designing, developing and maintaining high-quality test automation frameworks and quality engineering practices. You will work
-   - ID: R-10404807 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Expertise-QA-Automation--12--Years-Exp---Hands-on-Selenium--JAVA---API--SQL--DevOps--AWS---Azure-----Pune_R-10404807
+   - Posted: 2026-10-20 (0 days ago) | fresh | Score 71
+   - Fit: no | you will need to have: 10+ years of experience in core banking engineering, m
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: to have: 10+ years of experience in core banking engineering, modernization, implementation, platform transformation, or related technical leadership in banking, fintech, processing, or vendor environments 8+ years of experience defining and delivering migration, upgrade, consolidation, or
+   - ID: R-10404245 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Vice-President--Software-Engineering_R-10404245
 
-5. **Business Intelligence Senior Associate  | PubMatic**
-   - Pune, IN | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-12 (6 days ago) | fallback | Score 60
-   - Fit: no | for You to Have Proven 5 to 8 years of experience in data analysis, or a similar
-   - Experience: 5-8 yrs | Qualification: Bachelor
-   - Requirements: Ability to present complex findings in a clear, concise, and actionable way to technical and non-technical stakeholders. Technical skills such as Excel, Looker, MYSQL, forecasting, impact measurement, AB Testing, are a must. Knowledge of Excel macro/VBA, Python, and Ad Tech experience is good to
-   - ID: 5449888008 | open (ATS verified)
-   - Apply: https://pubmatic.com/job/?gh_jid=5449888008
-
-6. **Senior SOC Design Engineer - Networking Group | NVIDIA**
-   - India, Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-18 (0 days ago) | fresh | Score 56
-   - Fit: no | experience) / MS with 3+ years of practical semiconductor design and archit
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: firsthand experience & solid understanding of all phases of SOC development in multiple ASIC projects including ASIC architecture, Micro-Architecture, RTL design, verification, timing closure & Physical design. Exposure to design and verification tools (Verilog/SV or equivalent, Cadence or
-   - ID: JR2019778 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-SOC-Design-Engineer---Networking-Group_JR2019778
-
-7. **Lead Java Developer - Vice President | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-13 (5 days ago) | fallback | Score 56
-   - Fit: no | Qualifications: 12-15 years of relevant experience in Apps Development r
-   - Experience: 12-15 yrs | Qualification: Bachelor
-   - Requirements: 12-15 years of relevant experience in Apps Development role with hand on coding Demonstrated thought leadership in designing complex and distrusted systems In depth knowledge of Java, Spring, Kafka, Distributed Cache/Systems (e.g. Apache Ignite) Any experience with NoSQL databases like MongoDB is
-   - ID: 26999960 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Lead-Java-Developer---Vice-President_26999960
-
-8. **Senior InfoSec Analyst | MongoDB**
-   - Gurugram | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-15 (3 days ago) | fallback | Score 55
-   - Fit: no | What We're Looking For 5+ years in security operations, incident response, d
+2. **Senior System Software Engineer - Local AI | NVIDIA**
+   - India, Pune | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 67
+   - Fit: no | equivalent experience. 5+ years of relevant software development, with stron
    - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: 5+ years in security operations, incident response, detection engineering, or a related field Hands-on experience leading incidents end to end, including clear stakeholder communication during and after an event Strong log analysis skills in a SIEM and fluency with EDR tools Working knowledge of
-   - ID: 8264766 | open (ATS verified)
-   - Apply: https://www.mongodb.com/careers/job/?gh_jid=8264766
+   - Requirements: , design, and maintain shared infrastructure for deploying, benchmarking, and qualifying AI workloads across infernece backends such as llama.cpp, Ollama, PyTorch, vLLM, and WinML. Build Git-based CI infrastructure for automated builds, integration testing, and regression detection across hardware
+   - ID: JR2027806 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer---Local-AI_JR2027806
 
-9. **Technical Trainer / Certified Instructor (VCI) – VMware Cloud Foundation (VCF) | Broadcom**
-   - IND-Bangalore-Kalyani Vista II IND-Hyderabad 115 IT Park Area IND-Pune EON Kharadi Infrastructure India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-13 (5 days ago) | fallback | Score 55
-   - Fit: no | may be considered. 12+ years related experience required Broadcom is prou
-   - Experience: 12+ yrs | Qualification: Bachelor
-   - Requirements: VCF Platform Architecture: Multi-domain architecture, deployment, full-stack lifecycle management, and Day-2 operational strategies. Compute & Virtualization: vSphere, ESXi host tuning, vCenter Server, cluster management, high availability (HA), DRS, and workload lifecycle operations. SDDC
-   - ID: R027371 | open (ATS verified)
-   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Technical-Trainer---Certified-Instructor--VCI----VMware-Cloud-Foundation--VCF-_R027371
+3. **Senior Technical Consultant - Agentforce (Salesforce development exp mandatory) | Salesforce**
+   - India - Bangalore India - Pune India - Hyderabad India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 67
+   - Fit: no | Consultant with 5+ years of experience to lead the charge on complex
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: and integrate seamlessly with existing customer ecosystems. • Data Configuration & Integration : Own the entire data lifecycle, from strategic design of data models to hands-on building of efficient processing pipelines and establishing seamless integration strategies. You'll ensure data is always
+   - ID: JR364838 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---Agentforce--Salesforce-development-exp-mandatory-_JR364838
 
-10. **Lead Software Development Engineer | Razorpay**
+4. **Lead Software Engineer | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 65
+   - Fit: no
+   - Qualification: Bachelor
+   - Requirements: / Requirements Strong hands-on experience in Java, J2EE, Spring, and Spring Boot Strong hands-on experience with React and/or Angular Deep experience with REST APIs, Web Services, and microservices architecture Strong experience with Oracle/SQL, including query optimization and data validation
+   - ID: R-293851-1 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-293851-1
+
+5. **Forward Deployed Engineer, FDE (L4) | Databricks**
+   - Remote - India | Work mode: remote | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 63
+   - Fit: no | What we look for: 9+ years of experience in data engineering, data plat
+   - Experience: 9+ yrs | Qualification: Master
+   - Requirements: . Experience working with enterprise clients and managing conflicts across a broad stakeholder range Build skills in technical areas, and demonstrate curiosity, adaptability, and eagerness to explore new technologies which support the deployment and integration of Databricks-based solutions to
+   - ID: 8876613002 | open (ATS verified)
+   - Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002
+
+6. **Lead Business Execution Consultant Product Owner AI Agentic | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 54
+   - Fit: no | Qualifications: 5+ years of Business Execution, Implementation, or St
+   - Experience: 5+ yrs
+   - Requirements: , capabilities, and measurable outcomes Drive accountability for strategic initiatives by monitoring progress, managing dependencies, mitigating risk, and identifying opportunities to improve operational efficiency Evaluate business processes, product performance, data, and stakeholder feedback to
+   - ID: R-575953 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953
+
+7. **Senior Staff Machine Learning Engineer | ServiceNow**
+   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 54
+   - Fit: no | is built and run. • 14+ years of experience designing, building, and opera
+   - Experience: 14+ yrs | Qualification: Bachelor
+   - Requirements: Experience leveraging or critically thinking about how to integrate AI into engineering and platform work—AI-powered tooling, automated operational workflows, agentic systems for fleet visibility and operations, or reasoning about AI’s impact on how infrastructure is built and run. • 14+ years of
+   - ID: 744000156267489 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000156267489
+
+8. **Lead Database Administrator | Razorpay**
    - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-17 (1 days ago) | fresh | Score 53
-   - Fit: no | Qualifications: 5+ years of experience in Technology. A strong produc
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 53
+   - Fit: no | Have at least 6+ years of experience running MySQL/PostgreSQL datab
+   - Experience: 6+ yrs | Qualification: Bachelor
+   - Requirements: Have at least 6+ years of experience running MySQL/PostgreSQL databases in large environments. Awareness of cloud infrastructure (AWS/GCP). Have knowledge of the internals of MySQL/PostgreSQL. Knowledge of load balancing solutions such as ProxySQL to distribute database traffic efficiently across
+   - ID: 4744101005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744101005
+
+9. **Identity and Cyber Security Services | Broadcom**
+   - IND-Bangalore Electronic City - S1 | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 53
+   - Fit: no | with a minimum of 5 years IT Support experience is desired. This is a
+   - Experience: 5 yrs | Qualification: Bachelor
+   - Requirements: & Experience Technical Proficiencies Identity & Access Management: Deep practical knowledge of industry standard identity providers, federation standards (SAML, OAuth, SCIMv2), and large-scale, multi-domain Active Directory environments. ZTNA & Network Security: Demonstrated proficiency with ZTNA
+   - ID: R027409 | open (ATS verified)
+   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/Identity-and-Cyber-Security-Services_R027409
+
+10. **Sr Software Engineer - Python | PayPal**
+   - Bangalore, Karnataka, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 53
+   - Fit: no | What you need to bring 5+ years of software engineering experience and a bac
    - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: 5+ years of experience in Technology. A strong product design sense. Good experience in working with any of the programming languages like PHP, Python, Django, Golang, Java, C++ Understand end-user requirements, formulate use cases and come up with effective solutions. Good understanding of REST
-   - ID: 4743544005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4743544005
+   - Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : What you need to bring 5+ years of software engineering experience and a bachelor’s degree in computer science or a related field
+   - ID: R0138315-1 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0138315-1

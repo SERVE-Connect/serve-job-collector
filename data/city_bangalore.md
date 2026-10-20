@@ -1,91 +1,91 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-18 23:18 UTC
-10 jobs, best score first: 4 from today/yesterday, 6 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-20 04:35 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **CAD Engineer | NVIDIA**
-   - India, Bengaluru | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-18 (0 days ago) | fresh | Score 80
-   - Fit: yes | equivalent experience 2+ years of relevant work experience Strong problem-s
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: and a dedication to high quality work. A proven track record to conceptualize, design and implement modular and robust EDA tools with well thought out APIs and interfaces would make you an excellent fit. Having a deep understanding of object oriented programming is a prerequisite for this role. If
-   - ID: JR2014480-1 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/CAD-Engineer_JR2014480-1
-
-2. **Financial Representative, Global Accounts Payable | Zscaler**
-   - Bangalore, IND | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-16 (2 days ago) | fallback | Score 74
-   - Fit: yes | or a related field with 1 to 3 years of Accounts Payable, Invoice processing &amp
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - Requirements: clarity to financial operations by executing straightforward, transparent compliance and auditing procedures. You operate with urgency. You balance speed and quality in high-volume environments to ensure strict SLA compliance and timely booking. What We’re Looking for (Minimum Qualifications)
-   - ID: 5256622007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5256622007
-
-3. **Travel 2 Expense (Immediate Joiner) | Bosch**
-   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-14 (4 days ago) | fallback | Score 73
-   - Fit: yes | Experience : Prior 2-5years experience in Corporate credit card or Trave
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - Requirements: Proven experience with corporate credit card operations and support. Familiarity with corporate payment systems and expense management platforms. Basic understanding of financial concepts such as billing, statements, and chargebacks. Experience with Citi Bank corporate card systems is a strong
-   - ID: 744000155464259 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155464259
-
-4. **GTM Support Specialist | Autodesk**
-   - Bengaluru, IND | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-16 (2 days ago) | fallback | Score 68
-   - Fit: yes | equivalent experience. 3+ years of sales/sales management/sales support/sale
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: great customer management and business consultancy skills? Are you passionate about engaging your customers and collaborating with everyone you work with? If this sounds like you, read on! In this role, you will actively be involved in developing, executing, supporting, and/or reviewing the
-   - ID: 26WD101454-1 | open (ATS verified)
-   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/GTM-Support-Specialist_26WD101454-1
-
-5. **Data Product Management Consultant | Wells Fargo**
+1. **Data Engineer I | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-13 (5 days ago) | fallback | Score 65
-   - Fit: yes | Qualifications: 2+ years of data product or data management experienc
-   - Experience: 2+ yrs
-   - Requirements: and prioritization and ensure data product solutions are built for optimal performance Manage low to moderate-complexity datasets continuously focusing on the consumers of the data and their business needs, while adhering to set data governance and standards Participate in the creation and
-   - ID: R-579868 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Data-Product-Management-Consultant_R-579868
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 78
+   - Fit: yes | - 1+ years of data engineering experience - Experience
+   - Experience: 1+ yrs
+   - ID: 10582732 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10582732/data-engineer-i
 
-6. **Enterprise Risk Officer, ECRM | AlphaSense**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-13 (5 days ago) | fallback | Score 65
-   - Fit: yes | You have at least 2+ years of experience in risk, compliance, audit, or
+2. **Lab Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Clinical / Research
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 77
+   - Fit: yes | Diploma / ITI with 2-3yrs of working experience Preferred Qualificatio
+   - Experience: 2-3 yrs | Qualification: Diploma
+   - Requirements: and assesses projects to analyze risks and rewards, drive procurement of equipment and other lab materials, and development of lab infrastructure. Ensures lab preparedness including bench set-up, procurement of test equipment and other lab materials, and infrastructure requirements. Collaborates
+   - ID: JR0288179 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Lab-Engineer_JR0288179
+
+3. **Business Execution Consultant | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Also hiring in: Hyderabad, India | Section: Non-IT / Other
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 77
+   - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
    - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: experience supporting or delivering risk management activities within a regulated or structured environment with specific focus on enterprise, operational and regulatory risk. You are familiar with identifying, assessing, and monitoring risks, and you understand how enterprise risk frameworks
-   - ID: 8884900002 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/alphasenseindia/jobs/8884900002
+   - Requirements: 2+ years of Business Execution, Implementation, or Strategic Planning experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: Experience in Global incident monitoring / command center,
+   - ID: R-576594 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-576594
 
-7. **Business Analyst, Support, Supply Chain | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-18 (0 days ago) | fresh | Score 64
+4. **Build & Artifact_Engineer_EPS1 | Bosch**
+   - hosur road bangalore, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 63
+   - Fit: yes | Electronics background 4 to 7 years
+   - Experience: 4-7 yrs | Qualification: Bachelor
+   - Requirements: Skills Build System Development: Strong, hands-on expertise in implementing scalable and maintainable build systems with modern CMake. Dependency Management: Proven experience with C++ package managers, specifically Conan, including creating recipes and managing binary packages. Embedded
+   - ID: 744000156230140 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156230140
+
+5. **Opportunity Consultant - Managed Print Services | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 63
+   - Fit: yes | • Typically has 4-7 years of work experience, preferably in contractin
+   - Experience: 4-7 yrs | Qualification: Bachelor
+   - Requirements: Agile Methodology • Amazon Web Services • Application Programming Interface (API) • Artificial Intelligence • Auditing • Automation • Big Data • Business Process • Computer Science • DevOps • Emerging Technologies • Java (Programming Language) • Machine Learning • Microsoft Azure • Python
+   - ID: 3169312-2 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Opportunity-Consultant---Managed-Print-Services_3169312-2
+
+6. **Engineer | Micron**
+   - Hyderabad - Phoenix Aquila, India Bengaluru, India India | Work mode: unspecified | Also hiring in: Sanand - 303C - Facilities/Construction, India | Section: IT / Software
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 60
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: 10582081 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10582081/business-analyst-support-supply-chain
+   - Requirements: and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification. Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the
+   - ID: JR107840 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer_JR107840
 
-8. **Corporate Accounting Analyst (Bangalore) | Stripe**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-15 (3 days ago) | fallback | Score 62
-   - Fit: yes | possesses 4–6 years of progressive accounting experience , and b
-   - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To further this important mission, we're building our Accounting team in Bangalore Finance and are looking for someone to help us scale for the future in a fast-paced
-   - ID: 8273713 | open (ATS verified)
-   - Apply: https://stripe.com/jobs/search?gh_jid=8273713
+7. **Application Security Engineer | Autodesk**
+   - Bengaluru, IND | Work mode: unspecified | Section: Cybersecurity
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 60
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Foundational understanding of application security principles and secure software design Familiarity with threat modeling concepts and methodologies such as Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege (STRIDE), data flow diagrams, and
+   - ID: 26WD100819-2 | open (ATS verified)
+   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Application-Security-Engineer_26WD100819-2
 
-9. **Senior SOC Design Engineer - Networking Group | NVIDIA**
-   - India, Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-18 (0 days ago) | fresh | Score 56 | second job
-   - Fit: no | experience) / MS with 3+ years of practical semiconductor design and archit
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: firsthand experience & solid understanding of all phases of SOC development in multiple ASIC projects including ASIC architecture, Micro-Architecture, RTL design, verification, timing closure & Physical design. Exposure to design and verification tools (Verilog/SV or equivalent, Cadence or
-   - ID: JR2019778 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-SOC-Design-Engineer---Networking-Group_JR2019778
+8. **2027 Intern - Research PhD Intern | Adobe**
+   - Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 60
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Current PhD student in computer science, or related field Sufficient research skills and background in your chosen subject area Strong communication skills and teamwork experience Passion for solving real-world problems with web-scale data using and inventing innovative Machine Learning algorithms.
+   - ID: R173016 | open (ATS verified)
+   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016
 
-10. **Lead Software Development Engineer | Razorpay**
+9. **Business Operations - General Manager - CST Travel | Paytm**
+   - Bengaluru, Karnataka | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 54
+   - Fit: no | preferred). Experience: 10–14+ years of overall experience with a proven track re
+   - Experience: 10-14 yrs | Qualification: Bachelor
+   - Requirements: & Requirements Education: Graduate/Post-Graduate degree in Engineering, Data Analytics, Operations Management, or Business Administration (MBA preferred). Experience: 10–14+ years of overall experience with a proven track record in Business Operations, Operational Analytics, or CRM/AI
+   - ID: cd3a4d7e-931d-4b02-86e0-3b6678cfb37e | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/cd3a4d7e-931d-4b02-86e0-3b6678cfb37e
+
+10. **Lead Database Administrator | Razorpay**
    - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-17 (1 days ago) | fresh | Score 53
-   - Fit: no | Qualifications: 5+ years of experience in Technology. A strong produc
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: 5+ years of experience in Technology. A strong product design sense. Good experience in working with any of the programming languages like PHP, Python, Django, Golang, Java, C++ Understand end-user requirements, formulate use cases and come up with effective solutions. Good understanding of REST
-   - ID: 4743544005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4743544005
+   - Posted: 2026-10-19 (1 days ago) | fresh | Score 53
+   - Fit: no | Have at least 6+ years of experience running MySQL/PostgreSQL datab
+   - Experience: 6+ yrs | Qualification: Bachelor
+   - Requirements: Have at least 6+ years of experience running MySQL/PostgreSQL databases in large environments. Awareness of cloud infrastructure (AWS/GCP). Have knowledge of the internals of MySQL/PostgreSQL. Knowledge of load balancing solutions such as ProxySQL to distribute database traffic efficiently across
+   - ID: 4744101005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744101005
