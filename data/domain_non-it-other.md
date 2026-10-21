@@ -1,42 +1,25 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-21 03:13 UTC
-10 jobs, best score first: 4 from today/yesterday, 6 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-21 09:56 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Enterprise Sales Development Representative | Workday**
-   - India, Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-19 (2 days ago) | fallback | Score 88
-   - Fit: yes | Sales Acumen: 2+ years of proven experience in an inbound and/or ou
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team Our India Sales Development team is where Workday's
-   - ID: JR-0110930 | open (ATS verified)
-   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/India-Mumbai/Enterprise-Sales-Development-Representative_JR-0110930
+1. **Analyst - KYB Operations | Nium**
+   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 93
+   - Fit: yes | or automation. Analyst: 3-6 years (3 years min in KYC/B onboarding, Periodic R
+   - Experience: 3-6 yrs | Qualification: Bachelor
+   - Requirements: across US, EU, and APAC region. Experience in global payments or remittance organizations will be an added advantage. Experience in working with Product/Tech teams to implement product changes or automation. Attention to detail and good organizational skills are essential. Can prioritize, organize
+   - ID: 0f9c92d5-3b3a-42a2-9e64-7a6eea72caff | open (ATS verified)
+   - Apply: https://jobs.lever.co/nium/0f9c92d5-3b3a-42a2-9e64-7a6eea72caff
 
-2. **Associate Specialist, Implementation | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-16 (5 days ago) | fallback | Score 84
-   - Fit: yes | All About You • 1 to 2 years of experience in “Information Technology” sy
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: 1 to 2 years of experience in “Information Technology” system knowledge, with good understanding of network technology, applications, and project management. • Basic knowledge of payment transaction processing and industry business knowledge • Ability to interact well with the customer •
-   - ID: R-292849 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Associate-Specialist--Implementation_R-292849
+2. **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 86
+   - Fit: yes | Qualifications: 4-6years of experience in financial services, prefera
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - Requirements: 4-6years of experience in financial services, preferably with exposure to risk and control activities, compliance, or operations. Fundamental understanding of Treasury products, accounting, and regulatory policies Ability to juggle between tasks and communicate with multiple stakeholders Handhold &
+   - ID: 261002608 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_261002608
 
-3. **GFOCC Tech, GFOCC | Amazon**
-   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-19 (2 days ago) | fallback | Score 83
-   - Fit: yes | or equivalent diploma - 2+ years of Computer Hardware Repair, Infrastructure
-   - Experience: 2+ yrs | Qualification: Diploma
-   - ID: 10582387 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10582387/gfocc-tech-gfocc
-
-4. **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
-   - Pune Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 79
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: . Perform root cause analysis on recurring issues and work with Technology, Product and Operations teams to implement sustainable solutions. Maintain strong balance sheet controls and substantiation processes supporting revenue and transaction expense accounting. Monitor key risk indicators and
-   - ID: 26974781 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_26974781
-
-5. **Securities Operations Specialist | Wells Fargo**
+3. **Securities Operations Specialist | Wells Fargo**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-20 (1 days ago) | fresh | Score 77
    - Fit: yes | Qualifications: 2+ years of Securities Operations experience, or equi
@@ -45,34 +28,16 @@
    - ID: R-562212-1 | open (ATS verified)
    - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Operations-Specialist_R-562212-1
 
-6. **Fraud & Dispute Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-19 (2 days ago) | fallback | Score 76
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: and internal policies related to fraud prevention and detection activities. Management and development of KPIs to measure the effectiveness of customer care fraud prevention operations, utilising data and technology to support the identification of areas that require improvement. Monitoring
-   - ID: JR-0000133202-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Fraud---Dispute-Analyst_JR-0000133202-1
+4. **Commercial Loan Servicing Representative | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 67 | second job
+   - Fit: yes | Qualifications: 4+ years of Commercial Loan Servicing support experie
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - Requirements: to support accurate transaction processing. Coordinate and reconcile loan advances, payments, and letters of credit with customers and participating banks. Support loan trading, assignments, and related servicing activities. Prioritize daily work and provide work direction and mentorship to the
+   - ID: R-579363-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Commercial-Loan-Servicing-Representative_R-579363-1
 
-7. **Data Analyst, Business Finance | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-16 (5 days ago) | fallback | Score 70
-   - Fit: yes | Requirements : ● 0-2 years of experience in reporting, analytics and AI
-   - Experience: 0-2 yrs | Qualification: Bachelor
-   - Requirements: and process improvements and automations through AI powered workflows Will be responsible for setting up automated business reports and ensuring data accuracy Requirements : ● 0-2 years of experience in reporting, analytics and AI ● Should have had hands-on experience with SQL, Python, Claude and
-   - ID: 4744129005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744129005
-
-8. **Travel 2 Expense (Immediate Joiner) | Bosch**
-   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-14 (7 days ago) | fallback | Score 70
-   - Fit: yes | Experience : Prior 2-5years experience in Corporate credit card or Trave
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - Requirements: Proven experience with corporate credit card operations and support. Familiarity with corporate payment systems and expense management platforms. Basic understanding of financial concepts such as billing, statements, and chargebacks. Experience with Citi Bank corporate card systems is a strong
-   - ID: 744000155464259 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155464259
-
-9. **Talent Acquisition Intern - IT Recruitment | Paytm**
+5. **Talent Acquisition Intern - IT Recruitment | Paytm**
    - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
    - Posted: 2026-10-20 (1 days ago) | fresh | Score 64
    - Fit: unknown
@@ -81,7 +46,24 @@
    - ID: 95eadc2b-27bf-40fe-b6e6-93aaeadd08f7 | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/95eadc2b-27bf-40fe-b6e6-93aaeadd08f7
 
-10. **Manufacturing Associate | Micron**
+6. **BGSW_2026_SAP_SD_JIT | Bosch**
+   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 63
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Preferred Skills :
+   - ID: 744000156722473 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156722473
+
+7. **BGSW_2026_Teamcentre_Data_Migration | Bosch**
+   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 63 | second job
+   - Fit: unknown
+   - Requirements: Strong knowledge of Teamcenter data model, especially for these object types Design, BOM, Projects, Folder Structures, ECM, Resources, PartSpecs, Standards/Norms, Datasets/Documents, BOP, Toolshop, and other custom object types Hands-on experience with TCXML and/or Teamcenter bulk-loading utilities
+   - ID: 744000156717508 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156717508
+
+8. **Manufacturing Associate | Micron**
    - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-20 (1 days ago) | fresh | Score 62
    - Fit: unknown

@@ -1,5 +1,5 @@
-# SERVE ranked list: Jobs in Hyderabad (all domains, all experience levels), collected 2026-10-21 03:13 UTC
-8 jobs, best score first: 3 from today/yesterday, 5 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Hyderabad (all domains, all experience levels), collected 2026-10-21 09:56 UTC
+8 jobs, best score first: 5 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Securities Research Associate | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Clinical / Research
@@ -10,39 +10,39 @@
    - ID: R-581174-1 | open (ATS verified)
    - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Securities-Research-Associate_R-581174-1
 
-2. **System Development Engineer , WWRR Tech - PLS | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 74
-   - Fit: yes | - 2+ years of non-internship professional software deve
-   - Experience: 2+ yrs
-   - ID: 10584062 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10584062/system-development-engineer-wwrr-tech-pls
-
-3. **Business Execution Consultant | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Also hiring in: Hyderabad, India | Section: Non-IT / Other
-   - Posted: 2026-10-19 (2 days ago) | fallback | Score 74 | second job
-   - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: 2+ years of Business Execution, Implementation, or Strategic Planning experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: Experience in Global incident monitoring / command center,
-   - ID: R-576594 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-576594
-
-4. **Software Development Engineer, WWRR Tech | Amazon**
+2. **Software Development Engineer, WWRR Tech | Amazon**
    - Hyderabad, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 68 | second job
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 68
    - Fit: yes | - 3+ years of non-internship professional software deve
    - Experience: 3+ yrs
    - ID: 10584606 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10584606/software-development-engineer-wwrr-tech
 
-5. **ITAM Specialist (Content Audit) | ServiceNow**
+3. **Software Development Engineer, WW Returns and Recommerce | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 68 | second job
+   - Fit: yes | - 3+ years of non-internship professional software deve
+   - Experience: 3+ yrs
+   - ID: 10584599 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10584599/software-development-engineer-ww-returns-and-recommerce
+
+4. **Commercial Loan Servicing Representative | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-14 (7 days ago) | fallback | Score 66
-   - Fit: yes | decision-making. 2-6 years of relevant experience in IT Asset Managemen
-   - Experience: 2-6 yrs | Qualification: Bachelor
-   - Requirements: Experience leveraging AI-powered tools and technologies to improve productivity, automate workflows, analyze data, enhance content quality, and support decision-making. 2-6 years of relevant experience in IT Asset Management (ITAM), Software Asset Management (SAM), or Hardware Asset Management
-   - ID: 744000155473671 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000155473671
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 67 | second job
+   - Fit: yes | Qualifications: 4+ years of Commercial Loan Servicing support experie
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - Requirements: to support accurate transaction processing. Coordinate and reconcile loan advances, payments, and letters of credit with customers and participating banks. Support loan trading, assignments, and related servicing activities. Prioritize daily work and provide work direction and mentorship to the
+   - ID: R-579363-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Commercial-Loan-Servicing-Representative_R-579363-1
+
+5. **Staff Inbound Product Manager | ServiceNow**
+   - Hyderabad, Telangana, India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 58
+   - Fit: no | function or industry. 6-8+ years of PM experience, with recent hands-on work
+   - Experience: 6-8 yrs | Qualification: Bachelor
+   - Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry. 6-8+ years
+   - ID: 744000156718589 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000156718589
 
 6. **Associate Success Guide | Salesforce**
    - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other

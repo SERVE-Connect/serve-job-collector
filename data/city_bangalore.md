@@ -1,34 +1,61 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-21 03:13 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-21 09:56 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Risk Analytics Consultant - Product & Valuation Control Analyst | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 82
-   - Fit: yes | Qualifications: 2+ years of Risk Analytics experience, or equivalent
+1. **Software Engineer Product Infra: Core Services | Rubrik**
+   - Bengaluru | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 80
+   - Fit: yes | field 6 months - 1 year of total work experience Proficiency in one
+   - Experience: 1 yrs | Qualification: Bachelor
+   - Requirements: you’ll need Rubrik Software Engineers are self-starters, driven, and can manage themselves. Bottom line,if you have a limitless drive and like to win, we want to talk to you - come make history! Bachelor’s or Master’s degree or equivalent in computer science or related field 6 months - 1 year of
+   - ID: 8282005 | open (ATS verified)
+   - Apply: https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005
+
+2. **Securities Operations Specialist | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 77
+   - Fit: yes | Qualifications: 2+ years of Securities Operations experience, or equi
    - Experience: 2+ yrs
-   - Requirements: 2+ years of Risk Analytics experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: Minimum of 2+ years of Product Control experience, or Valuation Control Job Expectation: - Participate
-   - ID: R-565056 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Risk-Analytics-Consultant---Product---Valuation-Control-Analyst_R-565056
+   - Requirements: Provide information to, collaborate, and consult with peers, colleagues and managers, including internal and external customers, to resolve issues and achieve goals Develop expertise in the following operational processes including client account onboarding, cash payments, customer service, funding
+   - ID: R-562212-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Operations-Specialist_R-562212-1
 
-2. **Product Support Engineer III - ZIA/ZPA | Zscaler**
-   - Bangalore, IND; Mohali, IND | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 60
+3. **Software Engineering - Quality Engineering | Salesforce**
+   - India - Bangalore | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 74
+   - Fit: yes | best practices 3+ years of experience in testing analytical applicat
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: and with a self-starter attitude to help us build world class Analytics Products. As a Q3 engineer you will collaborate with cross-functional teams and will influence the design and drive our # value Trust across teams. You will need to have hands-on programming experience (Java, Python) and need
+   - ID: JR339837-1 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering---Quality-Engineering_JR339837-1
+
+4. **GPU IP Integration Model Build Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 74
+   - Fit: yes | Embedded Systems) with 3-7 years of hands-on experience in domain-specific ar
+   - Experience: 3-7 yrs | Qualification: Bachelor
+   - Requirements: . Participates in the definition of verification infrastructure and related TFMs needed for functional design verification. Closely work with different clusters owners and integrate their code into media IP. Qualifications: Minimum Qualifications: • Master's degree in a relevant field (e.g.,
+   - ID: JR0286908 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-IP-Integration-Model-Build-Engineer_JR0286908
+
+5. **BGSW_2026_SAP_SD_JIT | Bosch**
+   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 63
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: a relentless focus on execution and a bias for action, delivering high-impact results quickly to win for the customer and the team. What We’re Looking for (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to
-   - ID: 5263573007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5263573007
+   - Requirements: Preferred Skills :
+   - ID: 744000156722473 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156722473
 
-3. **Principal Associate, Software Engineering | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 58
-   - Fit: no | Science At least 4 years of experience in software engineering (Inter
-   - Experience: 4 yrs | Qualification: Bachelor
-   - Requirements: Bachelor’s Degree in Engineering or Computer Science At least 4 years of experience in software engineering (Internship experience does not apply) Preferred Qualifications: 3+ years of experience in any of the following: Java, Golang, Node or Python 1+ years of experience with AWS, GCP, Microsoft
-   - ID: R1004124-1 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--Software-Engineering_R1004124-1
+6. **Senior Manager, Associate Relations | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 61
+   - Fit: no | multiple stakeholders 13+ years of Human Resources experience, with a focus
+   - Experience: 13+ yrs | Qualification: Bachelor
+   - Requirements: Knowledge of employment law and employment practices Lead, motivate and develop a team of Associate Relations Consultants Examine data at the department, line of business, and division level to identify trends and recommend action plans for business units to implement Serve as a point of escalation
+   - ID: R1001558-2 | open (ATS verified)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Manager--Associate-Relations_R1001558-2
 
-4. **Business Operations - General Manager - CST Travel | Paytm**
+7. **Business Operations - General Manager - CST Travel | Paytm**
    - Gurugram, Haryana, Noida, Uttar Pradesh [multi-city] | Work mode: onsite | Also hiring in: Bengaluru, Karnataka | Section: Non-IT / Other
    - Posted: 2026-10-20 (1 days ago) | fresh | Score 57
    - Fit: no | fields. Experience: 10–14+ years of overall experience leading large-scale Cu
@@ -37,38 +64,29 @@
    - ID: 65ea6359-cb15-44e8-91ec-6a28af952eb0 | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/65ea6359-cb15-44e8-91ec-6a28af952eb0
 
-5. **Principal Software Engineer (Platform/DevOps Engineering) | Saviynt**
-   - Bengaluru, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 54
-   - Fit: no | the organization. 12+ Years of experience across the Software Developmen
-   - Experience: 12+ yrs
-   - Requirements: shipped or significantly contributed to a Backstage or Port portal (or equivalent) used in production. Deep Kubernetes expertise across EKS and AKS, including multi-tenant cluster design, Helm, Kustomize, and Crossplane. Experience with multi-tenant SaaS fleet management, cell-based architectures,
-   - ID: 90a4d0dc-0fee-4db5-9d07-7c32eea107a8 | open (ATS verified)
-   - Apply: https://jobs.lever.co/saviynt/90a4d0dc-0fee-4db5-9d07-7c32eea107a8
+8. **SAP Signavio Platform & Process Lead | HP**
+   - Bengaluru, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 56
+   - Fit: no | Experience Requirements 7-10+ years in SAP, Process Mining, Signavio, Process In
+   - Experience: 7-10 yrs | Qualification: Bachelor
+   - Requirements: . Platform Adoption & Community Support - Drive SAP Signavio adoption through community engagement, technical enablement, platform communications, office hours and user support. Key Skills Core Signavio Skills SAP Signavio Process Intelligence SAP Signavio Process Insights SAP Signavio Process
+   - ID: 3165932-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/SAP-Signavio---Business-Process---Lead_3165932-1
 
-6. **Software Engineer, Payin | Stripe**
-   - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53
-   - Fit: no | Minimum requirements 8+ years of experience designing, implementing and op
-   - Experience: 8+ yrs
-   - Requirements: an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the Organization&nbsp; Payments is at the core of Stripe’s mission to increase the GDP of the internet. We are expanding our payments footprint in India and we
-   - ID: 8185012 | open (ATS verified)
-   - Apply: https://stripe.com/jobs/search?gh_jid=8185012
+9. **Staff Software Engineer - Moveworks | ServiceNow**
+   - Bangalore, Karnataka, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 56
+   - Fit: no | function or industry. 8+ years of experience designing, building, shipping,
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry. 8+ years
+   - ID: 744000156713569 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000156713569
 
-7. **Software Engineering LMTS - Backend Distributed Systems | Salesforce**
-   - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53
-   - Fit: no | team Required Skills: 10+ years of experience in software development and la
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: and experience with relational and non-relational databases (e.g., PostgreSQL, Trino). Experience developing SaaS products on public cloud infrastructure (AWS, Azure, GCP). Proven experience in designing and developing distributed systems at scale. Proficiency in queues, locks, scheduling,
-   - ID: JR338174 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-LMTS_JR338174
-
-8. **Customer Service Project/Program Manager for Video Shorts | HP**
-   - Sant Cugat del Valles, Barcelona, Spain Bengaluru, Karnataka, India Spain | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53
-   - Fit: no | or a related field. 5+ years project management experience. Experience ma
+10. **Commercial Account Executive | Okta**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 56
+   - Fit: no | Bring to the Role 5+ years of success selling complex SaaS solutions, i
    - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: Experience managing content, creative, digital media, video, social media, or related projects. Demonstrated ability to manage multiple stakeholders, competing priorities, budgets, and delivery timelines. Experience managing vendors, agencies, freelancers, or outsourced service providers. Strong
-   - ID: 3168681-2 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Customer-Service-Project-Program-Manager-for-Video-Shorts_3168681-2
+   - Requirements: across technical and business audiences. Proven ability to manage complex, multi-stakeholder sales cycles with predictable outcomes. Familiarity with MEDDPICC, Challenger, or other value-based sales methodologies (Okta uses MEDDPICC). Self-driven, confident, and adaptable, with the humility to work
+   - ID: 8288466 | open (ATS verified)
+   - Apply: https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466

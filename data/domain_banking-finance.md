@@ -1,14 +1,14 @@
-# SERVE ranked list: Banking & Finance jobs (0-5 years, matched by keyword), collected 2026-10-21 03:13 UTC
+# SERVE ranked list: Banking & Finance jobs (0-5 years, matched by keyword), collected 2026-10-21 09:56 UTC
 10 jobs, best score first: 3 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
-   - Pune Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 79
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: . Perform root cause analysis on recurring issues and work with Technology, Product and Operations teams to implement sustainable solutions. Maintain strong balance sheet controls and substantiation processes supporting revenue and transaction expense accounting. Monitor key risk indicators and
-   - ID: 26974781 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_26974781
+   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 86
+   - Fit: yes | Qualifications: 4-6years of experience in financial services, prefera
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - Requirements: 4-6years of experience in financial services, preferably with exposure to risk and control activities, compliance, or operations. Fundamental understanding of Treasury products, accounting, and regulatory policies Ability to juggle between tasks and communicate with multiple stakeholders Handhold &
+   - ID: 261002608 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_261002608
 
 2. **Securities Research Associate | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Clinical / Research

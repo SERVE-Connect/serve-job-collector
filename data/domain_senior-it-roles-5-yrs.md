@@ -1,16 +1,59 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-21 03:13 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-21 09:56 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Vice President, Software Engineering | Fiserv**
+1. **Senior Software Engineer -1 | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 73
+   - Fit: no
+   - Qualification: Bachelor
+   - Requirements: Essential Knowledge/Experience • Strong programming skills with deep knowledge of Java(>8 version). • Strong knowledge in DSA and design patterns. • Strong knowledge in Cloud/micro-services. • Strong knowledge on code coverage tools (Sonar) and Application Security tools like Blackduck and
+   - ID: R-288514 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer--1_R-288514
+
+2. **Senior Data Analyst -AVP | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 73
+   - Fit: no
+   - Qualification: Bachelor
+   - Requirements: to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes If the position has leadership responsibilities, People Leaders are expected to
+   - ID: JR-0000115495 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Data-Analyst--AVP_JR-0000115495
+
+3. **Expertise Power BI Admin/Developer (Hands on SQL, ETL and Azure) || Pune / Noida / Bangalore | Fiserv**
    - Pune - Trion Business Park, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 68
-   - Fit: no | you will need to have: 10+ years of experience in core banking engineering, m
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: to have: 10+ years of experience in core banking engineering, modernization, implementation, platform transformation, or related technical leadership in banking, fintech, processing, or vendor environments 8+ years of experience defining and delivering migration, upgrade, consolidation, or
-   - ID: R-10404245 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Vice-President--Software-Engineering_R-10404245
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 71
+   - Fit: no | need to have: • Minimum 7 to 10 years of experience in business intelligence, anal
+   - Experience: 7-10 yrs | Qualification: Bachelor
+   - Requirements: . • Build and support backend data components such as SQL queries, views, stored procedures, data marts, ETL/ELT processes, APIs, and data validation frameworks. • Partner with database, cloud, networking, security, and application teams to troubleshoot data connectivity, authentication, gateway,
+   - ID: R-10403963 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Expertise-Power-BI-Admin-Developer--Hands-on-SQL--ETL-and-Azure-----Pune---Noida---Bangalore_R-10403963
 
-2. **Principal Associate, Software Engineering | Capital One**
+4. **Lead Full Stack Engineer - C13 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 71
+   - Fit: no | we’ll need from you 10 + years of relevant experience as a Senior Engineeri
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: Consistently demonstrates clear and concise written and verbal communication Education: Bachelor’s degree/University degree or equivalent experience Master’s degree preferred This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned
+   - ID: 26996774 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Lead-Full-Stack-Engineer---C13---PUNE_26996774
+
+5. **Cyber Security Engineer | NVIDIA**
+   - India, Pune India, Hyderabad India, Bengaluru India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 70
+   - Fit: no | equivalent experience. 10+ years of solid experience in handling Active Direc
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - ID: JR2026874 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Cyber-Security-Engineer_JR2026874
+
+6. **Software Development Engineer II, FinTech Account Receivables Cash Applications | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 58
+   - Fit: no | - 5+ years of non-internship professional software deve
+   - Experience: 5+ yrs
+   - ID: 10583550 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10583550/software-development-engineer-ii-fintech-account-receivables-cash-applications
+
+7. **Principal Associate, Software Engineering | Capital One**
    - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
    - Posted: 2026-10-20 (1 days ago) | fresh | Score 58
    - Fit: no | Science At least 4 years of experience in software engineering (Inter
@@ -19,55 +62,29 @@
    - ID: R1004124-1 | open (ATS verified)
    - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--Software-Engineering_R1004124-1
 
-3. **Senior Associate, Software Engineering | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 58 | second job
-   - Fit: no | Qualifications: 1+ years of experience in Agile or Kanban software de
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - Requirements: Bachelor’s degree in Engineering or Computer Science At least 18 months of experience building back-end services (Including but not limited to: Java, JavaScript, Python, Go, Node, Scala, TypeScript, Spring Boot) (Internship experience does not apply) At least 6 months of experience with a database
-   - ID: R1003791-2 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Associate--Software-Engineering_R1003791-2
-
-4. **Principal Software Engineer (Platform/DevOps Engineering) | Saviynt**
-   - Bengaluru, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 54
-   - Fit: no | the organization. 12+ Years of experience across the Software Developmen
-   - Experience: 12+ yrs
-   - Requirements: shipped or significantly contributed to a Backstage or Port portal (or equivalent) used in production. Deep Kubernetes expertise across EKS and AKS, including multi-tenant cluster design, Helm, Kustomize, and Crossplane. Experience with multi-tenant SaaS fleet management, cell-based architectures,
-   - ID: 90a4d0dc-0fee-4db5-9d07-7c32eea107a8 | open (ATS verified)
-   - Apply: https://jobs.lever.co/saviynt/90a4d0dc-0fee-4db5-9d07-7c32eea107a8
-
-5. **Software Engineer, Payin | Stripe**
-   - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53
-   - Fit: no | Minimum requirements 8+ years of experience designing, implementing and op
-   - Experience: 8+ yrs
-   - Requirements: an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the Organization&nbsp; Payments is at the core of Stripe’s mission to increase the GDP of the internet. We are expanding our payments footprint in India and we
-   - ID: 8185012 | open (ATS verified)
-   - Apply: https://stripe.com/jobs/search?gh_jid=8185012
-
-6. **Software Engineering LMTS - Backend Distributed Systems | Salesforce**
-   - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53
-   - Fit: no | team Required Skills: 10+ years of experience in software development and la
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: and experience with relational and non-relational databases (e.g., PostgreSQL, Trino). Experience developing SaaS products on public cloud infrastructure (AWS, Azure, GCP). Proven experience in designing and developing distributed systems at scale. Proficiency in queues, locks, scheduling,
-   - ID: JR338174 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-LMTS_JR338174
-
-7. **Director - Technical Consulting  ( Salesforce Financial Services Cloud  OR Revenue Cloud ) | Salesforce**
+8. **Senior Technical Consultant - AI platform engineering and Salesforce project delivery | Salesforce**
    - India - Bangalore | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53 | second job
-   - Fit: no | Minimum Requirements: 15+ years of experience leading Salesforce technical c
-   - Experience: 15+ yrs | Qualification: Bachelor
-   - Requirements: in designing, delivering, testing, and deploying. Lead a project team of developers focused on driving optimized solutions for our clients leveraging Salesforce Industries Clouds, ensuring teams leverage developer assistants (e.g., Cursor, Claude, GitHub Copilot) to accelerate delivery and enforce
-   - ID: JR343709-1 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Director---Technical-Consulting----Salesforce-Financial-Services-Cloud--_JR343709-1
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 56
+   - Fit: no | Qualifications 5–7 years of Salesforce/software engineering experienc
+   - Experience: 5-7 yrs | Qualification: Bachelor
+   - Requirements: , and can build solutions, solve complex problems, and guide other developers in adopting new ways of working. Key Responsibilities AI Platform Engineering Develop and enhance the organization's multi-agent AI application , including agents, tools, workflows, integrations, and automations. Work
+   - ID: JR365157 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---AI-platform-engineering-and-Salesforce-project-delivery_JR365157
 
-8. **Software Development Manager, DSP Tech | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 50
-   - Fit: no | C#, or C++ experience - 8+ years of leading the definition and development of
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - ID: 10584462 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10584462/software-development-manager-dsp-tech
+9. **SAP Signavio Platform & Process Lead | HP**
+   - Bengaluru, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 56
+   - Fit: no | Experience Requirements 7-10+ years in SAP, Process Mining, Signavio, Process In
+   - Experience: 7-10 yrs | Qualification: Bachelor
+   - Requirements: . Platform Adoption & Community Support - Drive SAP Signavio adoption through community engagement, technical enablement, platform communications, office hours and user support. Key Skills Core Signavio Skills SAP Signavio Process Intelligence SAP Signavio Process Insights SAP Signavio Process
+   - ID: 3165932-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/SAP-Signavio---Business-Process---Lead_3165932-1
+
+10. **Principal Engineer – GenAI in SDLC (Java & Agentic AI) | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 56
+   - Fit: no | Qualifications: 7+ years of Engineering experience, or equivalent dem
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - Requirements: 7+ years of Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Strong Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience,
+   - ID: R-581183 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer---GenAI-in-SDLC--Java---Agentic-AI-_R-581183

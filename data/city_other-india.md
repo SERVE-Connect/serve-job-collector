@@ -1,14 +1,14 @@
-# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-10-21 03:13 UTC
-8 jobs, best score first: 2 from today/yesterday, 6 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-10-21 09:56 UTC
+8 jobs, best score first: 4 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Graduate Engineering Technician | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 79
-   - Fit: yes | Minimum Qualifications: 2-3 years of experience in the automation field Proven
-   - Experience: 2-3 yrs | Qualification: Diploma
-   - Requirements: . Troubleshooting & Sustainment: ·Support troubleshooting and root cause analysis of automation system issues impacting material movement. ·Performing corrective and preventive actions to improve system reliability and up time. ·Support preventive maintenance activities and system health
-   - ID: JR105829 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Graduate-Engineering-Technician_JR105829
+1. **CRM Junior Engineer with Devops | Bosch**
+   - telengana, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 82
+   - Fit: yes | B.E/B.Tech Experience : 1- 2 Years Mandatory/requires Skills : CRM, DevOps Pref
+   - Experience: 1-2 yrs | Qualification: Bachelor
+   - Requirements: and translate into functional solutions. • Apply robust security models including Business Units, Security Roles, Field-Level Security, and Access Teams. • Enable Copilot and AI capabilities to support agent productivity and customer insights. • Use Git/Azure DevOps for version control, branching
+   - ID: 744000156714729 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156714729
 
 2. **IT Support Associate II | Amazon**
    - Jamalpur, India | Work mode: unspecified | Section: IT Support / Operations
@@ -27,16 +27,7 @@
    - ID: 5261002007 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5261002007
 
-4. **Customer Support Associate I | Zscaler**
-   - Mohali, IND | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-16 (5 days ago) | fallback | Score 67 | second job
-   - Fit: yes | At least 2 years of dedicated experience in a customer servic
-   - Experience: 2 yrs | Qualification: Bachelor
-   - Requirements: to become an even more effective partner and teammate. You are customer-obsessed. You build deep empathy for both internal and external stakeholders, anchoring every decision in solving real-world problems for those we serve. You operate with urgency. You recognize that in a high-growth
-   - ID: 5263577007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5263577007
-
-5. **Process Trainer - TL - Lending | Paytm**
+4. **Process Trainer - TL - Lending | Paytm**
    - Pune, Maharashtra | Work mode: onsite | Also hiring in: Ahmedabad, Gujarat; Kochi, Kerala | Section: Non-IT / Other
    - Posted: 2026-10-15 (6 days ago) | fallback | Score 66
    - Fit: yes | Requirements: -4+ years of experience in Sales Training, Learning &
@@ -45,23 +36,32 @@
    - ID: 601f0c35-ed32-4447-b39d-82cd4c6e14b8 | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/601f0c35-ed32-4447-b39d-82cd4c6e14b8
 
-6. **Manufacturing Associate | Micron**
+5. **Manufacturing Associate | Micron**
    - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-20 (1 days ago) | fresh | Score 62 | second job
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 62
    - Fit: unknown
    - Qualification: Bachelor
    - Requirements: by demonstrating understanding and abilities Communication Information Receive and understand pass down, providing clear, accurate, and detailed pass down Seek and provide feedback to leadership, coworker, and support groups to make positive changes in performance Offer suggestions towards
    - ID: JR97569 | open (ATS verified)
    - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Manufacturing-Associate_JR97569
 
-7. **Product Development Engineer - NHA Series Support JaP | Bosch**
-   - Jaipur, RJ, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-10-14 (7 days ago) | fallback | Score 62
-   - Fit: yes | related field) 1-4 years experience in Product Development, Design, P
-   - Experience: 1-4 yrs | Qualification: Bachelor
-   - Requirements: Aptitude for in-depth technical tasks Good analytical reasoning ability
-   - ID: 744000155444296 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155444296
+6. **SAP SD Functional consultant (HC) | Bosch**
+   - telangana, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 53 | second job
+   - Fit: no | B.E. / MBA Experience : 8 -10 years in SAP and minimum 5 years in SAP SD. Mandat
+   - Experience: 8-10 yrs | Qualification: Bachelor
+   - Requirements: Proficient in SAP SD Core Configuration & Design - Knowledge on charge and settlement management - Proficient in SAP SD and SAP GTS integrations -Solid cross-functional understanding of adjacent modules like Transportation Management (TM), Materials Management (MM), and Logistics Execution (LE)
+   - ID: 744000156710919 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156710919
+
+7. **Manager Warehouse | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-21 (0 days ago) | fresh | Score 53 | second job
+   - Fit: no | Experience Desired: 05-10 years’ experience in most of the following-: Wareh
+   - Experience: 05-10 yrs | Qualification: Bachelor
+   - Requirements: . You will provide leadership to systematically enable error-free receiving, packaging, inventory, and management of raw material and tools/spares. In collaboration with the Procurement, Business Operations, Finance and Sales departments, you will help formulate and implement budgets and policies
+   - ID: JR103171 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Manager-Warehouse_JR103171
 
 8. **Cluster Head -Last Mile - Rajasthan | Meesho**
    - Jaipur, Rajasthan | Work mode: onsite | Section: Non-IT / Other

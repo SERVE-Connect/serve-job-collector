@@ -1,86 +1,79 @@
-# SERVE bulletin picks, 2026-10-21 03:13 UTC
-10 jobs: 6 from today/yesterday, 4 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
+# SERVE bulletin picks, 2026-10-21 09:56 UTC
+9 jobs: 9 from today/yesterday, 0 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
-1. **Risk Analytics Consultant - Product & Valuation Control Analyst | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Posted: 2026-10-20 (1 days ago) | fresh
-   - Fit: yes | Qualifications: 2+ years of Risk Analytics experience, or equivalent | Score 82
-   - ID: R-565056 | open (ATS verified)
-   - Experience: 2+ yrs
-   - Requirements: 2+ years of Risk Analytics experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: Minimum of 2+ years of Product Control experience, or Valuation Control Job Expectation: - Participate
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Risk-Analytics-Consultant---Product---Valuation-Control-Analyst_R-565056
+1. **Software Engineer II | Mastercard**
+   - Pune, India | Work mode: unspecified | Posted: 2026-10-21 (0 days ago) | fresh
+   - Fit: yes | discipline. • Minimum 2 years of professional software development experie | Score 99
+   - ID: R-287128 | open (ATS verified)
+   - Experience: 2 yrs | Qualification: Bachelor
+   - Requirements: Bachelor's degree in Computer Science, Engineering, Information Technology, or a related discipline. • Minimum 2 years of professional software development experience. • Strong hands-on experience with Java, Spring Boot, REST APIs, and microservices architecture. • Experience building
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287128
 
-2. **System Development Engineer I, UTR Tech in Last Mile | Amazon**
-   - Gurugram, India | Work mode: unspecified | Posted: 2026-10-20 (1 days ago) | fresh
-   - Fit: yes | - 1+ years of systems development experience - Experien | Score 81
-   - ID: 10584699 | open (listed in employer's live search)
-   - Experience: 1+ yrs
-   - Apply: https://www.amazon.jobs/en/jobs/10584699/system-development-engineer-i-utr-tech-in-last-mile
+2. **Associate, Client Tech Support Engineering | Fiserv**
+   - Pune - Trion Business Park, India | Work mode: onsite | Posted: 2026-10-21 (0 days ago) | fresh
+   - Fit: yes | you'll need to have: 3+ years of experience in technical support and clien | Score 94
+   - ID: R-10401453 | open (ATS verified)
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: r role:As a Client Tech Support Engineering - Professional I, you will play a critical role in providing technical support to our clients. Your contributions will help ensure client satisfaction and facilitate the smooth operation of our services. You will work closely with clients to troubleshoot
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Associate--Client-Tech-Support-Engineering_R-10401453
 
-3. **Graduate Engineering Technician | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Posted: 2026-10-20 (1 days ago) | fresh
-   - Fit: yes | Minimum Qualifications: 2-3 years of experience in the automation field Proven | Score 79
-   - ID: JR105829 | open (ATS verified)
-   - Experience: 2-3 yrs | Qualification: Diploma
-   - Requirements: . Troubleshooting & Sustainment: ·Support troubleshooting and root cause analysis of automation system issues impacting material movement. ·Performing corrective and preventive actions to improve system reliability and up time. ·Support preventive maintenance activities and system health
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Graduate-Engineering-Technician_JR105829
+3. **Consultant - Compliance Quality Assurance | Nium**
+   - Mumbai | Work mode: hybrid | Posted: 2026-10-21 (0 days ago) | fresh
+   - Fit: yes | and audits. Minimum 3+ years of financial crime, Compliance, Audit or QA | Score 88
+   - ID: 1e519fbd-ce6a-47ce-a13f-14eaf9e79e5e | open (ATS verified)
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: Planning – Complete Terms of Reference templates and deduce samples using approved sampling methodology for QA reviews Reporting – present observations to senior stakeholders for factual accuracy discussions Issue management – ensure all issues are remediated in a timely manner Record-Keeping &
+   - Apply: https://jobs.lever.co/nium/1e519fbd-ce6a-47ce-a13f-14eaf9e79e5e
 
-4. **Product Support Engineer III - ZIA/ZPA | Zscaler**
-   - Bangalore, IND; Mohali, IND | Work mode: unspecified | Posted: 2026-10-20 (1 days ago) | fresh
-   - Fit: unknown | Score 60
-   - ID: 5263573007 | open (ATS verified)
+4. **CRM Junior Engineer with Devops | Bosch**
+   - telengana, India | Work mode: unspecified | Posted: 2026-10-21 (0 days ago) | fresh
+   - Fit: yes | B.E/B.Tech Experience : 1- 2 Years Mandatory/requires Skills : CRM, DevOps Pref | Score 82
+   - ID: 744000156714729 | open (ATS verified)
+   - Experience: 1-2 yrs | Qualification: Bachelor
+   - Requirements: and translate into functional solutions. • Apply robust security models including Business Units, Security Roles, Field-Level Security, and Access Teams. • Enable Copilot and AI capabilities to support agent productivity and customer insights. • Use Git/Azure DevOps for version control, branching
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156714729
+
+5. **Software Engineer Product Infra: Core Services | Rubrik**
+   - Bengaluru | Work mode: unspecified | Posted: 2026-10-21 (0 days ago) | fresh
+   - Fit: yes | field 6 months - 1 year of total work experience Proficiency in one | Score 80
+   - ID: 8282005 | open (ATS verified)
+   - Experience: 1 yrs | Qualification: Bachelor
+   - Requirements: you’ll need Rubrik Software Engineers are self-starters, driven, and can manage themselves. Bottom line,if you have a limitless drive and like to win, we want to talk to you - come make history! Bachelor’s or Master’s degree or equivalent in computer science or related field 6 months - 1 year of
+   - Apply: https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005
+
+6. **Full Stack Developer | Barclays**
+   - Pune, Gera Commerzone SEZ Chennai, DLF IT Park India | Work mode: unspecified | Posted: 2026-10-21 (0 days ago) | fresh
+   - Fit: unknown | Score 77
+   - ID: JR-0000119927-3 | open (ATS verified)
    - Qualification: Bachelor
-   - Requirements: a relentless focus on execution and a bias for action, delivering high-impact results quickly to win for the customer and the team. What We’re Looking for (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5263573007
+   - Requirements: and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L –
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Developer_JR-0000119927-3
 
-5. **System Development Engineer , WWRR Tech - PLS | Amazon**
+7. **Software Engineering - Quality Engineering | Salesforce**
+   - India - Bangalore | Work mode: unspecified | Posted: 2026-10-21 (0 days ago) | fresh
+   - Fit: yes | best practices 3+ years of experience in testing analytical applicat | Score 74
+   - ID: JR339837-1 | open (ATS verified)
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: and with a self-starter attitude to help us build world class Analytics Products. As a Q3 engineer you will collaborate with cross-functional teams and will influence the design and drive our # value Trust across teams. You will need to have hands-on programming experience (Java, Python) and need
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering---Quality-Engineering_JR339837-1
+
+8. **GPU IP Integration Model Build Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Posted: 2026-10-21 (0 days ago) | fresh
+   - Fit: yes | Embedded Systems) with 3-7 years of hands-on experience in domain-specific ar | Score 74
+   - ID: JR0286908 | open (ATS verified)
+   - Experience: 3-7 yrs | Qualification: Bachelor
+   - Requirements: . Participates in the definition of verification infrastructure and related TFMs needed for functional design verification. Closely work with different clusters owners and integrate their code into media IP. Qualifications: Minimum Qualifications: • Master's degree in a relevant field (e.g.,
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-IP-Integration-Model-Build-Engineer_JR0286908
+
+9. **Software Development Engineer, WWRR Tech | Amazon**
    - Hyderabad, India | Work mode: unspecified | Posted: 2026-10-20 (1 days ago) | fresh
-   - Fit: yes | - 2+ years of non-internship professional software deve | Score 74 | second job
-   - ID: 10584062 | open (listed in employer's live search)
-   - Experience: 2+ yrs
-   - Apply: https://www.amazon.jobs/en/jobs/10584062/system-development-engineer-wwrr-tech-pls
-
-6. **ENGINEER, EQUIPMENT ENGINEER | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Posted: 2026-10-20 (1 days ago) | fresh
-   - Fit: unknown | Score 57 | second job
-   - ID: JR112674 | open (ATS verified)
-   - Qualification: Bachelor
-   - Requirements: . Drive TPM, Lean Manufacturing, and Continuous Improvement initiatives. Collaborate with Process, Manufacturing, Quality, Automation, and Maintenance teams. Support new product introduction (NPI), engineering builds, and qualification activities. Evaluate and implement equipment modifications and
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/ENGINEER--EQUIPMENT-ENGINEER_JR112674
-
-7. **Data Engineer II | Mastercard**
-   - Pune, India | Work mode: unspecified | Posted: 2026-10-19 (2 days ago) | fallback (older than yesterday)
-   - Fit: unknown | Score 76
-   - ID: R-292972 | open (ATS verified)
-   - Qualification: Bachelor
-   - Requirements: , review deliverables, assess technical feasibility, and translate data needs into maintainable technical solutions. -Document technical designs, data processes, reusable patterns, and operational procedures while contributing to continuous improvement and knowledge sharing across the team. All
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-292972
-
-8. **Recon Developer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-10-19 (2 days ago) | fallback (older than yesterday)
-   - Fit: unknown | Score 71
-   - ID: JR-0000102834 | open (ATS verified)
-   - Qualification: Bachelor
-   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Recon-Developer_JR-0000102834
-
-9. **HiL Test Engineer | Bosch**
-   - bangalore, India | Work mode: unspecified | Posted: 2026-10-14 (7 days ago) | fallback (older than yesterday)
-   - Fit: yes | beginning Experience :1-3 years Mandatory/requires Skills : CANoe, VTest stu | Score 65
-   - ID: 744000155454876 | open (ATS verified)
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - Requirements: related to multiple systems - Develop test specifications, test scripts and test framework - Test case execution on dSPACE HIL or Vector platform - Debug, analyze failures and report to defect management systems - Discuss with System developer about the observed system behavior for issue resolution
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155454876
-
-10. **Spec Analytics Analyst | Citi**
-   - Gurugram Haryana India | Work mode: hybrid | Posted: 2026-10-15 (6 days ago) | fallback (older than yesterday)
-   - Fit: yes | Qualifications: 4-6 years of relevant hands-on experience in an AI, ML | Score 60
-   - ID: 26998687 | open (ATS verified)
-   - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: 4-6 years of relevant hands-on experience in an AI, ML, or data science role. Strong foundation in classical machine learning algorithms (e.g., Gradient Boosting, Clustering, XGBoost) and their practical applications. Deep understanding of Large Language Models (LLMs), and proven, hands-on
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Spec-Analytics-Analyst_26998687
+   - Fit: yes | - 3+ years of non-internship professional software deve | Score 68
+   - ID: 10584606 | open (listed in employer's live search)
+   - Experience: 3+ yrs
+   - Apply: https://www.amazon.jobs/en/jobs/10584606/software-development-engineer-wwrr-tech
 
 After you post, paste this line into data/sent_ids.txt:
 
 ```
-2026-10-21 R-565056 10584699 JR105829 5263573007 10584062 JR112674 R-292972 JR-0000102834 744000155454876 26998687
+2026-10-21 R-287128 R-10401453 1e519fbd-ce6a-47ce-a13f-14eaf9e79e5e 744000156714729 8282005 JR-0000119927-3 JR339837-1 JR0286908 10584606
 ```

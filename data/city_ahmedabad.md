@@ -1,4 +1,4 @@
-# SERVE ranked list: Jobs in Ahmedabad (all domains, all experience levels), collected 2026-10-21 03:13 UTC
+# SERVE ranked list: Jobs in Ahmedabad (all domains, all experience levels), collected 2026-10-21 09:56 UTC
 1 jobs, best score first: 0 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Process Trainer - TL - Lending | Paytm**
