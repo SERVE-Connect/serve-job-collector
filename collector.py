@@ -7,6 +7,7 @@ sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and w
 
   data/jobs_latest.md          every job, by section then city
   data/bulletin_pick.md        today's best 8-10 IT jobs for 0-5 years (give this to the chat)
+  daily/YYYY-MM-DD/            copies of the chat files under a new folder each day (IST date, last 2 days); chats fetch these
   data/it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
   data/sent_ids.txt            you add what you posted; lines are cleared after 7 days
   data/top_10.md, city_*.md,   ready top-10 lists (overall, per city, per domain), ranked in code
@@ -24,6 +25,7 @@ import html
 import json
 import os
 import re
+import shutil
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -31,8 +33,10 @@ from urllib import error, parse, request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
+DAILY = os.path.join(ROOT, "daily")  # dated copies for chats, outside data/ so the Project folder never holds two versions
 UA = "SERVE-Job-Collector/1.0 (nonprofit job awareness)"
 NOW = datetime.now(timezone.utc)
+TODAY = (NOW + timedelta(hours=5, minutes=30)).date()  # India date; a run at 18:30-24:00 UTC is already the next day in IST
 PAUSE = 0.25  # seconds between calls, be polite
 WD_PAUSE = 1.0   # Workday throttles by IP, so go slower: seconds between its calls
 WD_GAP = 4.0     # seconds between two Workday companies
@@ -227,7 +231,7 @@ def to_dt(v):
 def age_days(dt):
     if dt is None:
         return None
-    return max(0, (NOW.date() - dt.date()).days)  # calendar days, so "yesterday" is always 1
+    return max(0, (TODAY - dt.date()).days)  # calendar days, so "yesterday" is always 1
 
 
 def wd_posted_age(text):
@@ -939,7 +943,7 @@ def pick_markdown(picks, meta):
         out += details(p, "   - ")
         out += ["   - Apply: " + p["apply_url"], ""]
     out += ["After you post, paste this line into data/sent_ids.txt:", "",
-            "```", "%s %s" % (NOW.date().isoformat(), " ".join(str(p["id"]) for p in picks)), "```", ""]
+            "```", "%s %s" % (TODAY.isoformat(), " ".join(str(p["id"]) for p in picks)), "```", ""]
     return out
 
 
@@ -1001,6 +1005,21 @@ def write_summary(meta, report, jobs):
             f.write(text + "\n")
 
 
+def snapshot_daily():
+    """Copy the chat files into daily/<IST date>/. The path is new every day, so a chat that cached
+    yesterday's link cannot be served it as today's. The last 2 days are kept."""
+    keep = {(TODAY - timedelta(days=d)).isoformat() for d in (0, 1)}
+    if os.path.isdir(DAILY):
+        for d in os.listdir(DAILY):
+            if d not in keep:
+                shutil.rmtree(os.path.join(DAILY, d), ignore_errors=True)
+    out = os.path.join(DAILY, TODAY.isoformat())
+    os.makedirs(out, exist_ok=True)
+    for fn in os.listdir(DATA):
+        if fn == "bulletin_pick.md" or re.match(r"(top_10|city_|domain_|ranked_index)", fn):
+            shutil.copy(os.path.join(DATA, fn), os.path.join(out, fn))
+
+
 def write_outputs(jobs, report):
     os.makedirs(DATA, exist_ok=True)
     jobs = collapse(jobs)
@@ -1046,6 +1065,7 @@ def write_outputs(jobs, report):
         f.write("\n".join(pick_markdown(picks, meta)))
     write_csv(jobs, picks)
     write_ranked(jobs, meta)
+    snapshot_daily()
     meta["picked"] = len(picks)
     write_summary(meta, report, jobs)
     return meta
