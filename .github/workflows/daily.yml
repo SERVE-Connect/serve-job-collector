@@ -2,9 +2,9 @@ name: Daily job collector
 
 on:
   schedule:
-    - cron: "7 1 * * *"     # 06:37 IST, main run (01:07 UTC, same calendar date in UTC and IST)
-    - cron: "37 2 * * *"    # 08:07 IST, retry, skipped if today's run was good
-    - cron: "7 4 * * *"     # 09:37 IST, last retry, skipped if today's run was good
+    - cron: "17 20 * * *"   # 01:47 IST, main run (GitHub often starts these 2 hours late)
+    - cron: "47 21 * * *"   # 03:17 IST, retry, skipped if today's run was good
+    - cron: "17 23 * * *"   # 04:47 IST, last retry, skipped if today's run was good
   workflow_dispatch:
     inputs:
       force:
@@ -71,6 +71,6 @@ jobs:
         run: |
           git config user.name "serve-collector"
           git config user.email "actions@users.noreply.github.com"
-          git add data
+          git add data daily
           git diff --staged --quiet || git commit -m "Daily job data $(date -u +%F)"
           git push
