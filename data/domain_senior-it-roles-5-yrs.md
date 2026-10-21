@@ -1,92 +1,73 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-20 04:35 UTC
-10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-21 03:13 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Vice President, Software Engineering | Fiserv**
    - Pune - Trion Business Park, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-20 (0 days ago) | fresh | Score 71
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 68
    - Fit: no | you will need to have: 10+ years of experience in core banking engineering, m
    - Experience: 10+ yrs | Qualification: Bachelor
    - Requirements: to have: 10+ years of experience in core banking engineering, modernization, implementation, platform transformation, or related technical leadership in banking, fintech, processing, or vendor environments 8+ years of experience defining and delivering migration, upgrade, consolidation, or
    - ID: R-10404245 | open (ATS verified)
    - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Vice-President--Software-Engineering_R-10404245
 
-2. **Senior System Software Engineer - Local AI | NVIDIA**
-   - India, Pune | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 67
-   - Fit: no | equivalent experience. 5+ years of relevant software development, with stron
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: , design, and maintain shared infrastructure for deploying, benchmarking, and qualifying AI workloads across infernece backends such as llama.cpp, Ollama, PyTorch, vLLM, and WinML. Build Git-based CI infrastructure for automated builds, integration testing, and regression detection across hardware
-   - ID: JR2027806 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer---Local-AI_JR2027806
+2. **Principal Associate, Software Engineering | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 58
+   - Fit: no | Science At least 4 years of experience in software engineering (Inter
+   - Experience: 4 yrs | Qualification: Bachelor
+   - Requirements: Bachelor’s Degree in Engineering or Computer Science At least 4 years of experience in software engineering (Internship experience does not apply) Preferred Qualifications: 3+ years of experience in any of the following: Java, Golang, Node or Python 1+ years of experience with AWS, GCP, Microsoft
+   - ID: R1004124-1 | open (ATS verified)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--Software-Engineering_R1004124-1
 
-3. **Senior Technical Consultant - Agentforce (Salesforce development exp mandatory) | Salesforce**
-   - India - Bangalore India - Pune India - Hyderabad India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 67
-   - Fit: no | Consultant with 5+ years of experience to lead the charge on complex
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: and integrate seamlessly with existing customer ecosystems. • Data Configuration & Integration : Own the entire data lifecycle, from strategic design of data models to hands-on building of efficient processing pipelines and establishing seamless integration strategies. You'll ensure data is always
-   - ID: JR364838 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---Agentforce--Salesforce-development-exp-mandatory-_JR364838
+3. **Senior Associate, Software Engineering | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 58 | second job
+   - Fit: no | Qualifications: 1+ years of experience in Agile or Kanban software de
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: Bachelor’s degree in Engineering or Computer Science At least 18 months of experience building back-end services (Including but not limited to: Java, JavaScript, Python, Go, Node, Scala, TypeScript, Spring Boot) (Internship experience does not apply) At least 6 months of experience with a database
+   - ID: R1003791-2 | open (ATS verified)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Associate--Software-Engineering_R1003791-2
 
-4. **Lead Software Engineer | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 65
-   - Fit: no
-   - Qualification: Bachelor
-   - Requirements: / Requirements Strong hands-on experience in Java, J2EE, Spring, and Spring Boot Strong hands-on experience with React and/or Angular Deep experience with REST APIs, Web Services, and microservices architecture Strong experience with Oracle/SQL, including query optimization and data validation
-   - ID: R-293851-1 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-293851-1
+4. **Principal Software Engineer (Platform/DevOps Engineering) | Saviynt**
+   - Bengaluru, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 54
+   - Fit: no | the organization. 12+ Years of experience across the Software Developmen
+   - Experience: 12+ yrs
+   - Requirements: shipped or significantly contributed to a Backstage or Port portal (or equivalent) used in production. Deep Kubernetes expertise across EKS and AKS, including multi-tenant cluster design, Helm, Kustomize, and Crossplane. Experience with multi-tenant SaaS fleet management, cell-based architectures,
+   - ID: 90a4d0dc-0fee-4db5-9d07-7c32eea107a8 | open (ATS verified)
+   - Apply: https://jobs.lever.co/saviynt/90a4d0dc-0fee-4db5-9d07-7c32eea107a8
 
-5. **Forward Deployed Engineer, FDE (L4) | Databricks**
-   - Remote - India | Work mode: remote | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 63
-   - Fit: no | What we look for: 9+ years of experience in data engineering, data plat
-   - Experience: 9+ yrs | Qualification: Master
-   - Requirements: . Experience working with enterprise clients and managing conflicts across a broad stakeholder range Build skills in technical areas, and demonstrate curiosity, adaptability, and eagerness to explore new technologies which support the deployment and integration of Databricks-based solutions to
-   - ID: 8876613002 | open (ATS verified)
-   - Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002
-
-6. **Lead Business Execution Consultant Product Owner AI Agentic | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 54
-   - Fit: no | Qualifications: 5+ years of Business Execution, Implementation, or St
-   - Experience: 5+ yrs
-   - Requirements: , capabilities, and measurable outcomes Drive accountability for strategic initiatives by monitoring progress, managing dependencies, mitigating risk, and identifying opportunities to improve operational efficiency Evaluate business processes, product performance, data, and stakeholder feedback to
-   - ID: R-575953 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953
-
-7. **Senior Staff Machine Learning Engineer | ServiceNow**
-   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 54
-   - Fit: no | is built and run. • 14+ years of experience designing, building, and opera
-   - Experience: 14+ yrs | Qualification: Bachelor
-   - Requirements: Experience leveraging or critically thinking about how to integrate AI into engineering and platform work—AI-powered tooling, automated operational workflows, agentic systems for fleet visibility and operations, or reasoning about AI’s impact on how infrastructure is built and run. • 14+ years of
-   - ID: 744000156267489 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000156267489
-
-8. **Lead Database Administrator | Razorpay**
+5. **Software Engineer, Payin | Stripe**
    - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 53
-   - Fit: no | Have at least 6+ years of experience running MySQL/PostgreSQL datab
-   - Experience: 6+ yrs | Qualification: Bachelor
-   - Requirements: Have at least 6+ years of experience running MySQL/PostgreSQL databases in large environments. Awareness of cloud infrastructure (AWS/GCP). Have knowledge of the internals of MySQL/PostgreSQL. Knowledge of load balancing solutions such as ProxySQL to distribute database traffic efficiently across
-   - ID: 4744101005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744101005
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53
+   - Fit: no | Minimum requirements 8+ years of experience designing, implementing and op
+   - Experience: 8+ yrs
+   - Requirements: an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the Organization&nbsp; Payments is at the core of Stripe’s mission to increase the GDP of the internet. We are expanding our payments footprint in India and we
+   - ID: 8185012 | open (ATS verified)
+   - Apply: https://stripe.com/jobs/search?gh_jid=8185012
 
-9. **Identity and Cyber Security Services | Broadcom**
-   - IND-Bangalore Electronic City - S1 | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 53
-   - Fit: no | with a minimum of 5 years IT Support experience is desired. This is a
-   - Experience: 5 yrs | Qualification: Bachelor
-   - Requirements: & Experience Technical Proficiencies Identity & Access Management: Deep practical knowledge of industry standard identity providers, federation standards (SAML, OAuth, SCIMv2), and large-scale, multi-domain Active Directory environments. ZTNA & Network Security: Demonstrated proficiency with ZTNA
-   - ID: R027409 | open (ATS verified)
-   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/Identity-and-Cyber-Security-Services_R027409
+6. **Software Engineering LMTS - Backend Distributed Systems | Salesforce**
+   - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53
+   - Fit: no | team Required Skills: 10+ years of experience in software development and la
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: and experience with relational and non-relational databases (e.g., PostgreSQL, Trino). Experience developing SaaS products on public cloud infrastructure (AWS, Azure, GCP). Proven experience in designing and developing distributed systems at scale. Proficiency in queues, locks, scheduling,
+   - ID: JR338174 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-LMTS_JR338174
 
-10. **Sr Software Engineer - Python | PayPal**
-   - Bangalore, Karnataka, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-19 (1 days ago) | fresh | Score 53
-   - Fit: no | What you need to bring 5+ years of software engineering experience and a bac
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : What you need to bring 5+ years of software engineering experience and a bachelor’s degree in computer science or a related field
-   - ID: R0138315-1 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0138315-1
+7. **Director - Technical Consulting  ( Salesforce Financial Services Cloud  OR Revenue Cloud ) | Salesforce**
+   - India - Bangalore | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 53 | second job
+   - Fit: no | Minimum Requirements: 15+ years of experience leading Salesforce technical c
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: in designing, delivering, testing, and deploying. Lead a project team of developers focused on driving optimized solutions for our clients leveraging Salesforce Industries Clouds, ensuring teams leverage developer assistants (e.g., Cursor, Claude, GitHub Copilot) to accelerate delivery and enforce
+   - ID: JR343709-1 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Director---Technical-Consulting----Salesforce-Financial-Services-Cloud--_JR343709-1
+
+8. **Software Development Manager, DSP Tech | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-20 (1 days ago) | fresh | Score 50
+   - Fit: no | C#, or C++ experience - 8+ years of leading the definition and development of
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - ID: 10584462 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10584462/software-development-manager-dsp-tech
