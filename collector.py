@@ -1016,7 +1016,7 @@ def snapshot_daily():
     out = os.path.join(DAILY, TODAY.isoformat())
     os.makedirs(out, exist_ok=True)
     for fn in os.listdir(DATA):
-        if fn == "bulletin_pick.md" or re.match(r"(top_10|city_|domain_|ranked_index)", fn):
+        if fn in ("bulletin_pick.md", "it_jobs_shortlist.md", "jobs_latest.md") or re.match(r"(top_10|city_|domain_|ranked_index)", fn):
             shutil.copy(os.path.join(DATA, fn), os.path.join(out, fn))
 
 
