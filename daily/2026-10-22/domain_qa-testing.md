@@ -1,16 +1,7 @@
-# SERVE ranked list: QA / Testing jobs (0-5 years), collected 2026-10-21 23:26 UTC
-3 jobs, best score first: 1 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: QA / Testing jobs (0-5 years), collected 2026-10-22 06:12 UTC
+2 jobs, best score first: 0 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Consultant - Compliance Quality Assurance | Nium**
-   - Mumbai | Work mode: hybrid | Section: QA / Testing
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 85
-   - Fit: yes | and audits. Minimum 3+ years of financial crime, Compliance, Audit or QA
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: Planning – Complete Terms of Reference templates and deduce samples using approved sampling methodology for QA reviews Reporting – present observations to senior stakeholders for factual accuracy discussions Issue management – ensure all issues are remediated in a timely manner Record-Keeping &
-   - ID: 1e519fbd-ce6a-47ce-a13f-14eaf9e79e5e | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/1e519fbd-ce6a-47ce-a13f-14eaf9e79e5e
-
-2. **Test Engineer | Barclays**
+1. **Test Engineer | Barclays**
    - Pune, Gera Commerzone SEZ Chennai, DLF IT Park India | Work mode: unspecified | Section: QA / Testing
    - Posted: 2026-10-15 (7 days ago) | fallback | Score 62
    - Fit: unknown
@@ -19,7 +10,7 @@
    - ID: JR-0000086366-1 | open (ATS verified)
    - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Test-Engineer---BA4_JR-0000086366-1
 
-3. **Quality Assurance Engineer , Project Tez | Amazon Now | Amazon**
+2. **Quality Assurance Engineer , Project Tez | Amazon Now | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: QA / Testing
    - Posted: 2026-10-19 (3 days ago) | fallback | Score 53
    - Fit: yes | - 4+ years of quality assurance engineering experience

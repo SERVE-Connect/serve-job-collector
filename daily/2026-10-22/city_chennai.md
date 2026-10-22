@@ -1,30 +1,31 @@
-# SERVE ranked list: Jobs in Chennai (all domains, all experience levels), collected 2026-10-21 23:26 UTC
-4 jobs, best score first: 1 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Chennai (all domains, all experience levels), collected 2026-10-22 06:12 UTC
+4 jobs, best score first: 2 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Data Engineer | PayPal**
-   - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 79
-   - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - Requirements: and deliver solutions. Your role involves ensuring data quality, optimizing data processes, and collaborating with cross-functional teams. Job Description: Essential Responsibilities: Design and develop data pipelines for efficient data collection and processing. Build and maintain scalable data
-   - ID: R0138392 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Data-Engineer_R0138392
+1. **Analyst IB Finance | Barclays**
+   - Chennai, DLF IT Park | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 70
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Experienced with MS office toolkit (Word, PPT, Excel, Access Database etc) Qualified accountant Excellent communication and presentation skills in both formal and informal settings & ability to interact with the region and UK / US as part of a global team (written and verbal) Strong control
+   - ID: JR-0000118013 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst-IB-Finance_JR-0000118013
 
 2. **Software Development Engineer II | Amazon**
    - Chennai, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-16 (6 days ago) | fallback | Score 62
+   - Posted: 2026-10-16 (6 days ago) | fallback | Score 62 | second job
    - Fit: yes | - 3+ years of non-internship professional software deve
    - Experience: 3+ yrs
    - ID: 10581088 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10581088/software-development-engineer-ii
 
-3. **Digital Associate, Ring Data Engineering Services | Amazon**
-   - Chennai, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-19 (3 days ago) | fallback | Score 57 | second job
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 10583474 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10583474/digital-associate-ring-data-engineering-services
+3. **Business Analyst, RBS Emerging Stores, Retail Business Services, RBS Flex Org Variable | Amazon**
+   - Chennai, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 59
+   - Fit: no | role experience - 5+ years of Excel (including VBA, pivot tables, array
+   - Experience: 5+ yrs
+   - Requirements: and using data and metrics to draw business insights - Experience making business recommendations and influencing stakeholders - 2+ years of Tableau Desktop, Quicksight or other relevant data visualization software experience - Experience in tax, finance or a related analytical field, or experience
+   - ID: 10585985 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10585985/business-analyst-rbs-emerging-stores-retail-business-services-rbs-flex-org-variable
 
 4. **Process Trainer - Team Lead - LRM | Paytm**
    - Chandigarh, Punjab, Chennai, Tamil Nadu, Dehradun, Uttarakhand, Hyderabad, Telangana, Lucknow, Uttar Pradesh, Puri, Odisha [multi-city] | Work mode: onsite | Section: Non-IT / Other

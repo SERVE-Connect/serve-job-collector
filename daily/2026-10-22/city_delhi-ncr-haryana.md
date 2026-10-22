@@ -1,8 +1,8 @@
-# SERVE ranked list: Jobs in Delhi NCR / Haryana (all domains, all experience levels), collected 2026-10-21 23:26 UTC
-9 jobs, best score first: 4 from today/yesterday, 5 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Delhi NCR / Haryana (all domains, all experience levels), collected 2026-10-22 06:12 UTC
+9 jobs, best score first: 5 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Product Management - AI Payments | Paytm**
-   - Noida, Uttar Pradesh | Work mode: onsite | Section: Data / Analytics / AI
+   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 75
    - Fit: yes | What We’re Looking For: 3 to 6 years of hands-on product management experience A
    - Experience: 3-6 yrs | Qualification: Bachelor
@@ -10,7 +10,16 @@
    - ID: e09a1fc4-47e2-4c49-b17e-6993b958d6ef | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/e09a1fc4-47e2-4c49-b17e-6993b958d6ef
 
-2. **IT Audit | Paytm**
+2. **Account Executive - Mulesoft | Salesforce**
+   - India - Gurgaon | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 59
+   - Fit: no | and at least 10+ years of experience in Solution sales within the S
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
+   - ID: JR365325 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Account-Executive---Mulesoft_JR365325
+
+3. **IT Audit | Paytm**
    - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 57 | second job
    - Fit: no | Required: Minimum 7 years of experience in information security and au
@@ -18,15 +27,6 @@
    - Requirements: , and enhancing our information security policies and procedures. Key Responsibilities: Conduct IT and cloud security audits across various domains, including IT General Controls, Information Security Controls, Cloud Security, Network Security, Vulnerability Management, and Vendor Risk Assessments.
    - ID: 8f344c23-43a8-492b-99e9-e9735e2d07a8 | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/8f344c23-43a8-492b-99e9-e9735e2d07a8
-
-3. **Cloud Account Executive | Salesforce**
-   - India - Gurgaon | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-19 (3 days ago) | fallback | Score 57
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
-   - ID: JR364828 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Cloud-Account-Executive_JR364828
 
 4. **Manager, Solutions Architecture | MongoDB**
    - Gurugram | Work mode: unspecified | Section: Senior IT roles (5+ yrs)

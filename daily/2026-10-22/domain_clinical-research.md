@@ -1,4 +1,4 @@
-# SERVE ranked list: Clinical / Research jobs (0-5 years), collected 2026-10-21 23:26 UTC
+# SERVE ranked list: Clinical / Research jobs (0-5 years), collected 2026-10-22 06:12 UTC
 2 jobs, best score first: 0 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Securities Research Associate | Wells Fargo**

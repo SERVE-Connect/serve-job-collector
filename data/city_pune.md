@@ -1,16 +1,7 @@
-# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-10-21 23:26 UTC
-9 jobs, best score first: 9 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-10-22 06:12 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Data Engineer II | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 96
-   - Fit: yes | Skills & Qualifications 1-2 years of experience in software engineering, data
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: & Qualifications 1-2 years of experience in software engineering, data engineering, or related technical roles Knowledge of Java (JDK 8+) or Python programming, Good to have AI exposure Understanding of object-oriented programming concepts and software development fundamentals Familiarity with REST
-   - ID: R-293802 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-293802
-
-2. **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
+1. **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
    - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 83
    - Fit: yes | Qualifications: 4-6years of experience in financial services, prefera
@@ -19,16 +10,34 @@
    - ID: 261002608 | open (ATS verified)
    - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_261002608
 
-3. **Data Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Data / Analytics / AI
+2. **Analyst | Barclays**
+   - Chennai, DLF IT Park Pune, Gera Commerzone SEZ India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 82
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , and provision of insights into trading performance. Accountabilities Reconciliation of daily profit and loss (P&L) figures for trading desks to ensure they align with the valued positions in the trading book, investigating and resolving discrepancies between P&L figures to ensure they reflect the
+   - ID: JR-0000135859 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst_JR-0000135859
+
+3. **Expertise .Net Core Dev with Hands on SQL and Azure  || Pune /Noida /Bangalore | Fiserv**
+   - Pune - Trion Business Park, India | Work mode: onsite | Section: IT / Software
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 81
+   - Fit: yes | Noida Experience: 4 to 10 years 5 Days Work From Office Software Development
+   - Experience: 4-10 yrs | Qualification: Bachelor
+   - Requirements: C#, ASP.Net, .Net Core SQL Server Windows Service, Web Service, WCF, Web API, Desktop Applications GIT/Harness CICD JIRA/Confluence Azure (Keyvault, AppSettings, Kubernetes, Servicebus, Azure SQL) What would be great to have: Experience working in a Scrum Development Team Banking and Financial
+   - ID: R-10398418 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/XMLNAME-NET-Core-Dev-with-SQL-and-Azure----Pune_R-10398418
+
+4. **Software Engineer II (Mainframe Developer) | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: IT / Software
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 79
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: and make recommendations for change. Plan resources, budgets, and policies; manage and maintain policies/ processes; deliver continuous improvements and escalate breaches of policies/procedures.. If managing a team, they define jobs and responsibilities, planning for the department’s future needs
-   - ID: JR-0000089715-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000089715-1
+   - Requirements: an understanding of Payment and Cards industry? • Are you a technical Subject Matter Expert who can guide young talent? Role • Design and Develops software which is high on performance and meets business requirements. • Maintain and present project related metrics reporting for management review •
+   - ID: R-274163 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II--Mainframe-Developer-_R-274163
 
-4. **In_Bosch Rexroth India_Sales Engineer/Astt. Manager_Pune | Bosch**
+5. **In_Bosch Rexroth India_Sales Engineer/Astt. Manager_Pune | Bosch**
    - Pune, MH, India | Work mode: unspecified | Section: IT / Software
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 74
    - Fit: unknown
@@ -36,16 +45,25 @@
    - ID: 744000156770949 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156770949
 
-5. **Expertise Power BI Admin/Developer (Hands on SQL, ETL and Azure) || Pune / Noida / Bangalore | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 68
-   - Fit: no | need to have: • Minimum 7 to 10 years of experience in business intelligence, anal
-   - Experience: 7-10 yrs | Qualification: Bachelor
-   - Requirements: . • Build and support backend data components such as SQL queries, views, stored procedures, data marts, ETL/ELT processes, APIs, and data validation frameworks. • Partner with database, cloud, networking, security, and application teams to troubleshoot data connectivity, authentication, gateway,
-   - ID: R-10403963 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Expertise-Power-BI-Admin-Developer--Hands-on-SQL--ETL-and-Azure-----Pune---Noida---Bangalore_R-10403963
+6. **Incident Command and Observability Lead | Workday**
+   - IND.Pune | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 71
+   - Fit: no | Basic Qualifications: 7+ years of hands-on experience with modern observabi
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - Requirements: to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team At Workday, the IT Service Management and Operations
+   - ID: JR-0110219-1 | open (ATS verified)
+   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Incident-Command-and-Observability-Lead_JR-0110219-1
 
-6. **Principal Engineer (Java, AWS) | Autodesk**
+7. **SAP MM/PP Master Data Engineer - Enterprise Data Management | NVIDIA**
+   - India, Gurugram India, Pune India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 70
+   - Fit: no | What We Need to See: 8+ years of SAP experience with Core focus on the SAP
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: with master data support, ensuring that data structures are optimized for advanced planning systems such as SAP IBP, APO, and Anaplan. Custom Object Support: Strong experience in defining and supporting custom SAP objects tailored to specific complex manufacturing or supply chain business
+   - ID: JR2026497 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497
+
+8. **Principal Engineer (Java, AWS) | Autodesk**
    - Pune, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 67
    - Fit: no | Minimum Qualifications 10+ years of software engineering experience with stro
@@ -54,16 +72,7 @@
    - ID: 26WD101290-2 | open (ATS verified)
    - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Principal-Engineer--Java--AWS-_26WD101290-2
 
-7. **Senior CPU Compiler Performance Engineer | NVIDIA**
-   - India, Pune | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 67
-   - Fit: no | What we need to see: 8+ years of experience e with BS or MS degree in Comp
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: Good CPU architecture and low level performance analysis skills with hands-on experience of pre-Silicon hardware / software co-design. Excellent verbal and written communications skills How to stand out from the crowd: Knowledge of workload analysis and the ability to drive improvements in hardware
-   - ID: JR2021377 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-CPU-Compiler-Performance-Engineer_JR2021377
-
-8. **Salesforce Project Manager | Salesforce**
+9. **Salesforce Project Manager | Salesforce**
    - India - Hyderabad India - Bangalore India - Pune India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 67
    - Fit: no | Must Have : 10+ years of total experience in the IT industry, with
@@ -72,7 +81,7 @@
    - ID: JR354366 | open (ATS verified)
    - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Salesforce-Project-Manager_JR354366
 
-9. **Professional Services Consultant | Druva**
+10. **Professional Services Consultant | Druva**
    - Pune, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 67
    - Fit: no | Skills and Experience 8+ years in technical customer-facing roles with at l

@@ -1,5 +1,5 @@
-# SERVE ranked list: Logistics jobs (0-5 years, matched by keyword), collected 2026-10-21 23:26 UTC
-4 jobs, best score first: 1 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Logistics jobs (0-5 years, matched by keyword), collected 2026-10-22 06:12 UTC
+4 jobs, best score first: 2 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Ops Support Expert, NASC, North America Supply Chain (NASC) | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
@@ -18,7 +18,15 @@
    - ID: JR0288179 | open (ATS verified)
    - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Lab-Engineer_JR0288179
 
-3. **IN_Bosch Rexroth India_Engineer / Executive_Procurement Planner | Bosch**
+3. **Project Design Mechanical Engineer, Fleet Remediation Engineering | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 63 | second job
+   - Fit: yes | design consultant - 4+ years of industrial or commercial engineering in m
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - ID: 10585900 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10585900/project-design-mechanical-engineer-fleet-remediation-engineering
+
+4. **IN_Bosch Rexroth India_Engineer / Executive_Procurement Planner | Bosch**
    - Sanand, GJ, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-15 (7 days ago) | fallback | Score 56
    - Fit: yes | Mechanical with 3 to 5 years of experience Preferred Skills / Exposure: ➢
@@ -26,11 +34,3 @@
    - Requirements: / Exposure: ➢ Good Communication, Interpersonal and collaboration skills ➢ Willingness to work with smart techniques. ➢ Well versed with soft skills like Microsoft Excel, Power Point Presentation, etc. ➢ SAP knowledge MM Module ➢ Power BI (Preferred)
    - ID: 744000155668299 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000155668299
-
-4. **Business Analyst, Support, Supply Chain | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-18 (4 days ago) | fallback | Score 52 | second job
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 10582081 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10582081/business-analyst-support-supply-chain

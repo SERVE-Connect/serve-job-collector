@@ -1,5 +1,5 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-21 23:26 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-22 06:12 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Analyst - KYB Operations | Nium**
    - Mumbai | Work mode: hybrid | Section: Non-IT / Other
@@ -10,7 +10,25 @@
    - ID: 0f9c92d5-3b3a-42a2-9e64-7a6eea72caff | open (ATS verified)
    - Apply: https://jobs.lever.co/nium/0f9c92d5-3b3a-42a2-9e64-7a6eea72caff
 
-2. **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
+2. **Associate Operations Processor | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 85
+   - Fit: yes | or any other discipline 0 to 1 year of experience in banking/Financial Services
+   - Experience: 0-1 yrs | Qualification: Bachelor
+   - Requirements: 6+ months of operations support experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education. Desired Qualifications: Quality-Oriented. Demonstrates high-level of attention to detail meeting deadlines. Working
+   - ID: R-562782 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Operations-Processor_R-562782
+
+3. **Business Analyst - Finance_MPIN | Bosch**
+   - Bengaluru, KA, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 85
+   - Fit: yes | Relevant Experience 2-3 years of financial analytical experience in a mark
+   - Experience: 2-3 yrs | Qualification: Bachelor
+   - Requirements: and support the functional excellence team with relevant inputs • Adhere to relevant functional policies, processes, standard operating procedures and instructions to ensure controlled and consistent flow of information • Support development of finance data management workflows and processes, and
+   - ID: 744000157037059 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157037059
+
+4. **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
    - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 83
    - Fit: yes | Qualifications: 4-6years of experience in financial services, prefera
@@ -19,16 +37,43 @@
    - ID: 261002608 | open (ATS verified)
    - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_261002608
 
-3. **Global Support Contract Specialist - (IST Time Zone) | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 78
-   - Fit: yes | Skills/Experience 2+ years sales operations or order management experie
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: . Your Impact Provide superior internal support and guidance for Account Executives including but not limit to deal structure questions, order processing, ensuring orders are in compliance to revenue & company policy, and all other pre-quote conversion support. Work with Sales, Rev Recognition and
-   - ID: JR359313 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Global-Support-Contract-Specialist----IST-Time-Zone-_JR359313
+5. **Analyst | Barclays**
+   - Chennai, DLF IT Park Pune, Gera Commerzone SEZ India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 82
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , and provision of insights into trading performance. Accountabilities Reconciliation of daily profit and loss (P&L) figures for trading desks to ensure they align with the valued positions in the trading book, investigating and resolving discrepancies between P&L figures to ensure they reflect the
+   - ID: JR-0000135859 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst_JR-0000135859
 
-4. **Specialist, Implementation | Mastercard**
+6. **Tax Analyst | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-21 (1 days ago) | fresh | Score 82
+   - Fit: yes | • Typically has 2 years of work experience, preferably in income tax
+   - Experience: 2 yrs | Qualification: Bachelor
+   - Requirements: . Maintain tax accounts, tools, trackers, templates and databases , ensuring information is accurate, complete and up to date. Support tax compliance and tax audits , including data gathering, analysis, reconciliation, and review and organization of large volumes of supporting documentation. Assist
+   - ID: 3170041 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Tax-Analyst_3170041
+
+7. **Product Management - AI Payments | Paytm**
+   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-10-21 (1 days ago) | fresh | Score 75
+   - Fit: yes | What We’re Looking For: 3 to 6 years of hands-on product management experience A
+   - Experience: 3-6 yrs | Qualification: Bachelor
+   - Requirements: 3 to 6 years of hands-on product management experience A background in engineering (B.Tech) or management (MBA), with a solid technical understanding Proven ownership of the full product lifecycle, from discovery through launch, iteration and scale Comfortable with data and analytics, using metrics
+   - ID: e09a1fc4-47e2-4c49-b17e-6993b958d6ef | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/e09a1fc4-47e2-4c49-b17e-6993b958d6ef
+
+8. **CPU Physical Design Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (0 days ago) | fresh | Score 74
+   - Fit: yes | Electronics with 3+ years of relevant experience. - Technical expertis
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: As a CPU Physical Design Engineer, you will play a pivotal role in implementing high-performance, low-power CPU designs from RTL to GDSII. You will focus on detailed processes such as synthesis, placement, routing, timing analysis, and power optimization, enabling designs that meet stringent
+   - ID: JR0288389 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/CPU-Physical-Design-Engineer_JR0288389
+
+9. **Specialist, Implementation | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 74
    - Fit: unknown
@@ -37,36 +82,10 @@
    - ID: R-293133-1 | open (ATS verified)
    - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Implementation_R-293133-1
 
-5. **IN_RBIN_Sr Engineer_Front Line Manager_Manufacturing_NaP/MFN2 | Bosch**
-   - Nashik, MH, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 74
-   - Fit: yes | Engineering Minimum 1-3 years of demonstrated experience in manufacturing
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - Requirements: and reasons behind various processes, procedures & controls planned to ensure safety, efficiency and defect free production. Process management Follow defined manufacturing process standards i.e. drawings, PDS, SPC, PFEP, Gauge validity and conduct checks to confirm release of manufacturing during
-   - ID: 744000156793636 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156793636
-
-6. **Ops Support Expert, NASC, North America Supply Chain (NASC) | Amazon**
+10. **Ops Support Expert, NASC, North America Supply Chain (NASC) | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-21 (1 days ago) | fresh | Score 73
    - Fit: yes | -1+ years of data-driven business operations processes
    - Experience: 1+ yrs | Qualification: Bachelor
    - ID: 10585094 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10585094/ops-support-expert-nasc-north-america-supply-chain-nasc
-
-7. **PLC Automation Engineer-ECF2 | Bosch**
-   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 71 | second job
-   - Fit: yes | Additional information 3 - 6 years of related experience Candidate should be wi
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - Requirements: . Commissioning the machine in customer location.Ensuring safety of the operator on the machine usage. Good to Have skills: Experience in interfacing with external devices like Servo Drives, Motion Controllers, Screwers Hands-on experience in any HMI building tools like Factory Talk View, InTouch,
-   - ID: 744000156805545 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156805545
-
-8. **Securities Operations Associate-US trade settlements | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 54
-   - Fit: unknown
-   - Requirements: . Support daily securities and cash-related production activities to help meet service, quality, and control standards. Participate in process improvement initiatives, projects, and implementation activities that support operational effectiveness. Required Qualifications: 6+ months of Securities
-   - ID: R-576946 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Operations-Associate_R-576946

@@ -13,11 +13,11 @@
  },
  "greenhouse:Rubrik": {
   "ok": true,
-  "listed": 146
+  "listed": 145
  },
  "greenhouse:Elastic": {
   "ok": true,
-  "listed": 373
+  "listed": 379
  },
  "greenhouse:Druva": {
   "ok": true,
@@ -37,11 +37,11 @@
  },
  "greenhouse:Razorpay": {
   "ok": true,
-  "listed": 26
+  "listed": 25
  },
  "greenhouse:Graviton Research Capital": {
   "ok": true,
-  "listed": 24
+  "listed": 23
  },
  "greenhouse:Databricks": {
   "ok": true,
@@ -53,7 +53,7 @@
  },
  "greenhouse:Stripe": {
   "ok": true,
-  "listed": 727
+  "listed": 729
  },
  "greenhouse:Twilio": {
   "ok": true,
@@ -65,11 +65,11 @@
  },
  "greenhouse:Datadog": {
   "ok": true,
-  "listed": 439
+  "listed": 440
  },
  "greenhouse:MongoDB": {
   "ok": true,
-  "listed": 393
+  "listed": 389
  },
  "greenhouse:Netskope": {
   "ok": true,
@@ -93,11 +93,11 @@
  },
  "lever:Meesho": {
   "ok": true,
-  "listed": 59
+  "listed": 58
  },
  "lever:Paytm": {
   "ok": true,
-  "listed": 193
+  "listed": 194
  },
  "lever:Coupa": {
   "ok": true,
@@ -133,7 +133,7 @@
  },
  "workday:Autodesk": {
   "ok": true,
-  "listed": 25
+  "listed": 28
  },
  "workday:NVIDIA": {
   "ok": true,
@@ -149,7 +149,7 @@
  },
  "workday:Fiserv": {
   "ok": true,
-  "listed": 9
+  "listed": 12
  },
  "workday:Salesforce": {
   "ok": true,
@@ -161,15 +161,15 @@
  },
  "workday:HP": {
   "ok": true,
-  "listed": 73
+  "listed": 71
  },
  "workday:Wells Fargo": {
   "ok": true,
-  "listed": 84
+  "listed": 83
  },
  "workday:Barclays": {
   "ok": true,
-  "listed": 126
+  "listed": 127
  },
  "workday:Citi": {
   "ok": true,
@@ -181,7 +181,7 @@
  },
  "workday:Intel": {
   "ok": true,
-  "listed": 84
+  "listed": 85
  },
  "workday:Qualcomm": {
   "ok": true,
@@ -193,11 +193,11 @@
  },
  "workday:PayPal": {
   "ok": true,
-  "listed": 17
+  "listed": 18
  },
  "workday:Workday": {
   "ok": true,
-  "listed": 34
+  "listed": 35
  },
  "smartrecruiters:Bosch": {
   "ok": true,
@@ -205,7 +205,7 @@
  },
  "smartrecruiters:ServiceNow": {
   "ok": true,
-  "listed": 71
+  "listed": 70
  },
  "amazon:Amazon": {
   "ok": true,

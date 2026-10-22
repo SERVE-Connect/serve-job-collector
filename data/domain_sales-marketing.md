@@ -1,5 +1,5 @@
-# SERVE ranked list: Sales & Marketing jobs (0-5 years, matched by keyword), collected 2026-10-21 23:26 UTC
-5 jobs, best score first: 1 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Sales & Marketing jobs (0-5 years, matched by keyword), collected 2026-10-22 06:12 UTC
+4 jobs, best score first: 0 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Enterprise Sales Development Representative | Workday**
    - India, Mumbai | Work mode: hybrid | Section: Non-IT / Other
@@ -10,16 +10,7 @@
    - ID: JR-0110930 | open (ATS verified)
    - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/India-Mumbai/Enterprise-Sales-Development-Representative_JR-0110930
 
-2. **Global Support Contract Specialist - (IST Time Zone) | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 78
-   - Fit: yes | Skills/Experience 2+ years sales operations or order management experie
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: . Your Impact Provide superior internal support and guidance for Account Executives including but not limit to deal structure questions, order processing, ensuring orders are in compliance to revenue & company policy, and all other pre-quote conversion support. Work with Sales, Rev Recognition and
-   - ID: JR359313 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Global-Support-Contract-Specialist----IST-Time-Zone-_JR359313
-
-3. **Process Trainer - TL - Lending | Paytm**
+2. **Process Trainer - TL - Lending | Paytm**
    - Pune, Maharashtra | Work mode: onsite | Also hiring in: Ahmedabad, Gujarat; Kochi, Kerala | Section: Non-IT / Other
    - Posted: 2026-10-15 (7 days ago) | fallback | Score 66
    - Fit: yes | Requirements: -4+ years of experience in Sales Training, Learning &
@@ -28,7 +19,7 @@
    - ID: 601f0c35-ed32-4447-b39d-82cd4c6e14b8 | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/601f0c35-ed32-4447-b39d-82cd4c6e14b8
 
-4. **Revenue Operations Specialist | Termgrid**
+3. **Revenue Operations Specialist | Termgrid**
    - India | Work mode: remote | Section: Non-IT / Other
    - Posted: 2026-10-19 (3 days ago) | fallback | Score 64
    - Fit: unknown
@@ -37,9 +28,9 @@
    - ID: e6fc3f57-ce4e-4636-be64-c655c768da02 | open (ATS verified)
    - Apply: https://jobs.lever.co/termgrid/e6fc3f57-ce4e-4636-be64-c655c768da02
 
-5. **Cloud Account Executive | Salesforce**
+4. **Cloud Account Executive | Salesforce**
    - India - Gurgaon | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-19 (3 days ago) | fallback | Score 57 | second job
+   - Posted: 2026-10-19 (3 days ago) | fallback | Score 57
    - Fit: unknown
    - Qualification: Bachelor
    - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
