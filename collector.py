@@ -154,6 +154,7 @@ NON_IT = re.compile(
     r"(gpu|asic|soc|rtl|design) verification|process engineer|"
     r"circuit|clock design|floor ?plan|logic design|\bnand\b|process integration|civil|architectural|interiors?\b|"
     r"electrical|milkrun|inbound logistic|"
+    r"product management|compliance quality|financial crime|\bip integration|media ip|"
     r"\btax\b|finance|investigat|offboarding|training and quality|coordinator", re.I)
 IT_YES = re.compile(
     r"software|developer|engineer|devops|\bsre\b|site reliability|data scien|data analy|"
