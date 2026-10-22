@@ -1,91 +1,91 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-22 06:12 UTC
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-22 23:27 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Associate Operations Processor | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 85
-   - Fit: yes | or any other discipline 0 to 1 year of experience in banking/Financial Services
-   - Experience: 0-1 yrs | Qualification: Bachelor
-   - Requirements: 6+ months of operations support experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education. Desired Qualifications: Quality-Oriented. Demonstrates high-level of attention to detail meeting deadlines. Working
-   - ID: R-562782 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Operations-Processor_R-562782
+1. **Finance Business Support Analyst | PayPal**
+   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 82
+   - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: 1+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Responsibilities: Acting operational support arm for PayPal and its adjacencies’ Finance and Controllership, Oversee the assurance
+   - ID: R0138563 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Finance-Business-Support-Analyst_R0138563
 
 2. **Business Analyst - Finance_MPIN | Bosch**
    - Bengaluru, KA, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 85
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 82
    - Fit: yes | Relevant Experience 2-3 years of financial analytical experience in a mark
    - Experience: 2-3 yrs | Qualification: Bachelor
    - Requirements: and support the functional excellence team with relevant inputs • Adhere to relevant functional policies, processes, standard operating procedures and instructions to ensure controlled and consistent flow of information • Support development of finance data management workflows and processes, and
    - ID: 744000157037059 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157037059
 
-3. **Tax Analyst | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 82
-   - Fit: yes | • Typically has 2 years of work experience, preferably in income tax
-   - Experience: 2 yrs | Qualification: Bachelor
-   - Requirements: . Maintain tax accounts, tools, trackers, templates and databases , ensuring information is accurate, complete and up to date. Support tax compliance and tax audits , including data gathering, analysis, reconciliation, and review and organization of large volumes of supporting documentation. Assist
-   - ID: 3170041 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Tax-Analyst_3170041
+3. **Financial Analyst, Finance-as-a-Service(FaaS) | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 78
+   - Fit: yes | - 1+ years of finance experience - Knowledge of standar
+   - Experience: 1+ yrs
+   - Requirements: Experience using data to influence business decisions - Experience in corporate finance including budgeting/planning, forecasting and reporting
+   - ID: 10586058 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10586058/financial-analyst-finance-as-a-service-faas
 
-4. **Technical Support Engineer | Salesforce**
-   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 80
-   - Fit: yes | Programming Language 2+ years of experience in debugging/ troubleshooting
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: Strong background in Computer Science or related engineering discipline Proficiency in Java Programming Language 2+ years of experience in debugging/ troubleshooting Java code/applications. Skill in explaining complex technical concepts clearly to non-technical audiences Experience assessing
-   - ID: JR358037 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Support-Engineer_JR358037
+4. **AI System Performance Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 77
+   - Fit: yes | • College graduate or 1+ years of experience in AI workload and GPU archite
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: Required Qualifications • BTech or Master's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field. • College graduate or 1+ years of experience in AI workload and GPU architecture modelling/simulation or a similar field. • Strong proficiency in Python, with
+   - ID: JR0288211 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/AI-System-Performance-Engineer_JR0288211
 
-5. **Software Development Engineer II, Prime Benefits | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 75
-   - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs
-   - ID: 10585995 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10585995/software-development-engineer-ii-prime-benefits
+5. **Technical Support Engineer - Commerce Cloud | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 71
+   - Fit: yes | Required 3-4 years engineering/programming experience B2C Comme
+   - Experience: 3-4 yrs | Qualification: Bachelor
+   - Requirements: Required 3-4 years engineering/programming experience B2C Commerce Cloud (SFCC/SFRA/PWA Kit) JavaScript, HTML, CSS Web services (REST/SOAP APIs) Debugging & troubleshooting Ideal candidates will have strong experience in several of the following: Proficient with HTML, CSS, JavaScript Familiarity
+   - ID: JR353944-1 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Support-Engineer---Commerce-Cloud_JR353944-1
 
-6. **Signal Integrity Engineer | Intel**
-   - India, Bangalore | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 74
-   - Fit: yes | or a related field and 3+ years of hands-on experience in signal integrity d
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: . - Develop electrical specifications and contribute to the establishment of new industry standards for next-generation interfaces. Qualifications: Minimum Qualifications - Bachelor's degree in Electrical Engineering, Physics, or a related field and 3+ years of hands-on experience in signal
-   - ID: JR0287938 | open (ATS verified)
-   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Signal-Integrity-Engineer_JR0287938
+6. **Trade and Transaction Reporting Associate | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 65
+   - Fit: unknown
+   - Requirements: . Candidates applying to job openings posted in Canada: Applications for employment are encouraged from all qualified candidates, including women, persons with disabilities, aboriginal peoples and visible minorities. Accommodation for applicants with disabilities is available upon request in
+   - ID: R-564984-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Trade-and-Transaction-Reporting-Associate_R-564984-1
 
-7. **Senior Manager, Associate Relations | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 58
-   - Fit: no | multiple stakeholders 13+ years of Human Resources experience, with a focus
-   - Experience: 13+ yrs | Qualification: Bachelor
-   - Requirements: Knowledge of employment law and employment practices Lead, motivate and develop a team of Associate Relations Consultants Examine data at the department, line of business, and division level to identify trends and recommend action plans for business units to implement Serve as a point of escalation
-   - ID: R1001558-2 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Manager--Associate-Relations_R1001558-2
+7. **Escalation Engineer | Zscaler**
+   - Bangalore, IND | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 60
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: a relentless focus on execution and a bias for action, delivering high-impact results quickly to win for the customer and the team. What We’re Looking for (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to
+   - ID: 5263563007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5263563007
 
-8. **Staff Security Engineer, API Security | PayPal**
-   - Bangalore, Karnataka, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 56
-   - Fit: no | Minimum Qualifications: 5+ years relevant experience and a Bachelor’s degree
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: to solve security challenges, contributes to security improvements, and influences security processes. Job Description: Essential Responsibilities: Leverage specialized security expertise to identify and resolve complex security issues, recommending best practices and determining new approaches
-   - ID: R0137315 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Staff-Security-Engineer--API-Security_R0137315
+8. **Associate Principal Technical Support Engineer- | Saviynt**
+   - Bengaluru, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 59
+   - Fit: no | IAM service offerings 10+ years Experience in a Software Support role. Stron
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: Knowledge of Application Performance Monitoring (APM) and Site Reliability Engineering(SRE) Identity and Access Management domain knowledge is a preference Hands-on implementation/maintenance experience of the IGA platform is a preference IGA: Saviynt or Sailpoint or relevant Experience with SSL
+   - ID: 9890779f-84ff-4877-8513-c07999a6c7db | open (ATS verified)
+   - Apply: https://jobs.lever.co/saviynt/9890779f-84ff-4877-8513-c07999a6c7db
 
-9. **License Compliance Sales | Autodesk**
-   - APAC - India - Bengaluru - Sunriver APAC - India - Chennai - Cowrks India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 56
-   - Fit: no | Minimum Qualifications 8+ years of sales experience, preferably in customer-
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: , and negotiate appropriate commercial resolutions. You will manage customer compliance engagements, including warning letters and audit activities, while maintaining positive customer relationships and supporting revenue recovery. You will also be responsible for achieving and forecasting
-   - ID: 26WD100981-2 | open (ATS verified)
-   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/APAC---India---Bengaluru---Sunriver/License-Compliance-Sales_26WD100981-2
+9. **Senior Principal Applications Engineer | Autodesk**
+   - Bengaluru, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 53
+   - Fit: no | Minimum Qualifications 14+ years of software development experience with demo
+   - Experience: 14+ yrs | Qualification: Bachelor
+   - Requirements: 14+ years of software development experience with demonstrated expertise across the full product development lifecycle Proven experience architecting enterprise applications and preferably CRM ecosystems Deep technical expertise in a critical technology or capability area, with the ability to act
+   - ID: 26WD99826-1 | open (ATS verified)
+   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Principal-Applications-Engineer_26WD99826-1
 
-10. **Senior AI API Platform Engineer | Rubrik**
-   - Bangalore, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 53
-   - Fit: no | Experience 8+ years of software engineering experience, with 5+
-   - Experience: 8+ yrs
-   - Requirements: across APIs and integrations. Lead technical discovery for new API, integration, and AI-enablement initiatives with product and business stakeholders. Drive reuse and standardizatio n through shared APIs, connectors, SDKs, and an integration catalog. Evaluate emerging patterns (event-driven
-   - ID: 8273808 | open (ATS verified)
-   - Apply: https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808
+10. **Open AI Platform Engineer and Infrastructure Support | HP**
+   - Bengaluru, Karnataka, India Tlaquepaque, Jalisco, Mexico India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 53
+   - Fit: no | • Typically has 7-10 years of work experience, preferably in software d
+   - Experience: 7-10 yrs | Qualification: Bachelor
+   - Requirements: . Builds standards, designs, and automates the deployment of software. Designs and develops solutions that protect and manage software products and data. Contributes to technology strategy and engineering roadmaps around software engineering; executes strategic software engineering proof of
+   - ID: 3169566-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Open-AI-Platform-Engineer-and-Infrastructure-Support_3169566-1

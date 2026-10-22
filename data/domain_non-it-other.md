@@ -1,91 +1,91 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-22 06:12 UTC
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-22 23:27 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Analyst - KYB Operations | Nium**
-   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 90
-   - Fit: yes | or automation. Analyst: 3-6 years (3 years min in KYC/B onboarding, Periodic R
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - Requirements: across US, EU, and APAC region. Experience in global payments or remittance organizations will be an added advantage. Experience in working with Product/Tech teams to implement product changes or automation. Attention to detail and good organizational skills are essential. Can prioritize, organize
-   - ID: 0f9c92d5-3b3a-42a2-9e64-7a6eea72caff | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/0f9c92d5-3b3a-42a2-9e64-7a6eea72caff
+1. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
+   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 89
+   - Fit: yes | in credit risk (3+ years), preferably in an international banking env
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and
+   - ID: JR-0000133976-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
 
-2. **Associate Operations Processor | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 85
-   - Fit: yes | or any other discipline 0 to 1 year of experience in banking/Financial Services
-   - Experience: 0-1 yrs | Qualification: Bachelor
-   - Requirements: 6+ months of operations support experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education. Desired Qualifications: Quality-Oriented. Demonstrates high-level of attention to detail meeting deadlines. Working
-   - ID: R-562782 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Operations-Processor_R-562782
+2. **Finance Business Support Analyst | PayPal**
+   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 82
+   - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: 1+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Responsibilities: Acting operational support arm for PayPal and its adjacencies’ Finance and Controllership, Oversee the assurance
+   - ID: R0138563 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Finance-Business-Support-Analyst_R0138563
 
 3. **Business Analyst - Finance_MPIN | Bosch**
    - Bengaluru, KA, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 85
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 82
    - Fit: yes | Relevant Experience 2-3 years of financial analytical experience in a mark
    - Experience: 2-3 yrs | Qualification: Bachelor
    - Requirements: and support the functional excellence team with relevant inputs • Adhere to relevant functional policies, processes, standard operating procedures and instructions to ensure controlled and consistent flow of information • Support development of finance data management workflows and processes, and
    - ID: 744000157037059 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157037059
 
-4. **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 83
-   - Fit: yes | Qualifications: 4-6years of experience in financial services, prefera
-   - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: 4-6years of experience in financial services, preferably with exposure to risk and control activities, compliance, or operations. Fundamental understanding of Treasury products, accounting, and regulatory policies Ability to juggle between tasks and communicate with multiple stakeholders Handhold &
-   - ID: 261002608 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_261002608
-
-5. **Analyst | Barclays**
-   - Chennai, DLF IT Park Pune, Gera Commerzone SEZ India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 82
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: , and provision of insights into trading performance. Accountabilities Reconciliation of daily profit and loss (P&L) figures for trading desks to ensure they align with the valued positions in the trading book, investigating and resolving discrepancies between P&L figures to ensure they reflect the
-   - ID: JR-0000135859 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst_JR-0000135859
-
-6. **Tax Analyst | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 82
-   - Fit: yes | • Typically has 2 years of work experience, preferably in income tax
-   - Experience: 2 yrs | Qualification: Bachelor
-   - Requirements: . Maintain tax accounts, tools, trackers, templates and databases , ensuring information is accurate, complete and up to date. Support tax compliance and tax audits , including data gathering, analysis, reconciliation, and review and organization of large volumes of supporting documentation. Assist
-   - ID: 3170041 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Tax-Analyst_3170041
-
-7. **Product Management - AI Payments | Paytm**
+4. **Lending Operations & Partnerships - AM - Merchant Lending | Paytm**
    - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 75
-   - Fit: yes | What We’re Looking For: 3 to 6 years of hands-on product management experience A
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - Requirements: 3 to 6 years of hands-on product management experience A background in engineering (B.Tech) or management (MBA), with a solid technical understanding Proven ownership of the full product lifecycle, from discovery through launch, iteration and scale Comfortable with data and analytics, using metrics
-   - ID: e09a1fc4-47e2-4c49-b17e-6993b958d6ef | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/e09a1fc4-47e2-4c49-b17e-6993b958d6ef
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 81
+   - Fit: yes | professional with 2–4 years of experience in lending operations, prefera
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Requirements: , and the ability to manage multiple operational tasks efficiently. Role Overview We are looking for a proactive and detail-oriented professional with 2–4 years of experience in lending operations, preferably within the fintech, banking, or NBFC industry. The role involves managing lending partner
+   - ID: 8ef474ea-ea67-4cd4-bcd4-af702e493c52 | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/8ef474ea-ea67-4cd4-bcd4-af702e493c52
 
-8. **CPU Physical Design Engineer | Intel**
-   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (0 days ago) | fresh | Score 74
-   - Fit: yes | Electronics with 3+ years of relevant experience. - Technical expertis
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: As a CPU Physical Design Engineer, you will play a pivotal role in implementing high-performance, low-power CPU designs from RTL to GDSII. You will focus on detailed processes such as synthesis, placement, routing, timing analysis, and power optimization, enabling designs that meet stringent
-   - ID: JR0288389 | open (ATS verified)
-   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/CPU-Physical-Design-Engineer_JR0288389
+5. **Facility Operations Center Engineer, DCC Communities | Amazon**
+   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 80
+   - Fit: yes | - 3+ years of relevant work in a data center or other c
+   - Experience: 3+ yrs
+   - ID: 10586180 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10586180/facility-operations-center-engineer-dcc-communities
 
-9. **Specialist, Implementation | Mastercard**
+6. **Operations Processor | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 78
+   - Fit: yes | At least 2+ years of operations support experience, demonstrat
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: . Apply knowledge of banking products, treasury functions, payment flows, and operational controls to complete work accurately and within established timelines. Interpret and apply policies, procedures, and operational guidelines when supporting employees and stakeholders. Coordinate day-to-day
+   - ID: R-579474 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Operations-Processor_R-579474
+
+7. **Specialist implementation | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 74
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 74
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: Relevant experience in “Information Technology” system knowledge, with basic understanding of network technology, applications, and project management • Understanding of payment transaction processing and industry business knowledge • Understanding of MasterCard’s payment processing systems,
-   - ID: R-293133-1 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Implementation_R-293133-1
+   - Requirements: good knowledge about electronic payment and related processes such as authorization, clearing and settlement? - Are you able to cope with a fast changing and ambiguous environment? Role : - Act as central point of contact for customers and/ or MasterCard customer representatives throughout
+   - ID: R-294129 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist-implementation_R-294129
 
-10. **Ops Support Expert, NASC, North America Supply Chain (NASC) | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-21 (1 days ago) | fresh | Score 73
-   - Fit: yes | -1+ years of data-driven business operations processes
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: 10585094 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10585094/ops-support-expert-nasc-north-america-supply-chain-nasc
+8. **Young Apprentice - C00 - MUMBAI | Citi**
+   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 74
+   - Fit: unknown
+   - Qualification: Diploma
+   - Requirements: Previous experience preferred Consistently demonstrates clear and concise written and verbal communication skills Education: High school diploma or equivalent experience ------------------------------------------------------ Job Family Group: Business Strategy, Management & Administration
+   - ID: 26990111 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26990111
+
+9. **Signal Integrity Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 71
+   - Fit: yes | or a related field and 3+ years of hands-on experience in signal integrity d
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: . - Develop electrical specifications and contribute to the establishment of new industry standards for next-generation interfaces. Qualifications: Minimum Qualifications - Bachelor's degree in Electrical Engineering, Physics, or a related field and 3+ years of hands-on experience in signal
+   - ID: JR0287938 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Signal-Integrity-Engineer_JR0287938
+
+10. **Manufacturing Specialist | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-22 (1 days ago) | fresh | Score 57
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Strong experience in semiconductor, electronics, advanced manufacturing, component assembly, test, packaging, or high-volume production operations. • Thorough knowledge of manufacturing equipment, operating procedures, product handling, process controls, and quality expectations. • Strong
+   - ID: JR109409-1 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Manufacturing-Specialist_JR109409-1
