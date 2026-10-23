@@ -1,90 +1,73 @@
-# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-10-22 23:27 UTC
-10 jobs, best score first: 7 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-10-23 23:12 UTC
+8 jobs, best score first: 7 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Software Engineer II | Mastercard**
+1. **Software Engineer I - Java Full Stack React/Angular | Mastercard**
    - Pune, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 96
-   - Fit: yes | discipline. • Minimum 2 years of professional software development experie
-   - Experience: 2 yrs | Qualification: Bachelor
-   - Requirements: Bachelor's degree in Computer Science, Engineering, Information Technology, or a related discipline. • Minimum 2 years of professional software development experience. • Strong hands-on experience with Java, Spring Boot, REST APIs, and microservices architecture. • Experience building
-   - ID: R-287128 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287128
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 96
+   - Fit: yes | About You • 6 months to 1 year of overall career experience into Software E
+   - Experience: 1 yrs | Qualification: Master
+   - Requirements: and solution designs, with guidance from senior engineers. • Participate in development within a CI/CD-enabled environment (e.g., PCF or similar cloud platforms). • Work with data persistence technologies (RDBMS, NoSQL such as Cassandra) under guidance. • Follow established coding standards,
+   - ID: R-294544 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544
 
-2. **Software Engineer II - Java Full Stack React | Mastercard**
+2. **Software Engineer II | Mastercard**
    - Pune, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 79 | second job
-   - Fit: unknown
-   - Qualification: Master
-   - Requirements: & Qualifications : - Overall 3-5 of career experience as a Developer in Full Stack Development - Backend - Strong hands-on experience with Java 17/21+. - Strong experience with Spring Framework / Spring Boot. - Strong understanding of RESTful API design and microservices architecture. - Hands-on
-   - ID: R-293613 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-Stack-React_R-293613
-
-3. **Expertise .Net Core Dev with Hands on SQL and Azure  || Pune /Noida /Bangalore | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: IT / Software
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 78
-   - Fit: yes | Noida Experience: 4 to 10 years 5 Days Work From Office Software Development
-   - Experience: 4-10 yrs | Qualification: Bachelor
-   - Requirements: C#, ASP.Net, .Net Core SQL Server Windows Service, Web Service, WCF, Web API, Desktop Applications GIT/Harness CICD JIRA/Confluence Azure (Keyvault, AppSettings, Kubernetes, Servicebus, Azure SQL) What would be great to have: Experience working in a Scrum Development Team Banking and Financial
-   - ID: R-10398418 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/XMLNAME-NET-Core-Dev-with-SQL-and-Azure----Pune_R-10398418
-
-4. **FullStack Developer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 74
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 79 | second job
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - ID: JR-0000111862 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/FullStack-Developer_JR-0000111862
+   - Requirements: Essential knowledge, skills & attributes Hands on experience with core Java, Spring Boot, Spring (MVC, IOC, AOP, Security), SQL, RDBMS (Oracle and PostGRES), NoSQL (Cassandra, preferable), Web-services (JSON and SOAP), Kafka, Zookeeper Hands on experience of developing microservice application &
+   - ID: R-293529 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293529
+
+3. **Verification Engineer, Memory Subsystem | NVIDIA**
+   - India, Bengaluru | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 77
+   - Fit: yes | B.Tech./ M.Tech. with 2+ years of relevant experience Experience in verific
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: Scripting knowledge (Python/Perl/shell) Good communication skills & dream to work as a great teammate With competitive salaries and a generous
+   - ID: JR2019261 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer--Memory-Subsystem_JR2019261
+
+4. **Verification Engineer - GPU Fullchip | NVIDIA**
+   - India, Bengaluru | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 77 | second job
+   - Fit: yes | experience with 2+ years of relevant experience Proficiency in Verilo
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: and problem-solving skills Knowledge of SystemVerilog or similar HVL is highly desirable Experience in verification methodologies like UVM/VMM is highly desirable Exposure to industry standard verification tools for simulation and debug Ways to stand out from the crowd: Prior experience in 3D
+   - ID: JR2019166 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer---GPU-Fullchip_JR2019166
 
 5. **Full Stack Engineer | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 74 | second job
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 74
    - Fit: unknown
    - Qualification: Bachelor
    - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - ID: JR-0000125659 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Engineer_JR-0000125659
+   - ID: JR-0000127774 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Engineer_JR-0000127774
 
-6. **Software Development Engineer II, Prime Benefits | Amazon**
+6. **Software Development Engineer II, EU INTech Delivery Speed Tech | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 72
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 72
    - Fit: yes | - 3+ years of non-internship professional software deve
    - Experience: 3+ yrs
-   - ID: 10585995 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10585995/software-development-engineer-ii-prime-benefits
+   - ID: 10585989 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10585989/software-development-engineer-ii-eu-intech-delivery-speed-tech
 
-7. **In_Bosch Rexroth India_Sales Engineer/Astt. Manager_Pune | Bosch**
-   - Pune, MH, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-21 (2 days ago) | fallback | Score 71
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 744000156770949 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000156770949
-
-8. **CPU Power Delivery Engineer | Intel**
+7. **CPU Power Delivery Engineer | Intel**
    - India, Bangalore | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-21 (2 days ago) | fallback | Score 68
+   - Posted: 2026-10-21 (3 days ago) | fallback | Score 65
    - Fit: yes | or related field with 3+ years of hands-on experience OR Master's degree in
    - Experience: 3+ yrs | Qualification: Bachelor
    - Requirements: Minimum Qualifications - Bachelor's degree in Electrical Engineering, Electronics Engineering, or related field with 3+ years of hands-on experience OR Master's degree in a relevant field with 2+ years of hands-on experience with strong exposure to CPU or high-performance IP timing closure. -
    - ID: JR0288288 | open (ATS verified)
    - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/CPU-Power-Delivery-Engineer_JR0288288
 
-9. **Escalation Engineer | Zscaler**
-   - Bangalore, IND | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: a relentless focus on execution and a bias for action, delivering high-impact results quickly to win for the customer and the team. What We’re Looking for (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to
-   - ID: 5263563007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5263563007
-
-10. **Associate Automation Engineer | Micron**
+8. **Graduate Engineering Technician | Micron**
    - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-19 (4 days ago) | fallback | Score 53
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 62
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: . Willing to work in a dynamic team environment to achieve a common goal through effective collaboration and commitment. Applicant who demonstrated good software project management skill and had exposure to agile development methodology will be advantageous. FRESH GRADUATES MAY APPLY About Micron
-   - ID: JR114479 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Associate-Automation-Engineer_JR114479
+   - Requirements: Utilize AI-powered tools (e.g., Microsoft Copilot, Power BI AI features) to analyze quality trends, summarize QDR investigations, and improve reporting efficiency. Leverage data analytics and AI-assisted insights to identify recurring defect patterns, yield excursions, and potential process risks.
+   - ID: JR109059 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Graduate-Engineering-Technician_JR109059

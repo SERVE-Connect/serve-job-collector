@@ -1,72 +1,80 @@
-# SERVE ranked list: Jobs in Hyderabad (all domains, all experience levels), collected 2026-10-22 23:27 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Hyderabad (all domains, all experience levels), collected 2026-10-23 23:12 UTC
+9 jobs, best score first: 7 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Operations Processor | Wells Fargo**
+1. **BBM Escalation Specialist, Amazon Maintenance Operations Center | Amazon**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 78
-   - Fit: yes | At least 2+ years of operations support experience, demonstrat
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: . Apply knowledge of banking products, treasury functions, payment flows, and operational controls to complete work accurately and within established timelines. Interpret and apply policies, procedures, and operational guidelines when supporting employees and stakeholders. Coordinate day-to-day
-   - ID: R-579474 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Operations-Processor_R-579474
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 74
+   - Fit: yes | - 1+ years of customer service or back-office roles in
+   - Experience: 1+ yrs
+   - ID: 10587284 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10587284/bbm-escalation-specialist-amazon-maintenance-operations-center
 
-2. **Data Engineer II | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 73
-   - Fit: yes | - Bachelor's degree - 3+ years of data engineering experience - 3+ years of
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: 10585975 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10585975/data-engineer-ii
-
-3. **Software Development Engineer, Ship With Amazon | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 68 | second job
+2. **Software Development Engineer, Finance Technology | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 68 | second job
    - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs
-   - ID: 10586124 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10586124/software-development-engineer-ship-with-amazon
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: 10585542 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10585542/software-development-engineer-finance-technology
 
-4. **Associate Manager, Corporate Safety and Security | DoorDash India**
+3. **Trade Services Associate | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 66
+   - Fit: unknown
+   - Requirements: 6+ months of Trade Services experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Posting End Date: 29 Oct 2026 *Job posting may come down early due to volume of applicants. We Value
+   - ID: R-562397 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Trade-Services-Associate_R-562397
+
+4. **Engineer, IT EA DHI | Micron**
+   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 61
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: & Experience: Strong conceptual knowledge in data structure & algorithms. Strong foundation in relational, NoSQL, graph databases as well as SQL. Strong programming concepts with knowledge of object oriented programming languages like C#, Python etc. Foundation in software architecture concepts and
+   - ID: JR108032 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--IT-EA-DHI_JR108032
+
+5. **Associate Manager, Corporate Safety and Security | DoorDash India**
    - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 59
+   - Posted: 2026-10-22 (2 days ago) | fallback | Score 56
    - Fit: no | you because you… Have 6+ years of experience in corporate safety, security
    - Experience: 6+ yrs | Qualification: Bachelor
    - Requirements: because you… Have 6+ years of experience in corporate safety, security operations, or a related field, with exposure to multi-site or regional environments Are comfortable operating independently and making sound decisions in real-world, time-sensitive situations Have working knowledge of physical
    - ID: 8305366 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8305366
 
-5. **Principal Engineer, ASIC Validation | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-23 (0 days ago) | fresh | Score 57
-   - Fit: no | Architecture Minimum 12+ years of Processor based SoC, and hands-on ZEBU im
-   - Experience: 12+ yrs | Qualification: Bachelor
-   - Requirements: Must have practical experience with Xilinx FPGA debug using Chipscope flow Strong root-cause skills across hardware, RTL layers Job Qualifications Bachelors/Masters or equivalent experience in Engineering Thorough Knowledge of ZEBU or Palladium Flow, Xilinx Ultrascale FPGA, Vivado Flow would be
-   - ID: JR115188 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Principal-Engineer--ASIC-Validation_JR115188
+6. **Staff Software Engineer- Fullstack | ServiceNow**
+   - Hyderabad, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 55
+   - Fit: no | a larger organization 10+ years of software engineering experience building
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: and strong product sense BS or higher in Computer Science or a related field, or equivalent practical experience A constant thirst for learning and willingness to work outside your comfort zone Backend development experience with Java is an added advantage ServiceNow platform certification and/or
+   - ID: 744000157456780 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000157456780
 
-6. **Field Sales - Team Lead - MCA- South | Paytm**
+7. **Staff Product Security Engineer, PSIRT | ServiceNow**
+   - Hyderabad, Telangana, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 55 | second job
+   - Fit: no | or industry. Minimum 8 years of related experience with a Bachelor's degr
+   - Experience: 8 yrs | Qualification: Bachelor
+   - Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry. Minimum 8
+   - ID: 744000157441899 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000157441899
+
+8. **Senior Accountant - FX - Hedge Accounting | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 54
+   - Fit: no | Skills/Experience 7+ years of relevant experience in Accounting, analyz
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - Requirements: /Experience 7+ years of relevant experience in Accounting, analyzing information, attention to details, deadline oriented, thoroughness in the deliverables, spirit to work as a team and confidentiality 3+ years of relevant process experience (for the selected role) with ability to interpret and
+   - ID: JR362507 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Accountant---Hedge-Accounting_JR362507
+
+9. **Field Sales - Team Lead - MCA- South | Paytm**
    - Hyderabad, Telangana, Sangareddy, Telangana, Thrissur, Kerala | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 55
+   - Posted: 2026-10-22 (2 days ago) | fallback | Score 52
    - Fit: no | in this role 1. Minimum 3 years of relevant experience in Sales, Business De
    - Experience: 3 yrs | Qualification: Bachelor
    - Requirements: 1. Responsible for the MCA Sales in the city. 2. Manage an assigned geographic sales area to maximize sales target and meet corporate objectives. 3. Build and maintain relationships with key client personnel. 4. Manage Category leads from qualification to closure. 5. Ensure the team members are
    - ID: 5c4537a7-188a-4fad-b2a4-d1142615a6fc | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/5c4537a7-188a-4fad-b2a4-d1142615a6fc
-
-7. **Data Engineering SMTS/LMTS | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 54
-   - Fit: no | Experience: Typically 10 to 14+ years of hands-on experience in Data Engineering,
-   - Experience: 10-14 yrs | Qualification: Bachelor
-   - Requirements: into production-ready software. Core Responsibilities Data Engineering Project Leadership & Execution: Lead the design, execution, and optimization of end-to-end data pipelines for batch and event-driven workloads. Own project-level technical delivery, write high-performance production code, and
-   - ID: JR364686 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686
-
-8. **Staff Machine Learning Engineer | ServiceNow**
-   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 54
-   - Fit: no | is built and run. • 8+ years of experience designing, building, and opera
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: To be successful in this role you have: Experience leveraging or critically thinking about how to integrate AI into engineering and platform work—AI-powered tooling, automated operational workflows, agentic systems for fleet visibility and operations, or reasoning about AI’s impact on how
-   - ID: 744000157046770 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000157046770

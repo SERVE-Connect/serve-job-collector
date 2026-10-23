@@ -1,92 +1,92 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-22 23:27 UTC
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-23 23:12 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Applications Development Sr Programmer Analyst - C12 - PUNE | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 73
-   - Fit: no | Qualifications: 5-8 years of relevant experience Experience in systems
+1. **Business Intelligence Associate  | PubMatic**
+   - Pune, IN | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 72
+   - Fit: no | for You to Have Proven 5 to 8 years of experience in data analysis, or a similar
    - Experience: 5-8 yrs | Qualification: Bachelor
-   - Requirements: 5-8 years of relevant experience Experience in systems analysis and programming of software applications Experience in managing and implementing successful projects Working knowledge of consulting/project management techniques/methods Ability to work under pressure and manage deadlines or
-   - ID: 26994627 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Development-Sr-Programmer-Analyst---C12---PUNE_26994627
+   - Requirements: Ability to present complex findings in a clear, concise, and actionable way to technical and non-technical stakeholders. Technical skills such as Excel, Looker, MYSQL, forecasting, impact measurement, AB Testing, are a must. Knowledge of Excel macro/VBA, Python, and Ad Tech experience is good to
+   - ID: 5460815008 | open (ATS verified)
+   - Apply: https://pubmatic.com/job/?gh_jid=5460815008
 
-2. **Expert MS Dynamics with Hands on .Net, Dev (C# , SQL, Javascript)  || Pune | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 68
-   - Fit: no | || Pune Experience: 5+ Years MS Dynamics Developer/Consultant 5 Days - Wo
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: Work with stakeholders to gather, analyze and translate business needs into functional and technical specifications Configure and customize Dynamics modules, workflows, forms, dashboards and integrations Develop plugins, custom workflows, reports and enhancements within the Microsoft Dynamics
-   - ID: R-10399962 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/AI-ML-Expert--Data-Scientist---Intelligent-Automation-----Pune_R-10399962
-
-3. **Senior Software Engineer - Java Full stack with AI | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 67
-   - Fit: no | work experience with 7+ years of industry experience. • Strong experience
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - Requirements: . • Ensure software designs align with MasterCard’s Enterprise Architecture and leverage our enterprise services. • Ensure product development meets MasterCard’s business needs. • Ensure development teams use the appropriate MasterCard standard development methodologies and follow our technology
-   - ID: R-294119 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer---Java-Full-stack-with-AI_R-294119
-
-4. **SAP MM/PP Master Data Engineer - Enterprise Data Management | NVIDIA**
-   - India, Gurugram India, Pune India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 67
-   - Fit: no | What We Need to See: 8+ years of SAP experience with Core focus on the SAP
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: with master data support, ensuring that data structures are optimized for advanced planning systems such as SAP IBP, APO, and Anaplan. Custom Object Support: Strong experience in defining and supporting custom SAP objects tailored to specific complex manufacturing or supply chain business
-   - ID: JR2026497 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/SAP-MM-PP-Master-Data-Engineer---Enterprise-Data-Management_JR2026497
-
-5. **Infrastructure Engineer VP | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 65
-   - Fit: no
-   - Qualification: Bachelor
-   - Requirements: ensuring measurable reliability, performance, availability, and ease of use. Including the identification of the appropriate technologies and solutions to meet business, optimisation, and resourcing requirements. Incident Management: Monitoring of IT infrastructure and system performance to
-   - ID: JR-0000086385-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Infrastructure-Engineer-VP_JR-0000086385-1
-
-6. **Principal Network DevOps Engineer | Autodesk**
-   - Bengaluru, IND India - Remote India | Work mode: remote | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 63
-   - Fit: no | professional experience 7+ years of experience in Software Engineering, Platf
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - Requirements: , including intelligent approval workflows and policy enforcement Ensure AI solutions comply with enterprise security, privacy, and regulatory requirements Implement audit trails, traceability, explainability, and operational accountability controls Collaborate with Security and Compliance teams to
-   - ID: 26WD98484-1 | open (ATS verified)
-   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Network-Engineer_26WD98484-1
-
-7. **Associate Principal Technical Support Engineer- | Saviynt**
-   - Bengaluru, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 59
-   - Fit: no | IAM service offerings 10+ years Experience in a Software Support role. Stron
+2. **Senior Software Engineer - Python and Data - Vice President | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 68
+   - Fit: no | Qualifications & Skills 10+ years of professional software engineering experie
    - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: Knowledge of Application Performance Monitoring (APM) and Site Reliability Engineering(SRE) Identity and Access Management domain knowledge is a preference Hands-on implementation/maintenance experience of the IGA platform is a preference IGA: Saviynt or Sailpoint or relevant Experience with SSL
-   - ID: 9890779f-84ff-4877-8513-c07999a6c7db | open (ATS verified)
-   - Apply: https://jobs.lever.co/saviynt/9890779f-84ff-4877-8513-c07999a6c7db
+   - Requirements: . Required Qualifications & Skills 10+ years of professional software engineering experience, with deep hands-on expertise building backend applications and data-intensive pipelines in Python. Advanced proficiency in SQL , relational database design, query optimization, indexing strategies, and
+   - ID: 261002381-1 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Software-Engineer---Python-and-Data---Vice-President_261002381-1
 
-8. **Associate Manager, Corporate Safety and Security | DoorDash India**
-   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 59
-   - Fit: no | you because you… Have 6+ years of experience in corporate safety, security
-   - Experience: 6+ yrs | Qualification: Bachelor
-   - Requirements: because you… Have 6+ years of experience in corporate safety, security operations, or a related field, with exposure to multi-site or regional environments Are comfortable operating independently and making sound decisions in real-world, time-sensitive situations Have working knowledge of physical
-   - ID: 8305366 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8305366
+3. **Senior Software Engineer | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 67
+   - Fit: no | field preferred. - 5+ years of experience of Java platform engineering e
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: and user stories into secure, efficient, and reusable software solutions. -Contribute to technical design and architecture decisions that support performance, resiliency, maintainability, and system functionality. -Create and maintain automated unit, functional, and integration tests to validate
+   - ID: R-292939-1 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-292939-1
 
-9. **Solution Architect, Public Sector India | ServiceNow**
+4. **Recon Developer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 67
+   - Fit: no | only. Experience 5 years + required. Minimum Qualification – bachelor
+   - Experience: 5 yrs | Qualification: Bachelor
+   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+   - ID: JR-0000116521 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Recon-Developer_JR-0000116521
+
+5. **Lead Solution Engineer | Salesforce**
+   - India - Gurgaon | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 56
+   - Fit: no | Degree or equivalent; 10+ years in IT, consulting, or technology sales/imple
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: . Experience working with large enterprise clients and engaging at the C-level. Even Better If... Salesforce Certifications (e.g., SalesCloud, ServiceCloud, Financial Services Cloud) Prior experience as a Salesforce Solution or Sales Engineer in a CRM or similar tech environment. Unleash Your
+   - ID: JR358324 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Lead-Solution-Engineer_JR358324
+
+6. **Solution Architect, Public Sector India | ServiceNow**
    - Gurgaon, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 56
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 56
    - Fit: no | function or industry. 8-10 years of exclusive public sector pre-sales experie
    - Experience: 8-10 yrs | Qualification: Bachelor
    - Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry. 8-10 years
-   - ID: 744000157048299 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000157048299
+   - ID: 744000157376639 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000157376639
 
-10. **Business Analyst, RBS Emerging Stores, Retail Business Services, RBS Flex Org Variable | Amazon**
-   - Chennai, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (1 days ago) | fresh | Score 56
-   - Fit: no | role experience - 5+ years of Excel (including VBA, pivot tables, array
-   - Experience: 5+ yrs
-   - Requirements: and using data and metrics to draw business insights - Experience making business recommendations and influencing stakeholders - 2+ years of Tableau Desktop, Quicksight or other relevant data visualization software experience - Experience in tax, finance or a related analytical field, or experience
-   - ID: 10585985 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10585985/business-analyst-rbs-emerging-stores-retail-business-services-rbs-flex-org-variable
+7. **Senior Quality Assurance Administrator | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 54
+   - Fit: no | Qualifications: 2+ years of Quality Assurance support experience, or
+   - Experience: 2+ yrs
+   - Requirements: or government regulations Review systems to ensure company standards are met, exceptions are notated, and issues escalated as necessary Assist in development and design of product specific databases Review and score work Prepare calibration score and facilitate calibrations across the team to
+   - ID: R-574298-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Quality-Assurance-Administrator_R-574298-1
+
+8. **Sr SIEM Engineer | Micron**
+   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 54
+   - Fit: no | Experience required: 4 to 8 years. Role Overview The Senior SIEM Engineer is a
+   - Experience: 4-8 yrs | Qualification: Bachelor
+   - Requirements: and Experience 4 to 8 years in cybersecurity, security engineering, SIEM engineering, detection engineering, or incident response With a BE/BTech graduation. Strong hands-on experience operating and engineering an enterprise SIEM platform. Experience integrating and analyzing telemetry from
+   - ID: JR113607 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Sr-Detection-Engineer_JR113607
+
+9. **Technical Support Manager | Autodesk**
+   - Bengaluru, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 53
+   - Fit: no | or a related discipline 10+ years of management experience within the technolo
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: Bachelor's degree or equivalent professional experience, preferably in Mechanical Engineering, Civil Engineering, or a related discipline 10+ years of management experience within the technology or customer support industry Experience leading and developing customer-facing technical support teams
+   - ID: 26WD101392-1 | open (ATS verified)
+   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Technical-Support-Manager_26WD101392-1
+
+10. **Senior Verification Engineer, Memory Subsystem | NVIDIA**
+   - India, Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-23 (1 days ago) | fresh | Score 53
+   - Fit: no | B.Tech./ M.Tech. with 4+ years of relevant experience Experience in verific
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - Requirements: Scripting knowledge (Python/Perl/shell) Good communication skills & dream to work as a great teammate With competitive salaries and a generous
+   - ID: JR2016842 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Verification-Engineer--Memory-Subsystem_JR2016842
