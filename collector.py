@@ -5,17 +5,18 @@ Reads public ATS job boards listed in companies.json, keeps India jobs posted wi
 the last N days, checks each one is still open, estimates the experience asked for,
 sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and writes:
 
-  data/jobs_latest.md          every job, by section then city
-  data/bulletin_pick.md        today's best 8-10 IT jobs for 0-5 years (give this to the chat)
-  daily/YYYY-MM-DD/            copies of the chat files under a new folder each day (IST date, last 2 days); chats fetch these
-  data/it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
-  data/sent_ids.txt            you add what you posted; lines are cleared after 7 days
-  data/top_10.md, internship.md, city_*.md,   ready top-10 lists (overall, per city, per domain), ranked in code
-  domain_*.md, ranked_index.md  (one job per company, already-sent excluded, fresh first)
-  data/jobs_latest.json        same data for scripts
-  data/jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
-  data/run_report.json         which boards worked
-  data/seen.json               job IDs seen before
+  daily/YYYY-MM-DD/   every file the chat reads, in a new folder each IST day (today and yesterday kept):
+    bulletin_pick.md        today's best 8-10 IT jobs for 0-5 years (give this to the chat)
+    top_10.md, internship.md, city_*.md, domain_*.md, ranked_index.md
+                            ready top-10 lists (overall, per city, per domain), ranked in code
+                            (one job per company, already-sent excluded, fresh first)
+    it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
+    jobs_latest.md          every job, by section then city (the workflow reads its header to skip a run already done)
+    jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
+  data/   working files only:
+    sent_ids.txt            you add what you posted; lines are cleared after 7 days
+    run_report.json         which boards worked
+    seen.json               job IDs seen before
 
 Standard library only. Run:  python collector.py [--days 7]
 """
@@ -33,6 +34,7 @@ from urllib import error, parse, request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
+KEEP_DAYS = 2  # daily/ folders kept: today and yesterday
 DAILY = os.path.join(ROOT, "daily")  # dated copies for chats, outside data/ so the Project folder never holds two versions
 UA = "SERVE-Job-Collector/1.0 (nonprofit job awareness)"
 NOW = datetime.now(timezone.utc)
@@ -883,19 +885,26 @@ def ranked_markdown(title, picks, meta):
     return out
 
 
+def outdir():
+    """Today's folder for the chat files: daily/<IST date>/."""
+    return os.path.join(DAILY, TODAY.isoformat())
+
+
 def write_ranked(jobs, meta):
-    for fn in os.listdir(DATA):  # drop lists from older runs
+    out = outdir()
+    os.makedirs(out, exist_ok=True)
+    for fn in os.listdir(out):  # drop lists from an earlier run on the same day
         if re.match(r"(top_10|internship|city_.+|domain_.+)\.md$", fn):
-            os.remove(os.path.join(DATA, fn))
+            os.remove(os.path.join(out, fn))
     lists = ranked_lists(jobs)
     index = ["# SERVE ranked lists, collected %s UTC" % meta["generated_utc"],
              "Each file below is a ready top-10 list. Commands read one file only.", "",
              "| File | List | Jobs |", "|---|---|---|"]
     for fn, (title, picks) in lists.items():
-        with open(os.path.join(DATA, fn), "w", encoding="utf-8") as f:
+        with open(os.path.join(out, fn), "w", encoding="utf-8") as f:
             f.write("\n".join(ranked_markdown(title, picks, meta)))
         index.append("| %s | %s | %d |" % (fn, title, len(picks)))
-    with open(os.path.join(DATA, "ranked_index.md"), "w", encoding="utf-8") as f:
+    with open(os.path.join(out, "ranked_index.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(index) + "\n")
     return lists
 
@@ -911,7 +920,7 @@ def write_csv(jobs, picks):
     picked = {(p["company"], str(p["id"])): n for n, p in enumerate(picks, 1)}
     ranked = sorted(jobs, key=lambda j: -j["score"])
     rank = {(j["company"], str(j["id"])): n for n, j in enumerate(ranked, 1)}
-    with open(os.path.join(DATA, "jobs_latest.csv"), "w", newline="", encoding="utf-8-sig") as f:
+    with open(os.path.join(outdir(), "jobs_latest.csv"), "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
         w.writerow(CSV_COLUMNS)
         for j in jobs:
@@ -1012,23 +1021,22 @@ def write_summary(meta, report, jobs):
             f.write(text + "\n")
 
 
-def snapshot_daily():
-    """Copy the chat files into daily/<IST date>/. The path is new every day, so a chat that cached
-    yesterday's link cannot be served it as today's. The last 2 days are kept."""
-    keep = {(TODAY - timedelta(days=d)).isoformat() for d in (0, 1)}
+def prune_old():
+    """Keep daily/ to today and yesterday, and remove chat files an older version left in data/."""
+    keep = {(TODAY - timedelta(days=d)).isoformat() for d in range(KEEP_DAYS)}
     if os.path.isdir(DAILY):
         for d in os.listdir(DAILY):
             if d not in keep:
                 shutil.rmtree(os.path.join(DAILY, d), ignore_errors=True)
-    out = os.path.join(DAILY, TODAY.isoformat())
-    os.makedirs(out, exist_ok=True)
     for fn in os.listdir(DATA):
-        if fn in ("bulletin_pick.md", "it_jobs_shortlist.md", "jobs_latest.md") or re.match(r"(top_10|internship|city_|domain_|ranked_index)", fn):
-            shutil.copy(os.path.join(DATA, fn), os.path.join(out, fn))
+        if fn in ("bulletin_pick.md", "it_jobs_shortlist.md", "jobs_latest.md", "jobs_latest.csv", "jobs_latest.json", "ranked_index.md") or \
+           re.match(r"(top_10|internship|city_.+|domain_.+)\.md$", fn):
+            os.remove(os.path.join(DATA, fn))
 
 
 def write_outputs(jobs, report):
     os.makedirs(DATA, exist_ok=True)
+    os.makedirs(outdir(), exist_ok=True)
     jobs = collapse(jobs)
     add_history(jobs)
     sent = load_sent()
@@ -1042,8 +1050,6 @@ def write_outputs(jobs, report):
     meta = {"generated_utc": NOW.strftime("%Y-%m-%d %H:%M"), "window_days": WINDOW,
             "boards_ok": len(ok), "boards_failed": bad, "job_count": len(jobs),
             "it_job_count": len(it)}
-    with open(os.path.join(DATA, "jobs_latest.json"), "w") as f:
-        json.dump({"meta": meta, "jobs": jobs}, f, indent=1, ensure_ascii=False)
     with open(os.path.join(DATA, "run_report.json"), "w") as f:
         json.dump(report, f, indent=1)
 
@@ -1058,21 +1064,21 @@ def write_outputs(jobs, report):
     if bad:
         head.append("Failed boards: " + "; ".join("%s (%s)" % (k, v) for k, v in bad.items()))
     head.append("")
-    with open(os.path.join(DATA, "jobs_latest.md"), "w") as f:
+    with open(os.path.join(outdir(), "jobs_latest.md"), "w") as f:
         f.write("\n".join(head + legend + render(jobs)))
 
     # short file for chats: only IT jobs a 0-5 year candidate can apply to
     short = [j for j in it if j["fit_0_5"] in ("yes", "unknown") and not j["already_sent"]]
     shead = head[:1] + ["Shortlist: IT sections only, fit_0_5 = yes or unknown. "
                         "Jobs: %d. Full list: jobs_latest.md" % len(short), ""]
-    with open(os.path.join(DATA, "it_jobs_shortlist.md"), "w") as f:
+    with open(os.path.join(outdir(), "it_jobs_shortlist.md"), "w") as f:
         f.write("\n".join(shead + legend + render(short)))
     picks = choose(jobs)
-    with open(os.path.join(DATA, "bulletin_pick.md"), "w") as f:
+    with open(os.path.join(outdir(), "bulletin_pick.md"), "w") as f:
         f.write("\n".join(pick_markdown(picks, meta)))
     write_csv(jobs, picks)
     write_ranked(jobs, meta)
-    snapshot_daily()
+    prune_old()
     meta["picked"] = len(picks)
     write_summary(meta, report, jobs)
     return meta
