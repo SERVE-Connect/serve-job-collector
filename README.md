@@ -3,17 +3,17 @@
 Runs every morning on GitHub Actions (01:47 IST, retries at 03:17 and 04:47 IST if the first run was not good; GitHub often starts scheduled runs 2 to 5 hours late). Reads company ATS job boards, keeps India jobs
 posted in the last 7 days, checks each is still open, and writes:
 
-- `data/bulletin_pick.md`      today's best 8-10 IT jobs for 0-5 years, give this link to the chat
-- `daily/YYYY-MM-DD/`  copies of `bulletin_pick.md`, `it_jobs_shortlist.md`, `jobs_latest.md`, `top_10.md`, `internship.md`, `city_*.md`, `domain_*.md` and `ranked_index.md` in a new folder each day (IST date, last 2 days kept). Chats fetch from here, so a cached copy of an old link can never be mistaken for today's
-- `data/it_jobs_shortlist.md`  every IT job for 0-5 years, by section then city
-- `data/jobs_latest.md`        everything, including "Senior IT roles (5+ yrs)", Clinical and Non-IT
-- `data/internship.md`  internships, apprenticeships and trainee roles (all domains, matched by title)
-- `data/top_10.md`, `city_<city>.md`, `domain_<domain>.md`  ready top-10 lists built in code (overall, per city, per domain); `ranked_index.md` lists them all
-- `data/jobs_latest.csv`       the same table for Google Sheets or Excel: sort and filter by score_rank, posted, section, city_group, company, fit_0_5
-- `data/jobs_latest.json`      same data for scripts (fields: section, city_group, work_mode, score, fit_0_5, exp_label, qualification, salary, requirements)
-- `data/sent_ids.txt`          you fill this in (see below)
-- `data/run_report.json`       which boards worked and which failed
-- `data/seen.json`             IDs already seen (marks `New today`), kept 8 days
+Files the chat reads are written to `daily/YYYY-MM-DD/` (IST date, a new folder each day, today and yesterday kept). Chats fetch from there, so a cached copy of an old link can never be mistaken for today's:
+- `bulletin_pick.md`      today's best 8-10 IT jobs for 0-5 years
+- `top_10.md`, `internship.md`, `city_<city>.md`, `domain_<domain>.md`  ready top-10 lists built in code (overall, internships and apprenticeships, per city, per domain); `ranked_index.md` lists them all with their job counts
+- `it_jobs_shortlist.md`  every IT job for 0-5 years, by section then city
+- `jobs_latest.md`        everything, including "Senior IT roles (5+ yrs)", Clinical and Non-IT. The workflow reads its first lines to see whether today's run was already good
+- `jobs_latest.csv`       the same table for Google Sheets or Excel: sort and filter by score_rank, posted, section, city_group, company, fit_0_5
+
+Working files stay in `data/`:
+- `sent_ids.txt`          you fill this in (see below)
+- `run_report.json`       which boards worked and which failed
+- `seen.json`             IDs already seen (marks `New today`), kept 8 days
 
 ## How the bulletin picks are chosen
 1. Jobs posted today or yesterday, asking under 5 years (or no years stated). One best job per company, by score.
@@ -34,8 +34,7 @@ The same pick rules as above, applied to any pool, with already-sent jobs left o
 The chat commands read one of these files and only format it, so they cannot break the company or sent rules.
 
 ## Telling the collector what you posted
-After a bulletin, open `data/sent_ids.txt` on GitHub, add the line shown at the bottom of
-`bulletin_pick.md` (date, then the job IDs) and commit. Those jobs are skipped on later days.
+After a bulletin, open `data/sent_ids.txt` on GitHub, add the line the chat gives you at the end of each bulletin (date, then the job IDs) and commit. Those jobs are skipped on later days.
 Lines older than 7 days are removed by the daily run.
 
 The run page on GitHub (Actions -> the run -> Summary) shows a table of boards and counts.
