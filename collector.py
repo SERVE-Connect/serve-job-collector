@@ -10,7 +10,7 @@ sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and w
   daily/YYYY-MM-DD/            copies of the chat files under a new folder each day (IST date, last 2 days); chats fetch these
   data/it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
   data/sent_ids.txt            you add what you posted; lines are cleared after 7 days
-  data/top_10.md, city_*.md,   ready top-10 lists (overall, per city, per domain), ranked in code
+  data/top_10.md, internship.md, city_*.md,   ready top-10 lists (overall, per city, per domain), ranked in code
   domain_*.md, ranked_index.md  (one job per company, already-sent excluded, fresh first)
   data/jobs_latest.json        same data for scripts
   data/jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
@@ -689,6 +689,9 @@ TARGET, MINIMUM = 10, 8
 LOC_PTS = {"Pune": 25, "Mumbai": 24, "Chhatrapati Sambhajinagar": 24, "Remote (India)": 20,
            "Delhi NCR / Haryana": 14, "Chennai": 13, "Kolkata": 12, "Hyderabad": 12,
            "Ahmedabad": 12, "Bangalore": 11, "Other India": 8}
+# internships, apprenticeships and similar early-career programmes, matched on the title only
+INTERN_RE = re.compile(r"\bintern(ship)?s?\b|apprentice|\btrainee|\bco-?op\b|working student|\bfellowship", re.I)
+
 WEAK = re.compile(r"hardware|firmware|embedded|telecom|applied scientist|research scientist|"
                   r"ml data|data operations|operations associate", re.I)
 ENTRY = re.compile(r"\b(associate|junior|jr|graduate|trainee|analyst|i|ii|1|2)\b", re.I)
@@ -853,6 +856,8 @@ def ranked_lists(jobs):
         pool = [j for j in jobs if j["section"] in ("Non-IT / Other", "Clinical / Research")
                 and j["fit_0_5"] != "no" and r.search("%s %s" % (j["title"], j.get("requirements") or ""))]
         out["domain_%s.md" % slug(name)] = ("%s jobs (0-5 years, matched by keyword)" % name, pick_list(pool))
+    out["internship.md"] = ("Internships, apprenticeships and trainee roles (all domains, matched by title)",
+                            pick_list([j for j in jobs if j["fit_0_5"] != "no" and INTERN_RE.search(j["title"])]))
     return out
 
 
@@ -880,7 +885,7 @@ def ranked_markdown(title, picks, meta):
 
 def write_ranked(jobs, meta):
     for fn in os.listdir(DATA):  # drop lists from older runs
-        if re.match(r"(top_10|city_.+|domain_.+)\.md$", fn):
+        if re.match(r"(top_10|internship|city_.+|domain_.+)\.md$", fn):
             os.remove(os.path.join(DATA, fn))
     lists = ranked_lists(jobs)
     index = ["# SERVE ranked lists, collected %s UTC" % meta["generated_utc"],
@@ -1018,7 +1023,7 @@ def snapshot_daily():
     out = os.path.join(DAILY, TODAY.isoformat())
     os.makedirs(out, exist_ok=True)
     for fn in os.listdir(DATA):
-        if fn in ("bulletin_pick.md", "it_jobs_shortlist.md", "jobs_latest.md") or re.match(r"(top_10|city_|domain_|ranked_index)", fn):
+        if fn in ("bulletin_pick.md", "it_jobs_shortlist.md", "jobs_latest.md") or re.match(r"(top_10|internship|city_|domain_|ranked_index)", fn):
             shutil.copy(os.path.join(DATA, fn), os.path.join(out, fn))
 
 
