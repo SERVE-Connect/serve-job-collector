@@ -27,18 +27,22 @@ jobs:
           FORCE: ${{ github.event.inputs.force }}
         run: |
           python3 - <<'PY'
-          import json, os
+          import os, re
           from datetime import datetime, timedelta, timezone
           IST = timedelta(hours=5, minutes=30)
           out = os.environ.get("GITHUB_OUTPUT", "/dev/null")
           summary = os.environ.get("GITHUB_STEP_SUMMARY", "/dev/null")
           skip, note = "false", ""
           try:
-              meta = json.load(open("data/jobs_latest.json"))["meta"]
-              last = datetime.strptime(meta["generated_utc"], "%Y-%m-%d %H:%M") + IST
+              days = sorted(d for d in os.listdir("daily") if os.path.isdir(os.path.join("daily", d)))
+              head = open(os.path.join("daily", days[-1], "jobs_latest.md"), encoding="utf-8").read(600)
+              m1 = re.search(r"collected (\d{4}-\d\d-\d\d \d\d:\d\d) UTC", head)
+              m2 = re.search(r"Boards read OK: (\d+)\. Boards failed: (\d+)\. Jobs: (\d+)", head)
+              meta = {"job_count": m2.group(3)}
+              last = datetime.strptime(m1.group(1), "%Y-%m-%d %H:%M") + IST
               today = datetime.now(timezone.utc).replace(tzinfo=None) + IST
-              ok = int(meta.get("boards_ok", 0))
-              bad = len(meta.get("boards_failed", {}))
+              ok = int(m2.group(1))
+              bad = int(m2.group(2))
               total = ok + bad
               good = last.date() == today.date() and total > 0 and bad <= 0.2 * total
               info = "collected %s IST, %s jobs, %d of %d boards read OK" % (
