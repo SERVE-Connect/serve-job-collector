@@ -4,9 +4,10 @@ Runs every morning on GitHub Actions (01:47 IST, retries at 03:17 and 04:47 IST 
 posted in the last 7 days, checks each is still open, and writes:
 
 - `data/bulletin_pick.md`      today's best 8-10 IT jobs for 0-5 years, give this link to the chat
-- `daily/YYYY-MM-DD/`  copies of `bulletin_pick.md`, `it_jobs_shortlist.md`, `jobs_latest.md`, `top_10.md`, `city_*.md`, `domain_*.md` and `ranked_index.md` in a new folder each day (IST date, last 2 days kept). Chats fetch from here, so a cached copy of an old link can never be mistaken for today's
+- `daily/YYYY-MM-DD/`  copies of `bulletin_pick.md`, `it_jobs_shortlist.md`, `jobs_latest.md`, `top_10.md`, `internship.md`, `city_*.md`, `domain_*.md` and `ranked_index.md` in a new folder each day (IST date, last 2 days kept). Chats fetch from here, so a cached copy of an old link can never be mistaken for today's
 - `data/it_jobs_shortlist.md`  every IT job for 0-5 years, by section then city
 - `data/jobs_latest.md`        everything, including "Senior IT roles (5+ yrs)", Clinical and Non-IT
+- `data/internship.md`  internships, apprenticeships and trainee roles (all domains, matched by title)
 - `data/top_10.md`, `city_<city>.md`, `domain_<domain>.md`  ready top-10 lists built in code (overall, per city, per domain); `ranked_index.md` lists them all
 - `data/jobs_latest.csv`       the same table for Google Sheets or Excel: sort and filter by score_rank, posted, section, city_group, company, fit_0_5
 - `data/jobs_latest.json`      same data for scripts (fields: section, city_group, work_mode, score, fit_0_5, exp_label, qualification, salary, requirements)
