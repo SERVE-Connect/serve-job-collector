@@ -1,5 +1,5 @@
-# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-10-24 22:33 UTC
-10 jobs, best score first: 2 from today/yesterday, 8 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-10-25 12:00 UTC
+10 jobs, best score first: 3 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Financial Analyst | HP**
    - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
@@ -64,15 +64,7 @@
    - ID: JR2019261 | open (ATS verified)
    - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer--Memory-Subsystem_JR2019261
 
-8. **Facility Operations Center Engineer, DCC Communities | Amazon**
-   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (3 days ago) | fallback | Score 74
-   - Fit: yes | - 3+ years of relevant work in a data center or other c
-   - Experience: 3+ yrs
-   - ID: 10586180 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10586180/facility-operations-center-engineer-dcc-communities
-
-9. **Business Analytics Analyst- Generative AI | Citi**
+8. **Business Analytics Analyst- Generative AI | Citi**
    - Bangaluru Karnataka India | Work mode: hybrid | Section: Data / Analytics / AI
    - Posted: 2026-10-23 (2 days ago) | fallback | Score 71
    - Fit: yes | Degree with at least 3 years of working experience OR Master's Degree wit
@@ -81,7 +73,7 @@
    - ID: 261001760-1 | open (ATS verified)
    - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Bangaluru-Karnataka-India/Business-Analytics-Analyst--Generative-AI_261001760-1
 
-10. **Signal Integrity Engineer | Intel**
+9. **Signal Integrity Engineer | Intel**
    - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-22 (3 days ago) | fallback | Score 65
    - Fit: yes | or a related field and 3+ years of hands-on experience in signal integrity d
@@ -89,3 +81,12 @@
    - Requirements: . - Develop electrical specifications and contribute to the establishment of new industry standards for next-generation interfaces. Qualifications: Minimum Qualifications - Bachelor's degree in Electrical Engineering, Physics, or a related field and 3+ years of hands-on experience in signal
    - ID: JR0287938 | open (ATS verified)
    - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Signal-Integrity-Engineer_JR0287938
+
+10. **Procurement Executive, ATS Logistics Procurement | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-25 (0 days ago) | fresh | Score 59
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , including proficiency in MS Office (Word, Excel, PowerPoint) - Experience in creating process improvements with automation and analysis
+   - ID: 10588122 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10588122/procurement-executive-ats-logistics-procurement

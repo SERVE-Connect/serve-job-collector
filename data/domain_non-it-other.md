@@ -1,5 +1,5 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-24 22:33 UTC
-10 jobs, best score first: 1 from today/yesterday, 9 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-25 12:00 UTC
+10 jobs, best score first: 2 from today/yesterday, 8 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
    - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
@@ -46,15 +46,7 @@
    - ID: 8ef474ea-ea67-4cd4-bcd4-af702e493c52 | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/8ef474ea-ea67-4cd4-bcd4-af702e493c52
 
-6. **Facility Operations Center Engineer, DCC Communities | Amazon**
-   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (3 days ago) | fallback | Score 74
-   - Fit: yes | - 3+ years of relevant work in a data center or other c
-   - Experience: 3+ yrs
-   - ID: 10586180 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10586180/facility-operations-center-engineer-dcc-communities
-
-7. **Specialist implementation | Mastercard**
+6. **Specialist implementation | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-22 (3 days ago) | fallback | Score 68
    - Fit: unknown
@@ -63,7 +55,7 @@
    - ID: R-294129 | open (ATS verified)
    - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist-implementation_R-294129
 
-8. **Signal Integrity Engineer | Intel**
+7. **Signal Integrity Engineer | Intel**
    - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-22 (3 days ago) | fallback | Score 65
    - Fit: yes | or a related field and 3+ years of hands-on experience in signal integrity d
@@ -72,7 +64,7 @@
    - ID: JR0287938 | open (ATS verified)
    - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Signal-Integrity-Engineer_JR0287938
 
-9. **Business Execution Consultant | Wells Fargo**
+8. **Business Execution Consultant | Wells Fargo**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-19 (6 days ago) | fallback | Score 65
    - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
@@ -81,7 +73,7 @@
    - ID: R-576594 | open (ATS verified)
    - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-576594
 
-10. **Admin Assistant | Capital One**
+9. **Admin Assistant | Capital One**
    - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-23 (2 days ago) | fallback | Score 60
    - Fit: yes | Post Graduation. 4+ year of meeting and event planning experience. At
@@ -89,3 +81,12 @@
    - Requirements: to make it all work! As the gatekeeper and extension of your executive leaders, you will frequently find yourself in the center of everything that happens on the team. You are extremely pivotal to the success of a well-run, efficient, productive and happy team. Responsibilities: Managing daily
    - ID: R246913 | open (ATS verified)
    - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Coordinator---Admin-Support-Assistant_R246913
+
+10. **Procurement Executive, ATS Logistics Procurement | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-25 (0 days ago) | fresh | Score 59
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , including proficiency in MS Office (Word, Excel, PowerPoint) - Experience in creating process improvements with automation and analysis
+   - ID: 10588122 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10588122/procurement-executive-ats-logistics-procurement

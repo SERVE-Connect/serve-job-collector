@@ -1,5 +1,5 @@
-# SERVE jobs, collected 2026-10-24 22:33 UTC
-Window: last 7 days. Boards read OK: 53. Boards failed: 0. Jobs: 436 (IT: 213).
+# SERVE jobs, collected 2026-10-25 12:00 UTC
+Window: last 7 days. Boards read OK: 53. Boards failed: 0. Jobs: 435 (IT: 213).
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
@@ -29,7 +29,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Full Stack Engineer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-10-24 (1 days ago) | New today: yes
+- Posted: 2026-10-24 (1 days ago) | New today: no
 - Fit: unknown | Score: 74
 - Qualification: Bachelor
 - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
@@ -577,7 +577,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Business Analytics Analyst- Generative AI | Citi**
 - Location: Bangaluru Karnataka India | Work mode: hybrid
-- Posted: 2026-10-23 (2 days ago) | New today: yes
+- Posted: 2026-10-23 (2 days ago) | New today: no
 - Fit: yes | Degree with at least 3 years of working experience OR Master's Degree wit | Score: 71
 - Experience: 3 yrs | Qualification: Diploma
 - Requirements: are required to exchange potentially complex/sensitive information. Moderate but direct impact through close contact with the businesses' core activities. Quality and timeliness of service provided will affect the effectiveness of own team and other closely related teams. Few notables among the
@@ -889,7 +889,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Expert MS Dynamics with Hands on .Net, Dev (C# , SQL, Javascript)  || Pune | Fiserv**
 - Location: Pune - Trion Business Park, India | Work mode: onsite
-- Posted: 2026-10-22 (3 days ago) | New today: no
+- Posted: 2026-10-22 (3 days ago) | New today: yes
 - Fit: no | || Pune Experience: 5+ Years MS Dynamics Developer/Consultant 5 Days - Wo | Score: 62
 - Experience: 5+ yrs | Qualification: Bachelor
 - Requirements: Work with stakeholders to gather, analyze and translate business needs into functional and technical specifications Configure and customize Dynamics modules, workflows, forms, dashboards and integrations Develop plugins, custom workflows, reports and enhancements within the Microsoft Dynamics
@@ -1150,7 +1150,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Banking Support Lead Analyst: AI and Process Automation Lead - Vice President | Citi**
 - Location: Mumbai Maharashtra India | Work mode: hybrid
-- Posted: 2026-10-21 (4 days ago) | New today: yes
+- Posted: 2026-10-21 (4 days ago) | New today: no
 - Fit: no | Experience: 10+ years in Investment Banking Support or Process Aut | Score: 63
 - Experience: 10+ yrs | Qualification: Bachelor
 - Requirements: & Requirements Experience: 10+ years in Investment Banking Support or Process Automation. Domain & Technical Skills: Solid understanding of investment banking workflows, M&A, valuations (trading/deal comps, DCF), and market data tools (FactSet, Capital IQ, Bloomberg). Practical expertise in
@@ -1246,7 +1246,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) | Salesforce**
 - Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-10-24 (1 days ago) | New today: yes
+- Posted: 2026-10-24 (1 days ago) | New today: no
 - Fit: no | Score: 51
 - Qualification: Bachelor
 - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
@@ -1978,9 +1978,9 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR0288179 / JR0288179 | Status: open (ATS verified)
 - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Lab-Engineer_JR0288179
 
-## Non-IT / Other (222)
+## Non-IT / Other (221)
 
-### Pune (25)
+### Pune (24)
 
 **Securities & Derivatives Analyst 2 - C10 - PUNE | Citi**
 - Location: Pune Maharashtra India | Work mode: hybrid
@@ -2062,15 +2062,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: into technical solutions and ensure a cohesive approach to product development. Enforcement of technology standards, facilitate peer reviews, and implement robust testing practices to ensure the delivery of high-quality solutions. Vice President Expectations To contribute or set strategy, drive
 - ID: JR-0000104893-1 / JR-0000104893 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Lead_JR-0000104893-1
-
-**Scrum Master - VP | Barclays**
-- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-10-23 (2 days ago) | New today: no
-- Fit: no | Score: 62
-- Qualification: Bachelor
-- Requirements: . Experience working with Agile delivery tools such as Jira and Confluence. Ability to manage competing priorities and delivery risks. Some other highly valued skills may include: Certified Scrum Master (CSM), PSM, or SAFe Scrum Master certification. Experience within Financial Services, Payments,
-- ID: JR-0000111694 / JR-0000111694 | Status: open (ATS verified)
-- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Scrum-Master---VP_JR-0000111694
 
 **Incident Command and Observability Lead | Workday**
 - Location: IND.Pune | Work mode: hybrid
@@ -2164,7 +2155,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Payroll Specialist -11944 | Coupa**
 - Location: Pune, India | Work mode: hybrid
-- Posted: 2026-10-19 (6 days ago) | New today: yes
+- Posted: 2026-10-19 (6 days ago) | New today: no
 - Fit: no | Experience: Minimum 10–12 years of recent, ideally within a fast-growth comp | Score: 56
 - Experience: 10-12 yrs | Qualification: Bachelor
 - Requirements: , the ability to thrive under payroll deadlines, and a collaborative mindset to support our cross‑functional teams. End-to-End Processing: Follow the payroll calendar timelines to prepare accurate inputs, validate new hire information, and submit data for next-level review and vendor processing.
@@ -2524,7 +2515,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Quantitative Trader | Graviton Research Capital**
 - Location: Gurugram, Haryana, India | Work mode: unspecified
-- Posted: unknown (? days ago) | New today: no
+- Posted: unknown (? days ago) | New today: yes
 - Fit: no | experience for at least 2 years. PnL Track record with excellent sharpe rati | Score: 59
 - Experience: 2 yrs | Qualification: Bachelor
 - Requirements: Deep experience in HF/UHF Trading Live HF Trading experience for at least 2 years. PnL Track record with excellent sharpe ratios. Programming experience in C++ or C Proficiency in using Python, R, or Matlab for statistical/data analysis of HFT tick data Possess a degree in a highly analytical
@@ -2675,11 +2666,11 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0000126616 / JR-0000126616 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/AVP---Fraud-Ops_JR-0000126616
 
-### Bangalore (91)
+### Bangalore (92)
 
 **Financial Analyst | HP**
 - Location: Bengaluru, Karnataka, India | Work mode: unspecified
-- Posted: 2026-10-24 (1 days ago) | New today: yes
+- Posted: 2026-10-24 (1 days ago) | New today: no
 - Fit: yes | • Typically has 0-2 years of work experience, preferably in financial | Score: 82
 - Experience: 0-2 yrs | Qualification: Bachelor
 - Requirements: Accounting • Auditing • Automation • Corporate Finance • Data Analysis • Economics • Finance • Financial Analysis • Financial Modeling • Financial Planning • Financial Services • Financial Statements • Generally Accepted Accounting Principles • Internal Controls • Investments • Key Performance
@@ -2838,15 +2829,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R246913 / R246913 | Status: open (ATS verified)
 - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Coordinator---Admin-Support-Assistant_R246913
 
-**Commercial Loan Closing Associate | Wells Fargo**
-- Location: Bengaluru, India | Work mode: unspecified | Also hiring in: Hyderabad, India
-- Posted: 2026-10-22 (3 days ago) | New today: no
-- Fit: unknown | Score: 59
-- Qualification: Bachelor
-- Requirements: Manage an assigned portfolio of loans Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals Interact with internal customers Receive direction from leaders and exercise independent judgment while developing the knowledge to understand function, policies,
-- ID: R-579873 / R-579873 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-579873
-
 **Trade and Transaction Reporting Associate | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
 - Posted: 2026-10-22 (3 days ago) | New today: no
@@ -2854,6 +2836,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: . Candidates applying to job openings posted in Canada: Applications for employment are encouraged from all qualified candidates, including women, persons with disabilities, aboriginal peoples and visible minorities. Accommodation for applicants with disabilities is available upon request in
 - ID: R-564984-1 / R-564984 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Trade-and-Transaction-Reporting-Associate_R-564984-1
+
+**Commercial Loan Closing Associate | Wells Fargo**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-10-22 (3 days ago) | New today: no
+- Fit: unknown | Score: 59
+- Qualification: Bachelor
+- Requirements: Manage an assigned portfolio of loans Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals Interact with internal customers Receive direction from leaders and exercise independent judgment while developing the knowledge to understand function, policies,
+- ID: R-579873 / R-579873 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-579873
 
 **EDA Tools Hardware Engineer | Intel**
 - Location: India, Bangalore | Work mode: unspecified
@@ -2873,6 +2864,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR0287980 / JR0287980 | Status: open (ATS verified)
 - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/DFT-Engineer---GPU-Logic-Design-Engineer_JR0287980
 
+**Procurement Executive, ATS Logistics Procurement | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-10-25 (0 days ago) | New today: yes
+- Fit: unknown | Score: 59
+- Qualification: Bachelor
+- Requirements: , including proficiency in MS Office (Word, Excel, PowerPoint) - Experience in creating process improvements with automation and analysis
+- ID: 10588122 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10588122/procurement-executive-ats-logistics-procurement
+
 **FBA Catalog Specialist 1, IN FBA | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
 - Posted: 2026-10-23 (2 days ago) | New today: no
@@ -2883,7 +2883,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Trade and Transaction Reporting Specialist | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-10-22 (3 days ago) | New today: yes
+- Posted: 2026-10-22 (3 days ago) | New today: no
 - Fit: yes | Qualifications: 4+ years of Institutional Investment Operations exper | Score: 57
 - Experience: 4+ yrs | Qualification: Bachelor
 - Requirements: Mentor and assist analysts Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals Required Qualifications: 4+ years of Institutional Investment Operations experience, or equivalent demonstrated through one or a combination of the following: work experience,
@@ -3105,7 +3105,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Vendor Services Lead | Autodesk**
 - Location: Bengaluru, IND | Work mode: unspecified
-- Posted: 2026-10-22 (3 days ago) | New today: no
+- Posted: 2026-10-22 (3 days ago) | New today: yes
 - Fit: no | professional with 8+ years of experience in the Customer Service indust | Score: 47
 - Experience: 8+ yrs | Qualification: Bachelor
 - Requirements: 8+ years of experience in Customer Service, Customer Operations, or a related field 2–3+ years of team leadership experience, preferably managing teams of up to 50 employees Strong communication and stakeholder management skills Proven experience in Key Performance Indicator (KPI) and performance
@@ -3512,16 +3512,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10582264 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10582264/sr-digital-supply-chain-associate-pv-publishing-ops
 
-### Kolkata (1)
-
-**Business Coach, Amazon, VAS-Category | Amazon**
-- Location: Kolkata, India | Work mode: unspecified
-- Posted: 2026-10-18 (7 days ago) | New today: no
-- Fit: yes | - 2+ years of employee and performance management exper | Score: 62
-- Experience: 2+ yrs | Qualification: Bachelor
-- ID: 10582181 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10582181/business-coach-amazon-vas-category
-
 ### Hyderabad (31)
 
 **BBM Escalation Specialist, Amazon Maintenance Operations Center | Amazon**
@@ -3844,7 +3834,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **IN_RBIC_Testing specialist_IN | Bosch**
 - Location: Kurli, MH, India | Work mode: unspecified
-- Posted: 2026-10-24 (1 days ago) | New today: yes
+- Posted: 2026-10-24 (1 days ago) | New today: no
 - Fit: no | Any BE/BTech 5+ years experience in testing | Score: 50
 - Experience: 5+ yrs | Qualification: Bachelor
 - Requirements: Pneumatic testing equipments Pneumatic circuits Data analysis Air pressure and leakage concepts Test specification interpretation Desirable skills . Change management (CR) Continuous Improvement Evaluate leakages from assembly to component level Capability study (Cg/Cgk),GRR Any BE/BTech 5+ years

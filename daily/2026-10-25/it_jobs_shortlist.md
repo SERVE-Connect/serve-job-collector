@@ -1,4 +1,4 @@
-# SERVE jobs, collected 2026-10-24 22:33 UTC
+# SERVE jobs, collected 2026-10-25 12:00 UTC
 Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 35. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
@@ -11,7 +11,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Full Stack Engineer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-10-24 (1 days ago) | New today: yes
+- Posted: 2026-10-24 (1 days ago) | New today: no
 - Fit: unknown | Score: 74
 - Qualification: Bachelor
 - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
@@ -304,7 +304,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Business Analytics Analyst- Generative AI | Citi**
 - Location: Bangaluru Karnataka India | Work mode: hybrid
-- Posted: 2026-10-23 (2 days ago) | New today: yes
+- Posted: 2026-10-23 (2 days ago) | New today: no
 - Fit: yes | Degree with at least 3 years of working experience OR Master's Degree wit | Score: 71
 - Experience: 3 yrs | Qualification: Diploma
 - Requirements: are required to exchange potentially complex/sensitive information. Moderate but direct impact through close contact with the businesses' core activities. Quality and timeliness of service provided will affect the effectiveness of own team and other closely related teams. Few notables among the

@@ -1,4 +1,4 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-24 22:33 UTC
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-25 12:00 UTC
 10 jobs, best score first: 1 from today/yesterday, 9 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Applications Development Sr Programmer Analyst - C12 - PUNE | Citi**

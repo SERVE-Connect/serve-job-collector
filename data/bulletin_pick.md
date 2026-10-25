@@ -1,4 +1,4 @@
-# SERVE bulletin picks, 2026-10-24 22:33 UTC
+# SERVE bulletin picks, 2026-10-25 12:00 UTC
 8 jobs: 1 from today/yesterday, 7 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
 1. **Full Stack Engineer | Barclays**

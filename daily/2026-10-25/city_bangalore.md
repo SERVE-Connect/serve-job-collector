@@ -1,5 +1,5 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-24 22:33 UTC
-10 jobs, best score first: 2 from today/yesterday, 8 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-25 12:00 UTC
+10 jobs, best score first: 3 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Financial Analyst | HP**
    - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
@@ -28,16 +28,7 @@
    - ID: JR2019261 | open (ATS verified)
    - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer--Memory-Subsystem_JR2019261
 
-4. **Financial Analyst, Finance-as-a-Service(FaaS) | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (3 days ago) | fallback | Score 72
-   - Fit: yes | - 1+ years of finance experience - Knowledge of standar
-   - Experience: 1+ yrs
-   - Requirements: Experience using data to influence business decisions - Experience in corporate finance including budgeting/planning, forecasting and reporting
-   - ID: 10586058 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10586058/financial-analyst-finance-as-a-service-faas
-
-5. **Signal Integrity Engineer | Intel**
+4. **Signal Integrity Engineer | Intel**
    - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-22 (3 days ago) | fallback | Score 65
    - Fit: yes | or a related field and 3+ years of hands-on experience in signal integrity d
@@ -46,7 +37,7 @@
    - ID: JR0287938 | open (ATS verified)
    - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Signal-Integrity-Engineer_JR0287938
 
-6. **Business Execution Consultant | Wells Fargo**
+5. **Business Execution Consultant | Wells Fargo**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-19 (6 days ago) | fallback | Score 65
    - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
@@ -55,7 +46,7 @@
    - ID: R-576594 | open (ATS verified)
    - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-576594
 
-7. **Admin Assistant | Capital One**
+6. **Admin Assistant | Capital One**
    - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-23 (2 days ago) | fallback | Score 60
    - Fit: yes | Post Graduation. 4+ year of meeting and event planning experience. At
@@ -63,6 +54,15 @@
    - Requirements: to make it all work! As the gatekeeper and extension of your executive leaders, you will frequently find yourself in the center of everything that happens on the team. You are extremely pivotal to the success of a well-run, efficient, productive and happy team. Responsibilities: Managing daily
    - ID: R246913 | open (ATS verified)
    - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Coordinator---Admin-Support-Assistant_R246913
+
+7. **Procurement Executive, ATS Logistics Procurement | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-25 (0 days ago) | fresh | Score 59
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , including proficiency in MS Office (Word, Excel, PowerPoint) - Experience in creating process improvements with automation and analysis
+   - ID: 10588122 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10588122/procurement-executive-ats-logistics-procurement
 
 8. **Associate Principal Technical Support Engineer- | Saviynt**
    - Bengaluru, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
