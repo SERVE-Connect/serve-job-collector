@@ -13,6 +13,7 @@ sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and w
     it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
     jobs_latest.md          every job, by section then city (the workflow reads its header to skip a run already done)
     jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
+  daily/links.md      fixed-address list of the full links to those files (today's and yesterday's folders)
   data/   working files only:
     sent_ids.txt            you add what you posted; lines are cleared after 7 days
     run_report.json         which boards worked
@@ -154,6 +155,7 @@ NON_IT = re.compile(
     r"lithograph|\bplc\b|\bcad\b|chassis|\bvlsi\b|\brtl\b|physical design|pick and place|wafer|\bfab\b|"
     r"analog|mixed[- ]signal|\bpcb\b|\bip design|soc design|silicon|foundry|metrology|"
     r"(gpu|asic|soc|rtl|design) verification|process engineer|"
+    r"process control|memory subsystem|power delivery|\bfcrm\b|\bfcams\b|"
     r"circuit|clock design|floor ?plan|logic design|\bnand\b|process integration|civil|architectural|interiors?\b|"
     r"electrical|milkrun|inbound logistic|"
     r"product management|compliance quality|financial crime|\bip integration|media ip|"
@@ -1026,12 +1028,31 @@ def prune_old():
     keep = {(TODAY - timedelta(days=d)).isoformat() for d in range(KEEP_DAYS)}
     if os.path.isdir(DAILY):
         for d in os.listdir(DAILY):
-            if d not in keep:
+            if os.path.isdir(os.path.join(DAILY, d)) and d not in keep:
                 shutil.rmtree(os.path.join(DAILY, d), ignore_errors=True)
     for fn in os.listdir(DATA):
         if fn in ("bulletin_pick.md", "it_jobs_shortlist.md", "jobs_latest.md", "jobs_latest.csv", "jobs_latest.json", "ranked_index.md") or \
            re.match(r"(top_10|internship|city_.+|domain_.+)\.md$", fn):
             os.remove(os.path.join(DATA, fn))
+
+
+def write_links(meta):
+    """daily/links.md has a fixed address, so a chat can open it from a link written in its skill. It lists the
+    full link to every file in today's and yesterday's folders; the chat then opens the link it needs from
+    this list (a chat can only fetch links it was given or that an earlier fetch returned)."""
+    base = "https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/"
+    L = ["# SERVE links, collected %s UTC (IST date %s)" % (meta["generated_utc"], TODAY.isoformat()),
+         "Each line is the full link to one file. Use the folder dated today (IST); yesterday's folder is the fallback.", ""]
+    for d in range(KEEP_DAYS):
+        day = (TODAY - timedelta(days=d)).isoformat()
+        folder = os.path.join(DAILY, day)
+        if not os.path.isdir(folder):
+            continue
+        L.append("## %s (%s)" % (day, "today" if d == 0 else "yesterday"))
+        L += ["%s: %s%s/%s" % (fn, base, day, fn) for fn in sorted(os.listdir(folder))]
+        L.append("")
+    with open(os.path.join(DAILY, "links.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(L))
 
 
 def write_outputs(jobs, report):
@@ -1079,6 +1100,7 @@ def write_outputs(jobs, report):
     write_csv(jobs, picks)
     write_ranked(jobs, meta)
     prune_old()
+    write_links(meta)
     meta["picked"] = len(picks)
     write_summary(meta, report, jobs)
     return meta
