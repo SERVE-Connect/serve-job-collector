@@ -1,31 +1,32 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-27 23:49 UTC
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-28 18:26 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Analyst, Financial Operations | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 82
-   - Fit: yes | field. Experience: 0 to 2 years of relevant experience in financial operatio
-   - Experience: 0-2 yrs | Qualification: Bachelor
-   - Requirements: Education &amp; Experience Education: Bachelor's degree in Commerce, Accounting, Finance, Business Administration, or related quantitative field. Experience: 0 to 2 years of relevant experience in financial operations, payment reconciliations, settlements, or treasury operations (Fintech / Payment
-   - ID: 4747560005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4747560005
+1. **Travel 2 Expense (Immediate Joiner) | Bosch**
+   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 85
+   - Fit: yes | Experience : Prior 2-5years experience in Corporate credit card or Trave
+   - Experience: 2-5 yrs | Qualification: Bachelor
+   - Requirements: Proven experience with corporate credit card operations and support. Familiarity with corporate payment systems and expense management platforms. Basic understanding of financial concepts such as billing, statements, and chargebacks. Experience with Citi Bank corporate card systems is a strong
+   - ID: 744000158210024 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158210024
 
-2. **IN_RBAI_Senior Engineer - Engineering Change Management Co Ordinator_IN | Bosch**
-   - Bengaluru, KA, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 77
-   - Fit: yes | Engineer with 1-3 years of experience preferably in the manufacturin
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - ID: 744000157957529 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157957529
-
-3. **Data Engineer | PayPal**
-   - Bangalore, Karnataka, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 77
-   - Fit: yes | do you need to bring- • 2–4 years of experience in data engineering or backend
+2. **Android Multi-Device Experience Engineer | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 80
+   - Fit: yes | • Typically has 2-4 years of work experience, preferably in systems en
    - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: with a keen desire to deeply understand our product and how to make our systems more robust and more resilient. Meet our team We are the Unified Integration Platform (UIP) team, PayPal’s enterprise data replication team. We replicate data at scale between data stores across PayPal, and between
-   - ID: R0138359-1 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Data-Engineer_R0138359-1
+   - Requirements: and design robust architecture that fulfills business objectives while considering technical constraints. The role develops advanced knowledge of computing system integration and makes recommendations on software and hardware configurations and developments. Responsibilities • Installs, configures,
+   - ID: 3166494-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166494-1
+
+3. **Commercial Loan Servicing Specialist | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 80
+   - Fit: yes | Qualifications: 2+ years of Commercial Loan Servicing experience, or
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: Evaluate and upload data into the systems of record Serve as primary liaison and work collaboratively with Sales, Legal, Control and Risk, Technology, and various Operations and company teams as necessary to progress customer-focused needs Review and negotiate basic loan servicing transactions,
+   - ID: R-557514 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Servicing-Specialist_R-557514
 
 4. **ASIC Design Engineer, BOOT and Power Management | NVIDIA**
    - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
@@ -36,22 +37,22 @@
    - ID: JR2028799-1 | open (ATS verified)
    - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer--BOOT-and-Power-Management_JR2028799-1
 
-5. **Software Development Engineer II, FMA - Featured Merchant Algorithm | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 72
-   - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs
-   - ID: 10589608 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10589608/software-development-engineer-ii-fma-featured-merchant-algorithm
+5. **Operations specialist, CSBA | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 76
+   - Fit: yes | - 1+ years of data-driven business operations processes
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: 10591022 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10591022/operations-specialist-csba
 
-6. **AI Tool Admin | Elastic**
-   - Bangalore, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 71
-   - Fit: yes | What You Bring 3+ years in a marketing operations or marketing techn
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: 3+ years in a marketing operations or marketing technology role with tool administration responsibilities. Hands-on experience working with at least one enterprise AI or generative AI platform at an organisational level, such as Jasper, Writer, or Adobe Firefly. Demonstrated understanding of
-   - ID: 8314336 | open (ATS verified)
-   - Apply: https://jobs.elastic.co/jobs?gh_jid=8314336&gh_jid=8314336
+6. **Information Security Engineer (Thick Client Testing /  Harness / VAPT) | Zscaler**
+   - Bangalore, IND | Work mode: unspecified | Section: Cybersecurity
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 74
+   - Fit: yes | your functional domain 3-5 years of experience in manual security assessments
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
+   - ID: 5261565007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5261565007
 
 7. **Commercial Sales Engineer | Datadog**
    - Bangalore, India | Work mode: unspecified | Section: Non-IT / Other
@@ -62,7 +63,25 @@
    - ID: 8326311 | open (ATS verified)
    - Apply: https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311
 
-8. **EDA Tools License Management | Intel**
+8. **Systems Engineer- Workday - Finance ERP | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 66
+   - Fit: yes | Required Skills 4-9 years of Hands-on expertise in any of the Workday
+   - Experience: 4-9 yrs | Qualification: Bachelor
+   - Requirements: 4-9 years of Hands-on expertise in any of the Workday Financials modules (Account Receivables, Payables, Assets, GL, Banking & Settlement). Working knowledge of Workday Security, Business Processes, Reports, Calc Fields, Integrations framework, Studio, BIRT and EIBs. Expertise in Workday
+   - ID: JR363887 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday---Finance-ERP_JR363887
+
+9. **Software Engineer, New Grad | Stripe**
+   - Bangalore | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 63
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: A Bachelor’s or Master’s degree in computer science or a directly related field, obtained by summer 2027, or equivalent work experience; New grad candidates should have no more than 18 months of professional experience (excluding internship experience). Experience and familiarity with programming,
+   - ID: 8130876 | open (ATS verified)
+   - Apply: https://stripe.com/jobs/search?gh_jid=8130876
+
+10. **EDA Tools License Management | Intel**
    - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 63
    - Fit: yes | Qualifications: • 4-12 years of Experience managing EDA license operation
@@ -70,21 +89,3 @@
    - Requirements: Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications: • 4-12 years of Experience managing EDA license operations,
    - ID: JR0286863 | open (ATS verified)
    - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/EDA-Tools-License-Management_JR0286863
-
-9. **2027 Technology Program Intern | Wells Fargo**
-   - Bengaluru, India Hyderabad, India India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: Provide information to managers, functional colleagues, and stakeholders, including internal or external customers if applicable Required Qualifications: 6+ months of work experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military
-   - ID: R-557386 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386
-
-10. **Senior Associate, Data Science | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 58
-   - Fit: no | focus. At least 2 years of experience in data analytics. At least 1
-   - Experience: 2 yrs | Qualification: Bachelor
-   - Requirements: and building better tools to govern emerging technologies like Generative AI. Our team thrives on a rigorous challenge culture to develop increasingly powerful validation techniques that ensure model integrity and regulatory compliance. Role Description General responsibilities include but are not
-   - ID: R1004461-1 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Associate--Data-Science_R1004461-1

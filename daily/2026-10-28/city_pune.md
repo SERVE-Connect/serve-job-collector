@@ -1,91 +1,92 @@
-# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-10-27 23:49 UTC
+# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-10-28 18:26 UTC
 10 jobs, best score first: 7 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Software Engineer II | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 82
-   - Fit: yes | & Qualifications • 4–6 years of professional experience in software devel
-   - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: into technical specifications and deliverables. - Ensure developed solutions comply with architectural standards, security guidelines, and best engineering practices. - Drive adoption of AI technologies across the Software Development Lifecycle (SDLC), utilizing prompt engineering, generative AI,
-   - ID: R-291169-1 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-291169-1
-
-2. **FinCrime Agile Testing Data Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 79
+1. **Software Engineer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 77
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: and ensuring that the bank’s internal policies are aligned with international standards, including jurisdictional requirements. Collaboration with 1LOD, other relevant Compliance teams and legal, and relevant risk management functions to facilitate a comprehensive approach to compliance and risk
-   - ID: JR-0000106129-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/FinCrime-Agile-Testing-Data-Analyst_JR-0000106129-1
+   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+   - ID: JR-0000130274 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000130274
 
-3. **Sales Operations Analyst | AlphaSense**
-   - Pune | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 79
+2. **Specialist, Legal Services | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 77
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: . Excellent communication and interpersonal skills, enabling them to effectively communicate complex data to non-technical stakeholders. Exceptional Organizational skills to manage multiple projects simultaneously, work independently in a fast-paced environment, and continuously seek to improve
-   - ID: 8917819002 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/alphasenseindia/jobs/8917819002
+   - Requirements: , special provisions, terms and conditions to ensure compliance with appropriate laws, regulations, policies and procedures. • Provide superior customer service according to the GBSC standards in terms of quality, response time, resolution time and adhering to Service Level Objectives (SLOs). All
+   - ID: R-294730 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Legal-Services_R-294730
 
-4. **Operations Analyst Payment | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 79 | second job
+3. **Copilot Agents -M365 Power platform | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 77 | second job
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: and coordinating team resources. They supervise a team, allocate work requirements and coordinate team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and
-   - ID: JR-0000132293 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Operations-Analyst-Payment_JR-0000132293
+   - Requirements: ensuring measurable reliability, performance, availability, and ease of use. Including the identification of the appropriate technologies and solutions to meet business, optimisation, and resourcing requirements. Incident Management: Monitoring of IT infrastructure and system performance to
+   - ID: JR-0000113872 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Copilot-Agents--M365-Power-platform_JR-0000113872
 
-5. **Young Apprentice - C00 - PUNE | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 75
-   - Fit: unknown
-   - Qualification: Diploma
-   - Requirements: Previous experience preferred Consistently demonstrates clear and concise written and verbal communication skills Education: High school diploma or equivalent experience ------------------------------------------------------ Job Family Group: Business Strategy, Management & Administration
-   - ID: 26986436 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986436
+4. **Sr. Associate Customer Support Analyst (Financials & Payroll) | Workday**
+   - IND.Pune | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 76
+   - Fit: no | Experience: Minimum 3 years of experience in technical support, IT opera
+   - Experience: 3 yrs | Qualification: Bachelor
+   - Requirements: to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team At Workday, we bring technical rigor, customer empathy,
+   - ID: JR-0110071 | open (ATS verified)
+   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Customer-Support-Analyst--AI-ML-Application-Support--_JR-0110071
 
-6. **Software Development Engineering - Professional II | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 73
-   - Fit: no | of issues. Experience: 5–12 years overall, with strong expertise in design, de
-   - Experience: 5-12 yrs | Qualification: Bachelor
-   - ID: R-10395388 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/C-and-C---Develp-er_R-10395388
-
-7. **Lead Business Analyst | Mastercard**
+5. **Lead Software Engineer-2 | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 70 | second job
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 73 | second job
    - Fit: no
    - Qualification: Bachelor
-   - Requirements: , prioritization, release readiness, UAT coordination, production support, issue triage, documentation, reporting oversight, and continuous improvement. The ideal candidate is intellectually curious, analytical, comfortable working across business and technical teams, and able to bring structure to
-   - ID: R-289122-1 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Business-Analyst_R-289122-1
+   - Requirements: for new applications and customizations, adhering to standards, processes, and best practices Ensure quality of one or more application codebases and alignment with development standards Applies technical capabilities within own discipline to coach and develop junior employees Designs highly
+   - ID: R-290020 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer-2_R-290020
 
-8. **Senior Staff Site Reliability Engineer | NVIDIA**
-   - India, Pune | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-26 (2 days ago) | fallback | Score 64
-   - Fit: no | What We Need To See: 10+ years of experience in Site Reliability Engineerin
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: , with the ability to brief executives during high-pressure incidents and influence senior technical stakeholders. Ways To Stand Out From The Crowd: Building & applying AI to operations: Hands-on experience building incident management or automation platforms (ChatOps, workflow orchestration, alert
-   - ID: JR2024618 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Staff-Site-Reliability-Engineer_JR2024618
+6. **Software Engineer - Python and Data – Assistant Vice President | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 71
+   - Fit: no | Qualifications & Skills 8+ years of professional software engineering experie
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: . Required Qualifications & Skills 8+ years of professional software engineering experience, with solid hands-on experience building backend applications and data pipelines in Python. Strong proficiency in SQL, relational database design, query optimization, indexing strategies and database
+   - ID: 261002390 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Software-Engineer--Python---Data----Markets-Business-Controls-Technology_261002390
 
-9. **Lead STA Engineer | Broadcom**
-   - IND-Pune EON Kharadi Infrastructure | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-26 (2 days ago) | fallback | Score 64
-   - Fit: no | Qualifications: - 15+ years of experience in Static Timing Analysis (STA
-   - Experience: 15+ yrs | Qualification: Bachelor
-   - Requirements: 15+ years of experience in Static Timing Analysis (STA) and timing closure for block and/or full-chip designs. - Strong understanding of CMOS fundamentals, timing concepts, and semiconductor design flow. - Hands-on experience in setup/hold analysis, path-based analysis, OCV/AOCV/POCV, derates,
-   - ID: R027491-1 | open (ATS verified)
-   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-EON-Kharadi-Infrastructure/Lead-STA-Engineer_R027491-1
-
-10. **Developer Advocate | Salesforce**
-   - India - Hyderabad India - Bangalore India - Pune India - Jaipur India - Mumbai India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-26 (2 days ago) | fallback | Score 64
-   - Fit: no | You, Because You Have: 5+ years of experience implementing on the Salesforce
+7. **Senior System Software Engineer, GPU Firmware | NVIDIA**
+   - India, Bengaluru India, Pune India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 64
+   - Fit: no | experience in EE/CS/CE. 5+ years’ experience in developing device BIOS, firmw
    - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: , Because You Have: 5+ years of experience implementing on the Salesforce Platform, with a creative technical mindset. Deep understanding of and passion for the needs of enterprise developers who build on Salesforce, especially when using AI and data for business solutions. Proven technical
-   - ID: JR363217 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Developer-Advocate_JR363217
+   - Requirements: . Even stronger communication skills. Sense of humor heavily encouraged, but not required. Deep understanding of software process. Secure software fundamentals including cryptography, authentication/attestation, chains of trust, and understanding of common SW security vulnerabilities. Easy to work
+   - ID: JR2028136 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer--GPU-Firmware_JR2028136
+
+8. **Senior Technical Consultant - Revenue/Fins/Communications/Health Cloud | Salesforce**
+   - India - Bangalore India - Hyderabad India - Pune India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-26 (2 days ago) | fallback | Score 64
+   - Fit: no | or Communications Cloud 7+ years as a Lead Developer overall doing solution d
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - Requirements: 2+ years hands-on Salesforce delivery in Revenue Cloud or Financial Cloud or Health Cloud or Communications Cloud 7+ years as a Lead Developer overall doing solution design in a mid to large-sized organization. Experience with key areas of enterprise architecture - integration technologies, single
+   - ID: JR361950 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---Revenue-Cloud----Consumer-Goods--Open-_JR361950
+
+9. **Lead Physical Design Engineer | Broadcom**
+   - IND-Pune EON Kharadi Infrastructure | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-26 (2 days ago) | fallback | Score 64
+   - Fit: no | & Core Expertise 15+ years of hands-on experience in physical design an
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: & Collaboration Excellent analytical and problem-solving skills to independently debug complex physical and timing closure issues. A proven track record of multi-functional collaboration, with the ability to smoothly align with teams across different geographic sites and time zones. Broadcom is
+   - ID: R027503 | open (ATS verified)
+   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-EON-Kharadi-Infrastructure/Lead-Physical-Design-Engineer_R027503
+
+10. **Senior Technical Courseware Developer | Zscaler**
+   - Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-22 (6 days ago) | fallback | Score 55
+   - Fit: no | your functional domain 7–10 years creating technical learning content across e
+   - Experience: 7-10 yrs | Qualification: Bachelor
+   - Requirements: in real-world scenarios. What you’ll do (Role Expectations) Drive discovery with SMEs to capture real job workflows, define learner personas, and translate findings into performance-based course architectures, measurable objectives, and detailed design/storyboards Create and govern instructor-ready
+   - ID: 5267167007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5267167007

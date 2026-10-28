@@ -1,7 +1,16 @@
-# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-10-27 23:49 UTC
-6 jobs, best score first: 5 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-10-28 18:26 UTC
+7 jobs, best score first: 6 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Associate Automation Engineer | Micron**
+1. **Business Analytics Analyst | Citi**
+   - Bangaluru Karnataka India | Work mode: hybrid | Section: Data / Analytics / AI
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 77
+   - Fit: yes | premier institutes with 3+ years of experience in delivering analytical solut
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: Creating and delivering high class presentations to share the thoughts, the solutions or the problem statement to business stakeholders and senior management Ability to coach and mentor juniors . Skillset you should possess The most important skill that our analyst should possess is their love for
+   - ID: 26994289-1 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Bangaluru-Karnataka-India/Business-Analytics-Analyst_26994289-1
+
+2. **Associate Automation Engineer | Micron**
    - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 62
    - Fit: unknown
@@ -10,7 +19,7 @@
    - ID: JR115187 | open (ATS verified)
    - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Associate-Automation-Engineer_JR115187
 
-2. **Facilities Cost Engineer (OPEX) | Micron**
+3. **Facilities Cost Engineer (OPEX) | Micron**
    - Sanand - 303C - Facilities/Construction, India | Work mode: unspecified | Section: IT / Software
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 57 | second job
    - Fit: unknown
@@ -19,7 +28,15 @@
    - ID: JR115233 | open (ATS verified)
    - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303C---FacilitiesConstruction-India/Facilities-Cost-Engineer--OPEX-_JR115233
 
-3. **Escalation Engineer - Cloud | Zscaler**
+4. **IN_RBIC_ Senior Engineer/Assistant Manager _Front Line manager _IN | Bosch**
+   - Kurali, MH, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 53
+   - Fit: no | - Mechanical/Production 5 to 7 Years KPIs linked to policy deployment Improve OEE
+   - Experience: 5-7 yrs | Qualification: Bachelor
+   - ID: 744000158202169 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158202169
+
+5. **Escalation Engineer - Cloud | Zscaler**
    - Mohali, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 50
    - Fit: no | problem-solving Minimum 8+ years of experience working as a Support Engineer
@@ -28,24 +45,15 @@
    - ID: 5269094007 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5269094007
 
-4. **IN_MIVIN_Engineer - Purchasing Template _IN | Bosch**
+6. **IN_MIVIN_Engineer - Purchasing Template _IN | Bosch**
    - Hejjala, KA, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 50
+   - Posted: 2026-10-27 (1 days ago) | fresh | Score 50 | second job
    - Fit: no | Experience :- 5 to 8 years of relevant experience in purchasing, strate
    - Experience: 5-8 yrs | Qualification: Bachelor
    - ID: 744000157968309 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157968309
 
-5. **IN_MIVIN_ Asst Manager _ Product Management _IN | Bosch**
-   - Hejjala, KA, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 48 | second job
-   - Fit: no
-   - Qualification: Bachelor
-   - Requirements: with Sales/Product RM and translate them into product/project priorities for relevant functions. • Support product cost competitiveness, value improvement, standardization and product portfolio optimization. • Coordinate product information and lessons learned across India and global product
-   - ID: 744000157968439 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157968439
-
-6. **Zonal Collection Manager- Jaipur- lending Collections | Paytm**
+7. **Zonal Collection Manager- Jaipur- lending Collections | Paytm**
    - Jaipur, Rajasthan | Work mode: onsite | Section: Non-IT / Other
    - Posted: 2026-10-21 (7 days ago) | fallback | Score 39
    - Fit: no | advantage. Experience: 10+ years of relevant experience in collections and re

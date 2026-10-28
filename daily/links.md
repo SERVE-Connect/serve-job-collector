@@ -1,0 +1,76 @@
+# SERVE links, collected 2026-10-28 18:26 UTC (IST date 2026-10-28)
+Each line is the full link to one file. Use the folder dated today (IST); yesterday's folder is the fallback.
+
+## 2026-10-28 (today)
+bulletin_pick.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/bulletin_pick.md
+city_ahmedabad.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_ahmedabad.md
+city_bangalore.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_bangalore.md
+city_chennai.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_chennai.md
+city_chhatrapati-sambhajinagar.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_chhatrapati-sambhajinagar.md
+city_delhi-ncr-haryana.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_delhi-ncr-haryana.md
+city_hyderabad.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_hyderabad.md
+city_kolkata.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_kolkata.md
+city_mumbai.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_mumbai.md
+city_other-india.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_other-india.md
+city_pune.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_pune.md
+city_remote-india.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/city_remote-india.md
+domain_banking-finance.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_banking-finance.md
+domain_clinical-research.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_clinical-research.md
+domain_cloud-devops-infrastructure.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_cloud-devops-infrastructure.md
+domain_customer-support.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_customer-support.md
+domain_cybersecurity.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_cybersecurity.md
+domain_data-analytics-ai.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_data-analytics-ai.md
+domain_healthcare.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_healthcare.md
+domain_hospitality.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_hospitality.md
+domain_hr-recruitment.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_hr-recruitment.md
+domain_it-software.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_it-software.md
+domain_it-support-operations.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_it-support-operations.md
+domain_logistics.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_logistics.md
+domain_non-it-other.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_non-it-other.md
+domain_pharma.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_pharma.md
+domain_qa-testing.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_qa-testing.md
+domain_sales-marketing.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_sales-marketing.md
+domain_senior-it-roles-5-yrs.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/domain_senior-it-roles-5-yrs.md
+internship.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/internship.md
+it_jobs_shortlist.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/it_jobs_shortlist.md
+jobs_latest.csv: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/jobs_latest.csv
+jobs_latest.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/jobs_latest.md
+ranked_index.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/ranked_index.md
+top_10.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-28/top_10.md
+
+## 2026-10-27 (yesterday)
+bulletin_pick.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/bulletin_pick.md
+city_ahmedabad.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_ahmedabad.md
+city_bangalore.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_bangalore.md
+city_chennai.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_chennai.md
+city_chhatrapati-sambhajinagar.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_chhatrapati-sambhajinagar.md
+city_delhi-ncr-haryana.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_delhi-ncr-haryana.md
+city_hyderabad.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_hyderabad.md
+city_kolkata.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_kolkata.md
+city_mumbai.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_mumbai.md
+city_other-india.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_other-india.md
+city_pune.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_pune.md
+city_remote-india.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/city_remote-india.md
+domain_banking-finance.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_banking-finance.md
+domain_clinical-research.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_clinical-research.md
+domain_cloud-devops-infrastructure.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_cloud-devops-infrastructure.md
+domain_customer-support.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_customer-support.md
+domain_cybersecurity.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_cybersecurity.md
+domain_data-analytics-ai.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_data-analytics-ai.md
+domain_healthcare.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_healthcare.md
+domain_hospitality.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_hospitality.md
+domain_hr-recruitment.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_hr-recruitment.md
+domain_it-software.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_it-software.md
+domain_it-support-operations.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_it-support-operations.md
+domain_logistics.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_logistics.md
+domain_non-it-other.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_non-it-other.md
+domain_pharma.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_pharma.md
+domain_qa-testing.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_qa-testing.md
+domain_sales-marketing.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_sales-marketing.md
+domain_senior-it-roles-5-yrs.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/domain_senior-it-roles-5-yrs.md
+internship.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/internship.md
+it_jobs_shortlist.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/it_jobs_shortlist.md
+jobs_latest.csv: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/jobs_latest.csv
+jobs_latest.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/jobs_latest.md
+ranked_index.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/ranked_index.md
+top_10.md: https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/2026-10-27/top_10.md

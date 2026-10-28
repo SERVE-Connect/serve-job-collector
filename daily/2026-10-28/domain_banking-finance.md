@@ -1,23 +1,23 @@
-# SERVE ranked list: Banking & Finance jobs (0-5 years, matched by keyword), collected 2026-10-27 23:49 UTC
-10 jobs, best score first: 6 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Banking & Finance jobs (0-5 years, matched by keyword), collected 2026-10-28 18:26 UTC
+10 jobs, best score first: 7 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Corporate Banking Associate | Wells Fargo**
+1. **Associate Fraud & claims Operations Representative | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 83
-   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
-   - Experience: 2+ yrs | Qualification: Master
-   - Requirements: Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals Required Qualifications: 2+ years of Securities Research experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education.
-   - ID: R-573192-1 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Corporate-Banking-Associate_R-573192-1
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 86
+   - Fit: yes | or related discipline 0 to 1 year experience in chargebacks or cards operation
+   - Experience: 0-1 yrs | Qualification: Bachelor
+   - Requirements: University degree in Business or related discipline 0 to 1 year experience in chargebacks or cards operations Knowledge in Debit and Credit cards Strong analytical skills Good communication skills Flexible working in Night shift Posting End Date: 29 Oct 2026 *Job posting may come down early due to
+   - ID: R-570104 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Associate-Fraud---claims-Operations-Representative_R-570104
 
-2. **Analyst, Financial Operations | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 82
-   - Fit: yes | field. Experience: 0 to 2 years of relevant experience in financial operatio
-   - Experience: 0-2 yrs | Qualification: Bachelor
-   - Requirements: Education &amp; Experience Education: Bachelor's degree in Commerce, Accounting, Finance, Business Administration, or related quantitative field. Experience: 0 to 2 years of relevant experience in financial operations, payment reconciliations, settlements, or treasury operations (Fintech / Payment
-   - ID: 4747560005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4747560005
+2. **Travel 2 Expense (Immediate Joiner) | Bosch**
+   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 85
+   - Fit: yes | Experience : Prior 2-5years experience in Corporate credit card or Trave
+   - Experience: 2-5 yrs | Qualification: Bachelor
+   - Requirements: Proven experience with corporate credit card operations and support. Familiarity with corporate payment systems and expense management platforms. Basic understanding of financial concepts such as billing, statements, and chargebacks. Experience with Citi Bank corporate card systems is a strong
+   - ID: 744000158210024 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158210024
 
 3. **Associate II- Post Issue | Zinnia**
    - Gurugram, Haryana, India | Work mode: unspecified | Section: Non-IT / Other
@@ -28,7 +28,16 @@
    - ID: 4724725006 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/zinnia/jobs/4724725006
 
-4. **HR Global Services Advisor | HP**
+4. **Commercial Loan Servicing Specialist | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 80 | second job
+   - Fit: yes | Qualifications: 2+ years of Commercial Loan Servicing experience, or
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: Evaluate and upload data into the systems of record Serve as primary liaison and work collaboratively with Sales, Legal, Control and Risk, Technology, and various Operations and company teams as necessary to progress customer-focused needs Review and negotiate basic loan servicing transactions,
+   - ID: R-557514 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Servicing-Specialist_R-557514
+
+5. **HR Global Services Advisor | HP**
    - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 79
    - Fit: yes | • Typically has 0-2 years of work experience, preferably in customer s
@@ -37,7 +46,7 @@
    - ID: 3170131-1 | open (ATS verified)
    - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/HR-Global-Services-Advisor_3170131-1
 
-5. **Processing Cost Analyst | Stripe**
+6. **Processing Cost Analyst | Stripe**
    - IN-Bengaluru | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-26 (2 days ago) | fallback | Score 79
    - Fit: yes | ACA, ACCA, or CIMA, and 2–3 years of relevant accounting experience Bachelor’s
@@ -46,34 +55,16 @@
    - ID: 8324207 | open (ATS verified)
    - Apply: https://stripe.com/jobs/search?gh_jid=8324207
 
-6. **Financial Crime Agile Testing Specialist | Barclays**
+7. **Financial Crime Agile Testing Specialist | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 74
    - Fit: unknown
    - Qualification: Bachelor
    - Requirements: and ensuring that the bank’s internal policies are aligned with international standards, including jurisdictional requirements. Collaboration with 1LOD, other relevant Compliance teams and legal, and relevant risk management functions to facilitate a comprehensive approach to compliance and risk
-   - ID: JR-0000106124 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Financial-Crime-Agile-Testing-Specialist_JR-0000106124
+   - ID: JR-0000134222 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Financial-Crime-Agile-Testing-Specialist_JR-0000134222
 
-7. **Marketing Technology Operations Specialist | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 72
-   - Fit: yes | You're Our Person If... 3+ years of experience in marketing operations, marke
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: and vendor quotes through purchase requests, vendor onboarding, and purchase orders. Drive contracts through required Procurement, Legal, Security, Privacy, and Finance reviews. Track approvals and signatures, follow up on blockers, and maintain executed agreements and renewal terms. Maintain the
-   - ID: JR365028-1 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketing-Technology-Operations-Specialist_JR365028-1
-
-8. **Business Analyst - Finance_MPIN | Bosch**
-   - Bengaluru, KA, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (6 days ago) | fallback | Score 70
-   - Fit: yes | Relevant Experience 2-3 years of financial analytical experience in a mark
-   - Experience: 2-3 yrs | Qualification: Bachelor
-   - Requirements: and support the functional excellence team with relevant inputs • Adhere to relevant functional policies, processes, standard operating procedures and instructions to ensure controlled and consistent flow of information • Support development of finance data management workflows and processes, and
-   - ID: 744000157037059 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157037059
-
-9. **Lending Operations & Partnerships - AM - Merchant Lending | Paytm**
+8. **Lending Operations & Partnerships - AM - Merchant Lending | Paytm**
    - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
    - Posted: 2026-10-22 (6 days ago) | fallback | Score 69
    - Fit: yes | professional with 2–4 years of experience in lending operations, prefera
@@ -82,11 +73,20 @@
    - ID: 8ef474ea-ea67-4cd4-bcd4-af702e493c52 | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/8ef474ea-ea67-4cd4-bcd4-af702e493c52
 
-10. **Commercial Loan Servicing Representative | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (1 days ago) | fresh | Score 64 | second job
-   - Fit: yes | Qualifications: 4+ years of Commercial Loan Servicing support experie
-   - Experience: 4+ yrs | Qualification: Bachelor
-   - Requirements: to support accurate transaction processing. Coordinate and reconcile loan advances, payments, and letters of credit with customers and participating banks. Support loan trading, assignments, and related servicing activities. Prioritize daily work and provide work direction and mentorship to the
-   - ID: R-579363-1 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Commercial-Loan-Servicing-Representative_R-579363-1
+9. **Systems Engineer- Workday - Finance ERP | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 66
+   - Fit: yes | Required Skills 4-9 years of Hands-on expertise in any of the Workday
+   - Experience: 4-9 yrs | Qualification: Bachelor
+   - Requirements: 4-9 years of Hands-on expertise in any of the Workday Financials modules (Account Receivables, Payables, Assets, GL, Banking & Settlement). Working knowledge of Workday Security, Business Processes, Reports, Calc Fields, Integrations framework, Studio, BIRT and EIBs. Expertise in Workday
+   - ID: JR363887 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday---Finance-ERP_JR363887
+
+10. **Global Process Expert for Cash & Bank | Bosch**
+   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 63 | second job
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: according to the defined working model. • Convert the business requirement to IT requirements with the SAP standard solution provided or support confirmation of own developments via custom development approvals. • You are also responsible for close collaboration with the Process Owner, Process
+   - ID: 744000158261560 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158261560

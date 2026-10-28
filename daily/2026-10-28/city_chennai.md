@@ -1,5 +1,5 @@
-# SERVE ranked list: Jobs in Chennai (all domains, all experience levels), collected 2026-10-27 23:49 UTC
-6 jobs, best score first: 1 from today/yesterday, 5 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Chennai (all domains, all experience levels), collected 2026-10-28 18:26 UTC
+7 jobs, best score first: 6 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **HR Global Services Advisor | HP**
    - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Non-IT / Other
@@ -10,7 +10,50 @@
    - ID: 3170131-1 | open (ATS verified)
    - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/HR-Global-Services-Advisor_3170131-1
 
-2. **Manager, Financial Planning & Analysis | PayPal**
+2. **Software Development Engineer II, Alexa Excellence | Amazon**
+   - Chennai, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 77
+   - Fit: yes | - 3+ years of non-internship professional software deve
+   - Experience: 3+ yrs
+   - ID: 10591315 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence
+
+3. **Software Development Engineer, Alexa Excellence | Amazon**
+   - Chennai, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 72 | second job
+   - Fit: yes | - 3+ years of non-internship professional software deve
+   - Experience: 3+ yrs
+   - ID: 10591316 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10591316/software-development-engineer-alexa-excellence
+
+4. **Manager, Software Development Engineering | Workday**
+   - IND.Chennai | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 59
+   - Fit: no | engineering teams 8+ years of software development experience building
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team Do you want to lead the team building the next
+   - ID: JR-0111052 | open (ATS verified)
+   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Manager--Software-Development-Engineering_JR-0111052
+
+5. **Supply Chain- Operations Transformation Lead | HP**
+   - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 58 | second job
+   - Fit: no | Payment Recons Minimum 6-8 years of experience in various SAP S4 arenas (Forw
+   - Experience: 6-8 yrs | Qualification: Bachelor
+   - Requirements: minimum 17-20 years of experience in S u pply Chain function Experience in more than one supply chain function with primary focus on Sales Order Returns, Logistics (both Forward and Reverse), Procurement, Order Management, Pricing and Partner Payment Recons Minimum 6-8 years of experience in
+   - ID: 3165327-2 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/Supply-Chain--Operations-Transformation-Lead_3165327-2
+
+6. **Lead Endpoint Security Engineer | Barclays**
+   - Chennai, DLF IT Park | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 56
+   - Fit: no
+   - Qualification: Bachelor
+   - Requirements: . Implementation of cloud security monitoring solutions to detect and alert on potential security threats and anomalies. Execution of incident investigations related to cloud security to identify the root causes and implement corrective measures promptly to minimise damage and return to normal
+   - ID: JR-0000117162-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Security-Cloud-Lead-Enterprise-Architect_JR-0000117162-1
+
+7. **Manager, Financial Planning & Analysis | PayPal**
    - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-26 (2 days ago) | fallback | Score 52
    - Fit: no | Minimum Qualifications: 5+ years relevant experience and a Bachelor’s degree
@@ -18,37 +61,3 @@
    - Requirements: 5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Your way to impact: Turn transaction-level data into clear insight on what is driving take rate, TE rate and margin: mix, card
    - ID: R0138307 | open (ATS verified)
    - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Manager--Financial-Planning---Analysis_R0138307
-
-3. **Software Engineer - JAVA | Barclays**
-   - Chennai, DLF IT Park | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-23 (5 days ago) | fallback | Score 50
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - ID: JR-0000125339 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Software-Engineer---JAVA_JR-0000125339
-
-4. **Enterprise Account Manager | HP**
-   - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-25 (3 days ago) | fallback | Score 49 | second job
-   - Fit: no | • Typically has 4-7 years of work experience, preferably in account ma
-   - Experience: 4-7 yrs | Qualification: Bachelor
-   - Requirements: , maps with the organization’s capabilities, and chooses the respective direct/indirect supply chain. • Builds professional relationships with clients up to the executive level and develops a core understanding of unique business needs. • Engages with partners to improve win rates on selective
-   - ID: 3160138-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/Enterprise-Account-Manager_3160138-1
-
-5. **Business Analyst, RBS Emerging Stores, Retail Business Services, RBS Flex Org Variable | Amazon**
-   - Chennai, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-22 (6 days ago) | fallback | Score 44
-   - Fit: no | role experience - 5+ years of Excel (including VBA, pivot tables, array
-   - Experience: 5+ yrs
-   - Requirements: and using data and metrics to draw business insights - Experience making business recommendations and influencing stakeholders - 2+ years of Tableau Desktop, Quicksight or other relevant data visualization software experience - Experience in tax, finance or a related analytical field, or experience
-   - ID: 10585985 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10585985/business-analyst-rbs-emerging-stores-retail-business-services-rbs-flex-org-variable
-
-6. **Process Lead, Alexa Shopping, Alexa Shopping | Amazon**
-   - Chennai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-23 (5 days ago) | fallback | Score 37 | second job
-   - Fit: no
-   - ID: 10587285 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10587285/process-lead-alexa-shopping-alexa-shopping

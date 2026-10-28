@@ -1,7 +1,25 @@
-# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-10-27 23:49 UTC
-8 jobs, best score first: 4 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-10-28 18:26 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **BA4 - Research Operations | Barclays**
+1. **Analyst - Compliance Operations | Nium**
+   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 99
+   - Fit: yes | the Group. Minimum 2 years of experience in AML transaction monitoring,
+   - Experience: 2 yrs | Qualification: Bachelor
+   - Requirements: (both verbal and writing). Strong problem-solving and analytical skills with an investigative mindset. Team player but also able to work independently and self-motivated. Attention to detail, efficiency, and ability to work under pressure within tight deadlines. Good hands-on experience with
+   - ID: f74cc9cf-383e-4a91-8eb1-574fb912e35c | open (ATS verified)
+   - Apply: https://jobs.lever.co/nium/f74cc9cf-383e-4a91-8eb1-574fb912e35c
+
+2. **KYC Operations Analyst 2 - C10 - MUMBAI | Citi**
+   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 99
+   - Fit: yes | Knowledge/Experience: 2-4 years of work experience with basic understanding
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Requirements: or changes in local requirements Monitor and track KYC documentation completion to ensure minimal past dues Skills: Demonstrated understanding of core AI concepts, including machine learning, and generative AI, and their potential impact on the business. The ability to identify and articulate
+   - ID: 261004669 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst-2---C10---MUMBAI_261004669
+
+3. **BA4 - Research Operations | Barclays**
    - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 90
    - Fit: yes | degree with at least 2-4 years of experience working in a data intensive pr
@@ -10,43 +28,34 @@
    - ID: JR-0000134180 | open (ATS verified)
    - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/BA4---Research_JR-0000134180
 
-2. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
-   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-22 (6 days ago) | fallback | Score 77 | second job
-   - Fit: yes | in credit risk (3+ years), preferably in an international banking env
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and
-   - ID: JR-0000133976-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
-
-3. **Commercial Banking - Structured Credit Product Sr. Lead Analyst - Senior Vice President | Citi**
+4. **Commercial Banking - Structured Credit Product Sr. Lead Analyst - Senior Vice President | Citi**
    - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-28 (0 days ago) | fresh | Score 75
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 75 | second job
    - Fit: no | & Experience 10+ years of experience in Leveraged Finance or relate
    - Experience: 10+ yrs | Qualification: Bachelor
    - Requirements: and transaction execution, with a strong focus on governance, risk management and regulatory compliance. Key Responsibilities Advise clients on capital structure, funding strategy and debt financing alternatives. Lead the execution of debt capital market transactions across a diverse corporate and
    - ID: 261002919-1 | open (ATS verified)
    - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Commercial-Banking---Structured-Credit-Product-Sr-Lead-Analyst---Senior-Vice-President_261002919-1
 
-4. **Consultant - Compliance Quality Assurance | Nium**
-   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-21 (7 days ago) | fallback | Score 73
-   - Fit: yes | and audits. Minimum 3+ years of financial crime, Compliance, Audit or QA
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: Planning – Complete Terms of Reference templates and deduce samples using approved sampling methodology for QA reviews Reporting – present observations to senior stakeholders for factual accuracy discussions Issue management – ensure all issues are remediated in a timely manner Record-Keeping &
-   - ID: 1e519fbd-ce6a-47ce-a13f-14eaf9e79e5e | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/1e519fbd-ce6a-47ce-a13f-14eaf9e79e5e
-
-5. **Account Executive - Majors | Zscaler**
+5. **Senior Sales Engineer - Majors | Zscaler**
    - Mumbai, IND | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-26 (2 days ago) | fallback | Score 70
-   - Fit: unknown
-   - Qualification: Bachelor
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 69
+   - Fit: no | professional experience 15+ years of experience as a Sales Engineer or systems
+   - Experience: 15+ yrs | Qualification: Bachelor
    - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
-   - ID: 5272056007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5272056007
+   - ID: 5272058007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5272058007
 
-6. **Solution Builder (Technical Builder) | Salesforce**
+6. **AVP - Tax | Barclays**
+   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-28 (0 days ago) | fresh | Score 67 | second job
+   - Fit: no
+   - Qualification: Bachelor
+   - Requirements: and the associated risks are understood and appropriately managed, including reputational risks with tax authorities and external stakeholders. Analysis of relevant developments in tax law to ensure the impact on Barclays is understood and appropriately managed. Preparation or review of relevant
+   - ID: JR-0000134814 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/AVP---Tax_JR-0000134814
+
+7. **Solution Builder (Technical Builder) | Salesforce**
    - India - Bangalore India - Mumbai India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 66
    - Fit: no | Total experience of 8-12years and with latest 5+ years of software enginee
@@ -55,19 +64,10 @@
    - ID: JR363804 | open (ATS verified)
    - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Solution-Builder--Technical-Builder-_JR363804
 
-7. **Critical Projects Manager, Critical Projects Implementation | Amazon**
+8. **Critical Projects Manager, Critical Projects Implementation | Amazon**
    - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-27 (1 days ago) | fresh | Score 62
    - Fit: no | or a related field - 4+ years of relevant work in a data center or other c
    - Experience: 4+ yrs | Qualification: Bachelor
    - ID: 10589606 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10589606/critical-projects-manager-critical-projects-implementation
-
-8. **Commercial Account Manager | HP**
-   - Mumbai, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-25 (3 days ago) | fallback | Score 60
-   - Fit: no | • Typically has 2-4 years of work experience, preferably in account ma
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: Business Development • Business To Business • Cash Handling • Cash Register • Cold Calling • Conflict Resolution • Customer Relationship Management • Inside Sales • Marketing • Merchandising • Outside Sales • Product Knowledge • Sales Development • Sales Management • Sales Process • Sales
-   - ID: 3169680-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Mumbai-Maharashtra-India/Commercial-Account-Manager_3169680-1

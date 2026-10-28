@@ -1,29 +1,29 @@
-# SERVE bulletin picks, 2026-10-27 23:49 UTC
+# SERVE bulletin picks, 2026-10-28 18:26 UTC
 9 jobs: 9 from today/yesterday, 0 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
-1. **AI Ops Solution Intake & Feasibility Analyst | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
-   - Fit: yes | Assessment Experience: 2-3+ years of experience in business analysis, project | Score 83
-   - ID: JR114208 | open (ATS verified)
-   - Experience: 2-3 yrs | Qualification: Bachelor
-   - Requirements: an outstanding opportunity to accelerate the adoption of AI across Micron's global IT organization. You will partner with IT leaders, solution owners, architects, cybersecurity teams, and governance stakeholders across multiple regions to evaluate AI opportunities and guide use cases through
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/AI-Ops-Solution-Intake---Feasibility-Analyst_JR114208
+1. **Android Multi-Device Experience Engineer | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Posted: 2026-10-28 (0 days ago) | fresh
+   - Fit: yes | • Typically has 2-4 years of work experience, preferably in systems en | Score 80
+   - ID: 3166494-1 | open (ATS verified)
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Requirements: and design robust architecture that fulfills business objectives while considering technical constraints. The role develops advanced knowledge of computing system integration and makes recommendations on software and hardware configurations and developments. Responsibilities • Installs, configures,
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166494-1
 
-2. **Software Engineer II | Mastercard**
-   - Pune, India | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
-   - Fit: yes | & Qualifications • 4–6 years of professional experience in software devel | Score 82
-   - ID: R-291169-1 | open (ATS verified)
-   - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: into technical specifications and deliverables. - Ensure developed solutions comply with architectural standards, security guidelines, and best engineering practices. - Drive adoption of AI technologies across the Software Development Lifecycle (SDLC), utilizing prompt engineering, generative AI,
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-291169-1
+2. **Business Analyst, Q2C Rapid Delivery | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Posted: 2026-10-28 (0 days ago) | fresh
+   - Fit: yes | Skills/Experience * 3+ years experience in a Business Analyst, Business S | Score 80
+   - ID: JR361417 | open (ATS verified)
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: doc. You'll work on enterprise-level projects that scale and streamline internal Quote-to-Cash processes and operations, and you'll collaborate closely with Business SMEs, Product, Architecture, and Engineering Teams. Beyond mapping requirements and handing them off, you'll be expected to
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Business-Analyst--Q2C-Rapid-Delivery_JR361417
 
-3. **FinCrime Agile Testing Data Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
-   - Fit: unknown | Score 79
-   - ID: JR-0000106129-1 | open (ATS verified)
+3. **Software Engineer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-10-28 (0 days ago) | fresh
+   - Fit: unknown | Score 77
+   - ID: JR-0000130274 | open (ATS verified)
    - Qualification: Bachelor
-   - Requirements: and ensuring that the bank’s internal policies are aligned with international standards, including jurisdictional requirements. Collaboration with 1LOD, other relevant Compliance teams and legal, and relevant risk management functions to facilitate a comprehensive approach to compliance and risk
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/FinCrime-Agile-Testing-Data-Analyst_JR-0000106129-1
+   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000130274
 
 4. **IN_RBAI_Senior Engineer - Engineering Change Management Co Ordinator_IN | Bosch**
    - Bengaluru, KA, India | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
@@ -32,47 +32,47 @@
    - Experience: 1-3 yrs | Qualification: Bachelor
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157957529
 
-5. **Data Engineer | PayPal**
-   - Bangalore, Karnataka, India | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
-   - Fit: yes | do you need to bring- • 2–4 years of experience in data engineering or backend | Score 77
-   - ID: R0138359-1 | open (ATS verified)
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: with a keen desire to deeply understand our product and how to make our systems more robust and more resilient. Meet our team We are the Unified Integration Platform (UIP) team, PayPal’s enterprise data replication team. We replicate data at scale between data stores across PayPal, and between
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Data-Engineer_R0138359-1
+5. **Software Development Engineer II, Alexa Excellence | Amazon**
+   - Chennai, India | Work mode: unspecified | Posted: 2026-10-28 (0 days ago) | fresh
+   - Fit: yes | - 3+ years of non-internship professional software deve | Score 77
+   - ID: 10591315 | open (listed in employer's live search)
+   - Experience: 3+ yrs
+   - Apply: https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence
 
-6. **Quality Assurance Technician, EasyShip | Amazon**
-   - Gurugram, India | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
-   - Fit: yes | - 1+ years of engineering experience - Experience desig | Score 76
-   - ID: 10589649 | open (listed in employer's live search)
-   - Experience: 1+ yrs
-   - Requirements: , attention to detail, and effective communication abilities - Knowledge of one or more scripting languages (e.g., Python, Ruby, Perl) - Experience working proactively and independently, meeting deadlines, and delivering on projects and tasks
-   - Apply: https://www.amazon.jobs/en/jobs/10589649/quality-assurance-technician-easyship
-
-7. **AI Tool Admin | Elastic**
-   - Bangalore, India | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
-   - Fit: yes | What You Bring 3+ years in a marketing operations or marketing techn | Score 71
-   - ID: 8314336 | open (ATS verified)
+6. **Business Analytics Analyst | Citi**
+   - Bangaluru Karnataka India | Work mode: hybrid | Posted: 2026-10-28 (0 days ago) | fresh
+   - Fit: yes | premier institutes with 3+ years of experience in delivering analytical solut | Score 77
+   - ID: 26994289-1 | open (ATS verified)
    - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: 3+ years in a marketing operations or marketing technology role with tool administration responsibilities. Hands-on experience working with at least one enterprise AI or generative AI platform at an organisational level, such as Jasper, Writer, or Adobe Firefly. Demonstrated understanding of
-   - Apply: https://jobs.elastic.co/jobs?gh_jid=8314336&gh_jid=8314336
+   - Requirements: Creating and delivering high class presentations to share the thoughts, the solutions or the problem statement to business stakeholders and senior management Ability to coach and mentor juniors . Skillset you should possess The most important skill that our analyst should possess is their love for
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Bangaluru-Karnataka-India/Business-Analytics-Analyst_26994289-1
 
-8. **Associate Technical Support Engineer | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
-   - Fit: unknown | Score 66
-   - ID: JR356515 | open (ATS verified)
-   - Qualification: Bachelor
-   - Requirements: & Skills Bachelor's degree in Computer Science, Information Technology or a related technical field Upto 12 months of experience in Voice support or IT/Product Support operations or a customer handling role Genuine passion for customer experience and customer first mindset Fluent communication in
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515
+7. **Information Security Engineer (Thick Client Testing /  Harness / VAPT) | Zscaler**
+   - Bangalore, IND | Work mode: unspecified | Posted: 2026-10-28 (0 days ago) | fresh
+   - Fit: yes | your functional domain 3-5 years of experience in manual security assessments | Score 74
+   - ID: 5261565007 | open (ATS verified)
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5261565007
 
-9. **AI Builder | Razorpay**
-   - Bengaluru | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
-   - Fit: unknown | Score 60
-   - ID: 4744950005 | open (ATS verified)
+8. **Software Engineer, New Grad | Stripe**
+   - Bangalore | Work mode: unspecified | Posted: 2026-10-28 (0 days ago) | fresh
+   - Fit: unknown | Score 63
+   - ID: 8130876 | open (ATS verified)
    - Qualification: Bachelor
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744950005
+   - Requirements: A Bachelor’s or Master’s degree in computer science or a directly related field, obtained by summer 2027, or equivalent work experience; New grad candidates should have no more than 18 months of professional experience (excluding internship experience). Experience and familiarity with programming,
+   - Apply: https://stripe.com/jobs/search?gh_jid=8130876
+
+9. **Associate Automation Engineer | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Posted: 2026-10-27 (1 days ago) | fresh
+   - Fit: unknown | Score 62
+   - ID: JR115187 | open (ATS verified)
+   - Qualification: Bachelor
+   - Requirements: . Willing to work in a dynamic team environment to achieve a common goal through effective collaboration and commitment. Applicant who demonstrated good software project management skill and had exposure to agile development methodology will be advantageous. FRESH GRADUATES MAY APPLY About Micron
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Associate-Automation-Engineer_JR115187
 
 After you post, paste this line into data/sent_ids.txt:
 
 ```
-2026-10-28 JR114208 R-291169-1 JR-0000106129-1 744000157957529 R0138359-1 10589649 8314336 JR356515 4744950005
+2026-10-28 3166494-1 JR361417 JR-0000130274 744000157957529 10591315 26994289-1 5261565007 8130876 JR115187
 ```
