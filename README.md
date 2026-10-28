@@ -8,6 +8,7 @@ Files the chat reads are written to `daily/YYYY-MM-DD/` (IST date, a new folder 
 - `top_10.md`, `internship.md`, `city_<city>.md`, `domain_<domain>.md`  ready top-10 lists built in code (overall, internships and apprenticeships, per city, per domain); `ranked_index.md` lists them all with their job counts
 - `it_jobs_shortlist.md`  every IT job for 0-5 years, by section then city
 - `jobs_latest.md`        everything, including "Senior IT roles (5+ yrs)", Clinical and Non-IT. The workflow reads its first lines to see whether today's run was already good
+- `links.md`  (directly in `daily/`) fixed-address list of the full links to every file in today's and yesterday's folders; the chat commands open it first
 - `jobs_latest.csv`       the same table for Google Sheets or Excel: sort and filter by score_rank, posted, section, city_group, company, fit_0_5
 
 Working files stay in `data/`:
