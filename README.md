@@ -3,12 +3,11 @@
 Runs every morning on GitHub Actions (01:47 IST, retries at 03:17 and 04:47 IST if the first run was not good; GitHub often starts scheduled runs 2 to 5 hours late). Reads company ATS job boards, keeps India jobs
 posted in the last 7 days, checks each is still open, and writes:
 
-Files the chat reads are written to `daily/YYYY-MM-DD/` (IST date, a new folder each day, today and yesterday kept). Chats fetch from there, so a cached copy of an old link can never be mistaken for today's:
+Files the chat reads are written to `daily/today/`. On the first run of a new IST day the previous `today/` becomes `daily/yesterday/` (the fallback); later runs the same day just overwrite `today/`. The folder names never change, so the chat skills carry fixed links, and each file's "collected" header tells the chat whether it is really from today:
 - `bulletin_pick.md`      today's best 8-10 IT jobs for 0-5 years
 - `top_10.md`, `internship.md`, `city_<city>.md`, `domain_<domain>.md`  ready top-10 lists built in code (overall, internships and apprenticeships, per city, per domain); `ranked_index.md` lists them all with their job counts
 - `it_jobs_shortlist.md`  every IT job for 0-5 years, by section then city
 - `jobs_latest.md`        everything, including "Senior IT roles (5+ yrs)", Clinical and Non-IT. The workflow reads its first lines to see whether today's run was already good
-- `links.md`  (directly in `daily/`) fixed-address list of the full links to every file in today's and yesterday's folders; the chat commands open it first
 - `jobs_latest.csv`       the same table for Google Sheets or Excel: sort and filter by score_rank, posted, section, city_group, company, fit_0_5
 
 Working files stay in `data/`:
