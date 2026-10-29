@@ -5,7 +5,8 @@ Reads public ATS job boards listed in companies.json, keeps India jobs posted wi
 the last N days, checks each one is still open, estimates the experience asked for,
 sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and writes:
 
-  daily/YYYY-MM-DD/   every file the chat reads, in a new folder each IST day (today and yesterday kept):
+  daily/today/        every file the chat reads (folder name never changes, so chats can use fixed links);
+                      on the first run of a new IST day the previous today/ becomes daily/yesterday/:
     bulletin_pick.md        today's best 8-10 IT jobs for 0-5 years (give this to the chat)
     top_10.md, internship.md, city_*.md, domain_*.md, ranked_index.md
                             ready top-10 lists (overall, per city, per domain), ranked in code
@@ -13,7 +14,6 @@ sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and w
     it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
     jobs_latest.md          every job, by section then city (the workflow reads its header to skip a run already done)
     jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
-  daily/links.md      fixed-address list of the full links to those files (today's and yesterday's folders)
   data/   working files only:
     sent_ids.txt            you add what you posted; lines are cleared after 7 days
     run_report.json         which boards worked
@@ -35,8 +35,7 @@ from urllib import error, parse, request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
-KEEP_DAYS = 2  # daily/ folders kept: today and yesterday
-DAILY = os.path.join(ROOT, "daily")  # dated copies for chats, outside data/ so the Project folder never holds two versions
+DAILY = os.path.join(ROOT, "daily")  # daily/today and daily/yesterday for chats, outside data/ so the Project folder never holds two versions
 UA = "SERVE-Job-Collector/1.0 (nonprofit job awareness)"
 NOW = datetime.now(timezone.utc)
 TODAY = (NOW + timedelta(hours=5, minutes=30)).date()  # India date; a run at 18:30-24:00 UTC is already the next day in IST
@@ -888,8 +887,22 @@ def ranked_markdown(title, picks, meta):
 
 
 def outdir():
-    """Today's folder for the chat files: daily/<IST date>/."""
-    return os.path.join(DAILY, TODAY.isoformat())
+    """The folder for the chat files: daily/today/ (a fixed name, so skills can carry fixed links)."""
+    return os.path.join(DAILY, "today")
+
+
+def rotate():
+    """First run of a new IST day: daily/today becomes daily/yesterday. A later run the same day leaves it alone."""
+    t, y = os.path.join(DAILY, "today"), os.path.join(DAILY, "yesterday")
+    try:
+        head = open(os.path.join(t, "jobs_latest.md"), encoding="utf-8").read(300)
+        m = re.search(r"collected (\d{4}-\d\d-\d\d \d\d:\d\d) UTC", head)
+        last = (datetime.strptime(m.group(1), "%Y-%m-%d %H:%M") + timedelta(hours=5, minutes=30)).date()
+    except (OSError, AttributeError, ValueError):
+        return
+    if last < TODAY:
+        shutil.rmtree(y, ignore_errors=True)
+        os.rename(t, y)
 
 
 def write_ranked(jobs, meta):
@@ -1024,39 +1037,23 @@ def write_summary(meta, report, jobs):
 
 
 def prune_old():
-    """Keep daily/ to today and yesterday, and remove chat files an older version left in data/."""
-    keep = {(TODAY - timedelta(days=d)).isoformat() for d in range(KEEP_DAYS)}
+    """Keep daily/ to today and yesterday only (this also clears the old dated folders and links.md),
+    and remove chat files an older version left in data/."""
     if os.path.isdir(DAILY):
         for d in os.listdir(DAILY):
-            if os.path.isdir(os.path.join(DAILY, d)) and d not in keep:
-                shutil.rmtree(os.path.join(DAILY, d), ignore_errors=True)
+            p = os.path.join(DAILY, d)
+            if d in ("today", "yesterday") and os.path.isdir(p):
+                continue
+            shutil.rmtree(p, ignore_errors=True) if os.path.isdir(p) else os.remove(p)
     for fn in os.listdir(DATA):
         if fn in ("bulletin_pick.md", "it_jobs_shortlist.md", "jobs_latest.md", "jobs_latest.csv", "jobs_latest.json", "ranked_index.md") or \
            re.match(r"(top_10|internship|city_.+|domain_.+)\.md$", fn):
             os.remove(os.path.join(DATA, fn))
 
 
-def write_links(meta):
-    """daily/links.md has a fixed address, so a chat can open it from a link written in its skill. It lists the
-    full link to every file in today's and yesterday's folders; the chat then opens the link it needs from
-    this list (a chat can only fetch links it was given or that an earlier fetch returned)."""
-    base = "https://raw.githubusercontent.com/SERVE-Connect/serve-job-collector/main/daily/"
-    L = ["# SERVE links, collected %s UTC (IST date %s)" % (meta["generated_utc"], TODAY.isoformat()),
-         "Each line is the full link to one file. Use the folder dated today (IST); yesterday's folder is the fallback.", ""]
-    for d in range(KEEP_DAYS):
-        day = (TODAY - timedelta(days=d)).isoformat()
-        folder = os.path.join(DAILY, day)
-        if not os.path.isdir(folder):
-            continue
-        L.append("## %s (%s)" % (day, "today" if d == 0 else "yesterday"))
-        L += ["%s: %s%s/%s" % (fn, base, day, fn) for fn in sorted(os.listdir(folder))]
-        L.append("")
-    with open(os.path.join(DAILY, "links.md"), "w", encoding="utf-8") as f:
-        f.write("\n".join(L))
-
-
 def write_outputs(jobs, report):
     os.makedirs(DATA, exist_ok=True)
+    rotate()
     os.makedirs(outdir(), exist_ok=True)
     jobs = collapse(jobs)
     add_history(jobs)
@@ -1100,7 +1097,6 @@ def write_outputs(jobs, report):
     write_csv(jobs, picks)
     write_ranked(jobs, meta)
     prune_old()
-    write_links(meta)
     meta["picked"] = len(picks)
     write_summary(meta, report, jobs)
     return meta
