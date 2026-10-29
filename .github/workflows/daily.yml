@@ -34,8 +34,7 @@ jobs:
           summary = os.environ.get("GITHUB_STEP_SUMMARY", "/dev/null")
           skip, note = "false", ""
           try:
-              days = sorted(d for d in os.listdir("daily") if os.path.isdir(os.path.join("daily", d)))
-              head = open(os.path.join("daily", days[-1], "jobs_latest.md"), encoding="utf-8").read(600)
+              head = open(os.path.join("daily", "today", "jobs_latest.md"), encoding="utf-8").read(600)
               m1 = re.search(r"collected (\d{4}-\d\d-\d\d \d\d:\d\d) UTC", head)
               m2 = re.search(r"Boards read OK: (\d+)\. Boards failed: (\d+)\. Jobs: (\d+)", head)
               meta = {"job_count": m2.group(3)}
