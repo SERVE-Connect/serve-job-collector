@@ -1,38 +1,29 @@
-# SERVE ranked list: Cloud / DevOps / Infrastructure jobs (0-5 years), collected 2026-10-29 06:37 UTC
-4 jobs, best score first: 1 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Cloud / DevOps / Infrastructure jobs (0-5 years), collected 2026-10-29 23:58 UTC
+3 jobs, best score first: 1 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Infrastructure Cloud and DevOps Engineer | Barclays**
+1. **Software Engineer_Network Automation | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-10-27 (3 days ago) | fallback | Score 72
+   - Fit: yes | Qualifications: 2+ years of software engineering experience, or equiv
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: Provide information to technology colleagues, internal partners, and stakeholders Required Qualifications: 2+ years of software engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education 2+ years of
+   - ID: R-583496 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer-Network-Automation_R-583496
+
+2. **Devops Engineer | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 74
+   - Posted: 2026-10-26 (4 days ago) | fallback | Score 65
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: ensuring measurable reliability, performance, availability, and ease of use. Including the identification of the appropriate technologies and solutions to meet business, optimisation, and resourcing requirements. Incident Management: Monitoring of IT infrastructure and system performance to
-   - ID: JR-0000111920 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Infrastructure-Cloud-and-DevOps-Engineer_JR-0000111920
+   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+   - ID: JR-0000118118-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Devops-Engineer_JR-0000118118-1
 
-2. **Salesforce Support Engineer - Industries & Revenue Cloud | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-10-26 (3 days ago) | fallback | Score 72
-   - Fit: yes | Information Technology 2–6 years of Salesforce engineering/programming experi
-   - Experience: 2-6 yrs | Qualification: Bachelor
-   - Requirements: Partner closely with cross-functional teams (AE, TAM, CSM) and build strong relationships with Product teams Create high-quality technical investigations and consistently meet monthly KPIs (CSAT, productivity) Respond to escalations from Tier 2 support within a 24/7/365 global, client-focused
-   - ID: JR321330 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Support-Engineer-Industry-Cloud-Immediate-Joiner-_JR321330
-
-3. **Cloud Test Automation Engineer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-10-27 (2 days ago) | fallback | Score 71 | second job
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: , participate in design discussions, and contribute to the development of acceptance criteria, ensuring a thorough understanding of the software being tested. Root cause analysis for identified defects, working closely with developers to provide detailed information and support defect resolution.
-   - ID: JR-0000109518 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Cloud-Test-Automation-Engineer_JR-0000109518
-
-4. **2026-MS_EMT2-VM_DevOps_Engineer | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-10-26 (3 days ago) | fallback | Score 54
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: Strong experience in CI/CD tools: Jenkins, GitHub Actions.Hands-on experience with Groovy scripting (Jenkins pipelines).Strong proficiency in GitHub (version control, branching, workflows).Experience with Docker and containerization.Good understanding of Linux/Windows OS administration.Experience
-   - ID: 744000157829938 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157829938
+3. **Systems Engineer - Workday HCM | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 63
+   - Fit: yes | and integration. 4+ years of implementation experience in Workday HRMS
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - Requirements: a solid background in Workday with hands-on experience in one or more Workday HRMS modules and a good understanding of industry best practices. You will be responsible for configuration, development, and testing through all phases of the implementation lifecycle. What You'll Actually Be Doing
+   - ID: JR364388 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday-HCM_JR364388

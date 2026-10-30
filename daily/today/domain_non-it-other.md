@@ -1,91 +1,73 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-29 06:37 UTC
-10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-29 23:58 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Analyst - Compliance Operations | Nium**
-   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 96
-   - Fit: yes | the Group. Minimum 2 years of experience in AML transaction monitoring,
-   - Experience: 2 yrs | Qualification: Bachelor
-   - Requirements: (both verbal and writing). Strong problem-solving and analytical skills with an investigative mindset. Team player but also able to work independently and self-motivated. Attention to detail, efficiency, and ability to work under pressure within tight deadlines. Good hands-on experience with
-   - ID: f74cc9cf-383e-4a91-8eb1-574fb912e35c | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/f74cc9cf-383e-4a91-8eb1-574fb912e35c
+1. **Banking Operations Specialist | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 92
+   - Fit: yes | & Functional Skills: 1–2 years of relevant professional experience within b
+   - Experience: 1-2 yrs | Qualification: Bachelor
+   - Requirements: 1–2 years of relevant professional experience within banking operations, financial services processing, or a corporate business operations environment. Proven experience working with retail banking products, transaction processing, and customer account maintenance. Demonstrated hands-on capability
+   - ID: 26996280 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Banking-Operations-Specialist_26996280
 
-2. **KYC Operations Analyst 2 - C10 - MUMBAI | Citi**
+2. **Credit Analyst 2  - MUMBAI | Citi**
    - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 96
-   - Fit: yes | Knowledge/Experience: 2-4 years of work experience with basic understanding
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: or changes in local requirements Monitor and track KYC documentation completion to ensure minimal past dues Skills: Demonstrated understanding of core AI concepts, including machine learning, and generative AI, and their potential impact on the business. The ability to identify and articulate
-   - ID: 261004669 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst-2---C10---MUMBAI_261004669
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 90 | second job
+   - Fit: yes | and Experience: 3 to 6 years of credit, portfolio management or structuri
+   - Experience: 3-6 yrs
+   - Requirements: . Modelling experience is a plus Strong attention to detail – Analyst will have responsibility for due diligence and documentation of transactions to ensure that all risk, business and policy points are covered Oral and written communications skills enabling him or her to effectively interact with
+   - ID: 261005937 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Analyst-2----MUMBAI_261005937
 
-3. **Product Designer | ServiceNow**
-   - Hyderabad, Telangana, India | Work mode: remote | Section: Non-IT / Other
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 87
-   - Fit: yes | function or industry . 2+ years of relevant design experience (internships i
+3. **Corporate Banking Analyst | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 83
+   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
    - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: and background - design systems, visual, interaction, content, and product design. At ServiceNow, design has a very intentional seat at the table, so our team collaborates closely with both engineering and product management from the get-go. Learn more about our team here
-   - ID: 744000158193067 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000158193067
+   - Requirements: 2+ years of Securities Research experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education. MBA, CA, CFA or Masters in Finance from a premier education institute Strong inclination towards building a career in
+   - ID: R-576872-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Corporate-Banking-Analyst_R-576872-1
 
 4. **Associate, SME Sales | Razorpay**
    - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 85
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 82
    - Fit: yes | or those with up to 1 year of experience looking to start their career
    - Experience: 1 yrs | Qualification: Bachelor
    - Requirements: and Qualifications 0–1 year of experience in sales, inside sales, BPO, or customer support Internship experience in BFSI/startups is a bonus Basic knowledge of CRM tools and Google Sheets Good communication skills (spoken and written) Ability to follow standard processes and keep things organized
    - ID: 4748409005 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005
 
-5. **Travel 2 Expense (Immediate Joiner) | Bosch**
-   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 82
-   - Fit: yes | Experience : Prior 2-5years experience in Corporate credit card or Trave
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - Requirements: Proven experience with corporate credit card operations and support. Familiarity with corporate payment systems and expense management platforms. Basic understanding of financial concepts such as billing, statements, and chargebacks. Experience with Citi Bank corporate card systems is a strong
-   - ID: 744000158210024 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158210024
-
-6. **Pricing Analyst | Amazon**
+5. **Pricing Analyst | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 81
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 78
    - Fit: yes | - 2+ years of program or project management experience
    - Experience: 2+ yrs
    - ID: 10591998 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10591998/pricing-analyst
 
-7. **Securities Operations Specialist-Account Opening & Maintenance | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 81
-   - Fit: yes | Qualifications: 2+ years of Securities Operations experience, or equi
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: , operational procedures, and internal quality standards. Apply established operational controls and risk-management practices to identify, assess, and mitigate transaction-level risks. Conduct risk and process reviews within an assigned area and recommend opportunities to improve efficiency,
-   - ID: R-568757 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Securities-Operations-Specialist-Account-Opening---Maintenance_R-568757
-
-8. **Specialist, Legal Services | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 74
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: , special provisions, terms and conditions to ensure compliance with appropriate laws, regulations, policies and procedures. • Provide superior customer service according to the GBSC standards in terms of quality, response time, resolution time and adhering to Service Level Objectives (SLOs). All
-   - ID: R-294730 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Legal-Services_R-294730
-
-9. **Product Owner | Barclays**
-   - Bengaluru, Maruthi Onyx - TESCO TSA Pune, Gera Commerzone SEZ India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 74
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - ID: JR-0000102506 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Lead-AI-Engineer_JR-0000102506
-
-10. **Soft Skills Trainer – CRT | HP**
+6. **Knowledge Coordinator - Intermediate Document Control Support | HP**
    - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 71
-   - Fit: yes | an advantage. Typically 3–6 years of experience in soft skills training, custo
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - Requirements: Trainer – CRT Description - Job Description: Soft Skills Trainer – CRT Location: Bangalore, India Level: Intermediate Function: Training Centre of Excellence (Training COE) Program: Customer Resolution Training (CRT) Role Overview We are seeking a passionate and learner-focused Soft Skills Trainer
-   - ID: 3170083 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Soft-Skills-Trainer---CRT_3170083
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 77
+   - Fit: yes | experience. Typically 2–4 years of experience in technical writing, content
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Requirements: , track progress, and escalate delays or priority issues. Perform light editing of knowledge articles, support documentation, metadata, process instructions, templates, and workflow content. Maintain request workflows, ticket status, forms, and process documentation in Jira or similar tools.
+   - ID: 3170132-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Knowledge-Coordinator---Intermediate-Document-Control-Support_3170132-1
+
+7. **Process Associate ( CA OR Semi Qualified)  | Bosch**
+   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 76
+   - Fit: yes | : CA Fresher, Minimum 3-5 Years’ experience in medium or large manufacturing
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: handled Year’s Annual Audit as per IFRS / Ind AS. Exposure of SAP – FI system is must. Basic understanding of new age technologies like RPA, blockchain, PowerBi will be an added advantage Mandatory/requires Skills : Preferred Skills : Positive attitude with a longingness to learn Good communication
+   - ID: 744000158466524 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158466524
+
+8. **Systems Engineer- Workday - Finance ERP | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 63
+   - Fit: yes | You're Our Person If... 4-9 years of Hands-on expertise in any of the Workday
+   - Experience: 4-9 yrs | Qualification: Bachelor
+   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
+   - ID: JR363887 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday---Finance-ERP_JR363887
