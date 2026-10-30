@@ -155,6 +155,7 @@ NON_IT = re.compile(
     r"analog|mixed[- ]signal|\bpcb\b|\bip design|soc design|silicon|foundry|metrology|"
     r"(gpu|asic|soc|rtl|design) verification|process engineer|"
     r"process control|memory subsystem|power delivery|\bfcrm\b|\bfcams\b|"
+    r"active safety|braking|\bhbm\b|layout engineer|quality assurance administrator|"
     r"circuit|clock design|floor ?plan|logic design|\bnand\b|process integration|civil|architectural|interiors?\b|"
     r"electrical|milkrun|inbound logistic|"
     r"product management|compliance quality|financial crime|\bip integration|media ip|"
