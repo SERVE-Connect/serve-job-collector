@@ -1,73 +1,74 @@
-# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-10-29 23:58 UTC
+# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-10-30 23:53 UTC
 8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Banking Operations Specialist | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 92
-   - Fit: yes | & Functional Skills: 1–2 years of relevant professional experience within b
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: 1–2 years of relevant professional experience within banking operations, financial services processing, or a corporate business operations environment. Proven experience working with retail banking products, transaction processing, and customer account maintenance. Demonstrated hands-on capability
-   - ID: 26996280 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Banking-Operations-Specialist_26996280
-
-2. **IN_RBIC_Senior Engineer_Application Engineer(Active Safety & New Braking Systems) | Bosch**
-   - Pune, Maharashtra, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 85
-   - Fit: yes | with 3+ years of experience in the automotive engineering
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: , calibrate, test, & evaluate algorithms in control systems installed on prototype vehicles to meet Bosch, customer, & legal standards. * Vehicle Validation: Conduct comprehensive vehicle performance tests in various environments (summer & winter proving grounds) & analyze results to optimize &
-   - ID: 744000158439859 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158439859
-
-3. **Engineer - AI Platform | Barclays**
-   - Bengaluru, Maruthi Onyx - TESCO TSA Pune, Gera Commerzone SEZ India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 85
-   - Fit: yes | engineering on cloud (3+ yrs) building applications at scale on AWS/Azure
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - ID: JR-0000103434-3 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Engineer---Applied-AI_JR-0000103434-3
-
-4. **Data Scientist II | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 79
+1. **Analyst, Risk Management | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 79
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: into tangible solution specifications and high quality, on time deliverables • Create repeatable processes to support development of modeling and reporting • Effectively use tools to manipulate large-scale databases, synthesizing data insights. Provide 1st level insights/conclusions/assessments and
-   - ID: R-294771 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Scientist-II_R-294771
+   - Requirements: Graduate/Postgraduate degree in business, economics, econometrics or equivalent. • Experience in credit risk assessment and financial statements analysis (preferably). • Accuracy, self-drive, accountability and sense of urgency. • Outstanding written and verbal English communication skills. •
+   - ID: R-294790 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-294790
 
-5. **Business Systems Analysis - Sr Professional II | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 71
-   - Fit: no
+2. **Technical Product Owner | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 74
+   - Fit: unknown
    - Qualification: Bachelor
-   - ID: R-10401259 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Business-Systems-Analysis---Sr-Professional-II_R-10401259
+   - Requirements: and features based on business value and feasibility that are well defined, measurable and secure. Development and implementation of assessments to ensure continuous testing and improvement of product quality and performance. Monitoring of product performance to identify opportunities for
+   - ID: JR-0000122152 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Product-Owner_JR-0000122152
 
-6. **Senior Software Engineering, Backend | DoorDash India**
-   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
-   - Fit: no | Science or equivalent 6+ years of experience with CS fundamental concepts a
-   - Experience: 6+ yrs | Qualification: Bachelor
-   - Requirements: because… B.E./B.Tech., M.E./M.Tech, or Ph.D. in Computer Science or equivalent 6+ years of experience with CS fundamental concepts and experience with at least one of the programming languages of Go, Java, and Python You have proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor)
-   - ID: 8325375 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8325375
+3. **Reengineering Sr Analyst - C12 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 73
+   - Fit: no | Attributes: Minimum 5-8 years of experience in data science, data analytic
+   - Experience: 5-8 yrs | Qualification: Bachelor
+   - Requirements: are essential, success in this role hinges on a deep, proactive engagement with business processes. We are looking for an individual who is driven to ask critical questions, challenge existing methods, and relentlessly pursue inefficiencies, rather than passively waiting for problems to be
+   - ID: 26991224 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Reengineering-Sr-Analyst---C12---PUNE_26991224
 
-7. **Senior GPU Compiler Development Engineer | NVIDIA**
-   - India, Bengaluru India, Pune India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
-   - Fit: no | or related fields with 8+ years of experience in low-level system SW develop
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: and deliver new features & product improvements. Collaborate closely with teams developing other related components to ensure compatibility, reliability, and high-quality code generation Working with customers/partners to collect feedback and drive innovative ideas and features to incorporate into
-   - ID: JR2026886 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-GPU-Compiler-Development-Engineer_JR2026886
+4. **Applications Development Sr Programmer Analyst - C12 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 73 | second job
+   - Fit: no | graduate course) 9 to 11 years’ experience implementing data-intensive solu
+   - Experience: 9-11 yrs | Qualification: Bachelor
+   - Requirements: and data driven decision making. A Data Engineer will serve as an example to other team members, work closely with customers, and remove or escalate roadblocks. By applying their knowledge of data architecture standards, data warehousing, data structures, and business intelligence they will
+   - ID: 261003314 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Development-Sr-Programmer-Analyst---C12---PUNE_261003314
 
-8. **Senior Technical Consultant - Revenue/Fins/Communications/Health Cloud | Salesforce**
-   - India - Bangalore India - Hyderabad India - Pune India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
-   - Fit: no | or Communications Cloud 7+ years as a Lead Developer overall doing solution d
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - Requirements: — able to present and defend a point of view to a variety of audiences. Able to work independently and be a self-starter. Bachelor's degree required in Computer Science, Software Engineering, Business, or in a related field. Highly beneficial to have any Salesforce product certifications prior to
-   - ID: JR361950 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---Revenue-Cloud----Consumer-Goods--Open-_JR361950
+5. **Senior  Functional Consultant (Talent, Learning, Recruiting) - Workday Success Plans | Workday**
+   - IND.Pune India, Mumbai India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 68
+   - Fit: no | Basic Qualifications: 10+ years of functional experience in one of the follo
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team The Workday Success Plans Delivery Team at Workday plays
+   - ID: JR-0109748 | open (ATS verified)
+   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Senior--Functional-Consultant--Talent--Learning--Recruiting----Workday-Success-Plans_JR-0109748
+
+6. **Senior DevOps Engineer - E-commerce | NVIDIA**
+   - India, Pune | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 67
+   - Fit: no | What we need to see: 5+ years or equivalent industry experience Bachelor's
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: . Ways to stand out from the crowd: Deep understanding of DNS and CDNs (e.g., Akamai, CloudFront). Demonstrated use of AI tools to improve productivity and the quality of releases. Applies secure-by-design principles across infrastructure, deployment automation, and operational processes. AWS
+   - ID: JR2029042 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-DevOps-Engineer---E-commerce_JR2029042
+
+7. **Senior Salesforce Project Manager (Salesforce Implementation Experience Mandatory) | Salesforce**
+   - India - Hyderabad India - Bangalore India - Pune India - Mumbai India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 67
+   - Fit: no | You're Our Person If... 15+ years of total experience in the IT consulting/ser
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
+   - ID: JR355896 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Salesforce-Project-Manager--Salesforce-Implementation-Experience-Mandatory-_JR355896
+
+8. **SAP Project Manager AMS - Mumbai | Bosch**
+   - pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 67
+   - Fit: no | services. Experience: 15+ Years Total Experience, with minimum 5+ Years in S
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: , onboarding, transitions and productivity across onsite/offshore delivery teams. · Drive continuous improvement through automation, standardization, productivity improvement, ticket reduction, knowledge management and service quality initiatives. · Ensure compliance with ITIL/ITSM, delivery
+   - ID: 744000158725214 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158725214

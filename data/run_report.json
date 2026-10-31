@@ -13,11 +13,11 @@
  },
  "greenhouse:Rubrik": {
   "ok": true,
-  "listed": 159
+  "listed": 158
  },
  "greenhouse:Elastic": {
   "ok": true,
-  "listed": 405
+  "listed": 407
  },
  "greenhouse:Druva": {
   "ok": true,
@@ -25,7 +25,7 @@
  },
  "greenhouse:Zscaler": {
   "ok": true,
-  "listed": 365
+  "listed": 363
  },
  "greenhouse:PubMatic": {
   "ok": true,
@@ -49,11 +49,11 @@
  },
  "greenhouse:Cloudflare": {
   "ok": true,
-  "listed": 465
+  "listed": 464
  },
  "greenhouse:Stripe": {
   "ok": true,
-  "listed": 746
+  "listed": 745
  },
  "greenhouse:Twilio": {
   "ok": true,
@@ -61,7 +61,7 @@
  },
  "greenhouse:Okta": {
   "ok": true,
-  "listed": 388
+  "listed": 387
  },
  "greenhouse:Datadog": {
   "ok": true,
@@ -97,7 +97,7 @@
  },
  "lever:Paytm": {
   "ok": true,
-  "listed": 199
+  "listed": 201
  },
  "lever:Coupa": {
   "ok": true,
@@ -117,7 +117,7 @@
  },
  "lever:Palantir": {
   "ok": true,
-  "listed": 299
+  "listed": 301
  },
  "lever:Nium": {
   "ok": true,
@@ -125,7 +125,7 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 325
+  "listed": 514
  },
  "workday:Mastercard": {
   "ok": true,
@@ -137,7 +137,7 @@
  },
  "workday:NVIDIA": {
   "ok": true,
-  "listed": 143
+  "listed": 151
  },
  "workday:Broadcom": {
   "ok": true,
@@ -149,7 +149,7 @@
  },
  "workday:Fiserv": {
   "ok": true,
-  "listed": 2
+  "listed": 1
  },
  "workday:Salesforce": {
   "ok": true,
@@ -165,7 +165,7 @@
  },
  "workday:Wells Fargo": {
   "ok": true,
-  "listed": 84
+  "listed": 83
  },
  "workday:Barclays": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "workday:Citi": {
   "ok": true,
-  "listed": 223
+  "listed": 213
  },
  "workday:Capital One": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "workday:PayPal": {
   "ok": true,
-  "listed": 23
+  "listed": 22
  },
  "workday:Workday": {
   "ok": true,

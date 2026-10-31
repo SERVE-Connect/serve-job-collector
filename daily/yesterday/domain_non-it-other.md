@@ -1,73 +1,74 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-29 23:58 UTC
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-10-30 23:53 UTC
 8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Banking Operations Specialist | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 92
-   - Fit: yes | & Functional Skills: 1–2 years of relevant professional experience within b
+1. **Technical Writing Analyst | Salesforce**
+   - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 82
+   - Fit: yes | Experience/Skills: 1-2 years of documentation experience - in documenting
    - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: 1–2 years of relevant professional experience within banking operations, financial services processing, or a corporate business operations environment. Proven experience working with retail banking products, transaction processing, and customer account maintenance. Demonstrated hands-on capability
-   - ID: 26996280 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Banking-Operations-Specialist_26996280
+   - Requirements: 1-2 years of documentation experience - in documenting software for technical audiences, or creative content writing for end user audience, or editing technical content for software products Ability to understand the customer perspective Ability to write clean, concise, and approachable content.
+   - ID: JR366429 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Writing-Analyst_JR366429
 
-2. **Credit Analyst 2  - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 90 | second job
-   - Fit: yes | and Experience: 3 to 6 years of credit, portfolio management or structuri
-   - Experience: 3-6 yrs
-   - Requirements: . Modelling experience is a plus Strong attention to detail – Analyst will have responsibility for due diligence and documentation of transactions to ensure that all risk, business and policy points are covered Oral and written communications skills enabling him or her to effectively interact with
-   - ID: 261005937 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Analyst-2----MUMBAI_261005937
+2. **Analyst, Risk Management | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 79
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Graduate/Postgraduate degree in business, economics, econometrics or equivalent. • Experience in credit risk assessment and financial statements analysis (preferably). • Accuracy, self-drive, accountability and sense of urgency. • Outstanding written and verbal English communication skills. •
+   - ID: R-294790 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-294790
 
-3. **Corporate Banking Analyst | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 83
-   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: 2+ years of Securities Research experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education. MBA, CA, CFA or Masters in Finance from a premier education institute Strong inclination towards building a career in
-   - ID: R-576872-1 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Corporate-Banking-Analyst_R-576872-1
-
-4. **Associate, SME Sales | Razorpay**
+3. **Communication Designer | Razorpay**
    - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 82
-   - Fit: yes | or those with up to 1 year of experience looking to start their career
-   - Experience: 1 yrs | Qualification: Bachelor
-   - Requirements: and Qualifications 0–1 year of experience in sales, inside sales, BPO, or customer support Internship experience in BFSI/startups is a bonus Basic knowledge of CRM tools and Google Sheets Good communication skills (spoken and written) Ability to follow standard processes and keep things organized
-   - ID: 4748409005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 77
+   - Fit: yes | the future. Experience: 2+ years in graphic/visual design. A sharp portfolio
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: opinions about them that show up in your work. Strong self-direction: you take a piece from concept sketch to shipped visual with minimal hand-holding, and can explain your choices clearly to editors and reporters. Tools Figma, Illustrator, Photoshop for graphics, illustration, collage, and layout
+   - ID: 4748776005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748776005
 
-5. **Pricing Analyst | Amazon**
+4. **Technical Product Owner | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 74
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: and features based on business value and feasibility that are well defined, measurable and secure. Development and implementation of assessments to ensure continuous testing and improvement of product quality and performance. Monitoring of product performance to identify opportunities for
+   - ID: JR-0000122152 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Product-Owner_JR-0000122152
+
+5. **Portfolio Associate | Wells Fargo**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 78
-   - Fit: yes | - 2+ years of program or project management experience
-   - Experience: 2+ yrs
-   - ID: 10591998 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10591998/pricing-analyst
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 65
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Provide information to managers, functional colleagues and stakeholders Required Qualifications: 6+ months of CIB Portfolio Management experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education B. Com plus
+   - ID: R-578520-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Portfolio-Associate_R-578520-1
 
-6. **Knowledge Coordinator - Intermediate Document Control Support | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 77
-   - Fit: yes | experience. Typically 2–4 years of experience in technical writing, content
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: , track progress, and escalate delays or priority issues. Perform light editing of knowledge articles, support documentation, metadata, process instructions, templates, and workflow content. Maintain request workflows, ticket status, forms, and process documentation in Jira or similar tools.
-   - ID: 3170132-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Knowledge-Coordinator---Intermediate-Document-Control-Support_3170132-1
+6. **EPG Project Management Tools Expert | Bosch**
+   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 63
+   - Fit: yes | fields. Experience: 4-10 years of overall professional experience in Busine
+   - Experience: 4-10 yrs | Qualification: Bachelor
+   - Requirements: and change requests throughout the lifecycle. Facilitate Change Control Board (CCB) meetings and support governance activities. Lead engineering reviews, UAT planning, execution, and release acceptance. Drive organizational change management and enable successful tool adoption. Develop and deliver
+   - ID: 744000158715039 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158715039
 
-7. **Process Associate ( CA OR Semi Qualified)  | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 76
-   - Fit: yes | : CA Fresher, Minimum 3-5 Years’ experience in medium or large manufacturing
-   - Experience: 3-5 yrs | Qualification: Bachelor
-   - Requirements: handled Year’s Annual Audit as per IFRS / Ind AS. Exposure of SAP – FI system is must. Basic understanding of new age technologies like RPA, blockchain, PowerBi will be an added advantage Mandatory/requires Skills : Preferred Skills : Positive attitude with a longingness to learn Good communication
-   - ID: 744000158466524 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158466524
+7. **FG Analyst | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 62
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: to Fulfill Business Unit Expectations Monitor area function and activity to ensure proper staffing levels, equipment, and materials are available Monitor forecasts to ensure that proper staffing levels, equipment, and materials are available Prepare data and help to drive requests for additional
+   - ID: JR115511-1 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/FG-Analyst_JR115511-1
 
-8. **Systems Engineer- Workday - Finance ERP | Salesforce**
-   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 63
-   - Fit: yes | You're Our Person If... 4-9 years of Hands-on expertise in any of the Workday
-   - Experience: 4-9 yrs | Qualification: Bachelor
-   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
-   - ID: JR363887 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday---Finance-ERP_JR363887
+8. **Data Center Strategic Negotiator (Real Estate), AWS Infrastructure - Data Center Supply Solutions (APAC) | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 57
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , attention to detail, and effective communication abilities
+   - ID: 10593272 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10593272/data-center-strategic-negotiator-real-estate-aws-infrastructure-data-center-supply-solutions-apac
