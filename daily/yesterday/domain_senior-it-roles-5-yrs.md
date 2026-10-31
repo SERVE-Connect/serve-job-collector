@@ -1,92 +1,92 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-29 06:37 UTC
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-29 23:58 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Business Intelligence Senior Associate  | PubMatic**
-   - Pune, IN | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 75
-   - Fit: no | for You to Have Proven 5 to 8 years of experience in data analysis, or a similar
-   - Experience: 5-8 yrs | Qualification: Bachelor
-   - Requirements: Ability to present complex findings in a clear, concise, and actionable way to technical and non-technical stakeholders. Technical skills such as Excel, Looker, MYSQL, forecasting, impact measurement, AB Testing, are a must. Knowledge of Excel macro/VBA, Python, and Ad Tech experience is good to
-   - ID: 5466682008 | open (ATS verified)
-   - Apply: https://pubmatic.com/job/?gh_jid=5466682008
-
-2. **SAP SD Business Systems Analyst | NVIDIA**
-   - India, Pune India, Hyderabad India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 75
-   - Fit: no | or Business with 5+ years of SAP SD implementation experience. Deep ex
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: for the Order-to-Cash (OTC) Program. Build, develop, and support solutions across the SAP Order-to-Cash (OTC) landscape and associated satellite systems. Operate as an expert to review business requirements, process builds, solution builds, and implementation. Build and maintain critical
-   - ID: JR2028457 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/SAP-SD-Business-Systems-Analyst_JR2028457
-
-3. **Senior Platform Architect (Infrastructure Design, IaaS, Cloud Architecture, F5, Network Security) | Mastercard**
+1. **Senior Software Engineering, Backend | DoorDash India**
    - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 70
-   - Fit: no | Skills & Experience • 5-9 years of overall career experience in a similar ro
-   - Experience: 5-9 yrs | Qualification: Master
-   - Requirements: Essential Knowledge, Skills & Experience • 5-9 years of overall career experience in a similar role or Technology • Deep expertise in enterprise infrastructure architecture across data center, hybrid cloud, and distributed computing environments. • Advanced knowledge of enterprise networking,
-   - ID: R-294483 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Platform-Architect_R-294483
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
+   - Fit: no | Science or equivalent 6+ years of experience with CS fundamental concepts a
+   - Experience: 6+ yrs | Qualification: Bachelor
+   - Requirements: because… B.E./B.Tech., M.E./M.Tech, or Ph.D. in Computer Science or equivalent 6+ years of experience with CS fundamental concepts and experience with at least one of the programming languages of Go, Java, and Python You have proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor)
+   - ID: 8325375 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8325375
 
-4. **Vice President - Data Architect | Barclays**
+2. **Senior Software Engineer | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
+   - Fit: no | Qualifications - 8+ years of full stack engineering experience in an a
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: / Ideal Candidate Qualifications - 8+ years of full stack engineering experience in an agile production environment. - Experience in design and implementation of complex features in full-stack applications. - Experience working with cross regional Product - Tech Team's. - Strong technologist eager
+   - ID: R-291756 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-291756
+
+3. **Senior GPU Compiler Development Engineer | NVIDIA**
+   - India, Bengaluru India, Pune India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
+   - Fit: no | or related fields with 8+ years of experience in low-level system SW develop
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: and deliver new features & product improvements. Collaborate closely with teams developing other related components to ensure compatibility, reliability, and high-quality code generation Working with customers/partners to collect feedback and drive innovative ideas and features to incorporate into
+   - ID: JR2026886 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-GPU-Compiler-Development-Engineer_JR2026886
+
+4. **Senior Technical Consultant - Revenue/Fins/Communications/Health Cloud | Salesforce**
+   - India - Bangalore India - Hyderabad India - Pune India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
+   - Fit: no | or Communications Cloud 7+ years as a Lead Developer overall doing solution d
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - Requirements: — able to present and defend a point of view to a variety of audiences. Able to work independently and be a self-starter. Bachelor's degree required in Computer Science, Software Engineering, Business, or in a related field. Highly beneficial to have any Salesforce product certifications prior to
+   - ID: JR361950 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---Revenue-Cloud----Consumer-Goods--Open-_JR361950
+
+5. **Principal, AI Engineer | Fiserv**
+   - Mumbai, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
+   - Fit: no | you'll need to have: 13+ years of experience in software engineering, AI en
+   - Experience: 13+ yrs | Qualification: Bachelor
+   - Requirements: r role: As a Principal AI Engineer, you will design and deliver advanced generative artificial intelligence (AI) solutions that support scalable, production-ready intelligent applications across the enterprise. You will work with engineering, architecture, and product teams to build multi-agent
+   - ID: R-10405599 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Mumbai-India/Principal--AI-Engineer_R-10405599
+
+6. **Data Engineering Lead | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 68
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 65
    - Fit: no
    - Qualification: Bachelor
-   - Requirements: , by using designs and data strategies across a wide selection of platforms. Accountabilities Analysis and documentation of business requirements to translate them into data models aligned with organisational goals. Development and maintenance of data dictionaries and glossaries to define data
-   - ID: JR-0000136597 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Vice-President---Data-Architect_JR-0000136597
+   - Requirements: and make recommendations for change. Plan resources, budgets, and policies; manage and maintain policies/ processes; deliver continuous improvements and escalate breaches of policies/procedures.. If managing a team, they define jobs and responsibilities, planning for the department’s future needs
+   - ID: JR-0000104321 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineering-Lead_JR-0000104321
 
-5. **Software Engineer - Python and Data – Assistant Vice President | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-28 (1 days ago) | fresh | Score 68
-   - Fit: no | Qualifications & Skills 8+ years of professional software engineering experie
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: . Required Qualifications & Skills 8+ years of professional software engineering experience, with solid hands-on experience building backend applications and data pipelines in Python. Strong proficiency in SQL, relational database design, query optimization, indexing strategies and database
-   - ID: 261002390 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Software-Engineer--Python---Data----Markets-Business-Controls-Technology_261002390
+7. **Senior Software Engineer | MongoDB**
+   - Gurugram | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 56
+   - Fit: no | distributed systems 5+ years experience of building distributed systems,
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: Strong background in building core components for high scale compute and data distributed systems 5+ years experience of building distributed systems, and/or foundational cloud services at scale and an interest in working with Python, Go and Java Proven success in designing, writing, testing,
+   - ID: 8229848 | open (ATS verified)
+   - Apply: https://www.mongodb.com/careers/job/?gh_jid=8229848
 
-6. **Principal Scientist - Firefly Enterprise | Adobe**
-   - Noida | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 59
-   - Fit: no | What You'll Bring 15+ years building large-scale distributed software sy
-   - Experience: 15+ yrs | Qualification: Bachelor
-   - Requirements: Experience employing AI capabilities for both customer-facing value and internal product development. Familiarity with LLM application architectures, RAG, AI orchestration frameworks, MCP, or agentic systems. Experience building integrations or plug-ins for Figma, Adobe Creative Cloud, Adobe
-   - ID: R167125-1 | open (ATS verified)
-   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Scientist---Firefly-Enterprise_R167125-1
+8. **Sr Software Engineer | PayPal**
+   - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 55
+   - Fit: no | Qualifications: o 5+ years relevant experience and a Bachelor’s degree
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Expected Qualifications: o 5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and
+   - ID: R0138599-1 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-Software-Engineer_R0138599-1
 
-7. **Senior Engineer Design | Micron**
+9. **Senior Software Engineer | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 54
+   - Fit: no | Qualifications: 4+ years of Software Engineering experience, or equiv
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - Requirements: Collaborate and consult with peers, colleagues, and mid-level managers to resolve technical challenges and achieve goals Lead projects and act as an escalation point, provide guidance and direction to less experienced staff Required Qualifications: 4+ years of Software Engineering experience, or
+   - ID: R-578492 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-578492
+
+10. **Senior Engineer, Technology AMAIS | Micron**
    - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 57
-   - Fit: no | experience, or BS with 4 to 6 years of relevant experience. Strong knowledge of
-   - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: and Requirements MS with 2 years of relevant semiconductor industry experience, or BS with 4 to 6 years of relevant experience. Strong knowledge of analog, digital, and mixed-signal circuit design. Deep understanding of CMOS device physics, semiconductor circuit behavior, and reliability
-   - ID: JR116088 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer-Design_JR116088
-
-8. **Software Engineering LMTS - Backend Distributed Systems | Salesforce**
-   - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 56
-   - Fit: no | team Required Skills: 10+ years of experience in software development and la
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: and experience with relational and non-relational databases (e.g., PostgreSQL, Trino). Experience developing SaaS products on public cloud infrastructure (AWS, Azure, GCP). Proven experience in designing and developing distributed systems at scale. Proficiency in queues, locks, scheduling,
-   - ID: JR338174 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-LMTS_JR338174
-
-9. **Lead Software Engineer | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 56
-   - Fit: no | degree At least 10 years of experience in software engineering At lea
-   - Experience: 10 yrs | Qualification: Bachelor
-   - Requirements: Bachelor’s degree At least 10 years of experience in software engineering At least 8 years of experience building back-end services (Including but not limited to: Java, JavaScript, Python, Go, Node, Scala, TypeScript) At least 6 years of experience with a database technology (Including but not
-   - ID: R999362 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R999362
-
-10. **Systems and Solutions Engineer | Intel**
-   - India, Bangalore | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (0 days ago) | fresh | Score 56
-   - Fit: no | Minimum qualification: 7-10+ years of work experience in enterprise-class tools
-   - Experience: 7-10 yrs | Qualification: Bachelor
-   - Requirements: and implementation limitations throughout the systems lifecycle. May also be responsible for systems architecture and definition, including translating the business opportunity into use cases and developing the product specifications for required hardware and software needed to deliver system
-   - ID: JR0287102 | open (ATS verified)
-   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Systems-and-Solutions-Engineer_JR0287102
+   - Posted: 2026-10-29 (1 days ago) | fresh | Score 54
+   - Fit: no | modeling Experience : 5+ years of modeling Education : Ph.D. in Applied Mec
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: Independence – be comfortable executing activities and needs Advanced skills in level set method (LSM) for CAD, meshing, DOE, analysis, rendering Experience in computational geometry, virtual structure modeling, numerical methods and scientific computing Experience in some of these tools: Abaqus,
+   - ID: JR105605-1 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer--TECHNOLOGY---AMAIS_JR105605-1

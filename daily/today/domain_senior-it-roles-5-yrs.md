@@ -1,92 +1,92 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-29 23:58 UTC
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-10-30 23:53 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Senior Software Engineering, Backend | DoorDash India**
+1. **Reengineering Sr Analyst - C12 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 73
+   - Fit: no | Attributes: Minimum 5-8 years of experience in data science, data analytic
+   - Experience: 5-8 yrs | Qualification: Bachelor
+   - Requirements: are essential, success in this role hinges on a deep, proactive engagement with business processes. We are looking for an individual who is driven to ask critical questions, challenge existing methods, and relentlessly pursue inefficiencies, rather than passively waiting for problems to be
+   - ID: 26991224 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Reengineering-Sr-Analyst---C12---PUNE_26991224
+
+2. **Lead Software Engineer | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
-   - Fit: no | Science or equivalent 6+ years of experience with CS fundamental concepts a
-   - Experience: 6+ yrs | Qualification: Bachelor
-   - Requirements: because… B.E./B.Tech., M.E./M.Tech, or Ph.D. in Computer Science or equivalent 6+ years of experience with CS fundamental concepts and experience with at least one of the programming languages of Go, Java, and Python You have proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor)
-   - ID: 8325375 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8325375
-
-2. **Senior Software Engineer | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
-   - Fit: no | Qualifications - 8+ years of full stack engineering experience in an a
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 67
+   - Fit: no | Qualifications: 8+ years of software engineering experience deliverin
    - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: / Ideal Candidate Qualifications - 8+ years of full stack engineering experience in an agile production environment. - Experience in design and implementation of complex features in full-stack applications. - Experience working with cross regional Product - Tech Team's. - Strong technologist eager
-   - ID: R-291756 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-291756
+   - Requirements: —such as scalability, performance, security, and reliability—ensuring our solutions meet the highest engineering standards. As a technical leader, you will guide cross-functional teams in building scalable services, APIs, and analytical capabilities that power our platform, leveraging technologies
+   - ID: R-289394 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-289394
 
-3. **Senior GPU Compiler Development Engineer | NVIDIA**
-   - India, Bengaluru India, Pune India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
-   - Fit: no | or related fields with 8+ years of experience in low-level system SW develop
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: and deliver new features & product improvements. Collaborate closely with teams developing other related components to ensure compatibility, reliability, and high-quality code generation Working with customers/partners to collect feedback and drive innovative ideas and features to incorporate into
-   - ID: JR2026886 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-GPU-Compiler-Development-Engineer_JR2026886
+3. **Senior DevOps Engineer - E-commerce | NVIDIA**
+   - India, Pune | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 67
+   - Fit: no | What we need to see: 5+ years or equivalent industry experience Bachelor's
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: . Ways to stand out from the crowd: Deep understanding of DNS and CDNs (e.g., Akamai, CloudFront). Demonstrated use of AI tools to improve productivity and the quality of releases. Applies secure-by-design principles across infrastructure, deployment automation, and operational processes. AWS
+   - ID: JR2029042 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-DevOps-Engineer---E-commerce_JR2029042
 
-4. **Senior Technical Consultant - Revenue/Fins/Communications/Health Cloud | Salesforce**
-   - India - Bangalore India - Hyderabad India - Pune India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
-   - Fit: no | or Communications Cloud 7+ years as a Lead Developer overall doing solution d
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - Requirements: — able to present and defend a point of view to a variety of audiences. Able to work independently and be a self-starter. Bachelor's degree required in Computer Science, Software Engineering, Business, or in a related field. Highly beneficial to have any Salesforce product certifications prior to
-   - ID: JR361950 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Consultant---Revenue-Cloud----Consumer-Goods--Open-_JR361950
+4. **Senior Salesforce Project Manager (Salesforce Implementation Experience Mandatory) | Salesforce**
+   - India - Hyderabad India - Bangalore India - Pune India - Mumbai India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 67
+   - Fit: no | You're Our Person If... 15+ years of total experience in the IT consulting/ser
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
+   - ID: JR355896 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Salesforce-Project-Manager--Salesforce-Implementation-Experience-Mandatory-_JR355896
 
-5. **Principal, AI Engineer | Fiserv**
-   - Mumbai, India | Work mode: onsite | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 67
-   - Fit: no | you'll need to have: 13+ years of experience in software engineering, AI en
-   - Experience: 13+ yrs | Qualification: Bachelor
-   - Requirements: r role: As a Principal AI Engineer, you will design and deliver advanced generative artificial intelligence (AI) solutions that support scalable, production-ready intelligent applications across the enterprise. You will work with engineering, architecture, and product teams to build multi-agent
-   - ID: R-10405599 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Mumbai-India/Principal--AI-Engineer_R-10405599
+5. **SAP Project Manager AMS - Mumbai | Bosch**
+   - pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 67
+   - Fit: no | services. Experience: 15+ Years Total Experience, with minimum 5+ Years in S
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: , onboarding, transitions and productivity across onsite/offshore delivery teams. · Drive continuous improvement through automation, standardization, productivity improvement, ticket reduction, knowledge management and service quality initiatives. · Ensure compliance with ITIL/ITSM, delivery
+   - ID: 744000158725214 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158725214
 
-6. **Data Engineering Lead | Barclays**
+6. **Senior Java Software Engineer -VP | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 65
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 65
    - Fit: no
    - Qualification: Bachelor
-   - Requirements: and make recommendations for change. Plan resources, budgets, and policies; manage and maintain policies/ processes; deliver continuous improvements and escalate breaches of policies/procedures.. If managing a team, they define jobs and responsibilities, planning for the department’s future needs
-   - ID: JR-0000104321 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineering-Lead_JR-0000104321
+   - Requirements: into technical solutions and ensure a cohesive approach to product development. Enforcement of technology standards, facilitate peer reviews, and implement robust testing practices to ensure the delivery of high-quality solutions. Vice President Expectations To contribute or set strategy, drive
+   - ID: JR-0000088345-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Java-Software-Engineer--VP_JR-0000088345-1
 
-7. **Senior Software Engineer | MongoDB**
-   - Gurugram | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 56
-   - Fit: no | distributed systems 5+ years experience of building distributed systems,
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: Strong background in building core components for high scale compute and data distributed systems 5+ years experience of building distributed systems, and/or foundational cloud services at scale and an interest in working with Python, Go and Java Proven success in designing, writing, testing,
-   - ID: 8229848 | open (ATS verified)
-   - Apply: https://www.mongodb.com/careers/job/?gh_jid=8229848
+7. **Chief Information Security Officer (CISO) | PayPal**
+   - Mumbai, Maharashtra, India Tamil Nadu, India (Virtual) Karnataka, India (Virtual) India | Work mode: remote | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 63
+   - Fit: no | priorities. Experience 10-12 years of experience in information security, cyber
+   - Experience: 10-12 yrs | Qualification: Bachelor
+   - Requirements: 8+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : This Senior Manager serves as the entity-level Chief Information Security Officer (CISO) and First Line of Defense lead for
+   - ID: R0138488 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Mumbai-Maharashtra-India/Chief-Information-Security-Officer--CISO-_R0138488
 
-8. **Sr Software Engineer | PayPal**
-   - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 55
-   - Fit: no | Qualifications: o 5+ years relevant experience and a Bachelor’s degree
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Expected Qualifications: o 5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and
-   - ID: R0138599-1 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-Software-Engineer_R0138599-1
+8. **Senior Lead Data Management Analyst | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 58
+   - Fit: no | Qualifications: 7+ years of Data Management, Business Analysis, Analy
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - Requirements: , design direction, and adoption rather than product engineering. In this role, you will: Act as an advisor to leadership to develop or influence objectives, plans, specifications, resources, and long-term goals for highly complex business and technical needs Design and conduct highly complex
+   - ID: R-581846 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Lead-Data-Management-Analyst_R-581846
 
-9. **Senior Software Engineer | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 54
-   - Fit: no | Qualifications: 4+ years of Software Engineering experience, or equiv
-   - Experience: 4+ yrs | Qualification: Bachelor
-   - Requirements: Collaborate and consult with peers, colleagues, and mid-level managers to resolve technical challenges and achieve goals Lead projects and act as an escalation point, provide guidance and direction to less experienced staff Required Qualifications: 4+ years of Software Engineering experience, or
-   - ID: R-578492 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-578492
+9. **Principal Associate - Software Engineer | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 58
+   - Fit: no | Science At least 5 years of experience in software engineering (Inter
+   - Experience: 5 yrs | Qualification: Bachelor
+   - Requirements: Bachelor’s Degree in Engineering or Computer Science At least 5 years of experience in software engineering (Internship experience does not apply) Preferred Qualifications: 3+ years of experience in any of the following : Java, Scala, Golang, React, Node, JavaScript, TypeScript, or Python 1+ years
+   - ID: R1004750-1 | open (ATS verified)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate---Software-Engineer_R1004750-1
 
-10. **Senior Engineer, Technology AMAIS | Micron**
+10. **Staff Engineer - IT EA ERP | Micron**
    - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 54
-   - Fit: no | modeling Experience : 5+ years of modeling Education : Ph.D. in Applied Mec
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: Independence – be comfortable executing activities and needs Advanced skills in level set method (LSM) for CAD, meshing, DOE, analysis, rendering Experience in computational geometry, virtual structure modeling, numerical methods and scientific computing Experience in some of these tools: Abaqus,
-   - ID: JR105605-1 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer--TECHNOLOGY---AMAIS_JR105605-1
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 54
+   - Fit: no | and Experience · 10–15 years of relevant SAP development experience with
+   - Experience: 10-15 yrs | Qualification: Bachelor
+   - Requirements: .Key Responsibilities · Own architecture and technical design for complex Fiori Elements and freestyle SAPUI5 applications, including supported extensions of standard Fiori applications. · Translate business requirements into scalable UI, OData, authorization, deployment, and support designs. ·
+   - ID: JR115814 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer---IT-EA-ERP_JR115814

@@ -1,91 +1,91 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-29 23:58 UTC
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-10-30 23:53 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Associate, SME Sales | Razorpay**
+1. **Technical Writing Analyst | Salesforce**
+   - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 82
+   - Fit: yes | Experience/Skills: 1-2 years of documentation experience - in documenting
+   - Experience: 1-2 yrs | Qualification: Bachelor
+   - Requirements: 1-2 years of documentation experience - in documenting software for technical audiences, or creative content writing for end user audience, or editing technical content for software products Ability to understand the customer perspective Ability to write clean, concise, and approachable content.
+   - ID: JR366429 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Writing-Analyst_JR366429
+
+2. **Business Analyst - Payments, Business Analyst - Payments | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 78
+   - Fit: yes | - 1+ years of data analytics or automation experience -
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: 10593289 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10593289/business-analyst-payments-business-analyst-payments
+
+3. **Software Engineer - iOS | PayPal**
+   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 77
+   - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: 1+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Your way to impact Make checkout and receipts fast and reliable for merchants who depend on the app at the counter. Deliver
+   - ID: R0138550-1 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer---iOS_R0138550-1
+
+4. **Communication Designer | Razorpay**
    - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 82
-   - Fit: yes | or those with up to 1 year of experience looking to start their career
-   - Experience: 1 yrs | Qualification: Bachelor
-   - Requirements: and Qualifications 0–1 year of experience in sales, inside sales, BPO, or customer support Internship experience in BFSI/startups is a bonus Basic knowledge of CRM tools and Google Sheets Good communication skills (spoken and written) Ability to follow standard processes and keep things organized
-   - ID: 4748409005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005
-
-2. **Pricing Analyst | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 78
-   - Fit: yes | - 2+ years of program or project management experience
-   - Experience: 2+ yrs
-   - ID: 10591998 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10591998/pricing-analyst
-
-3. **Knowledge Coordinator - Intermediate Document Control Support | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 77
-   - Fit: yes | experience. Typically 2–4 years of experience in technical writing, content
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: , track progress, and escalate delays or priority issues. Perform light editing of knowledge articles, support documentation, metadata, process instructions, templates, and workflow content. Maintain request workflows, ticket status, forms, and process documentation in Jira or similar tools.
-   - ID: 3170132-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Knowledge-Coordinator---Intermediate-Document-Control-Support_3170132-1
-
-4. **Business Execution Consultant | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Also hiring in: Hyderabad, India | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 77
-   - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 77
+   - Fit: yes | the future. Experience: 2+ years in graphic/visual design. A sharp portfolio
    - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: into reporting, automation, and process improvement solutions. Drive requirements by leveraging product knowledge, business needs, and industry best practices. Support product management activities and contribute to the strategic direction of assigned products, services, and business solutions.
-   - ID: R-578149 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-578149
+   - Requirements: opinions about them that show up in your work. Strong self-direction: you take a piece from concept sketch to shipped visual with minimal hand-holding, and can explain your choices clearly to editors and reporters. Tools Figma, Illustrator, Photoshop for graphics, illustration, collage, and layout
+   - ID: 4748776005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748776005
 
-5. **Process Associate ( CA OR Semi Qualified)  | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 76
-   - Fit: yes | : CA Fresher, Minimum 3-5 Years’ experience in medium or large manufacturing
-   - Experience: 3-5 yrs | Qualification: Bachelor
-   - Requirements: handled Year’s Annual Audit as per IFRS / Ind AS. Exposure of SAP – FI system is must. Basic understanding of new age technologies like RPA, blockchain, PowerBi will be an added advantage Mandatory/requires Skills : Preferred Skills : Positive attitude with a longingness to learn Good communication
-   - ID: 744000158466524 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158466524
+5. **Technical Support Engineer- | Saviynt**
+   - Bengaluru, India | Work mode: hybrid | Section: IT Support / Operations
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 72
+   - Fit: yes | Productivity Minimum 3 years’ experience in implementing various IGA solu
+   - Experience: 3 yrs
+   - Requirements: Troubleshooting of customer reported incidents and system alerts. Identify, debug and troubleshoot break fix issues and take it to a resolution. Provide technical analysis for incidents, resolution, and root cause analysis for the incidents. Respond and resolve issues within agreed service levels.
+   - ID: aed5aae1-1ea2-486f-80b3-1e7b7992fd85 | open (ATS verified)
+   - Apply: https://jobs.lever.co/saviynt/aed5aae1-1ea2-486f-80b3-1e7b7992fd85
 
-6. **Systems Engineer - Workday HCM | Salesforce**
-   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 63
-   - Fit: yes | and integration. 4+ years of implementation experience in Workday HRMS
-   - Experience: 4+ yrs | Qualification: Bachelor
-   - Requirements: a solid background in Workday with hands-on experience in one or more Workday HRMS modules and a good understanding of industry best practices. You will be responsible for configuration, development, and testing through all phases of the implementation lifecycle. What You'll Actually Be Doing
-   - ID: JR364388 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer---Workday-HCM_JR364388
+6. **Portfolio Associate | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 65
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Provide information to managers, functional colleagues and stakeholders Required Qualifications: 6+ months of CIB Portfolio Management experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education B. Com plus
+   - ID: R-578520-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Portfolio-Associate_R-578520-1
 
-7. **Principal Associate, L&D | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 58
-   - Fit: no | Qualifications : 5+ years of experience in training needs assessment a
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: the opportunity to work in an environment in which the business truly values the strategic HR partnership. If you have a passion for shaping the overall people strategy for the business and want to be part of a winning team, then look no further! We work in a business-casual, collaborative
-   - ID: R999830 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--L-D_R999830
+7. **BGSW_2026_SAP_MDG_TechnoFunctional_Developer | Bosch**
+   - bangalore, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 63
+   - Fit: yes | requirements: Minimum 4 to 7 years of SAP MDG development experience. Strong AB
+   - Experience: 4-7 yrs
+   - Requirements: requirements: Minimum 4 to 7 years of SAP MDG development experience. Strong ABAP skills (OO ABAP, enhancements) Hands-on expertise in workflow design and change request handling (CR types, rule-based workflow, multi-step approvals). Good knowledge of MDG BAdIs (validation, derivation, data model,
+   - ID: 744000158726258 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158726258
 
-8. **Principal Software Development Engineer (Backend Dev - C/Linux/GDB) | Zscaler**
-   - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 53
-   - Fit: no | your functional domain 10+ years of experience with systems software engineer
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 10+ years of experience with systems software engineering, including a proven track record of
-   - ID: 5271579007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5271579007
+8. **Technical Support Engineer | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: IT Support / Operations
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 63
+   - Fit: yes | • Typically has 4-6 years of related work experience, preferably in re
+   - Experience: 4-6 yrs | Qualification: Diploma
+   - Requirements: Active Directory • Agile Methodology • Automation • Computer Hardware • Computer Science • Desktop Support • Help Desk Support • Information Technology Infrastructure Library • Issue Tracking • IT Service Management • Linux • Microsoft Azure • Microsoft Office 365 • Microsoft Windows 10 •
+   - ID: 3167731 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Technical-Support-Engineer_3167731
 
-9. **Senior Site Reliability Engineer | Okta**
-   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 53
-   - Fit: no | What you'll bring: 5+ years of experience in Site Reliability Engineerin
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: , with the ability to collaborate across time zones Computer Science degree or related field, or equivalent experience Good to have: Exposure to internal developer platform (IDP) concepts or "platform as a product" thinking Hands-on experience with AI agent orchestration, vector databases, model
-   - ID: 8260950 | open (ATS verified)
-   - Apply: https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950
+9. **Principal Associate - Software Engineer | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 58
+   - Fit: no | Science At least 5 years of experience in software engineering (Inter
+   - Experience: 5 yrs | Qualification: Bachelor
+   - Requirements: Bachelor’s Degree in Engineering or Computer Science At least 5 years of experience in software engineering (Internship experience does not apply) Preferred Qualifications: 3+ years of experience in any of the following : Java, Scala, Golang, React, Node, JavaScript, TypeScript, or Python 1+ years
+   - ID: R1004750-1 | open (ATS verified)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate---Software-Engineer_R1004750-1
 
-10. **Assistant Vice President - Applied AI Engineer | Barclays**
-   - Bengaluru, Maruthi Onyx - TESCO TSA | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-29 (1 days ago) | fresh | Score 53
-   - Fit: no | or related discipline 8+ years software engineering experience with at leas
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
-   - ID: JR-0000125361-3 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Assistant-Vice-President---Applied-AI-Engineer_JR-0000125361-3
+10. **Sr. Product Analyst (Xactly) | Okta**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-30 (1 days ago) | fresh | Score 58
+   - Fit: no | work experience. 3+ years of experience working with and building Sale
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: into compensation plan configurations, and we maintain integrations with Salesforce and Workday. &nbsp; The Opportunity We are looking for a Senior Xactly Incent Analyst who can work very closely with the Commissions Operation and Sales Commissions team on strategic, organizational and operational
+   - ID: 8335959 | open (ATS verified)
+   - Apply: https://www.okta.com/company/careers/opportunity/8335959?gh_jid=8335959
