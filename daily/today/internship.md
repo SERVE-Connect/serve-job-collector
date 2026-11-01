@@ -1,9 +1,9 @@
-# SERVE ranked list: Internships, apprenticeships and trainee roles (all domains, matched by title), collected 2026-10-31 23:27 UTC
+# SERVE ranked list: Internships, apprenticeships and trainee roles (all domains, matched by title), collected 2026-11-01 23:40 UTC
 1 jobs, best score first: 0 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Young Apprentice - C00 - MUMBAI | Citi**
    - Mumbai Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (3 days ago) | fallback | Score 67
+   - Posted: 2026-10-29 (4 days ago) | fallback | Score 64
    - Fit: unknown
    - Qualification: Diploma
    - Requirements: Previous experience preferred Consistently demonstrates clear and concise written and verbal communication skills Education: High school diploma or equivalent experience ------------------------------------------------------ Job Family Group: Business Strategy, Management & Administration
