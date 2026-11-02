@@ -15,6 +15,7 @@ sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and w
     jobs_latest.md          every job, by section then city (the workflow reads its header to skip a run already done)
     jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
     jobs_latest.json        same rows as JSON, read by serve-jobs.web.app
+    remote_jobs.json        jobs from the remote boards in companies.json (kept apart from the India jobs)
   data/   working files only:
     sent_ids.txt            you add what you posted; lines are cleared after 7 days
     run_report.json         which boards worked
@@ -24,6 +25,7 @@ Standard library only. Run:  python collector.py [--days 7]
 """
 import argparse
 import csv
+import email.utils
 import html
 import json
 import os
@@ -32,6 +34,7 @@ import shutil
 import sys
 import time
 from datetime import datetime, timedelta, timezone
+import xml.etree.ElementTree as ET
 from urllib import error, parse, request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -582,6 +585,109 @@ ADAPTERS = {
 }
 
 
+# ---------------------------------------------------------------- remote boards (RSS feeds)
+# Remote job boards are kept apart from the India ATS jobs: they are not checked on an employer page,
+# the apply link is the board's own page, and they never enter the bulletin picks or ranked lists.
+# They go to daily/today/remote_jobs.json, which serve-jobs.web.app shows with a "remote board" label.
+def http_text(url, tries=3, timeout=30):
+    last = "failed"
+    for i in range(tries):
+        try:
+            req = request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
+            with request.urlopen(req, timeout=timeout) as r:
+                return r.read().decode("utf-8", "replace")
+        except error.HTTPError as e:
+            last = "HTTP %s" % e.code
+            if e.code < 500 and e.code not in (403, 429):
+                break
+        except Exception as e:
+            last = str(e)[:120]
+        time.sleep(1.5 * (i + 1))
+    raise RuntimeError(last)
+
+
+def _child(item, *names):
+    """Text of the first child whose tag (namespace ignored) is one of names. '' if none."""
+    for c in item:
+        if c.tag.split("}")[-1] in names and (c.text or "").strip():
+            return c.text.strip()
+    return ""
+
+
+def parse_remote_items(xml_text, board):
+    """RSS/Atom text -> (rows, undated_count). Only what the feed states is filled; nothing is guessed."""
+    root = ET.fromstring(xml_text.lstrip("\ufeff"))
+    rows, undated = [], 0
+    for it in [e for e in root.iter() if e.tag.split("}")[-1] in ("item", "entry")]:
+        title = clean(_child(it, "title"))
+        link = _child(it, "link")
+        if not link:
+            for c in it:
+                if c.tag.split("}")[-1] == "link" and c.attrib.get("href"):
+                    link = c.attrib["href"]
+                    break
+        link = link or _child(it, "guid")
+        raw_date = _child(it, "pubDate", "published", "updated", "date")
+        dt = None
+        if raw_date:
+            try:
+                dt = email.utils.parsedate_to_datetime(raw_date)
+            except (TypeError, ValueError):
+                dt = to_dt(raw_date)
+            if dt is not None and dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+        company = ""
+        if board.get("title_has_company") and ": " in title:
+            company, title = [x.strip() for x in title.split(": ", 1)]
+        if not company:
+            company = clean(re.sub(r"\S+@\S+|[()]", "", _child(it, "company", "creator", "author")))
+        text = _child(it, "encoded", "description", "summary", "content")
+        if not title or not link.startswith("http"):
+            continue
+        if dt is None:
+            undated += 1
+            continue
+        est, hint = parse_exp(text)
+        rows.append({
+            "title": title, "company": company, "location": clean(_child(it, "region", "location", "country")),
+            "posted": dt.date().isoformat(), "age_days": age_days(dt),
+            "exp_label": exp_label(hint), "qualification": parse_qual(text),
+            "salary": parse_salary(text), "requirements": parse_requirements(text),
+            "apply_url": link, "id": _child(it, "guid") or link, "board": board["name"], "board_key": board["key"],
+            "source": "remote-board", "status": "listed on the board's feed, not checked on an employer page",
+        })
+    return rows, undated
+
+
+def collect_remote(cfg):
+    jobs, report = [], {}
+    for b in cfg.get("remote_boards", []):
+        key = "remote:%s" % b["name"]
+        try:
+            rows, undated = parse_remote_items(http_text(b["feed"]), b)
+            fresh = [r for r in rows if r["age_days"] is not None and r["age_days"] <= WINDOW and not DROP.search(r["title"])]
+            report[key] = {"ok": True, "listed": len(rows) + undated, "kept": len(fresh), "undated_skipped": undated,
+                           "without_company": sum(1 for r in fresh if not r["company"])}
+            jobs.extend(fresh)
+        except Exception as e:
+            report[key] = {"ok": False, "error": str(e)[:200]}
+        time.sleep(PAUSE)
+    seen, out = set(), []
+    for j in jobs:
+        if j["apply_url"] not in seen:
+            seen.add(j["apply_url"])
+            out.append(j)
+    return out, report
+
+
+def write_remote(jobs, meta):
+    out = {"generated_utc": meta["generated_utc"], "window_days": meta["window_days"],
+           "job_count": len(jobs), "jobs": jobs}
+    os.makedirs(outdir(), exist_ok=True)
+    with open(os.path.join(outdir(), "remote_jobs.json"), "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+
+
 # ---------------------------------------------------------------- main
 def board_list(cfg):
     for src in ("greenhouse", "lever", "workday", "smartrecruiters", "ashby"):
@@ -1045,7 +1151,7 @@ def write_summary(meta, report, jobs):
     L += ["", "| Board | Listed | Published | Status |", "|---|---|---|---|"]
     for k, v in report.items():
         name = k.split(":", 1)[1]
-        L.append("| %s | %s | %d | %s |" % (k, v.get("listed", "-"), kept.get(name, 0),
+        L.append("| %s | %s | %d | %s |" % (k, v.get("listed", "-"), v.get("kept", kept.get(name, 0)),
                  "OK" if v["ok"] else "FAILED: " + v["error"]))
     text = "\n".join(L)
     print(text)
@@ -1131,8 +1237,12 @@ def main():
     if a.days:
         cfg["window_days"] = a.days
     jobs, report = run(cfg)
+    ats_ok = any(v["ok"] for v in report.values())
+    remote_jobs, remote_report = collect_remote(cfg)
+    report.update(remote_report)
     meta = write_outputs(jobs, report)
-    if meta["boards_ok"] == 0:  # nothing worked: fail the run so GitHub emails you
+    write_remote(remote_jobs, meta)
+    if not ats_ok:  # no company board worked: fail the run so GitHub emails you
         sys.exit("No board could be read. Check run_report.json")
 
 

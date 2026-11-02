@@ -62,5 +62,10 @@
     {"name": "ServiceNow", "company": "ServiceNow", "note": "unverified, check run_report"}
   ],
   "ashby": [],
-  "amazon": {"queries": ["software engineer", "data", "machine learning", "security", "cloud", "devops", "quality assurance", "technical support", "business intelligence"], "max_pages": 3}
+  "amazon": {"queries": ["software engineer", "data", "machine learning", "security", "cloud", "devops", "quality assurance", "technical support", "business intelligence"], "max_pages": 3},
+  "remote_boards": [
+    {"name": "We Work Remotely", "key": "wwr", "feed": "https://weworkremotely.com/remote-jobs.rss", "title_has_company": true},
+    {"name": "WordPress Jobs", "key": "wpjobs", "feed": "https://jobs.wordpress.net/feed/"},
+    {"name": "Laravel Jobs", "key": "larajobs", "feed": "https://larajobs.com/feed"}
+  ]
 }
