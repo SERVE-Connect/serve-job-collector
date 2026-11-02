@@ -44,7 +44,7 @@ class Handler(BaseHTTPRequestHandler):
     routes = {
         "/robots.txt": (200, "User-agent: *\nDisallow: /private\n"),
         "/wd": (200, WORKDAY_PAGE), "/ld": (200, LD_PAGE), "/spa": (200, "<html><div id=\"root\"></div></html>"),
-        "/feed": (200, RSS), "/private/jobs": (200, WORKDAY_PAGE),
+        "/feed": (200, RSS), "/blogfeed": (200, RSS.replace("employer.example/apply/1", "me.example/blog/post")), "/private/jobs": (200, WORKDAY_PAGE),
     }
 
     def do_GET(self):
@@ -80,6 +80,17 @@ class EndToEnd(unittest.TestCase):
         r = self.run_t("/spa", guess_feeds=True)  # /feed is guessed from the site root
         self.assertTrue(r["verdict"].startswith("FEED OK: 2 jobs"), r["verdict"])
         self.assertIn("employer.example", r["verdict"])
+
+    def test_blog_feed_and_foreign_feed_are_not_job_feeds(self):
+        r = self.run_t("/spa", feeds=[self.base + "/blogfeed"])
+        self.assertTrue(r["verdict"].startswith("NO JOB FEED") and "blog" in r["verdict"], r["verdict"])
+        other = probe.probe_target(dict(name="t", urls=["http://localhost:%d/spa" % self.srv.server_port],
+                                        feeds=[self.base + "/feed"], guess_feeds=False), "remote")
+        self.assertIn("another site", other["verdict"])
+
+    def test_board_pages_give_no_ats_suggestion(self):
+        r = probe.probe_target(dict(name="t", urls=[self.base + "/wd"], guess_feeds=False), "remote")
+        self.assertEqual(r["suggest"], {})
 
     def test_robots_disallow_is_respected(self):
         r = self.run_t("/private/jobs")

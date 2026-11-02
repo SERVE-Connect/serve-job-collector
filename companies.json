@@ -54,7 +54,8 @@
     {"name": "Qualcomm", "note": "unverified, check run_report", "host": "qualcomm.wd12.myworkdayjobs.com", "tenant": "qualcomm", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "Micron", "note": "unverified, check run_report", "host": "micron.wd1.myworkdayjobs.com", "tenant": "micron", "site": "External", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
     {"name": "PayPal", "note": "unverified, check run_report", "host": "paypal.wd1.myworkdayjobs.com", "tenant": "paypal", "site": "jobs", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
-    {"name": "Workday", "note": "unverified, check run_report", "host": "workday.wd5.myworkdayjobs.com", "tenant": "workday", "site": "Workday", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]}
+    {"name": "Workday", "note": "unverified, check run_report", "host": "workday.wd5.myworkdayjobs.com", "tenant": "workday", "site": "Workday", "max_pages": 4, "searches": ["Pune", "Mumbai", "India"]},
+    {"name": "Citi", "note": "found by the source probe, unverified, check run_report", "host": "citi.wd5.myworkdayjobs.com", "tenant": "citi", "site": "2", "max_pages": 5, "searches": ["Pune", "Mumbai", "India"]}
   ],
   "smartrecruiters": [
     {"name": "Bosch", "company": "BoschGroup", "note": "unverified, check run_report"},
