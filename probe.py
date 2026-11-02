@@ -209,9 +209,10 @@ def probe_target(t, kind):
         if r["status"] == 200:
             a = analyse_page(r["body"].decode("utf-8", "replace"), r["url"])
             page.update(ats=a["ats"], jobposting=a["jobposting"], js_only=a["js_only"])
-            res["ats"] = sorted(set(res["ats"]) | set(a["ats"]))
+            if kind == "company":  # a job board's page links to other firms' ATS, which says nothing about the board
+                res["ats"] = sorted(set(res["ats"]) | set(a["ats"]))
+                res["suggest"].update(a["suggest"])
             res["jobposting"] += a["jobposting"]
-            res["suggest"].update(a["suggest"])
             seen_feeds += a["feeds"]
             p = parse.urlsplit(r["url"])
             if t.get("guess_feeds", True) and not t.get("feeds"):
@@ -230,6 +231,8 @@ def probe_target(t, kind):
             own = parse.urlsplit(f).netloc.replace("www.", "")
             feed["link_host"] = host
             feed["link_is_own_site"] = (own in host.replace("www.", "")) if host else None
+            feed["blog"] = bool(re.search(r"/(blog|news|press|stories)(/|$)", parse.urlsplit(feed["sample"]["link"]).path))
+            feed["other_site"] = own.replace("www.", "") not in parse.urlsplit(t["urls"][0]).netloc.replace("www.", "")
             entry.update(feed)
         res["feeds"].append(entry)
     res["verdict"] = verdict(res)
@@ -237,7 +240,12 @@ def probe_target(t, kind):
 
 
 def verdict(r):
-    good = [f for f in r["feeds"] if f.get("count")]
+    found = [f for f in r["feeds"] if f.get("count")]
+    good = [f for f in found if not f.get("blog") and not f.get("other_site")]
+    if found and not good:
+        f = found[0]
+        why = "a blog or news feed, not jobs" if f.get("blog") else "another site's feed (%s)" % parse.urlsplit(f["url"]).netloc
+        return "NO JOB FEED: the only feed found is %s" % why
     if good:
         f = good[0]
         where = "links stay on the board's own site (aggregator-style)" if f.get("link_is_own_site") else \
