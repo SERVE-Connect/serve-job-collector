@@ -1038,6 +1038,17 @@ CSV_COLUMNS = ["score_rank", "score", "section", "city_group", "geo_rank", "post
                "apply_url", "source"]
 
 
+def chip_fields(j):
+    """Extra fields for the website's filter chips (same rules as the ranked lists above)."""
+    cities = [j["city_group"]] + [city_group(loc, "unspecified") for loc in j.get("also_in") or []]
+    domains = []
+    if j["section"] in ("Non-IT / Other", "Clinical / Research"):
+        text = "%s %s" % (j["title"], j.get("requirements") or "")
+        domains = [n for n, rx in KEYWORD_DOMAINS.items() if re.search(rx, text, re.I)]
+    return {"cities": list(dict.fromkeys(cities)), "domains": domains,
+            "internship": bool(INTERN_RE.search(j["title"]))}
+
+
 def write_json(jobs, picks, meta):
     """Same rows as the CSV, for serve-jobs.web.app (its sync reads this file from the repo)."""
     picked = {(p["company"], str(p["id"])): n for n, p in enumerate(picks, 1)}
@@ -1047,7 +1058,9 @@ def write_json(jobs, picks, meta):
     for j in jobs:
         k = (j["company"], str(j["id"]))
         row = dict(j, section=dsec(j), score_rank=rank[k], bulletin_pick=picked.get(k, ""))
-        rows.append({c: (row.get(c) if row.get(c) is not None else "") for c in CSV_COLUMNS})
+        r = {c: (row.get(c) if row.get(c) is not None else "") for c in CSV_COLUMNS}
+        r.update(chip_fields(j))
+        rows.append(r)
     out = {"generated_utc": meta["generated_utc"], "window_days": meta["window_days"],
            "job_count": len(rows), "jobs": rows}
     with open(os.path.join(outdir(), "jobs_latest.json"), "w", encoding="utf-8") as f:
