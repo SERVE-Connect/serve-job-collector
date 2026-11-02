@@ -1,0 +1,21 @@
+{
+  "note": "Candidate URLs are best guesses. The probe reports what each one really is; edit this file and run the 'Probe sources' workflow again.",
+  "company": [
+    {"name": "TCS", "urls": ["https://www.tcs.com/careers"]},
+    {"name": "Infosys", "urls": ["https://www.infosys.com/careers/", "https://career.infosys.com/"]},
+    {"name": "Wipro", "urls": ["https://careers.wipro.com/"]},
+    {"name": "HCLTech", "urls": ["https://www.hcltech.com/careers"]},
+    {"name": "Citi", "urls": ["https://jobs.citi.com/"]}
+  ],
+  "remote": [
+    {"name": "Remotive", "urls": ["https://remotive.com/"], "feeds": ["https://remotive.com/api/remote-jobs?limit=5"]},
+    {"name": "The Muse", "urls": ["https://www.themuse.com/jobs"], "feeds": ["https://www.themuse.com/api/public/jobs?page=1"]},
+    {"name": "PowerToFly", "urls": ["https://powertofly.com/jobs/"], "feeds": []},
+    {"name": "Dynamite Jobs", "urls": ["https://dynamitejobs.com/remote-jobs"], "feeds": ["https://dynamitejobs.com/feed"]},
+    {"name": "Crossover", "urls": ["https://www.crossover.com/jobs"], "feeds": []},
+    {"name": "RemoteHunt", "urls": ["https://remotehunt.com/"], "feeds": ["https://remotehunt.com/feed"]},
+    {"name": "WordPress Jobs", "urls": ["https://jobs.wordpress.net/"], "feeds": ["https://jobs.wordpress.net/feed/"]},
+    {"name": "Laravel Jobs", "urls": ["https://larajobs.com/"], "feeds": ["https://larajobs.com/feed"]},
+    {"name": "Idealist", "urls": ["https://www.idealist.org/en/jobs"], "feeds": []}
+  ]
+}
