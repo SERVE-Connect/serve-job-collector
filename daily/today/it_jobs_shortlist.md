@@ -1,13 +1,49 @@
-# SERVE jobs, collected 2026-11-02 03:57 UTC
-Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 22. Full list: jobs_latest.md
+# SERVE jobs, collected 2026-11-02 06:30 UTC
+Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 30. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
 fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ years (listed under Senior IT roles).
 
-## IT / Software (20)
+## IT / Software (25)
 
-### Pune (2)
+### Pune (6)
+
+**Software Engineer | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: unknown | Score: 77
+- Qualification: Bachelor
+- Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+- ID: JR-0000105971 / JR-0000105971 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000105971
+
+**Full Stack Java designer/developer | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: unknown | Score: 77
+- Qualification: Bachelor
+- Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+- ID: JR-0000089232 / JR-0000089232 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Java-designer-developer_JR-0000089232
+
+**Full Stack Engineer | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: unknown | Score: 77
+- Qualification: Bachelor
+- Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+- ID: JR-0000122783 / JR-0000122783 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Engineer_JR-0000122783
+
+**Software Engineer - Mainframe | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: unknown | Score: 77
+- Qualification: Bachelor
+- Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+- ID: JR-0000125396 / JR-0000125396 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer---Mainframe_JR-0000125396
 
 **Azure Infra Developer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
@@ -27,7 +63,25 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0000107701-1 / JR-0000107701 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Sterling-Developer_JR-0000107701-1
 
+### Delhi NCR / Haryana (1)
+
+**Software Dev Engineer , Hub Tech | Amazon**
+- Location: Gurugram, India | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: yes | - 3+ years of non-internship professional software deve | Score: 73
+- Experience: 3+ yrs
+- ID: 10594151 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10594151/software-dev-engineer-hub-tech
+
 ### Bangalore (10)
+
+**Software Development Engineer II, Int'l TechnologyEURegionalfund | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: yes | - 3+ years of non-internship professional software deve | Score: 75
+- Experience: 3+ yrs
+- ID: 10594157 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10594157/software-development-engineer-ii-int-l-technologyeuregionalfund
 
 **Software Dev Engineer II, Global WHS | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -61,14 +115,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3+ yrs
 - ID: 10592289 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10592289/software-development-engineer-ii-aft-sortation-aft-mansort
-
-**Software Development Engineer II, FMA - Featured Merchant Algorithm | Amazon**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-10-27 (6 days ago) | New today: no
-- Fit: yes | - 3+ years of non-internship professional software deve | Score: 60
-- Experience: 3+ yrs
-- ID: 10589608 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10589608/software-development-engineer-ii-fma-featured-merchant-algorithm
 
 **Software Dev Engineer II, Amazon Now (Tez) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -184,7 +230,25 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR115350 / JR115350 | Status: open (ATS verified)
 - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Industrial-Engineer_JR115350
 
-## Data / Analytics / AI (1)
+## Data / Analytics / AI (3)
+
+### Bangalore (2)
+
+**Business Intelligence Engineer, FCGT | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: yes | - 3+ years of analyzing and interpreting data with Reds | Score: 70
+- Experience: 3+ yrs | Qualification: Bachelor
+- ID: 10594149 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10594149/business-intelligence-engineer-fcgt
+
+**Applied Scientist | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: yes | ML or related field - 3+ years of building machine learning models for busi | Score: 64
+- Experience: 3+ yrs | Qualification: Bachelor
+- ID: 10593555 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10593555/applied-scientist
 
 ### Hyderabad (1)
 
@@ -209,3 +273,16 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: . Advantage with  experience on fatigue analysis  basic knowledge of fluid mechanics and its properties.  experience with shopfloor activities Type of Industry Preferred: Hydraulic products manufacturing / service / development Iron and Steel manufacturing industries, Plastic moulding
 - ID: 744000157722162 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157722162
+
+## IT Support / Operations (1)
+
+### Pune (1)
+
+**Lending Application Support Analyst | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: unknown | Score: 82
+- Qualification: Bachelor
+- Requirements: and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L –
+- ID: JR-0000107828 / JR-0000107828 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Lending-Application-Support-Analyst_JR-0000107828

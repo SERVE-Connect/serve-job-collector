@@ -1,5 +1,5 @@
-# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-02 03:57 UTC
-8 jobs, best score first: 0 from today/yesterday, 8 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-02 06:30 UTC
+8 jobs, best score first: 1 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Analyst - Compliance Operations | Nium**
    - Mumbai | Work mode: hybrid | Section: Non-IT / Other
@@ -10,25 +10,34 @@
    - ID: f74cc9cf-383e-4a91-8eb1-574fb912e35c | open (ATS verified)
    - Apply: https://jobs.lever.co/nium/f74cc9cf-383e-4a91-8eb1-574fb912e35c
 
-2. **Credit Analyst 2  - MUMBAI | Citi**
+2. **Officer - KYC Quality Metrics Analyst | Citi**
    - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 81
+   - Posted: 2026-10-27 (6 days ago) | fallback | Score 84
+   - Fit: yes | record with at least 2-4 years of relevant reporting, Metrics/MIS experienc
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Requirements: and make a difference at one of the world’s most global banks. We’re fully committed to supporting your growth and development from the start with extensive on-the-job training and exposure to senior leaders, as well as more traditional learning. You’ll also have the chance to give back and make a
+   - ID: 261004625-1 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Officer---KYC-Quality-Metrics-Analyst_261004625-1
+
+3. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
+   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 81
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and
+   - ID: JR-0000133976-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
+
+4. **Credit Analyst 2  - MUMBAI | Citi**
+   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-29 (4 days ago) | fallback | Score 81 | second job
    - Fit: yes | and Experience: 3 to 6 years of credit, portfolio management or structuri
    - Experience: 3-6 yrs
    - Requirements: . Modelling experience is a plus Strong attention to detail – Analyst will have responsibility for due diligence and documentation of transactions to ensure that all risk, business and policy points are covered Oral and written communications skills enabling him or her to effectively interact with
    - ID: 261005937 | open (ATS verified)
    - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Analyst-2----MUMBAI_261005937
 
-3. **Young Apprentice - C00 - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 64 | second job
-   - Fit: unknown
-   - Qualification: Diploma
-   - Requirements: Previous experience preferred Consistently demonstrates clear and concise written and verbal communication skills Education: High school diploma or equivalent experience ------------------------------------------------------ Job Family Group: Business Strategy, Management & Administration
-   - ID: 26969219 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219
-
-4. **Lead - Partner Onboarding & Due Diligence | Nium**
+5. **Lead - Partner Onboarding & Due Diligence | Nium**
    - Mumbai | Work mode: hybrid | Section: Non-IT / Other
    - Posted: 2026-10-30 (3 days ago) | fallback | Score 61 | second job
    - Fit: no | requirements. Minimum 5 years of relevant experience in payments, fintech,
@@ -37,7 +46,7 @@
    - ID: 8560290f-190d-465c-9abf-034e61f7f3ea | open (ATS verified)
    - Apply: https://jobs.lever.co/nium/8560290f-190d-465c-9abf-034e61f7f3ea
 
-5. **Account Executive - Majors | Zscaler**
+6. **Account Executive - Majors | Zscaler**
    - Mumbai, IND | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-26 (7 days ago) | fallback | Score 61
    - Fit: unknown
@@ -46,7 +55,7 @@
    - ID: 5272056007 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5272056007
 
-6. **Lead Account Solution Engineer | Salesforce**
+7. **Lead Account Solution Engineer | Salesforce**
    - India - Mumbai | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
    - Posted: 2026-10-30 (3 days ago) | fallback | Score 60
    - Fit: no | You're Our Person If... 10+ years in IT, consulting, or technology sales/imple
@@ -54,15 +63,6 @@
    - Requirements: . Experience working with large enterprise clients and engaging at the C-level. Even Better If... Salesforce Certifications (e.g., SalesCloud, ServiceCloud, Financial Services Cloud) Prior experience as a Salesforce Solution or Sales Engineer in a CRM or similar tech environment. Unleash Your
    - ID: JR349251 | open (ATS verified)
    - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Lead-Account-Solution-Engineer_JR349251
-
-7. **Quantitative Analyst AVP - Treasury | Barclays**
-   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 60
-   - Fit: no
-   - Qualification: Bachelor
-   - Requirements: to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes If the position has leadership responsibilities, People Leaders are expected to
-   - ID: JR-0000070522-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analyst-AVP---Treasury_JR-0000070522-1
 
 8. **Sr Tech Infra Program Manager, DCPD | Amazon**
    - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other

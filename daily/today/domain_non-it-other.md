@@ -1,5 +1,5 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-02 03:57 UTC
-10 jobs, best score first: 0 from today/yesterday, 10 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-02 06:30 UTC
+10 jobs, best score first: 5 from today/yesterday, 5 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Analyst - Compliance Operations | Nium**
    - Mumbai | Work mode: hybrid | Section: Non-IT / Other
@@ -10,16 +10,25 @@
    - ID: f74cc9cf-383e-4a91-8eb1-574fb912e35c | open (ATS verified)
    - Apply: https://jobs.lever.co/nium/f74cc9cf-383e-4a91-8eb1-574fb912e35c
 
-2. **Banking Operations Specialist | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 83
-   - Fit: yes | & Functional Skills: 1–2 years of relevant professional experience within b
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: 1–2 years of relevant professional experience within banking operations, financial services processing, or a corporate business operations environment. Proven experience working with retail banking products, transaction processing, and customer account maintenance. Demonstrated hands-on capability
-   - ID: 26996280 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Banking-Operations-Specialist_26996280
+2. **Officer - KYC Quality Metrics Analyst | Citi**
+   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-27 (6 days ago) | fallback | Score 84
+   - Fit: yes | record with at least 2-4 years of relevant reporting, Metrics/MIS experienc
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Requirements: and make a difference at one of the world’s most global banks. We’re fully committed to supporting your growth and development from the start with extensive on-the-job training and exposure to senior leaders, as well as more traditional learning. You’ll also have the chance to give back and make a
+   - ID: 261004625-1 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Officer---KYC-Quality-Metrics-Analyst_261004625-1
 
-3. **Technical Writing Analyst | Salesforce**
+3. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
+   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 81
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and
+   - ID: JR-0000133976-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
+
+4. **Technical Writing Analyst | Salesforce**
    - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-30 (3 days ago) | fallback | Score 76
    - Fit: yes | Experience/Skills: 1-2 years of documentation experience - in documenting
@@ -28,16 +37,16 @@
    - ID: JR366429 | open (ATS verified)
    - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Writing-Analyst_JR366429
 
-4. **Corporate Banking Analyst | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 74
-   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: 2+ years of Securities Research experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education. MBA, CA, CFA or Masters in Finance from a premier education institute Strong inclination towards building a career in
-   - ID: R-576872-1 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Corporate-Banking-Analyst_R-576872-1
+5. **Technology Business Systems Consultant | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 74
+   - Fit: yes | hands‑on experience (3–4+ years) supporting Loan IQ operations, including pr
+   - Experience: 3-4 yrs | Qualification: Bachelor
+   - Requirements: Review and evaluate moderately complex technical business problems that can be resolved through internet or intranet based solutions Present recommendations for resolving business problems Exercise some independent judgment when developing project budgets, project plans, and schedules Provide
+   - ID: R-568049 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Technology-Business-Systems-Consultant_R-568049
 
-5. **Analyst, Risk Management | Mastercard**
+6. **Analyst, Risk Management | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-30 (3 days ago) | fallback | Score 73
    - Fit: unknown
@@ -46,7 +55,7 @@
    - ID: R-294790 | open (ATS verified)
    - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-294790
 
-6. **Associate, SME Sales | Razorpay**
+7. **Associate, SME Sales | Razorpay**
    - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-29 (4 days ago) | fallback | Score 73
    - Fit: yes | or those with up to 1 year of experience looking to start their career
@@ -55,37 +64,28 @@
    - ID: 4748409005 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005
 
-7. **Associate II - Claims - FTE | Zinnia**
-   - Gurugram, Haryana, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-26 (7 days ago) | fallback | Score 73
-   - Fit: yes | Graduate preferred. 1+ year of working experience (Life insurance domain
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - Requirements: Graduation in any stream, Commerce Graduate preferred. 1+ year of working experience (Life insurance domain (Death claims) that required a focus on quality including attention to details, accuracy, and accountability for your work product. Experience in a professional/office related environment
-   - ID: 4724726006 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zinnia/jobs/4724726006
-
-8. **Processing Cost Analyst | Stripe**
-   - IN-Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-26 (7 days ago) | fallback | Score 70
-   - Fit: yes | ACA, ACCA, or CIMA, and 2–3 years of relevant accounting experience Bachelor’s
-   - Experience: 2-3 yrs | Qualification: Bachelor
-   - Requirements: an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Product Accounting team at Stripe supports products across Stripe by providing guidance on accounting implications and enabling teams to make
-   - ID: 8324207 | open (ATS verified)
-   - Apply: https://stripe.com/jobs/search?gh_jid=8324207
-
-9. **Pricing Analyst | Amazon**
+8. **Trust and Privacy TPM, Devices & Services Trust, Privacy, and Accessibility | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 69
-   - Fit: yes | - 2+ years of program or project management experience
-   - Experience: 2+ yrs
-   - ID: 10591998 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10591998/pricing-analyst
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 70
+   - Fit: yes | science or equivalent - 3+ years of technical product or program management e
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: 10592051 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10592051/trust-and-privacy-tpm-devices-services-trust-privacy-and-accessibility
 
-10. **Engineer, HIG HBM LAYOUT | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 69
-   - Fit: yes | • 2 to 5 years' experience in analog/custom layout design i
-   - Experience: 2-5 yrs | Qualification: Diploma
-   - Requirements: 2 to 5 years' experience in analog/custom layout design in advanced CMOS process, in various technology nodes (Planar, FinFET ) • Engage in Test Vehicle build with HIG-HBM DTPCO teams, ensuring flawless electrical, thermal, and mechanical performance. • Expertise in Cadence VLE/VXL and Mentor
-   - ID: JR105858 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--HIG-HBM-LAYOUT_JR105858
+9. **Trust & Privacy Program Mgr., Devices & Services Trust, Privacy, and Accessibility (TPA) | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 70 | second job
+   - Fit: yes | - Bachelor's degree - 3+ years of program or project management experience
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: and using data and metrics to determine improvements
+   - ID: 10592048 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10592048/trust-privacy-program-mgr-devices-services-trust-privacy-and-accessibility-tpa
+
+10. **Commercial Loan Closing Associate | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 68 | second job
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Manage an assigned portfolio of loans Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals Interact with internal customers Receive direction from leaders and exercise independent judgment while developing the knowledge to understand function, policies,
+   - ID: R-579873 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-579873

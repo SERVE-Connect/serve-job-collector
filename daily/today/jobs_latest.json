@@ -1,10 +1,126 @@
 {
- "generated_utc": "2026-11-02 03:57",
+ "generated_utc": "2026-11-02 06:30",
  "window_days": 7,
- "job_count": 494,
+ "job_count": 514,
  "jobs": [
   {
+   "score_rank": 8,
+   "score": 77,
+   "section": "IT / Software",
+   "city_group": "Pune",
+   "geo_rank": 1,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Software Engineer",
+   "company": "Barclays",
+   "location": "Pune, Gera Commerzone SEZ",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "unknown",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": ", devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively",
+   "bulletin_pick": 3,
+   "new_today": true,
+   "already_sent": false,
+   "id": "JR-0000105971",
+   "req_id": "JR-0000105971",
+   "status": "open (ATS verified)",
+   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000105971",
+   "source": "workday"
+  },
+  {
    "score_rank": 9,
+   "score": 77,
+   "section": "IT / Software",
+   "city_group": "Pune",
+   "geo_rank": 1,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Full Stack Java designer/developer",
+   "company": "Barclays",
+   "location": "Pune, Gera Commerzone SEZ",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "unknown",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": ", devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "JR-0000089232",
+   "req_id": "JR-0000089232",
+   "status": "open (ATS verified)",
+   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Java-designer-developer_JR-0000089232",
+   "source": "workday"
+  },
+  {
+   "score_rank": 10,
+   "score": 77,
+   "section": "IT / Software",
+   "city_group": "Pune",
+   "geo_rank": 1,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Full Stack Engineer",
+   "company": "Barclays",
+   "location": "Pune, Gera Commerzone SEZ",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "unknown",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": ", devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "JR-0000122783",
+   "req_id": "JR-0000122783",
+   "status": "open (ATS verified)",
+   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Engineer_JR-0000122783",
+   "source": "workday"
+  },
+  {
+   "score_rank": 11,
+   "score": 77,
+   "section": "IT / Software",
+   "city_group": "Pune",
+   "geo_rank": 1,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Software Engineer - Mainframe",
+   "company": "Barclays",
+   "location": "Pune, Gera Commerzone SEZ",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "unknown",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": ", devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "JR-0000125396",
+   "req_id": "JR-0000125396",
+   "status": "open (ATS verified)",
+   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer---Mainframe_JR-0000125396",
+   "source": "workday"
+  },
+  {
+   "score_rank": 17,
    "score": 73,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -33,7 +149,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 22,
+   "score_rank": 31,
    "score": 70,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -62,7 +178,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 33,
+   "score_rank": 47,
    "score": 67,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -91,36 +207,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 51,
-   "score": 65,
-   "section": "IT / Software",
-   "city_group": "Pune",
-   "geo_rank": 1,
-   "posted": "2026-10-29",
-   "age_days": 4,
-   "title": "Software engineer",
-   "company": "Barclays",
-   "location": "Pune, Gera Commerzone SEZ",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "unknown",
-   "exp_years_est": "",
-   "exp_hint": "",
-   "exp_label": "",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": ", devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": true,
-   "id": "JR-0000129714",
-   "req_id": "JR-0000129714",
-   "status": "open (ATS verified)",
-   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-engineer_JR-0000129714",
-   "source": "workday"
-  },
-  {
-   "score_rank": 52,
+   "score_rank": 66,
    "score": 65,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -149,7 +236,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 79,
+   "score_rank": 94,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -178,7 +265,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 80,
+   "score_rank": 95,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -197,7 +284,7 @@
    "qualification": "Bachelor",
    "salary": "",
    "requirements": ", participate in design discussions, and contribute to the development of acceptance criteria, ensuring a thorough understanding of the software being tested. Root cause analysis for identified defects, working closely with developers to provide detailed information and support defect resolution.",
-   "bulletin_pick": 4,
+   "bulletin_pick": "",
    "new_today": false,
    "already_sent": false,
    "id": "JR-0000060053",
@@ -207,7 +294,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 81,
+   "score_rank": 96,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -236,7 +323,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 15,
+   "score_rank": 24,
    "score": 72,
    "section": "IT / Software",
    "city_group": "Mumbai",
@@ -265,7 +352,65 @@
    "source": "workday"
   },
   {
-   "score_rank": 16,
+   "score_rank": 18,
+   "score": 73,
+   "section": "IT / Software",
+   "city_group": "Delhi NCR / Haryana",
+   "geo_rank": 5,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Software Dev Engineer , Hub Tech",
+   "company": "Amazon",
+   "location": "Gurugram, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 3,
+   "exp_hint": "- 3+ years of non-internship professional software deve",
+   "exp_label": "3+ yrs",
+   "qualification": "",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": 4,
+   "new_today": true,
+   "already_sent": false,
+   "id": "10594151",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10594151/software-dev-engineer-hub-tech",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 14,
+   "score": 75,
+   "section": "IT / Software",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Software Development Engineer II, Int'l TechnologyEURegionalfund",
+   "company": "Amazon",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 3,
+   "exp_hint": "- 3+ years of non-internship professional software deve",
+   "exp_label": "3+ yrs",
+   "qualification": "",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": 2,
+   "new_today": true,
+   "already_sent": false,
+   "id": "10594157",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10594157/software-development-engineer-ii-int-l-technologyeuregionalfund",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 25,
    "score": 72,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -294,7 +439,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 18,
+   "score_rank": 27,
    "score": 71,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -323,7 +468,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 19,
+   "score_rank": 28,
    "score": 71,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -352,7 +497,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 26,
+   "score_rank": 38,
    "score": 69,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -371,7 +516,7 @@
    "qualification": "Bachelor",
    "salary": "",
    "requirements": "",
-   "bulletin_pick": 1,
+   "bulletin_pick": "",
    "new_today": false,
    "already_sent": false,
    "id": "10593974",
@@ -381,7 +526,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 53,
+   "score_rank": 67,
    "score": 65,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -410,7 +555,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 54,
+   "score_rank": 68,
    "score": 65,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -439,7 +584,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 55,
+   "score_rank": 69,
    "score": 65,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -458,7 +603,7 @@
    "qualification": "Bachelor",
    "salary": "",
    "requirements": "",
-   "bulletin_pick": 6,
+   "bulletin_pick": "",
    "new_today": false,
    "already_sent": false,
    "id": "744000157957529",
@@ -468,7 +613,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 65,
+   "score_rank": 79,
    "score": 64,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -497,7 +642,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 73,
+   "score_rank": 88,
    "score": 63,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -516,7 +661,7 @@
    "qualification": "",
    "salary": "",
    "requirements": "",
-   "bulletin_pick": 7,
+   "bulletin_pick": "",
    "new_today": false,
    "already_sent": false,
    "id": "10592289",
@@ -526,36 +671,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 118,
-   "score": 60,
-   "section": "IT / Software",
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-10-27",
-   "age_days": 6,
-   "title": "Software Development Engineer II, FMA - Featured Merchant Algorithm",
-   "company": "Amazon",
-   "location": "Bengaluru, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "yes",
-   "exp_years_est": 3,
-   "exp_hint": "- 3+ years of non-internship professional software deve",
-   "exp_label": "3+ yrs",
-   "qualification": "",
-   "salary": "",
-   "requirements": "",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "10589608",
-   "req_id": "",
-   "status": "open (listed in employer's live search)",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10589608/software-development-engineer-ii-fma-featured-merchant-algorithm",
-   "source": "amazon"
-  },
-  {
-   "score_rank": 119,
+   "score_rank": 135,
    "score": 60,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -584,7 +700,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 157,
+   "score_rank": 174,
    "score": 57,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -613,7 +729,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 180,
+   "score_rank": 202,
    "score": 55,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -642,7 +758,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 181,
+   "score_rank": 203,
    "score": 55,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -671,7 +787,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 198,
+   "score_rank": 220,
    "score": 54,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -700,7 +816,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 226,
+   "score_rank": 252,
    "score": 51,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -729,7 +845,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 227,
+   "score_rank": 253,
    "score": 51,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -758,7 +874,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 249,
+   "score_rank": 275,
    "score": 48,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -787,7 +903,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 82,
+   "score_rank": 97,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Chennai",
@@ -816,7 +932,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 120,
+   "score_rank": 136,
    "score": 60,
    "section": "IT / Software",
    "city_group": "Chennai",
@@ -845,7 +961,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 158,
+   "score_rank": 175,
    "score": 57,
    "section": "IT / Software",
    "city_group": "Chennai",
@@ -874,7 +990,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 10,
+   "score_rank": 19,
    "score": 73,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -903,7 +1019,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 23,
+   "score_rank": 32,
    "score": 70,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -932,7 +1048,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 66,
+   "score_rank": 80,
    "score": 64,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -961,7 +1077,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 83,
+   "score_rank": 98,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -990,7 +1106,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 84,
+   "score_rank": 99,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -1019,7 +1135,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 100,
+   "score_rank": 115,
    "score": 61,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -1048,7 +1164,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 165,
+   "score_rank": 184,
    "score": 56,
    "section": "IT / Software",
    "city_group": "Other India",
@@ -1077,7 +1193,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 312,
+   "score_rank": 337,
    "score": 45,
    "section": "IT / Software",
    "city_group": "Other India",
@@ -1096,7 +1212,7 @@
    "qualification": "Bachelor",
    "salary": "",
    "requirements": "on invoices, including GST compliance, TDS applicability and e-invoicing details, in coordination with Accounts Payable and Tax teams. Maintain a P2P tracker with status, ageing and bottlenecks; follow up with Procurement, AP and vendors to ensure on-time payment and minimize vendor escalations.",
-   "bulletin_pick": 5,
+   "bulletin_pick": 7,
    "new_today": false,
    "already_sent": false,
    "id": "JR115233",
@@ -1106,7 +1222,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 313,
+   "score_rank": 338,
    "score": 45,
    "section": "IT / Software",
    "city_group": "Other India",
@@ -1135,7 +1251,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 314,
+   "score_rank": 339,
    "score": 45,
    "section": "IT / Software",
    "city_group": "Other India",
@@ -1164,7 +1280,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 5,
+   "score_rank": 12,
    "score": 76,
    "section": "Data / Analytics / AI",
    "city_group": "Pune",
@@ -1193,7 +1309,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 11,
+   "score_rank": 20,
    "score": 73,
    "section": "Data / Analytics / AI",
    "city_group": "Pune",
@@ -1222,7 +1338,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 24,
+   "score_rank": 33,
    "score": 70,
    "section": "Data / Analytics / AI",
    "city_group": "Pune",
@@ -1251,7 +1367,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 34,
+   "score_rank": 48,
    "score": 67,
    "section": "Data / Analytics / AI",
    "city_group": "Pune",
@@ -1280,7 +1396,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 56,
+   "score_rank": 70,
    "score": 65,
    "section": "Data / Analytics / AI",
    "city_group": "Pune",
@@ -1309,7 +1425,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 85,
+   "score_rank": 100,
    "score": 62,
    "section": "Data / Analytics / AI",
    "city_group": "Pune",
@@ -1338,7 +1454,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 3,
+   "score_rank": 5,
    "score": 81,
    "section": "Data / Analytics / AI",
    "city_group": "Mumbai",
@@ -1367,7 +1483,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 57,
+   "score_rank": 34,
+   "score": 70,
+   "section": "Data / Analytics / AI",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Business Intelligence Engineer, FCGT",
+   "company": "Amazon",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 3,
+   "exp_hint": "- 3+ years of analyzing and interpreting data with Reds",
+   "exp_label": "3+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "10594149",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10594149/business-intelligence-engineer-fcgt",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 71,
    "score": 65,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1396,7 +1541,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 121,
+   "score_rank": 81,
+   "score": 64,
+   "section": "Data / Analytics / AI",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Applied Scientist",
+   "company": "Amazon",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 3,
+   "exp_hint": "ML or related field - 3+ years of building machine learning models for busi",
+   "exp_label": "3+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "10593555",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10593555/applied-scientist",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 137,
    "score": 60,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1425,7 +1599,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 126,
+   "score_rank": 142,
    "score": 59,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1454,36 +1628,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 182,
-   "score": 55,
-   "section": "Data / Analytics / AI",
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-10-30",
-   "age_days": 3,
-   "title": "Applied Scientist",
-   "company": "Amazon",
-   "location": "Bengaluru, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "yes",
-   "exp_years_est": 3,
-   "exp_hint": "ML or related field - 3+ years of building machine learning models for busi",
-   "exp_label": "3+ yrs",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": true,
-   "id": "10593286",
-   "req_id": "",
-   "status": "open (listed in employer's live search)",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10593286/applied-scientist",
-   "source": "amazon"
-  },
-  {
-   "score_rank": 183,
+   "score_rank": 204,
    "score": 55,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1512,7 +1657,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 219,
+   "score_rank": 242,
    "score": 52,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1541,7 +1686,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 250,
+   "score_rank": 276,
    "score": 48,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1570,7 +1715,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 400,
+   "score_rank": 421,
    "score": 41,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1599,7 +1744,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 20,
+   "score_rank": 29,
    "score": 71,
    "section": "Data / Analytics / AI",
    "city_group": "Hyderabad",
@@ -1628,7 +1773,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 74,
+   "score_rank": 89,
    "score": 63,
    "section": "Data / Analytics / AI",
    "city_group": "Hyderabad",
@@ -1647,7 +1792,7 @@
    "qualification": "Bachelor",
    "salary": "",
    "requirements": ", with the ability to manage assigned deliverables from requirements through implementation. Familiarity with artificial intelligence, machine learning, or data science concepts—and an interest in applying these capabilities responsibly to data management use cases—is important. Knowledge of data",
-   "bulletin_pick": 3,
+   "bulletin_pick": 6,
    "new_today": false,
    "already_sent": false,
    "id": "R-574157",
@@ -1657,7 +1802,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 234,
+   "score_rank": 260,
    "score": 50,
    "section": "Data / Analytics / AI",
    "city_group": "Hyderabad",
@@ -1686,7 +1831,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 241,
+   "score_rank": 267,
    "score": 49,
    "section": "Data / Analytics / AI",
    "city_group": "Hyderabad",
@@ -1715,7 +1860,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 127,
+   "score_rank": 143,
    "score": 59,
    "section": "Cybersecurity",
    "city_group": "Bangalore",
@@ -1744,7 +1889,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 86,
+   "score_rank": 101,
    "score": 62,
    "section": "Cloud / DevOps / Infrastructure",
    "city_group": "Pune",
@@ -1773,7 +1918,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 87,
+   "score_rank": 102,
    "score": 62,
    "section": "Cloud / DevOps / Infrastructure",
    "city_group": "Pune",
@@ -1802,7 +1947,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 138,
+   "score_rank": 154,
    "score": 58,
    "section": "Cloud / DevOps / Infrastructure",
    "city_group": "Bangalore",
@@ -1831,7 +1976,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 251,
+   "score_rank": 277,
    "score": 48,
    "section": "Cloud / DevOps / Infrastructure",
    "city_group": "Bangalore",
@@ -1860,7 +2005,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 47,
+   "score_rank": 62,
    "score": 66,
    "section": "Cloud / DevOps / Infrastructure",
    "city_group": "Hyderabad",
@@ -1889,7 +2034,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 88,
+   "score_rank": 103,
    "score": 62,
    "section": "Cloud / DevOps / Infrastructure",
    "city_group": "Hyderabad",
@@ -1918,7 +2063,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 58,
+   "score_rank": 72,
    "score": 65,
    "section": "QA / Testing",
    "city_group": "Pune",
@@ -1947,7 +2092,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 89,
+   "score_rank": 104,
    "score": 62,
    "section": "QA / Testing",
    "city_group": "Pune",
@@ -1976,7 +2121,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 27,
+   "score_rank": 39,
    "score": 69,
    "section": "QA / Testing",
    "city_group": "Delhi NCR / Haryana",
@@ -2005,7 +2150,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 67,
+   "score_rank": 82,
    "score": 64,
    "section": "QA / Testing",
    "city_group": "Delhi NCR / Haryana",
@@ -2034,7 +2179,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 17,
+   "score_rank": 26,
    "score": 72,
    "section": "QA / Testing",
    "city_group": "Bangalore",
@@ -2063,7 +2208,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 48,
+   "score_rank": 63,
    "score": 66,
    "section": "QA / Testing",
    "city_group": "Ahmedabad",
@@ -2082,7 +2227,7 @@
    "qualification": "Bachelor",
    "salary": "",
    "requirements": ". Advantage with  experience on fatigue analysis  basic knowledge of fluid mechanics and its properties.  experience with shopfloor activities Type of Industry Preferred: Hydraulic products manufacturing / service / development Iron and Steel manufacturing industries, Plastic moulding",
-   "bulletin_pick": 2,
+   "bulletin_pick": 5,
    "new_today": false,
    "already_sent": false,
    "id": "744000157722162",
@@ -2092,7 +2237,36 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 35,
+   "score_rank": 4,
+   "score": 82,
+   "section": "IT Support / Operations",
+   "city_group": "Pune",
+   "geo_rank": 1,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Lending Application Support Analyst",
+   "company": "Barclays",
+   "location": "Pune, Gera Commerzone SEZ",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "unknown",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L –",
+   "bulletin_pick": 1,
+   "new_today": true,
+   "already_sent": false,
+   "id": "JR-0000107828",
+   "req_id": "JR-0000107828",
+   "status": "open (ATS verified)",
+   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Lending-Application-Support-Analyst_JR-0000107828",
+   "source": "workday"
+  },
+  {
+   "score_rank": 49,
    "score": 67,
    "section": "IT Support / Operations",
    "city_group": "Bangalore",
@@ -2121,7 +2295,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 49,
+   "score_rank": 64,
    "score": 66,
    "section": "IT Support / Operations",
    "city_group": "Bangalore",
@@ -2150,7 +2324,7 @@
    "source": "lever"
   },
   {
-   "score_rank": 68,
+   "score_rank": 83,
    "score": 64,
    "section": "IT Support / Operations",
    "city_group": "Bangalore",
@@ -2179,7 +2353,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 159,
+   "score_rank": 176,
    "score": 57,
    "section": "IT Support / Operations",
    "city_group": "Bangalore",
@@ -2208,7 +2382,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 101,
+   "score_rank": 116,
    "score": 61,
    "section": "IT Support / Operations",
    "city_group": "Hyderabad",
@@ -2237,7 +2411,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 30,
+   "score_rank": 42,
    "score": 68,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2266,7 +2440,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 36,
+   "score_rank": 50,
    "score": 67,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2295,7 +2469,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 37,
+   "score_rank": 51,
    "score": 67,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2324,7 +2498,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 75,
+   "score_rank": 90,
    "score": 63,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2353,7 +2527,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 76,
+   "score_rank": 91,
    "score": 63,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2382,7 +2556,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 102,
+   "score_rank": 117,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2411,7 +2585,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 103,
+   "score_rank": 118,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2440,7 +2614,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 104,
+   "score_rank": 119,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2469,7 +2643,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 105,
+   "score_rank": 120,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2498,7 +2672,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 106,
+   "score_rank": 121,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2527,7 +2701,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 107,
+   "score_rank": 122,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2556,7 +2730,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 108,
+   "score_rank": 123,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2585,7 +2759,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 109,
+   "score_rank": 124,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2614,7 +2788,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 110,
+   "score_rank": 125,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2643,7 +2817,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 111,
+   "score_rank": 126,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2672,7 +2846,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 112,
+   "score_rank": 127,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2701,7 +2875,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 128,
+   "score_rank": 144,
    "score": 59,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2730,7 +2904,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 129,
+   "score_rank": 145,
    "score": 59,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2759,7 +2933,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 130,
+   "score_rank": 146,
    "score": 59,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2788,7 +2962,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 131,
+   "score_rank": 147,
    "score": 59,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2817,7 +2991,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 132,
+   "score_rank": 148,
    "score": 59,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2846,7 +3020,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 139,
+   "score_rank": 155,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2875,7 +3049,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 140,
+   "score_rank": 156,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2904,7 +3078,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 141,
+   "score_rank": 157,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2933,7 +3107,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 142,
+   "score_rank": 158,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2962,7 +3136,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 143,
+   "score_rank": 159,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2991,7 +3165,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 144,
+   "score_rank": 160,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3020,7 +3194,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 145,
+   "score_rank": 161,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3049,7 +3223,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 146,
+   "score_rank": 162,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3078,7 +3252,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 147,
+   "score_rank": 163,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3107,7 +3281,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 148,
+   "score_rank": 164,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3136,7 +3310,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 149,
+   "score_rank": 165,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3165,7 +3339,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 150,
+   "score_rank": 166,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3194,7 +3368,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 151,
+   "score_rank": 167,
    "score": 58,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3223,7 +3397,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 166,
+   "score_rank": 185,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3252,7 +3426,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 167,
+   "score_rank": 186,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3281,7 +3455,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 168,
+   "score_rank": 187,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3310,7 +3484,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 169,
+   "score_rank": 188,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3339,7 +3513,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 170,
+   "score_rank": 189,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3368,7 +3542,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 171,
+   "score_rank": 190,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3397,7 +3571,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 172,
+   "score_rank": 191,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3426,7 +3600,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 173,
+   "score_rank": 192,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3455,7 +3629,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 174,
+   "score_rank": 193,
    "score": 56,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3484,7 +3658,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 184,
+   "score_rank": 205,
    "score": 55,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3513,7 +3687,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 185,
+   "score_rank": 206,
    "score": 55,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3542,7 +3716,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 186,
+   "score_rank": 207,
    "score": 55,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3571,7 +3745,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 187,
+   "score_rank": 208,
    "score": 55,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3600,7 +3774,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 188,
+   "score_rank": 209,
    "score": 55,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3629,7 +3803,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 189,
+   "score_rank": 210,
    "score": 55,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3658,7 +3832,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 190,
+   "score_rank": 211,
    "score": 55,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3687,7 +3861,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 201,
+   "score_rank": 223,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3716,7 +3890,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 202,
+   "score_rank": 224,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3745,7 +3919,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 203,
+   "score_rank": 225,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3774,7 +3948,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 204,
+   "score_rank": 226,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3803,7 +3977,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 205,
+   "score_rank": 227,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3832,7 +4006,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 206,
+   "score_rank": 228,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3861,7 +4035,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 207,
+   "score_rank": 229,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3890,7 +4064,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 242,
+   "score_rank": 268,
    "score": 49,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3919,7 +4093,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 122,
+   "score_rank": 138,
    "score": 60,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Mumbai",
@@ -3948,7 +4122,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 160,
+   "score_rank": 177,
    "score": 57,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Remote (India)",
@@ -3977,7 +4151,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 262,
+   "score_rank": 288,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Delhi NCR / Haryana",
@@ -4006,7 +4180,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 263,
+   "score_rank": 289,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Delhi NCR / Haryana",
@@ -4035,7 +4209,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 299,
+   "score_rank": 324,
    "score": 46,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Delhi NCR / Haryana",
@@ -4064,7 +4238,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 330,
+   "score_rank": 354,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Delhi NCR / Haryana",
@@ -4093,7 +4267,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 473,
+   "score_rank": 494,
    "score": 37,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Delhi NCR / Haryana",
@@ -4122,7 +4296,123 @@
    "source": "amazon"
   },
   {
-   "score_rank": 208,
+   "score_rank": 128,
+   "score": 61,
+   "section": "Senior IT roles (5+ yrs)",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Sr. Business Analyst – Deep tech Innovation",
+   "company": "Bosch",
+   "location": "bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 5.5,
+   "exp_hint": "preferred. Experience · 5-8 years of experience in innovation, venture buildin",
+   "exp_label": "5-8 yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "744000159056489",
+   "req_id": "",
+   "status": "open (ATS verified)",
+   "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000159056489",
+   "source": "smartrecruiters"
+  },
+  {
+   "score_rank": 194,
+   "score": 56,
+   "section": "Senior IT roles (5+ yrs)",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Sr. Software Engineer- Databricks AI",
+   "company": "Databricks",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 5.5,
+   "exp_hint": "or a related field. 5+ years of experience developing large-scale distrib",
+   "exp_label": "5+ yrs",
+   "qualification": "Master",
+   "salary": "",
+   "requirements": "and ability to collaborate across teams. Experience with ML or LLM systems is a plus. About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "8924868002",
+   "req_id": "1432",
+   "status": "open (ATS verified)",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002",
+   "source": "greenhouse"
+  },
+  {
+   "score_rank": 195,
+   "score": 56,
+   "section": "Senior IT roles (5+ yrs)",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Staff Software Engineer- Databricks AI",
+   "company": "Databricks",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 10.5,
+   "exp_hint": "or a related field. 10+ years of experience developing large-scale distrib",
+   "exp_label": "10+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "and a passion for mentoring engineers. Experience with ML or LLM systems is a plus. About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "8926498002",
+   "req_id": "1432",
+   "status": "open (ATS verified)",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8926498002",
+   "source": "greenhouse"
+  },
+  {
+   "score_rank": 196,
+   "score": 56,
+   "section": "Senior IT roles (5+ yrs)",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Chapter Area Lead – Software Testing and Test Automation",
+   "company": "Bosch",
+   "location": "hosur road bangalore, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 15.5,
+   "exp_hint": "MTech, MBA Experience : 15+ years of relevant experience Mandatory/requires Sk",
+   "exp_label": "15+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "Leadership skills Preferred Skills : Bosch experience",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "744000159055029",
+   "req_id": "",
+   "status": "open (ATS verified)",
+   "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000159055029",
+   "source": "smartrecruiters"
+  },
+  {
+   "score_rank": 230,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4151,7 +4441,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 220,
+   "score_rank": 243,
    "score": 52,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4180,7 +4470,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 221,
+   "score_rank": 244,
    "score": 52,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4209,7 +4499,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 264,
+   "score_rank": 245,
+   "score": 52,
+   "section": "Senior IT roles (5+ yrs)",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Senior Manager Software Development, Smart Deliveries Tech",
+   "company": "Amazon",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 10.5,
+   "exp_hint": "- 10+ years of engineering experience - 5+ years of engi",
+   "exp_label": "10+ yrs",
+   "qualification": "",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "10594169",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10594169/senior-manager-software-development-smart-deliveries-tech",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 290,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4238,36 +4557,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 265,
-   "score": 47,
-   "section": "Senior IT roles (5+ yrs)",
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-10-30",
-   "age_days": 3,
-   "title": "Senior Software Development Engineer",
-   "company": "Razorpay",
-   "location": "Bengaluru",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "no",
-   "exp_years_est": 3,
-   "exp_hint": "What We Are Looking For 3+ years of experience in technology Strong product d",
-   "exp_label": "3+ yrs",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "strong technical context and the experience to build software that matters at scale. Engineering at Razorpay creates significant impact across the payments ecosystem. You are expected to influence the culture of the company - bring conviction, challenge the status quo, set the bar, and help the",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "4746983005",
-   "req_id": "14884",
-   "status": "open (ATS verified)",
-   "apply_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746983005",
-   "source": "greenhouse"
-  },
-  {
-   "score_rank": 266,
+   "score_rank": 291,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4296,7 +4586,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 267,
+   "score_rank": 292,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4325,7 +4615,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 268,
+   "score_rank": 293,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4354,7 +4644,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 269,
+   "score_rank": 294,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4383,7 +4673,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 270,
+   "score_rank": 295,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4412,7 +4702,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 271,
+   "score_rank": 296,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4441,7 +4731,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 272,
+   "score_rank": 297,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4470,7 +4760,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 273,
+   "score_rank": 298,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4499,7 +4789,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 274,
+   "score_rank": 299,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4528,7 +4818,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 275,
+   "score_rank": 300,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4557,7 +4847,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 276,
+   "score_rank": 301,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4586,7 +4876,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 277,
+   "score_rank": 302,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4615,7 +4905,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 278,
+   "score_rank": 303,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4644,7 +4934,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 279,
+   "score_rank": 304,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4673,7 +4963,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 280,
+   "score_rank": 305,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4702,7 +4992,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 281,
+   "score_rank": 306,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4731,7 +5021,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 300,
+   "score_rank": 325,
    "score": 46,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4760,7 +5050,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 315,
+   "score_rank": 340,
    "score": 45,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4789,7 +5079,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 316,
+   "score_rank": 341,
    "score": 45,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4818,7 +5108,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 331,
+   "score_rank": 355,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4847,7 +5137,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 332,
+   "score_rank": 356,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4876,7 +5166,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 333,
+   "score_rank": 357,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4905,7 +5195,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 334,
+   "score_rank": 358,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4934,7 +5224,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 335,
+   "score_rank": 359,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4963,7 +5253,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 336,
+   "score_rank": 360,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4992,7 +5282,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 337,
+   "score_rank": 361,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5021,7 +5311,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 338,
+   "score_rank": 362,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5050,7 +5340,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 339,
+   "score_rank": 363,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5079,7 +5369,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 340,
+   "score_rank": 364,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5108,7 +5398,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 341,
+   "score_rank": 365,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5137,7 +5427,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 342,
+   "score_rank": 366,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5166,7 +5456,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 343,
+   "score_rank": 367,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5195,7 +5485,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 344,
+   "score_rank": 368,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5224,7 +5514,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 345,
+   "score_rank": 369,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5253,7 +5543,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 364,
+   "score_rank": 387,
    "score": 43,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5282,36 +5572,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 365,
-   "score": 43,
-   "section": "Senior IT roles (5+ yrs)",
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-10-30",
-   "age_days": 3,
-   "title": "Sr Software Development Engineer, Pre Station Planning Technology",
-   "company": "Amazon",
-   "location": "Bengaluru, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "no",
-   "exp_years_est": 5.5,
-   "exp_hint": "- 5+ years of non-internship professional software deve",
-   "exp_label": "5+ yrs",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "10593265",
-   "req_id": "",
-   "status": "open (listed in employer's live search)",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10593265/sr-software-development-engineer-pre-station-planning-technology",
-   "source": "amazon"
-  },
-  {
-   "score_rank": 366,
+   "score_rank": 388,
    "score": 43,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5340,7 +5601,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 376,
+   "score_rank": 397,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5369,7 +5630,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 377,
+   "score_rank": 398,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5398,7 +5659,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 378,
+   "score_rank": 399,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5427,7 +5688,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 401,
+   "score_rank": 422,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5456,7 +5717,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 402,
+   "score_rank": 423,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5485,7 +5746,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 403,
+   "score_rank": 424,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5514,7 +5775,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 404,
+   "score_rank": 425,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5543,7 +5804,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 405,
+   "score_rank": 426,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5572,7 +5833,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 406,
+   "score_rank": 427,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5601,7 +5862,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 407,
+   "score_rank": 428,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5630,7 +5891,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 408,
+   "score_rank": 429,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5659,7 +5920,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 409,
+   "score_rank": 430,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5688,7 +5949,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 410,
+   "score_rank": 431,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5717,7 +5978,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 411,
+   "score_rank": 432,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5746,7 +6007,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 412,
+   "score_rank": 433,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5775,7 +6036,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 413,
+   "score_rank": 434,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5804,7 +6065,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 414,
+   "score_rank": 435,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5833,7 +6094,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 415,
+   "score_rank": 436,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5862,7 +6123,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 416,
+   "score_rank": 437,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5891,7 +6152,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 417,
+   "score_rank": 438,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5920,7 +6181,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 418,
+   "score_rank": 439,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5949,7 +6210,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 419,
+   "score_rank": 440,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5978,7 +6239,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 420,
+   "score_rank": 441,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6007,7 +6268,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 421,
+   "score_rank": 442,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6036,7 +6297,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 422,
+   "score_rank": 443,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6065,7 +6326,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 423,
+   "score_rank": 444,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6094,7 +6355,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 424,
+   "score_rank": 445,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6123,7 +6384,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 425,
+   "score_rank": 446,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6152,7 +6413,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 426,
+   "score_rank": 447,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6181,7 +6442,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 427,
+   "score_rank": 448,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6210,7 +6471,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 428,
+   "score_rank": 449,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6239,7 +6500,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 453,
+   "score_rank": 474,
    "score": 40,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6268,7 +6529,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 454,
+   "score_rank": 475,
    "score": 40,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6297,7 +6558,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 460,
+   "score_rank": 481,
    "score": 39,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6326,7 +6587,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 461,
+   "score_rank": 482,
    "score": 39,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6355,7 +6616,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 462,
+   "score_rank": 483,
    "score": 39,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6384,7 +6645,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 463,
+   "score_rank": 484,
    "score": 39,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6413,7 +6674,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 474,
+   "score_rank": 495,
    "score": 37,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6442,7 +6703,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 475,
+   "score_rank": 496,
    "score": 37,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6471,7 +6732,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 476,
+   "score_rank": 497,
    "score": 37,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6500,7 +6761,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 477,
+   "score_rank": 498,
    "score": 37,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6529,7 +6790,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 478,
+   "score_rank": 499,
    "score": 37,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6558,36 +6819,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 479,
-   "score": 37,
-   "section": "Senior IT roles (5+ yrs)",
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-10-27",
-   "age_days": 6,
-   "title": "Software Development Manager, Sports Data Platform - Prime Video Sports",
-   "company": "Amazon",
-   "location": "Bengaluru, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "no",
-   "exp_years_est": 8.5,
-   "exp_hint": "management experience - 8+ years of leading the definition and development of",
-   "exp_label": "8+ yrs",
-   "qualification": "",
-   "salary": "",
-   "requirements": "",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "10589829",
-   "req_id": "",
-   "status": "open (listed in employer's live search)",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10589829/software-development-manager-sports-data-platform-prime-video-sports",
-   "source": "amazon"
-  },
-  {
-   "score_rank": 480,
+   "score_rank": 500,
    "score": 37,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6616,7 +6848,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 481,
+   "score_rank": 501,
    "score": 37,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6645,7 +6877,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 488,
+   "score_rank": 508,
    "score": 35,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -6674,7 +6906,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 191,
+   "score_rank": 212,
    "score": 55,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Chennai",
@@ -6703,7 +6935,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 301,
+   "score_rank": 326,
    "score": 46,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Chennai",
@@ -6732,36 +6964,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 346,
-   "score": 44,
+   "score_rank": 168,
+   "score": 58,
    "section": "Senior IT roles (5+ yrs)",
-   "city_group": "Chennai",
-   "geo_rank": 7,
-   "posted": "2026-10-28",
-   "age_days": 5,
-   "title": "Manager, Software Development Engineering",
-   "company": "Workday",
-   "location": "IND.Chennai",
+   "city_group": "Hyderabad",
+   "geo_rank": 9,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Staff Software Engineer",
+   "company": "ServiceNow",
+   "location": "Hyderabad, India",
    "work_mode": "hybrid",
    "multi_city": false,
    "fit_0_5": "no",
    "exp_years_est": 8.5,
-   "exp_hint": "engineering teams 8+ years of software development experience building",
-   "exp_label": "8+ yrs",
+   "exp_hint": "services Qualifications 8-10 years of practical software development experience",
+   "exp_label": "8-10 yrs",
    "qualification": "Bachelor",
    "salary": "",
-   "requirements": "to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team Do you want to lead the team building the next",
+   "requirements": "and develop scalable AI-driven solutions Stay current with the latest advancements in AI and related technologies (new models, frameworks, and techniques), and proactively identify opportunities to apply them to our products and services Qualifications 8-10 years of practical software development",
    "bulletin_pick": "",
-   "new_today": false,
+   "new_today": true,
    "already_sent": false,
-   "id": "JR-0111052",
-   "req_id": "JR-0111052",
+   "id": "744000159052719",
+   "req_id": "",
    "status": "open (ATS verified)",
-   "apply_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Manager--Software-Development-Engineering_JR-0111052",
-   "source": "workday"
+   "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000159052719",
+   "source": "smartrecruiters"
   },
   {
-   "score_rank": 161,
+   "score_rank": 178,
    "score": 57,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6790,7 +7022,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 252,
+   "score_rank": 179,
+   "score": 57,
+   "section": "Senior IT roles (5+ yrs)",
+   "city_group": "Hyderabad",
+   "geo_rank": 9,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "SR, Engineer - AMS Verification",
+   "company": "Micron",
+   "location": "Hyderabad - Phoenix Aquila, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 3,
+   "exp_hint": "related discipline with 3+ years of relevant experience, or a Master’s degree",
+   "exp_label": "3+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": ", interface definitions, and identified risk areas. · Run static and dynamic simulations to identify leakage paths, power-sequencing issues, and unintended circuit interactions. · Perform device-level electrical rule checks, including SOA, snapback, SFB, and related reliability checks. · Perform",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "JR114263",
+   "req_id": "JR114263",
+   "status": "open (ATS verified)",
+   "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/SR--Engineer---AMS-Verification_JR114263",
+   "source": "workday"
+  },
+  {
+   "score_rank": 278,
    "score": 48,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6819,7 +7080,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 253,
+   "score_rank": 279,
    "score": 48,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6848,7 +7109,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 254,
+   "score_rank": 280,
    "score": 48,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6877,7 +7138,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 255,
+   "score_rank": 281,
    "score": 48,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6906,7 +7167,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 317,
+   "score_rank": 342,
    "score": 45,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6935,7 +7196,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 318,
+   "score_rank": 343,
    "score": 45,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6964,7 +7225,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 319,
+   "score_rank": 344,
    "score": 45,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6993,7 +7254,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 320,
+   "score_rank": 345,
    "score": 45,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7022,7 +7283,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 321,
+   "score_rank": 346,
    "score": 45,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7051,7 +7312,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 322,
+   "score_rank": 347,
    "score": 45,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7080,36 +7341,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 323,
-   "score": 45,
-   "section": "Senior IT roles (5+ yrs)",
-   "city_group": "Hyderabad",
-   "geo_rank": 9,
-   "posted": "2026-10-29",
-   "age_days": 4,
-   "title": "Staff Software Engineer",
-   "company": "ServiceNow",
-   "location": "Hyderabad, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "no",
-   "exp_years_est": 9.5,
-   "exp_hint": "business or industry. 9+ years of experience with Java or a similar OO lang",
-   "exp_label": "9+ yrs",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "and own your code from design, implementation, test automation and delivery of high-quality product to our users. Design software that is simple to use to allow customers to extend and customize the functionality to meet their specific needs Contribute to the design and implementation of new",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "744000158457389",
-   "req_id": "",
-   "status": "open (ATS verified)",
-   "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000158457389",
-   "source": "smartrecruiters"
-  },
-  {
-   "score_rank": 347,
+   "score_rank": 370,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7138,7 +7370,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 367,
+   "score_rank": 389,
    "score": 43,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7167,7 +7399,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 368,
+   "score_rank": 390,
    "score": 43,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7196,7 +7428,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 369,
+   "score_rank": 391,
    "score": 43,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7225,7 +7457,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 379,
+   "score_rank": 400,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7254,7 +7486,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 380,
+   "score_rank": 401,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7283,7 +7515,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 381,
+   "score_rank": 402,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7312,7 +7544,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 382,
+   "score_rank": 403,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7341,7 +7573,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 383,
+   "score_rank": 404,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7370,7 +7602,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 384,
+   "score_rank": 405,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7399,7 +7631,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 385,
+   "score_rank": 406,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7428,7 +7660,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 386,
+   "score_rank": 407,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7457,7 +7689,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 387,
+   "score_rank": 408,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7486,7 +7718,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 388,
+   "score_rank": 409,
    "score": 42,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7515,7 +7747,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 429,
+   "score_rank": 450,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7544,7 +7776,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 455,
+   "score_rank": 476,
    "score": 40,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7573,7 +7805,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 456,
+   "score_rank": 477,
    "score": 40,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7602,7 +7834,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 457,
+   "score_rank": 478,
    "score": 40,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7631,7 +7863,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 484,
+   "score_rank": 504,
    "score": 36,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7660,7 +7892,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 485,
+   "score_rank": 505,
    "score": 36,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7689,7 +7921,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 493,
+   "score_rank": 513,
    "score": 32,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -7718,7 +7950,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 209,
+   "score_rank": 231,
    "score": 53,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -7747,7 +7979,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 235,
+   "score_rank": 261,
    "score": 50,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -7776,7 +8008,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 348,
+   "score_rank": 371,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -7805,7 +8037,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 430,
+   "score_rank": 451,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -7834,7 +8066,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 431,
+   "score_rank": 452,
    "score": 41,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -7863,7 +8095,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 465,
+   "score_rank": 486,
    "score": 38,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -7892,7 +8124,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 466,
+   "score_rank": 487,
    "score": 38,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -7921,7 +8153,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 467,
+   "score_rank": 488,
    "score": 38,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -7950,7 +8182,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 432,
+   "score_rank": 453,
    "score": 41,
    "section": "Clinical / Research",
    "city_group": "Bangalore",
@@ -7979,7 +8211,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 2,
+   "score_rank": 3,
    "score": 83,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8008,7 +8240,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 12,
+   "score_rank": 21,
    "score": 73,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8037,7 +8269,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 31,
+   "score_rank": 43,
+   "score": 68,
+   "section": "Non-IT / Other",
+   "city_group": "Pune",
+   "geo_rank": 1,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Fraud Operations - Team Manager",
+   "company": "Barclays",
+   "location": "Pune, Gera Commerzone SEZ",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "and internal policies related to customer experience. Creation of a safe environment for colleagues to speak up, actively and regularly encourage and solicit feedback to ensure people agenda remains focused on the right areas. Management of attrition by working closely with HR in implementing",
+   "bulletin_pick": "",
+   "new_today": false,
+   "already_sent": false,
+   "id": "JR-0000125360",
+   "req_id": "JR-0000125360",
+   "status": "open (ATS verified)",
+   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Fraud-Operations---Team-Manager_JR-0000125360",
+   "source": "workday"
+  },
+  {
+   "score_rank": 44,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8066,7 +8327,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 38,
+   "score_rank": 52,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8095,7 +8356,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 39,
+   "score_rank": 53,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8124,7 +8385,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 40,
+   "score_rank": 54,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8153,7 +8414,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 41,
+   "score_rank": 55,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8182,7 +8443,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 42,
+   "score_rank": 56,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8211,7 +8472,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 43,
+   "score_rank": 57,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8240,7 +8501,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 69,
+   "score_rank": 84,
    "score": 64,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8269,7 +8530,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 70,
+   "score_rank": 85,
    "score": 64,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8298,7 +8559,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 77,
+   "score_rank": 92,
    "score": 63,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8327,7 +8588,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 90,
+   "score_rank": 105,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8356,7 +8617,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 91,
+   "score_rank": 106,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8385,7 +8646,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 92,
+   "score_rank": 107,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8414,7 +8675,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 93,
+   "score_rank": 108,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8443,7 +8704,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 94,
+   "score_rank": 109,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8472,7 +8733,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 95,
+   "score_rank": 110,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8501,7 +8762,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 96,
+   "score_rank": 111,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8530,7 +8791,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 113,
+   "score_rank": 129,
    "score": 61,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8559,7 +8820,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 133,
+   "score_rank": 149,
    "score": 59,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8588,7 +8849,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 134,
+   "score_rank": 150,
    "score": 59,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8617,7 +8878,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 152,
+   "score_rank": 169,
    "score": 58,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8646,7 +8907,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 153,
+   "score_rank": 170,
    "score": 58,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8675,7 +8936,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 175,
+   "score_rank": 197,
    "score": 56,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8704,7 +8965,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 176,
+   "score_rank": 198,
    "score": 56,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8733,7 +8994,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 192,
+   "score_rank": 213,
    "score": 55,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8762,7 +9023,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 193,
+   "score_rank": 214,
    "score": 55,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8791,7 +9052,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 194,
+   "score_rank": 215,
    "score": 55,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8820,7 +9081,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 210,
+   "score_rank": 232,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8849,7 +9110,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 211,
+   "score_rank": 233,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8878,7 +9139,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 212,
+   "score_rank": 234,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8907,7 +9168,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 213,
+   "score_rank": 235,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8965,7 +9226,65 @@
    "source": "lever"
   },
   {
-   "score_rank": 4,
+   "score_rank": 2,
+   "score": 84,
+   "section": "Non-IT / Other",
+   "city_group": "Mumbai",
+   "geo_rank": 2,
+   "posted": "2026-10-27",
+   "age_days": 6,
+   "title": "Officer - KYC Quality Metrics Analyst",
+   "company": "Citi",
+   "location": "Mumbai Maharashtra India",
+   "work_mode": "hybrid",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 2,
+   "exp_hint": "record with at least 2-4 years of relevant reporting, Metrics/MIS experienc",
+   "exp_label": "2-4 yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "and make a difference at one of the world’s most global banks. We’re fully committed to supporting your growth and development from the start with extensive on-the-job training and exposure to senior leaders, as well as more traditional learning. You’ll also have the chance to give back and make a",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "261004625-1",
+   "req_id": "261004625",
+   "status": "open (ATS verified)",
+   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Officer---KYC-Quality-Metrics-Analyst_261004625-1",
+   "source": "workday"
+  },
+  {
+   "score_rank": 6,
+   "score": 81,
+   "section": "Non-IT / Other",
+   "city_group": "Mumbai",
+   "geo_rank": 2,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Wholesale Credit Risk Sanctioning - LevFin - Analyst",
+   "company": "Barclays",
+   "location": "Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "unknown",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "JR-0000133976-1",
+   "req_id": "JR-0000133976",
+   "status": "open (ATS verified)",
+   "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1",
+   "source": "workday"
+  },
+  {
+   "score_rank": 7,
    "score": 81,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -8994,7 +9313,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 71,
+   "score_rank": 58,
+   "score": 67,
+   "section": "Non-IT / Other",
+   "city_group": "Mumbai",
+   "geo_rank": 2,
+   "posted": "2026-10-26",
+   "age_days": 7,
+   "title": "Cash and Trade Proc Analyst",
+   "company": "Citi",
+   "location": "Mumbai Maharashtra India",
+   "work_mode": "onsite",
+   "multi_city": false,
+   "fit_0_5": "unknown",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "and resources· Review KPI's· Review Statement of Work· Requirements gathering for Release/New Offering of Product or solution· Work with Dublin management team to develop consistent model and approach for Worldlink· MIS Reporting· Work with management team on all audit preparation tasks and ensure",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "261001863",
+   "req_id": "261001863",
+   "status": "open (ATS verified)",
+   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Cash-and-Trade-Proc-Analyst_261001863",
+   "source": "workday"
+  },
+  {
+   "score_rank": 86,
    "score": 64,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9023,7 +9371,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 114,
+   "score_rank": 130,
    "score": 61,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9052,7 +9400,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 115,
+   "score_rank": 131,
    "score": 61,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9081,7 +9429,7 @@
    "source": "lever"
   },
   {
-   "score_rank": 116,
+   "score_rank": 132,
    "score": 61,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9110,7 +9458,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 123,
+   "score_rank": 139,
    "score": 60,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9139,7 +9487,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 124,
+   "score_rank": 140,
    "score": 60,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9168,7 +9516,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 125,
+   "score_rank": 141,
    "score": 60,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9197,7 +9545,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 154,
+   "score_rank": 171,
    "score": 58,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9226,7 +9574,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 155,
+   "score_rank": 172,
    "score": 58,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9255,7 +9603,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 162,
+   "score_rank": 180,
    "score": 57,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9284,7 +9632,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 163,
+   "score_rank": 181,
    "score": 57,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9313,7 +9661,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 195,
+   "score_rank": 216,
    "score": 55,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9326,23 +9674,23 @@
    "work_mode": "hybrid",
    "multi_city": false,
    "fit_0_5": "no",
-   "exp_years_est": 10,
-   "exp_hint": "exposure: A minimum of 10 years of experience in management consulting and f",
-   "exp_label": "10 yrs",
+   "exp_years_est": 7,
+   "exp_hint": "A minimum of 7 years of experience in management consulting and f",
+   "exp_label": "7 yrs",
    "qualification": "Bachelor",
    "salary": "",
-   "requirements": "and knowledge as your career progresses. · We have a variety of programs that help employees balance their work and life, including generous paid time off packages. · We offer our employees resources and tools to volunteer in the communities in which they live and work. In 2019, Citi employee",
+   "requirements": "and target states Work closely with Technology teams throughout delivery, helping teams apply business requirements in solution design, implementation, and testing. Define program requirements, objectives, and plans, establishing the structure and controls necessary to ensure successful delivery",
    "bulletin_pick": "",
-   "new_today": false,
+   "new_today": true,
    "already_sent": false,
-   "id": "261004136",
-   "req_id": "261004136",
+   "id": "261005040-1",
+   "req_id": "261005040",
    "status": "open (ATS verified)",
-   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Program-Advisory--Consulting---Execution-Senior-Manager--Vice-President_261004136",
+   "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Program-Advisory--Consulting---Execution-Senior-Manager--Vice-President_261005040-1",
    "source": "workday"
   },
   {
-   "score_rank": 196,
+   "score_rank": 217,
    "score": 55,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9371,7 +9719,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 199,
+   "score_rank": 221,
    "score": 54,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9400,7 +9748,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 214,
+   "score_rank": 236,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9429,7 +9777,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 222,
+   "score_rank": 246,
    "score": 52,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9458,7 +9806,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 236,
+   "score_rank": 262,
    "score": 50,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9487,7 +9835,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 237,
+   "score_rank": 263,
    "score": 50,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9516,7 +9864,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 238,
+   "score_rank": 264,
    "score": 50,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9545,36 +9893,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 7,
-   "score": 75,
-   "section": "Non-IT / Other",
-   "city_group": "Remote (India)",
-   "geo_rank": 4,
-   "posted": "2026-10-28",
-   "age_days": 5,
-   "title": "Product Designer",
-   "company": "ServiceNow",
-   "location": "Hyderabad, Telangana, India",
-   "work_mode": "remote",
-   "multi_city": false,
-   "fit_0_5": "yes",
-   "exp_years_est": 2,
-   "exp_hint": "function or industry . 2+ years of relevant design experience (internships i",
-   "exp_label": "2+ yrs",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "and background - design systems, visual, interaction, content, and product design. At ServiceNow, design has a very intentional seat at the table, so our team collaborates closely with both engineering and product management from the get-go. Learn more about our team here",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": true,
-   "id": "744000158193067",
-   "req_id": "",
-   "status": "open (ATS verified)",
-   "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000158193067",
-   "source": "smartrecruiters"
-  },
-  {
-   "score_rank": 228,
+   "score_rank": 254,
    "score": 51,
    "section": "Non-IT / Other",
    "city_group": "Remote (India)",
@@ -9603,7 +9922,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 229,
+   "score_rank": 255,
    "score": 51,
    "section": "Non-IT / Other",
    "city_group": "Remote (India)",
@@ -9632,7 +9951,7 @@
    "source": "lever"
   },
   {
-   "score_rank": 230,
+   "score_rank": 256,
    "score": 51,
    "section": "Non-IT / Other",
    "city_group": "Remote (India)",
@@ -9661,7 +9980,7 @@
    "source": "lever"
   },
   {
-   "score_rank": 13,
+   "score_rank": 22,
    "score": 73,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9690,7 +10009,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 78,
+   "score_rank": 93,
    "score": 63,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9719,7 +10038,7 @@
    "source": "lever"
   },
   {
-   "score_rank": 97,
+   "score_rank": 112,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9748,7 +10067,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 197,
+   "score_rank": 218,
    "score": 55,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9777,7 +10096,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 239,
+   "score_rank": 265,
    "score": 50,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9806,7 +10125,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 282,
+   "score_rank": 307,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9835,7 +10154,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 324,
+   "score_rank": 348,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9864,7 +10183,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 349,
+   "score_rank": 372,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9893,7 +10212,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 350,
+   "score_rank": 373,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9922,7 +10241,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 351,
+   "score_rank": 374,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9951,7 +10270,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 352,
+   "score_rank": 375,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -9980,7 +10299,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 353,
+   "score_rank": 376,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -10009,7 +10328,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 389,
+   "score_rank": 410,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -10038,7 +10357,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 6,
+   "score_rank": 13,
    "score": 76,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10067,7 +10386,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 14,
+   "score_rank": 15,
+   "score": 74,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Technology Business Systems Consultant",
+   "company": "Wells Fargo",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 3,
+   "exp_hint": "hands‑on experience (3–4+ years) supporting Loan IQ operations, including pr",
+   "exp_label": "3-4 yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "Review and evaluate moderately complex technical business problems that can be resolved through internet or intranet based solutions Present recommendations for resolving business problems Exercise some independent judgment when developing project budgets, project plans, and schedules Provide",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "R-568049",
+   "req_id": "R-568049",
+   "status": "open (ATS verified)",
+   "apply_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Technology-Business-Systems-Consultant_R-568049",
+   "source": "workday"
+  },
+  {
+   "score_rank": 23,
    "score": 73,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10096,7 +10444,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 21,
+   "score_rank": 30,
    "score": 71,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10125,7 +10473,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 25,
+   "score_rank": 35,
    "score": 70,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10154,7 +10502,65 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 28,
+   "score_rank": 36,
+   "score": 70,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Trust and Privacy TPM, Devices & Services Trust, Privacy, and Accessibility",
+   "company": "Amazon",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 3,
+   "exp_hint": "science or equivalent - 3+ years of technical product or program management e",
+   "exp_label": "3+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "10592051",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10592051/trust-and-privacy-tpm-devices-services-trust-privacy-and-accessibility",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 37,
+   "score": 70,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Trust & Privacy Program Mgr., Devices & Services Trust, Privacy, and Accessibility (TPA)",
+   "company": "Amazon",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 3,
+   "exp_hint": "- Bachelor's degree - 3+ years of program or project management experience",
+   "exp_label": "3+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "and using data and metrics to determine improvements",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "10592048",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10592048/trust-privacy-program-mgr-devices-services-trust-privacy-and-accessibility-tpa",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 40,
    "score": 69,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10183,7 +10589,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 32,
+   "score_rank": 45,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10212,7 +10618,36 @@
    "source": "workday"
   },
   {
-   "score_rank": 44,
+   "score_rank": 46,
+   "score": 68,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Commercial Loan Closing Associate",
+   "company": "Wells Fargo",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "unknown",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "Manage an assigned portfolio of loans Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals Interact with internal customers Receive direction from leaders and exercise independent judgment while developing the knowledge to understand function, policies,",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "R-579873",
+   "req_id": "R-579873",
+   "status": "open (ATS verified)",
+   "apply_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-579873",
+   "source": "workday"
+  },
+  {
+   "score_rank": 59,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10241,7 +10676,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 59,
+   "score_rank": 73,
    "score": 65,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10270,7 +10705,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 60,
+   "score_rank": 74,
    "score": 65,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10299,7 +10734,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 61,
+   "score_rank": 75,
    "score": 65,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10328,7 +10763,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 62,
+   "score_rank": 76,
    "score": 65,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10357,7 +10792,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 63,
+   "score_rank": 77,
    "score": 65,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10386,7 +10821,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 72,
+   "score_rank": 87,
    "score": 64,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10415,7 +10850,36 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 117,
+   "score_rank": 133,
+   "score": 61,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Sr Analyst – Innovation & Portfolio",
+   "company": "Bosch",
+   "location": "bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 3,
+   "exp_hint": "fields. Experience 3-5 years of experience in Program Management, PMO, In",
+   "exp_label": "3-5 yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "Strong organizational and execution skills Data analysis and dashboard creation Presentation and executive communication skills Proficiency in Excel, PowerPoint, Power tools. Ideal Candidate A self-driven professional who has worked in startups, incubators, accelerators, corporate venture programs,",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "744000159056739",
+   "req_id": "",
+   "status": "open (ATS verified)",
+   "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000159056739",
+   "source": "smartrecruiters"
+  },
+  {
+   "score_rank": 134,
    "score": 61,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10444,7 +10908,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 135,
+   "score_rank": 151,
    "score": 59,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10473,7 +10937,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 136,
+   "score_rank": 152,
    "score": 59,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10502,7 +10966,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 137,
+   "score_rank": 153,
    "score": 59,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10531,7 +10995,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 164,
+   "score_rank": 182,
    "score": 57,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10560,7 +11024,36 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 177,
+   "score_rank": 183,
+   "score": 57,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Senior Content Designer",
+   "company": "ServiceNow",
+   "location": "Bangalore, Karnataka, India",
+   "work_mode": "hybrid",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 5.5,
+   "exp_hint": "Basic Qualifications: 5-10 years of experience in content design, UX writing,",
+   "exp_label": "5-10 yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "5-10 years of experience in content design, UX writing, or content strategy for software products A portfolio that shows how you approach problems in complex products, not just final copy Experience with B2B or technical products, such as admin, configuration, developer, or data tools Expert",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "744000159054169",
+   "req_id": "",
+   "status": "open (ATS verified)",
+   "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000159054169",
+   "source": "smartrecruiters"
+  },
+  {
+   "score_rank": 199,
    "score": 56,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10589,7 +11082,65 @@
    "source": "workday"
   },
   {
-   "score_rank": 215,
+   "score_rank": 200,
+   "score": 56,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Senior Sourcing Consultant",
+   "company": "Wells Fargo",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 4,
+   "exp_hint": "Qualifications: 4+ years of Sourcing, Procurement experience, or equi",
+   "exp_label": "4+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "4+ years of Sourcing, Procurement experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: Experience in end-to-end strategic sourcing and RFx management , including supplier evaluation",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "R-565118",
+   "req_id": "R-565118",
+   "status": "open (ATS verified)",
+   "apply_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Sourcing-Consultant_R-565118",
+   "source": "workday"
+  },
+  {
+   "score_rank": 237,
+   "score": 53,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-01",
+   "age_days": 1,
+   "title": "Senior Professional Services Consultant- APAC",
+   "company": "Zscaler",
+   "location": "Bangalore, IND",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 8.5,
+   "exp_hint": "Qualifications)&nbsp; 8+ years of experience in customer-facing technical r",
+   "exp_label": "8+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "deep technical depth, a strategic consulting mindset, and the ability to engage equally well with hands-on engineering teams and senior business stakeholders — delivering outcomes that are secure, scalable, and built to last. Work Shift : APAC time (aligned with APAC enterprise customers) What",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "5269086007",
+   "req_id": "261012_B20913",
+   "status": "open (ATS verified)",
+   "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5269086007",
+   "source": "greenhouse"
+  },
+  {
+   "score_rank": 238,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10618,7 +11169,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 216,
+   "score_rank": 239,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10647,7 +11198,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 217,
+   "score_rank": 240,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10676,7 +11227,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 223,
+   "score_rank": 247,
    "score": 52,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10705,7 +11256,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 224,
+   "score_rank": 248,
    "score": 52,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10734,7 +11285,65 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 231,
+   "score_rank": 249,
+   "score": 52,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Applied Science Manager",
+   "company": "Amazon",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 6.5,
+   "exp_hint": "management experience - 6+ years of building machine learning models or devel",
+   "exp_label": "6+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "10593544",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10593544/applied-science-manager",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 250,
+   "score": 52,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Sr. TPM - Trust and Privacy, Devices & Services Trust, Privacy, and Accessibility (TPA)",
+   "company": "Amazon",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 7.5,
+   "exp_hint": "management experience - 7+ years of working directly with engineering teams e",
+   "exp_label": "7+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "10592046",
+   "req_id": "",
+   "status": "open (listed in employer's live search)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10592046/sr-tpm-trust-and-privacy-devices-services-trust-privacy-and-accessibility-tpa",
+   "source": "amazon"
+  },
+  {
+   "score_rank": 257,
    "score": 51,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10763,7 +11372,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 232,
+   "score_rank": 258,
    "score": 51,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10792,7 +11401,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 243,
+   "score_rank": 269,
    "score": 49,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10821,7 +11430,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 244,
+   "score_rank": 270,
    "score": 49,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10850,7 +11459,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 245,
+   "score_rank": 271,
    "score": 49,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10879,7 +11488,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 256,
+   "score_rank": 282,
    "score": 48,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10908,7 +11517,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 257,
+   "score_rank": 283,
    "score": 48,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10937,7 +11546,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 283,
+   "score_rank": 308,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10966,7 +11575,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 284,
+   "score_rank": 309,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10995,7 +11604,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 285,
+   "score_rank": 310,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11024,7 +11633,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 286,
+   "score_rank": 311,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11053,7 +11662,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 287,
+   "score_rank": 312,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11082,7 +11691,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 288,
+   "score_rank": 313,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11111,7 +11720,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 289,
+   "score_rank": 314,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11140,7 +11749,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 290,
+   "score_rank": 315,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11169,7 +11778,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 291,
+   "score_rank": 316,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11198,7 +11807,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 292,
+   "score_rank": 317,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11227,7 +11836,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 293,
+   "score_rank": 318,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11256,7 +11865,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 294,
+   "score_rank": 319,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11285,7 +11894,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 295,
+   "score_rank": 320,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11314,7 +11923,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 296,
+   "score_rank": 321,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11343,7 +11952,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 297,
+   "score_rank": 322,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11372,7 +11981,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 302,
+   "score_rank": 327,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11401,7 +12010,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 303,
+   "score_rank": 328,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11430,7 +12039,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 304,
+   "score_rank": 329,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11459,7 +12068,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 305,
+   "score_rank": 330,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11488,7 +12097,7 @@
    "source": "lever"
   },
   {
-   "score_rank": 306,
+   "score_rank": 331,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11517,7 +12126,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 307,
+   "score_rank": 332,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11546,7 +12155,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 308,
+   "score_rank": 333,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11575,7 +12184,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 309,
+   "score_rank": 334,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11604,7 +12213,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 310,
+   "score_rank": 335,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11633,7 +12242,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 325,
+   "score_rank": 349,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11662,7 +12271,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 326,
+   "score_rank": 350,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11691,7 +12300,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 354,
+   "score_rank": 377,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11720,7 +12329,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 355,
+   "score_rank": 378,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11749,7 +12358,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 356,
+   "score_rank": 379,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11778,7 +12387,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 357,
+   "score_rank": 380,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11807,7 +12416,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 358,
+   "score_rank": 381,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11836,7 +12445,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 359,
+   "score_rank": 382,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11865,7 +12474,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 360,
+   "score_rank": 383,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11894,7 +12503,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 370,
+   "score_rank": 392,
    "score": 43,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11923,7 +12532,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 371,
+   "score_rank": 393,
    "score": 43,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11952,7 +12561,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 372,
+   "score_rank": 394,
    "score": 43,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11981,7 +12590,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 373,
+   "score_rank": 395,
    "score": 43,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12010,7 +12619,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 390,
+   "score_rank": 411,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12039,7 +12648,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 391,
+   "score_rank": 412,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12068,7 +12677,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 433,
+   "score_rank": 454,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12097,7 +12706,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 434,
+   "score_rank": 455,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12126,7 +12735,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 435,
+   "score_rank": 456,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12155,7 +12764,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 436,
+   "score_rank": 457,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12184,7 +12793,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 437,
+   "score_rank": 458,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12213,7 +12822,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 438,
+   "score_rank": 459,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12242,7 +12851,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 439,
+   "score_rank": 460,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12271,7 +12880,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 440,
+   "score_rank": 461,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12300,7 +12909,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 441,
+   "score_rank": 462,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12329,7 +12938,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 442,
+   "score_rank": 463,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12358,7 +12967,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 443,
+   "score_rank": 464,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12387,7 +12996,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 444,
+   "score_rank": 465,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12416,7 +13025,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 445,
+   "score_rank": 466,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12445,7 +13054,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 446,
+   "score_rank": 467,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12474,7 +13083,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 447,
+   "score_rank": 468,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12503,7 +13112,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 448,
+   "score_rank": 469,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12532,7 +13141,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 449,
+   "score_rank": 470,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12561,7 +13170,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 450,
+   "score_rank": 471,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12590,7 +13199,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 458,
+   "score_rank": 479,
    "score": 40,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12619,7 +13228,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 459,
+   "score_rank": 480,
    "score": 40,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12648,7 +13257,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 464,
+   "score_rank": 485,
    "score": 39,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12677,7 +13286,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 468,
+   "score_rank": 489,
    "score": 38,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12706,7 +13315,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 482,
+   "score_rank": 502,
    "score": 37,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12735,7 +13344,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 483,
+   "score_rank": 503,
    "score": 37,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12764,7 +13373,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 489,
+   "score_rank": 509,
    "score": 35,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12793,7 +13402,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 490,
+   "score_rank": 510,
    "score": 35,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12822,7 +13431,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 491,
+   "score_rank": 511,
    "score": 35,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12851,7 +13460,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 492,
+   "score_rank": 512,
    "score": 35,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -12880,7 +13489,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 45,
+   "score_rank": 60,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Chennai",
@@ -12909,7 +13518,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 374,
+   "score_rank": 396,
    "score": 43,
    "section": "Non-IT / Other",
    "city_group": "Chennai",
@@ -12938,36 +13547,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 375,
-   "score": 43,
-   "section": "Non-IT / Other",
-   "city_group": "Chennai",
-   "geo_rank": 7,
-   "posted": "2026-10-26",
-   "age_days": 7,
-   "title": "Manager, Financial Planning & Analysis",
-   "company": "PayPal",
-   "location": "Chennai, Tamil Nadu, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "no",
-   "exp_years_est": 5.5,
-   "exp_hint": "Minimum Qualifications: 5+ years relevant experience and a Bachelor’s degree",
-   "exp_label": "5+ yrs",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Your way to impact: Turn transaction-level data into clear insight on what is driving take rate, TE rate and margin: mix, card",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "R0138307",
-   "req_id": "R0138307",
-   "status": "open (ATS verified)",
-   "apply_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Manager--Financial-Planning---Analysis_R0138307",
-   "source": "workday"
-  },
-  {
-   "score_rank": 8,
+   "score_rank": 16,
    "score": 74,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -12996,7 +13576,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 29,
+   "score_rank": 41,
    "score": 69,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13025,7 +13605,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 46,
+   "score_rank": 61,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13054,7 +13634,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 50,
+   "score_rank": 65,
    "score": 66,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13083,7 +13663,7 @@
    "source": "greenhouse"
   },
   {
-   "score_rank": 64,
+   "score_rank": 78,
    "score": 65,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13112,7 +13692,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 98,
+   "score_rank": 113,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13141,7 +13721,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 99,
+   "score_rank": 114,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13170,7 +13750,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 156,
+   "score_rank": 173,
    "score": 58,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13199,7 +13779,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 178,
+   "score_rank": 201,
    "score": 56,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13228,7 +13808,36 @@
    "source": "amazon"
   },
   {
-   "score_rank": 225,
+   "score_rank": 219,
+   "score": 55,
+   "section": "Non-IT / Other",
+   "city_group": "Hyderabad",
+   "geo_rank": 9,
+   "posted": "2026-11-02",
+   "age_days": 0,
+   "title": "Staff Engineer, Analog Design",
+   "company": "Micron",
+   "location": "Hyderabad - Phoenix Aquila, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "into detailed circuit specifications, architectures, schematics, verification plans, and clear design documentation. · Perform transistor-level design and optimization to meet performance, power, area, noise, and reliability targets. · Conduct DC, AC, transient, noise, Monte Carlo, and corner",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "JR113578-1",
+   "req_id": "JR113578",
+   "status": "open (ATS verified)",
+   "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--Analog-Design_JR113578-1",
+   "source": "workday"
+  },
+  {
+   "score_rank": 251,
    "score": 52,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13257,7 +13866,7 @@
    "source": "lever"
   },
   {
-   "score_rank": 233,
+   "score_rank": 259,
    "score": 51,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13286,7 +13895,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 240,
+   "score_rank": 266,
    "score": 50,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13315,7 +13924,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 246,
+   "score_rank": 272,
    "score": 49,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13344,7 +13953,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 247,
+   "score_rank": 273,
    "score": 49,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13373,7 +13982,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 248,
+   "score_rank": 274,
    "score": 49,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13402,7 +14011,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 258,
+   "score_rank": 284,
    "score": 48,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13431,7 +14040,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 259,
+   "score_rank": 285,
    "score": 48,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13460,7 +14069,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 260,
+   "score_rank": 286,
    "score": 48,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13489,7 +14098,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 261,
+   "score_rank": 287,
    "score": 48,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13518,7 +14127,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 298,
+   "score_rank": 323,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13547,7 +14156,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 327,
+   "score_rank": 351,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13576,7 +14185,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 328,
+   "score_rank": 352,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13605,7 +14214,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 361,
+   "score_rank": 384,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13634,7 +14243,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 392,
+   "score_rank": 413,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13663,7 +14272,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 393,
+   "score_rank": 414,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13692,7 +14301,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 394,
+   "score_rank": 415,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13721,7 +14330,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 395,
+   "score_rank": 416,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13750,7 +14359,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 396,
+   "score_rank": 417,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13779,7 +14388,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 397,
+   "score_rank": 418,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13808,7 +14417,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 398,
+   "score_rank": 419,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13837,7 +14446,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 399,
+   "score_rank": 420,
    "score": 42,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -13866,7 +14475,7 @@
    "source": "amazon"
   },
   {
-   "score_rank": 311,
+   "score_rank": 336,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Ahmedabad",
@@ -13895,36 +14504,7 @@
    "source": "lever"
   },
   {
-   "score_rank": 179,
-   "score": 56,
-   "section": "Non-IT / Other",
-   "city_group": "Other India",
-   "geo_rank": 11,
-   "posted": "2026-10-30",
-   "age_days": 3,
-   "title": "FG Analyst",
-   "company": "Micron",
-   "location": "Sanand - 303A - AT/SSD/MOD, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "unknown",
-   "exp_years_est": "",
-   "exp_hint": "",
-   "exp_label": "",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "to Fulfill Business Unit Expectations Monitor area function and activity to ensure proper staffing levels, equipment, and materials are available Monitor forecasts to ensure that proper staffing levels, equipment, and materials are available Prepare data and help to drive requests for additional",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "JR115511-1",
-   "req_id": "JR115511",
-   "status": "open (ATS verified)",
-   "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/FG-Analyst_JR115511-1",
-   "source": "workday"
-  },
-  {
-   "score_rank": 200,
+   "score_rank": 222,
    "score": 54,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -13953,7 +14533,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 218,
+   "score_rank": 241,
    "score": 53,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -13982,7 +14562,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 329,
+   "score_rank": 353,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14011,7 +14591,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 362,
+   "score_rank": 385,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14040,7 +14620,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 363,
+   "score_rank": 386,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14069,7 +14649,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 451,
+   "score_rank": 472,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14098,7 +14678,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 452,
+   "score_rank": 473,
    "score": 41,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14127,7 +14707,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 469,
+   "score_rank": 490,
    "score": 38,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14156,7 +14736,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 470,
+   "score_rank": 491,
    "score": 38,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14185,7 +14765,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 471,
+   "score_rank": 492,
    "score": 38,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14214,7 +14794,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 472,
+   "score_rank": 493,
    "score": 38,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14243,7 +14823,7 @@
    "source": "workday"
   },
   {
-   "score_rank": 486,
+   "score_rank": 506,
    "score": 36,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14272,7 +14852,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 487,
+   "score_rank": 507,
    "score": 36,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -14301,7 +14881,7 @@
    "source": "smartrecruiters"
   },
   {
-   "score_rank": 494,
+   "score_rank": 514,
    "score": 32,
    "section": "Non-IT / Other",
    "city_group": "Other India",

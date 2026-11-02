@@ -1,23 +1,23 @@
-# SERVE ranked list: Banking & Finance jobs (0-5 years, matched by keyword), collected 2026-11-02 03:57 UTC
-8 jobs, best score first: 0 from today/yesterday, 8 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Banking & Finance jobs (0-5 years, matched by keyword), collected 2026-11-02 06:30 UTC
+8 jobs, best score first: 2 from today/yesterday, 6 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Banking Operations Specialist | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 83
-   - Fit: yes | & Functional Skills: 1–2 years of relevant professional experience within b
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: 1–2 years of relevant professional experience within banking operations, financial services processing, or a corporate business operations environment. Proven experience working with retail banking products, transaction processing, and customer account maintenance. Demonstrated hands-on capability
-   - ID: 26996280 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Banking-Operations-Specialist_26996280
+1. **Officer - KYC Quality Metrics Analyst | Citi**
+   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-10-27 (6 days ago) | fallback | Score 84
+   - Fit: yes | record with at least 2-4 years of relevant reporting, Metrics/MIS experienc
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Requirements: and make a difference at one of the world’s most global banks. We’re fully committed to supporting your growth and development from the start with extensive on-the-job training and exposure to senior leaders, as well as more traditional learning. You’ll also have the chance to give back and make a
+   - ID: 261004625-1 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Officer---KYC-Quality-Metrics-Analyst_261004625-1
 
-2. **Corporate Banking Analyst | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 74
-   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: 2+ years of Securities Research experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education. MBA, CA, CFA or Masters in Finance from a premier education institute Strong inclination towards building a career in
-   - ID: R-576872-1 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Corporate-Banking-Analyst_R-576872-1
+2. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
+   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 81
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and
+   - ID: JR-0000133976-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
 
 3. **Analyst, Risk Management | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Non-IT / Other
@@ -37,7 +37,16 @@
    - ID: 8324207 | open (ATS verified)
    - Apply: https://stripe.com/jobs/search?gh_jid=8324207
 
-5. **Process Associate ( CA OR Semi Qualified)  | Bosch**
+5. **Commercial Loan Closing Associate | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 68
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Manage an assigned portfolio of loans Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals Interact with internal customers Receive direction from leaders and exercise independent judgment while developing the knowledge to understand function, policies,
+   - ID: R-579873 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-579873
+
+6. **Process Associate ( CA OR Semi Qualified)  | Bosch**
    - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-29 (4 days ago) | fallback | Score 67
    - Fit: yes | : CA Fresher, Minimum 3-5 Years’ experience in medium or large manufacturing
@@ -46,7 +55,7 @@
    - ID: 744000158466524 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158466524
 
-6. **HR Global Services Advisor | HP**
+7. **HR Global Services Advisor | HP**
    - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-27 (6 days ago) | fallback | Score 67
    - Fit: yes | • Typically has 0-2 years of work experience, preferably in customer s
@@ -54,15 +63,6 @@
    - Requirements: Agile Methodology • Auditing • Automation • Business Process • Business Requirements • Computer Science • Dashboard • Data Analysis • Data Integrity • Finance • Human Capital • Human Resources Information System (HRIS) • People Analytics • Power BI • Process Improvement • Project Management • SQL
    - ID: 3170131-1 | open (ATS verified)
    - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/HR-Global-Services-Advisor_3170131-1
-
-7. **Financial Crime Agile Testing Specialist | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (6 days ago) | fallback | Score 62
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: and ensuring that the bank’s internal policies are aligned with international standards, including jurisdictional requirements. Collaboration with 1LOD, other relevant Compliance teams and legal, and relevant risk management functions to facilitate a comprehensive approach to compliance and risk
-   - ID: JR-0000134222 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Financial-Crime-Agile-Testing-Specialist_JR-0000134222
 
 8. **Executive, Finance | Razorpay**
    - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
