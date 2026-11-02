@@ -14,6 +14,7 @@ sorts them into sections (IT / Data / Security / ... / Non-IT) and cities, and w
     it_jobs_shortlist.md    all IT jobs for 0-5 years (fit yes / unknown)
     jobs_latest.md          every job, by section then city (the workflow reads its header to skip a run already done)
     jobs_latest.csv         same data as a table for Google Sheets / Excel (sort and filter)
+    jobs_latest.json        same rows as JSON, read by serve-jobs.web.app
   data/   working files only:
     sent_ids.txt            you add what you posted; lines are cleared after 7 days
     run_report.json         which boards worked
@@ -931,6 +932,22 @@ CSV_COLUMNS = ["score_rank", "score", "section", "city_group", "geo_rank", "post
                "apply_url", "source"]
 
 
+def write_json(jobs, picks, meta):
+    """Same rows as the CSV, for serve-jobs.web.app (its sync reads this file from the repo)."""
+    picked = {(p["company"], str(p["id"])): n for n, p in enumerate(picks, 1)}
+    ranked = sorted(jobs, key=lambda j: -j["score"])
+    rank = {(j["company"], str(j["id"])): n for n, j in enumerate(ranked, 1)}
+    rows = []
+    for j in jobs:
+        k = (j["company"], str(j["id"]))
+        row = dict(j, section=dsec(j), score_rank=rank[k], bulletin_pick=picked.get(k, ""))
+        rows.append({c: (row.get(c) if row.get(c) is not None else "") for c in CSV_COLUMNS})
+    out = {"generated_utc": meta["generated_utc"], "window_days": meta["window_days"],
+           "job_count": len(rows), "jobs": rows}
+    with open(os.path.join(outdir(), "jobs_latest.json"), "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+
+
 def write_csv(jobs, picks):
     """One row per job. utf-8-sig so Excel opens it correctly; Google Sheets reads it too."""
     picked = {(p["company"], str(p["id"])): n for n, p in enumerate(picks, 1)}
@@ -1096,6 +1113,7 @@ def write_outputs(jobs, report):
     with open(os.path.join(outdir(), "bulletin_pick.md"), "w") as f:
         f.write("\n".join(pick_markdown(picks, meta)))
     write_csv(jobs, picks)
+    write_json(jobs, picks, meta)
     write_ranked(jobs, meta)
     prune_old()
     meta["picked"] = len(picks)
