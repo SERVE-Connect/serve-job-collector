@@ -1,4 +1,4 @@
-# SERVE ranked list: Jobs in Delhi NCR / Haryana (all domains, all experience levels), collected 2026-11-01 23:40 UTC
+# SERVE ranked list: Jobs in Delhi NCR / Haryana (all domains, all experience levels), collected 2026-11-02 03:57 UTC
 10 jobs, best score first: 0 from today/yesterday, 10 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Associate II - Claims - FTE | Zinnia**

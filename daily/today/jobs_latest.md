@@ -1,5 +1,5 @@
-# SERVE jobs, collected 2026-11-01 23:40 UTC
-Window: last 7 days. Boards read OK: 53. Boards failed: 0. Jobs: 494 (IT: 273).
+# SERVE jobs, collected 2026-11-02 03:57 UTC
+Window: last 7 days. Boards read OK: 53. Boards failed: 0. Jobs: 494 (IT: 274).
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
@@ -511,7 +511,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Data Management Analyst | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-10-30 (3 days ago) | New today: yes
+- Posted: 2026-10-30 (3 days ago) | New today: no
 - Fit: yes | Qualifications: 4+ years of Data Management, Business Analysis, Analy | Score: 63
 - Experience: 4+ yrs | Qualification: Bachelor
 - Requirements: , with the ability to manage assigned deliverables from requirements through implementation. Familiarity with artificial intelligence, machine learning, or data science concepts—and an interest in applying these capabilities responsibly to data management use cases—is important. Knowledge of data
@@ -719,9 +719,18 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10587803 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10587803/software-development-engineer-ii-amazon-finauto-gref-workplace-support-tech
 
-## Senior IT roles (5+ yrs) (196)
+## Senior IT roles (5+ yrs) (197)
 
-### Pune (57)
+### Pune (58)
+
+**Senior Performance Engineer | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Fit: no | Score: 68
+- Qualification: Bachelor
+- Requirements: , participate in design discussions, and contribute to the development of acceptance criteria, ensuring a thorough understanding of the software being tested. Root cause analysis for identified defects, working closely with developers to provide detailed information and support defect resolution.
+- ID: JR-0000125972 / JR-0000125972 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Performance-Engineer_JR-0000125972
 
 **Reengineering Sr Analyst - C12 - PUNE | Citi**
 - Location: Pune Maharashtra India | Work mode: hybrid
@@ -869,7 +878,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **AI Principal Architect | Mastercard**
 - Location: Pune, India | Work mode: unspecified
-- Posted: 2026-10-30 (3 days ago) | New today: no
+- Posted: 2026-10-30 (3 days ago) | New today: yes
 - Fit: no | Score: 59
 - Qualification: Bachelor
 - Requirements: based agent systems (e.g., LangGraph, CrewAI, AutoGen), including when to use agents versus deterministic workflows and how agents coordinate, delegate, and share context. • Design self-correcting agent patterns: tool critics and verifiers that check tool selection, arguments, and results, plus
@@ -931,7 +940,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Platform Architect (Infrastructure Design, IaaS, Cloud Architecture, F5, Network Security) | Mastercard**
 - Location: Pune, India | Work mode: unspecified
-- Posted: 2026-10-29 (4 days ago) | New today: no | ALREADY SENT
+- Posted: 2026-10-29 (4 days ago) | New today: yes | ALREADY SENT
 - Fit: no | Skills & Experience • 5-9 years of overall career experience in a similar ro | Score: 58
 - Experience: 5-9 yrs | Qualification: Master
 - Requirements: Essential Knowledge, Skills & Experience • 5-9 years of overall career experience in a similar role or Technology • Deep expertise in enterprise infrastructure architecture across data center, hybrid cloud, and distributed computing environments. • Advanced knowledge of enterprise networking,
@@ -1093,7 +1102,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Engineer - Python and Data – Assistant Vice President | Citi**
 - Location: Pune Maharashtra India | Work mode: hybrid
-- Posted: 2026-10-28 (5 days ago) | New today: no | ALREADY SENT
+- Posted: 2026-10-28 (5 days ago) | New today: yes | ALREADY SENT
 - Fit: no | Qualifications & Skills 8+ years of professional software engineering experie | Score: 56
 - Experience: 8+ yrs | Qualification: Bachelor
 - Requirements: . Required Qualifications & Skills 8+ years of professional software engineering experience, with solid hands-on experience building backend applications and data pipelines in Python. Strong proficiency in SQL, relational database design, query optimization, indexing strategies and database
@@ -1305,7 +1314,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Assurance Engineering Platform Developer SMTS / LMTS | Salesforce**
 - Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-11-01 (1 days ago) | New today: yes
+- Posted: 2026-11-01 (1 days ago) | New today: no
 - Fit: no | If... Experience: 6–13 years of professional full-stack software engineer | Score: 53
 - Experience: 6-13 yrs | Qualification: Bachelor
 - Requirements: into high-level architecture designs, concrete technical epics, and actionable execution plans. Systems Engineering: Deep mastery of both Python and Java, including enterprise frameworks (e.g., FastAPI, Django, Flask, Spring Boot) and microservices design patterns. Front-End Architecture: Advanced
@@ -1314,7 +1323,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Lead Data Management Analyst | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-10-30 (3 days ago) | New today: no | ALREADY SENT
+- Posted: 2026-10-30 (3 days ago) | New today: yes | ALREADY SENT
 - Fit: no | Qualifications: 7+ years of Data Management, Business Analysis, Analy | Score: 52
 - Experience: 7+ yrs | Qualification: Bachelor
 - Requirements: , design direction, and adoption rather than product engineering. In this role, you will: Act as an advisor to leadership to develop or influence objectives, plans, specifications, resources, and long-term goals for highly complex business and technical needs Design and conduct highly complex
@@ -1377,7 +1386,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Technical Architect- Salesforce Devops | Salesforce**
 - Location: India - Bangalore India - Hyderabad India | Work mode: unspecified
-- Posted: 2026-10-30 (3 days ago) | New today: no
+- Posted: 2026-10-30 (3 days ago) | New today: yes
 - Fit: no | access control. 10–16 years of experience in software engineering, DevOp | Score: 47
 - Experience: 10-16 yrs | Qualification: Bachelor
 - Requirements: . Branching Strategy & Version Control Governance: Define and enforce the Hub-wide Git branching strategy — including branch naming conventions, merge policies, pull request standards, conflict resolution protocols and release tagging — ensuring all Salesforce DX source code, metadata and
@@ -1467,7 +1476,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Distinguished AI Engineer | Capital One**
 - Location: Bangalore, In | Work mode: unspecified
-- Posted: 2026-10-30 (3 days ago) | New today: yes
+- Posted: 2026-10-30 (3 days ago) | New today: no
 - Fit: no | Qualifications: 10+ years of experience deploying scalable and respons | Score: 47
 - Experience: 10+ yrs | Qualification: Bachelor
 - Requirements: the courage to share new ideas even when they are unproven. You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss. You are a resilient trail
@@ -1592,7 +1601,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Software Engineer -  F5 BIG-IP (LTM/GTM/DNS/WAF) and AVI Load Balancers | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-10-29 (4 days ago) | New today: yes
+- Posted: 2026-10-29 (4 days ago) | New today: no
 - Fit: no | Qualifications: 4+ years of Software Engineering experience, or equiv | Score: 44
 - Experience: 4+ yrs | Qualification: Bachelor
 - Requirements: Collaborate and consult with peers, colleagues, and mid-level managers to resolve technical challenges and achieve goals Lead projects and act as an escalation point, provide guidance and direction to less experienced staff Required Qualifications: 4+ years of Software Engineering experience, or
@@ -2085,7 +2094,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Software Engineer - Backend (Java) | PayPal**
 - Location: Chennai, Tamil Nadu, India | Work mode: unspecified
-- Posted: 2026-11-01 (1 days ago) | New today: yes
+- Posted: 2026-11-01 (1 days ago) | New today: no
 - Fit: no | discipline with 4-6 years of experience. • Strong applied experience: | Score: 55
 - Experience: 4-6 yrs | Qualification: Bachelor
 - Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Your way to impact • Protect customers and PayPal by building real-time risk systems that scale across millions of transactions. •
@@ -2114,7 +2123,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Information Security Senior Associate | Salesforce**
 - Location: India - Hyderabad | Work mode: unspecified
-- Posted: 2026-11-01 (1 days ago) | New today: yes
+- Posted: 2026-11-01 (1 days ago) | New today: no
 - Fit: no | Score: 57
 - Qualification: Bachelor
 - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
@@ -2203,7 +2212,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000158496239
 
 **Sr Software Engineer | ServiceNow**
-- Location: Hyderabad, India | Work mode: unspecified | Also hiring in: Hyderabad, Telangana, India
+- Location: Hyderabad, India | Work mode: unspecified
 - Posted: 2026-10-29 (4 days ago) | New today: no
 - Fit: no | requires a minimum of 5 years of related experience with a Bachelor's degr | Score: 45
 - Experience: 5 yrs | Qualification: Bachelor
@@ -2410,7 +2419,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Principal Engineer Assy Equipment & Process | Micron**
 - Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
-- Posted: 2026-11-02 (0 days ago) | New today: yes
+- Posted: 2026-11-02 (0 days ago) | New today: no
 - Fit: no | preferred. Experience 12+ years of semiconductor manufacturing experience. 5 | Score: 53
 - Experience: 12+ yrs | Qualification: Bachelor
 - Requirements: . Manage equipment lifecycle activities including procurement, installation, qualification, upgrades, and decommissioning. Partner with Operations, PDE, Quality, Manufacturing, Facilities, and Global Teams to achieve operational objectives. Operational Excellence Drive continuous improvement
@@ -2419,7 +2428,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **IN_RBIN_Assistant Manager/Senior Engineer_Process Planner | Bosch**
 - Location: Nashik, Maharashtra, India | Work mode: unspecified
-- Posted: 2026-11-01 (1 days ago) | New today: yes
+- Posted: 2026-11-01 (1 days ago) | New today: no
 - Fit: no | Years of experience : 1~3 yrs in industry (Automotive, Precision component | Score: 50
 - Experience: 3 yrs | Qualification: Bachelor
 - Requirements: from customers, stakeholders as well as standards and regulatory requirements into technical inputs to establish value stream capable of fulfilling needs of customer and stake holder expectations, conforming to standards & guidelines as well as continuously enhancing value stream efficiency &
@@ -2490,9 +2499,9 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000157751377 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157751377
 
-## Non-IT / Other (220)
+## Non-IT / Other (219)
 
-### Pune (34)
+### Pune (33)
 
 **Banking Operations Specialist | Citi**
 - Location: Pune Maharashtra India | Work mode: hybrid
@@ -2568,7 +2577,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **BGSW_SAP_EWM_Sr.Consultant | Bosch**
 - Location: pune, India | Work mode: unspecified
-- Posted: 2026-11-01 (1 days ago) | New today: yes
+- Posted: 2026-11-01 (1 days ago) | New today: no
 - Fit: no | professional Minimum 10+ years design/implementation/consulting experience | Score: 67
 - Experience: 10+ yrs | Qualification: Bachelor
 - Requirements: experience on SAP Rollout projects, especially on EWM Processes flow Good exposure on all standard EWM Process like Inbound, Outbound, Internal and Physical Inventory Ability to understand and map in system even the complex warehouse processes Must have good exposure on S/4 HANA and the EWM related
@@ -2665,15 +2674,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0108227-1 / JR-0108227 | Status: open (ATS verified)
 - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Manager--Services-Consulting-Management_JR-0108227-1
 
-**Sr. Associate Customer Support Analyst (Financials & Payroll) | Workday**
-- Location: IND.Pune | Work mode: hybrid
-- Posted: 2026-10-28 (5 days ago) | New today: no
-- Fit: no | Experience: Minimum 3 years of experience in technical support, IT opera | Score: 61
-- Experience: 3 yrs | Qualification: Bachelor
-- Requirements: to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you’ve found a match in Workday, and we hope to be a match for you too. About the Team At Workday, we bring technical rigor, customer empathy,
-- ID: JR-0110071 / JR-0110071 | Status: open (ATS verified)
-- Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Customer-Support-Analyst--AI-ML-Application-Support--_JR-0110071
-
 **IN_RBIC_Asst.Manager/Dy.Manager_Customer Project Manager | Bosch**
 - Location: Pune, Maharashtra, India | Work mode: unspecified
 - Posted: 2026-10-30 (3 days ago) | New today: no
@@ -2721,7 +2721,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Scrum Master - VP | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-10-29 (4 days ago) | New today: no
+- Posted: 2026-10-29 (4 days ago) | New today: yes
 - Fit: no | Score: 56
 - Qualification: Bachelor
 - Requirements: . Experience working with Agile delivery tools such as Jira and Confluence. Ability to manage competing priorities and delivery risks. Some other highly valued skills may include: Certified Scrum Master (CSM), PSM, or SAFe Scrum Master certification. Experience within Financial Services, Payments,
@@ -3082,7 +3082,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Product Manager-Tech | Barclays**
 - Location: Gurugram, DLF Downtown Noida, Candor TechSpace India | Work mode: unspecified
-- Posted: 2026-10-29 (4 days ago) | New today: no
+- Posted: 2026-10-29 (4 days ago) | New today: yes
 - Fit: no | Score: 45
 - Qualification: Bachelor
 - Requirements: and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L –
@@ -3334,7 +3334,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **BGSW_2026_Sr.SAP_EWM-MFS_Consultant | Bosch**
 - Location: bangalore, India | Work mode: unspecified
-- Posted: 2026-11-01 (1 days ago) | New today: yes
+- Posted: 2026-11-01 (1 days ago) | New today: no
 - Fit: no | Experience : 8+ years of SAP experience with at least 5+ years in | Score: 53
 - Experience: 8+ yrs
 - Requirements: Minimum 2–3 full lifecycle EWM MFS integrations. Strong configuration expertise in core EWM processes (inbound, outbound, internal movements). Strong expertise in Storage control (POSC/LOSC), HU management, Queue and resource management, RF framework Strong client-facing and workshop facilitation
@@ -3513,7 +3513,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Staff Engineer, ASIC Analog Design | Micron**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-10-30 (3 days ago) | New today: yes
+- Posted: 2026-10-30 (3 days ago) | New today: no
 - Fit: no | Experience Required: 5+ Years. About Micron Technology, Inc. We are an ind | Score: 47
 - Experience: 5+ yrs | Qualification: Bachelor
 - Requirements: . Participate in design reviews with internal teams and customers, explaining design choices and robustness. Collaborate with cross-functional teams across multiple global locations. Create IP EDA views including Behavioral models, Verilog-A, timing views, and abstracts. Participate in silicon

@@ -1,4 +1,4 @@
-# SERVE bulletin picks, 2026-11-01 23:40 UTC
+# SERVE bulletin picks, 2026-11-02 03:57 UTC
 7 jobs: 0 from today/yesterday, 7 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
 1. **Software Dev Engineer II, Global WHS | Amazon**

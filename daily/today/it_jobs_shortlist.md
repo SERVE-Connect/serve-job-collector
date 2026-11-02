@@ -1,4 +1,4 @@
-# SERVE jobs, collected 2026-11-01 23:40 UTC
+# SERVE jobs, collected 2026-11-02 03:57 UTC
 Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 22. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
@@ -190,7 +190,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Data Management Analyst | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-10-30 (3 days ago) | New today: yes
+- Posted: 2026-10-30 (3 days ago) | New today: no
 - Fit: yes | Qualifications: 4+ years of Data Management, Business Analysis, Analy | Score: 63
 - Experience: 4+ yrs | Qualification: Bachelor
 - Requirements: , with the ability to manage assigned deliverables from requirements through implementation. Familiarity with artificial intelligence, machine learning, or data science concepts—and an interest in applying these capabilities responsibly to data management use cases—is important. Knowledge of data

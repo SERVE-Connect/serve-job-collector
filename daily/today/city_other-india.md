@@ -1,4 +1,4 @@
-# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-11-01 23:40 UTC
+# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-11-02 03:57 UTC
 5 jobs, best score first: 2 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Business analyst key user and plant controlling  | Bosch**

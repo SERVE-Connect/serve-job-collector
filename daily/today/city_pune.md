@@ -1,5 +1,5 @@
-# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-11-01 23:40 UTC
-8 jobs, best score first: 1 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-11-02 03:57 UTC
+8 jobs, best score first: 2 from today/yesterday, 6 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Banking Operations Specialist | Citi**
    - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
@@ -19,14 +19,14 @@
    - ID: R-294790 | open (ATS verified)
    - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-294790
 
-3. **Technical Product Owner | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-30 (3 days ago) | fallback | Score 68
-   - Fit: unknown
+3. **Senior Performance Engineer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 68
+   - Fit: no
    - Qualification: Bachelor
-   - Requirements: and features based on business value and feasibility that are well defined, measurable and secure. Development and implementation of assessments to ensure continuous testing and improvement of product quality and performance. Monitoring of product performance to identify opportunities for
-   - ID: JR-0000122152 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Product-Owner_JR-0000122152
+   - Requirements: , participate in design discussions, and contribute to the development of acceptance criteria, ensuring a thorough understanding of the software being tested. Root cause analysis for identified defects, working closely with developers to provide detailed information and support defect resolution.
+   - ID: JR-0000125972 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Performance-Engineer_JR-0000125972
 
 4. **BGSW_SAP_EWM_Sr.Consultant | Bosch**
    - pune, India | Work mode: unspecified | Section: Non-IT / Other
