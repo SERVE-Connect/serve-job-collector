@@ -1,4 +1,4 @@
-# SERVE ranked list: Cloud / DevOps / Infrastructure jobs (0-5 years), collected 2026-11-03 02:25 UTC
+# SERVE ranked list: Cloud / DevOps / Infrastructure jobs (0-5 years), collected 2026-11-03 03:26 UTC
 4 jobs, best score first: 4 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **System Development Engineer, UTR Tech in Last Mile | Amazon**
@@ -14,7 +14,6 @@
    - Posted: 2026-11-03 (0 days ago) | fresh | Score 74
    - Fit: yes | should have over 3 years of experience in verification closure of com
    - Experience: 3 yrs | Qualification: Bachelor
-   - Requirements: with exposure to industry-standard verification tools for simulation and debug Good interpersonal skills, ability to work as a diligent teammate, and excellent communication skills to collaborate with cross-cultural global teams and work in a matrix organization Ways to stand out from the crowd:
    - ID: JR2028803 | open (ATS verified)
    - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer---Networking-IPs_JR2028803
 
@@ -23,7 +22,6 @@
    - Posted: 2026-11-02 (1 days ago) | fresh | Score 74
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes If the position has leadership responsibilities, People Leaders are expected to
    - ID: JR-0000105817 | open (ATS verified)
    - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Caching-SRE_JR-0000105817
 

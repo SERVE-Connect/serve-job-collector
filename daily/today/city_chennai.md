@@ -1,4 +1,4 @@
-# SERVE ranked list: Jobs in Chennai (all domains, all experience levels), collected 2026-11-03 02:25 UTC
+# SERVE ranked list: Jobs in Chennai (all domains, all experience levels), collected 2026-11-03 03:26 UTC
 4 jobs, best score first: 0 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **HR Global Services Advisor | HP**
@@ -6,7 +6,6 @@
    - Posted: 2026-10-27 (7 days ago) | fallback | Score 67
    - Fit: yes | • Typically has 0-2 years of work experience, preferably in customer s
    - Experience: 0-2 yrs | Qualification: Bachelor
-   - Requirements: Agile Methodology • Auditing • Automation • Business Process • Business Requirements • Computer Science • Dashboard • Data Analysis • Data Integrity • Finance • Human Capital • Human Resources Information System (HRIS) • People Analytics • Power BI • Process Improvement • Project Management • SQL
    - ID: 3170131-1 | open (ATS verified)
    - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/HR-Global-Services-Advisor_3170131-1
 
@@ -23,7 +22,6 @@
    - Posted: 2026-11-01 (2 days ago) | fallback | Score 52
    - Fit: no | discipline with 4-6 years of experience. • Strong applied experience:
    - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Your way to impact • Protect customers and PayPal by building real-time risk systems that scale across millions of transactions. •
    - ID: R0138265-1 | open (ATS verified)
    - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Senior-Software-Engineer---Backend--Java-_R0138265-1
 

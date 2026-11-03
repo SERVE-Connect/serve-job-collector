@@ -53,7 +53,7 @@
  },
  "greenhouse:Stripe": {
   "ok": true,
-  "listed": 740
+  "listed": 739
  },
  "greenhouse:Twilio": {
   "ok": true,
@@ -125,7 +125,7 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 545
+  "listed": 514
  },
  "workday:Mastercard": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "workday:Citi": {
   "ok": true,
-  "listed": 262
+  "listed": 261
  },
  "workday:Capital One": {
   "ok": true,
@@ -205,7 +205,7 @@
  },
  "smartrecruiters:ServiceNow": {
   "ok": true,
-  "listed": 80
+  "listed": 78
  },
  "amazon:Amazon": {
   "ok": true,

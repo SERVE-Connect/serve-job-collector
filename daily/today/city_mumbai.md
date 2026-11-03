@@ -1,4 +1,4 @@
-# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-03 02:25 UTC
+# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-03 03:26 UTC
 8 jobs, best score first: 7 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Consultant - Payment Operations | Nium**
@@ -6,7 +6,6 @@
    - Posted: 2026-11-02 (1 days ago) | fresh | Score 91
    - Fit: yes | Bachelor's degree with 2-5 years of experience working in Payment Processing,
    - Experience: 2-5 yrs | Qualification: Bachelor
-   - Requirements: . Demonstrates ability to work with a high degree of quality. Demonstrates strong problem-solving/Issue Resolution skills. Hands-on experience in MS Office and tools within it. Possesses Behavioural competencies such as Customer-centricity, confidence, go-getter mindset, curiosity, comfortable to
    - ID: a60371e3-efd9-4a71-8dae-90d44187991a | open (ATS verified)
    - Apply: https://jobs.lever.co/nium/a60371e3-efd9-4a71-8dae-90d44187991a
 
@@ -15,7 +14,6 @@
    - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and
    - ID: JR-0000133976-1 | open (ATS verified)
    - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
 
@@ -42,7 +40,6 @@
    - Posted: 2026-11-02 (1 days ago) | fresh | Score 66 | second job
    - Fit: no | You're Our Person If... 10+ years of enterprise solution sales experience sell
    - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: you’ll use every day for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.) Even Better If... Strategic account planning and execution skills Experience selling to C-Level and across IT and business units to Enterprise Customers in the
    - ID: JR355536 | open (ATS verified)
    - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Named-Account-Executive---Automotive-Industry_JR355536
 
@@ -51,7 +48,6 @@
    - Posted: 2026-11-02 (1 days ago) | fresh | Score 65 | second job
    - Fit: no
    - Qualification: Bachelor
-   - Requirements: & Skills + years of credit experience in corporate or commercial banking within financial services. Degree in business, finance, accounting, economics, or a related field. Background in credit or financial statement analysis. Working knowledge of capital markets products, including derivatives.
    - ID: 261003690 | open (ATS verified)
    - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Risk-Review--Vice-President_261003690
 

@@ -1,4 +1,4 @@
-# SERVE ranked list: Internships, apprenticeships and trainee roles (all domains, matched by title), collected 2026-11-03 02:25 UTC
+# SERVE ranked list: Internships, apprenticeships and trainee roles (all domains, matched by title), collected 2026-11-03 03:26 UTC
 1 jobs, best score first: 1 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Young Apprentice - C00 - MUMBAI | Citi**

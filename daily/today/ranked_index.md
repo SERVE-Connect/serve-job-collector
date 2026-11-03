@@ -1,4 +1,4 @@
-# SERVE ranked lists, collected 2026-11-03 02:25 UTC
+# SERVE ranked lists, collected 2026-11-03 03:26 UTC
 Each file below is a ready top-10 list. Commands read one file only.
 
 | File | List | Jobs |
@@ -16,7 +16,7 @@ Each file below is a ready top-10 list. Commands read one file only.
 | city_ahmedabad.md | Jobs in Ahmedabad (all domains, all experience levels) | 1 |
 | city_other-india.md | Jobs in Other India (all domains, all experience levels) | 5 |
 | domain_it-software.md | IT / Software jobs (0-5 years) | 8 |
-| domain_data-analytics-ai.md | Data / Analytics / AI jobs (0-5 years) | 5 |
+| domain_data-analytics-ai.md | Data / Analytics / AI jobs (0-5 years) | 4 |
 | domain_cybersecurity.md | Cybersecurity jobs (0-5 years) | 0 |
 | domain_cloud-devops-infrastructure.md | Cloud / DevOps / Infrastructure jobs (0-5 years) | 4 |
 | domain_qa-testing.md | QA / Testing jobs (0-5 years) | 1 |
@@ -25,11 +25,11 @@ Each file below is a ready top-10 list. Commands read one file only.
 | domain_clinical-research.md | Clinical / Research jobs (0-5 years) | 0 |
 | domain_non-it-other.md | Non-IT / Other jobs (0-5 years) | 10 |
 | domain_pharma.md | Pharma jobs (0-5 years, matched by keyword) | 0 |
-| domain_logistics.md | Logistics jobs (0-5 years, matched by keyword) | 2 |
-| domain_hospitality.md | Hospitality jobs (0-5 years, matched by keyword) | 0 |
+| domain_logistics.md | Logistics jobs (0-5 years, matched by keyword) | 3 |
+| domain_hospitality.md | Hospitality jobs (0-5 years, matched by keyword) | 1 |
 | domain_healthcare.md | Healthcare jobs (0-5 years, matched by keyword) | 0 |
 | domain_banking-finance.md | Banking & Finance jobs (0-5 years, matched by keyword) | 8 |
-| domain_customer-support.md | Customer Support jobs (0-5 years, matched by keyword) | 2 |
+| domain_customer-support.md | Customer Support jobs (0-5 years, matched by keyword) | 3 |
 | domain_hr-recruitment.md | HR & Recruitment jobs (0-5 years, matched by keyword) | 2 |
-| domain_sales-marketing.md | Sales & Marketing jobs (0-5 years, matched by keyword) | 1 |
+| domain_sales-marketing.md | Sales & Marketing jobs (0-5 years, matched by keyword) | 2 |
 | internship.md | Internships, apprenticeships and trainee roles (all domains, matched by title) | 1 |
