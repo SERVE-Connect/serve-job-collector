@@ -1,73 +1,73 @@
-# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-02 06:30 UTC
-8 jobs, best score first: 1 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-03 02:25 UTC
+8 jobs, best score first: 7 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Analyst - Compliance Operations | Nium**
+1. **Consultant - Payment Operations | Nium**
    - Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-28 (5 days ago) | fallback | Score 84
-   - Fit: yes | the Group. Minimum 2 years of experience in AML transaction monitoring,
-   - Experience: 2 yrs | Qualification: Bachelor
-   - Requirements: (both verbal and writing). Strong problem-solving and analytical skills with an investigative mindset. Team player but also able to work independently and self-motivated. Attention to detail, efficiency, and ability to work under pressure within tight deadlines. Good hands-on experience with
-   - ID: f74cc9cf-383e-4a91-8eb1-574fb912e35c | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/f74cc9cf-383e-4a91-8eb1-574fb912e35c
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 91
+   - Fit: yes | Bachelor's degree with 2-5 years of experience working in Payment Processing,
+   - Experience: 2-5 yrs | Qualification: Bachelor
+   - Requirements: . Demonstrates ability to work with a high degree of quality. Demonstrates strong problem-solving/Issue Resolution skills. Hands-on experience in MS Office and tools within it. Possesses Behavioural competencies such as Customer-centricity, confidence, go-getter mindset, curiosity, comfortable to
+   - ID: a60371e3-efd9-4a71-8dae-90d44187991a | open (ATS verified)
+   - Apply: https://jobs.lever.co/nium/a60371e3-efd9-4a71-8dae-90d44187991a
 
-2. **Officer - KYC Quality Metrics Analyst | Citi**
-   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-27 (6 days ago) | fallback | Score 84
-   - Fit: yes | record with at least 2-4 years of relevant reporting, Metrics/MIS experienc
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: and make a difference at one of the world’s most global banks. We’re fully committed to supporting your growth and development from the start with extensive on-the-job training and exposure to senior leaders, as well as more traditional learning. You’ll also have the chance to give back and make a
-   - ID: 261004625-1 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Officer---KYC-Quality-Metrics-Analyst_261004625-1
-
-3. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
+2. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
    - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 81
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
    - Fit: unknown
    - Qualification: Bachelor
    - Requirements: and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and
    - ID: JR-0000133976-1 | open (ATS verified)
    - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
 
-4. **Credit Analyst 2  - MUMBAI | Citi**
+3. **Young Apprentice - C00 - MUMBAI | Citi**
    - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 81 | second job
-   - Fit: yes | and Experience: 3 to 6 years of credit, portfolio management or structuri
-   - Experience: 3-6 yrs
-   - Requirements: . Modelling experience is a plus Strong attention to detail – Analyst will have responsibility for due diligence and documentation of transactions to ensure that all risk, business and policy points are covered Oral and written communications skills enabling him or her to effectively interact with
-   - ID: 261005937 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Analyst-2----MUMBAI_261005937
-
-5. **Lead - Partner Onboarding & Due Diligence | Nium**
-   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-30 (3 days ago) | fallback | Score 61 | second job
-   - Fit: no | requirements. Minimum 5 years of relevant experience in payments, fintech,
-   - Experience: 5 yrs | Qualification: Bachelor
-   - Requirements: . Maintain accurate partner records, due diligence documentation, approvals and review timelines. Manage partner queries and coordinate the resolution of onboarding and due diligence-related issues. Collaborate with Compliance, Legal, Treasury, Operations, Product and other internal teams to
-   - ID: 8560290f-190d-465c-9abf-034e61f7f3ea | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/8560290f-190d-465c-9abf-034e61f7f3ea
-
-6. **Account Executive - Majors | Zscaler**
-   - Mumbai, IND | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-26 (7 days ago) | fallback | Score 61
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 74
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
-   - ID: 5272056007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5272056007
+   - Requirements: Required: Knowledge of programming languages like Python, or tools like Knime, or any other language that can help automate existing processes. For programming languages skills required are (Python Syntax & Standard library, script modularity and error handling, version control). Automation &
+   - ID: 261000621 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_261000621
 
-7. **Lead Account Solution Engineer | Salesforce**
-   - India - Mumbai | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-30 (3 days ago) | fallback | Score 60
-   - Fit: no | You're Our Person If... 10+ years in IT, consulting, or technology sales/imple
+4. **Director, Solutions Builder (Builder Portfolio Leader) | Salesforce**
+   - India - Gurgaon India - Bangalore India - Mumbai India [multi-city] | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-03 (0 days ago) | fresh | Score 69
+   - Fit: no | Technical Depth: 15+years of Technical background with recent deep arc
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: hands-on experience with enterprise software implementation, data modeling, API integration, and AI deployments. You Have Proven Leadership: 3+ years of direct people management or high-impact technical leadership steering cross-functional engineering or technical teams. You have a track record of
+   - ID: JR366109 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Director--Solutions-Builder--Builder-Portfolio-Leader-_JR366109
+
+5. **Named Account Executive - Automotive Industry | Salesforce**
+   - India - Mumbai | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 66 | second job
+   - Fit: no | You're Our Person If... 10+ years of enterprise solution sales experience sell
    - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: . Experience working with large enterprise clients and engaging at the C-level. Even Better If... Salesforce Certifications (e.g., SalesCloud, ServiceCloud, Financial Services Cloud) Prior experience as a Salesforce Solution or Sales Engineer in a CRM or similar tech environment. Unleash Your
-   - ID: JR349251 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Lead-Account-Solution-Engineer_JR349251
+   - Requirements: you’ll use every day for the role (e.g. extracurricular leadership roles, military experience, volunteer roles, work experience, etc.) Even Better If... Strategic account planning and execution skills Experience selling to C-Level and across IT and business units to Enterprise Customers in the
+   - ID: JR355536 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Named-Account-Executive---Automotive-Industry_JR355536
 
-8. **Sr Tech Infra Program Manager, DCPD | Amazon**
+6. **Credit Risk Review, Vice President | Citi**
+   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 65 | second job
+   - Fit: no
+   - Qualification: Bachelor
+   - Requirements: & Skills + years of credit experience in corporate or commercial banking within financial services. Degree in business, finance, accounting, economics, or a related field. Background in credit or financial statement analysis. Working knowledge of capital markets products, including derivatives.
+   - ID: 261003690 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Risk-Review--Vice-President_261003690
+
+7. **Content Acquisition Manager - Prime Videos, Amazon Prime Video | Amazon**
    - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 53
-   - Fit: no | - 5+ years of program management or technical project m
-   - Experience: 5+ yrs
-   - ID: 10592415 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10592415/sr-tech-infra-program-manager-dcpd
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 62
+   - Fit: no | development role - 10+ years of content licensing, syndication or distrib
+   - Experience: 10+ yrs
+   - ID: 10594269 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10594269/content-acquisition-manager-prime-videos-amazon-prime-video
+
+8. **Account Executive- Commercial  | Zscaler**
+   - Mumbai, IND | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-10-29 (5 days ago) | fallback | Score 54
+   - Fit: no | your functional domain 6+ years of sales experience with a consistent track
+   - Experience: 6+ yrs | Qualification: Bachelor
+   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
+   - ID: 5276812007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5276812007

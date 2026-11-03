@@ -1,72 +1,89 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-11-02 06:30 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-11-03 02:25 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Senior Performance Engineer | Barclays**
+1. **Senior System Software Engineer – Accelerated Microservices and Libraries | NVIDIA**
+   - India, Pune India, Bengaluru India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-03 (0 days ago) | fresh | Score 70
+   - Fit: no | engineering field 8+ years of overall experience in software developmen
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: and translate these into deliverables across milestones. Design, develop, and maintain real-time vision-language model inference microservices, from video ingestion and preprocessing through model serving and downstream integration. Develop automated functional, accuracy, and performance regression
+   - ID: JR2029168 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer---Accelerated-Microservices-and-Libraries_JR2029168
+
+2. **Senior Automation Test Analyst | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 68
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 70
    - Fit: no
    - Qualification: Bachelor
-   - Requirements: , participate in design discussions, and contribute to the development of acceptance criteria, ensuring a thorough understanding of the software being tested. Root cause analysis for identified defects, working closely with developers to provide detailed information and support defect resolution.
-   - ID: JR-0000125972 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Performance-Engineer_JR-0000125972
+   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+   - ID: JR-0000127601-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Automation-Test-Analyst_JR-0000127601-1
 
-2. **Sr. Business Analyst – Deep tech Innovation | Bosch**
+3. **Senior Manager, Business Intelligence | Zscaler**
+   - Bangalore, IND; Pune, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 67
+   - Fit: no | or workflow design 8+ years of experience across product management, tec
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: and connectors across business functions Design and execute cross-functional engagement models, operating rhythms, RACIs, and standard operating procedures to streamline the path from idea to production Partner with Change Management and enablement teams to establish executive scorecards, measure
+   - ID: 5278561007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5278561007
+
+4. **Lead Software Engineer | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 67
+   - Fit: no | is desirable. •15+ years of experience in the software engineering fi
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: . Knowledge / Experience: •Provide Technical leadership and strategic direction as a Lead to multiple teams and/or functional areas. AI Native engineer - experience of software engineering across variety of LLMs. Has experience of AI native SDLC/PDLC. •Experience managing multiple functional areas.
+   - ID: R-294263 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-294263
+
+5. **Senior Staff Software Engineer in Test  | Druva**
+   - Pune, Maharashtra, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 65
+   - Fit: no
+   - ID: 8814721002 | open (ATS verified)
+   - Apply: https://www.druva.com/why-druva/explore/careers/jobs/8814721002/?gh_jid=8814721002
+
+6. **Principal Engineer (L5) | Twilio**
+   - Remote - India | Work mode: remote | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 63
+   - Fit: no | technical field. 12+ years of programming experience. Deep battle-teste
+   - Experience: 12+ yrs | Qualification: Bachelor
+   - Requirements: and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp; Also, while we are a remote-first
+   - ID: 8319388 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/twilio/jobs/8319388
+
+7. **Lead Analyst - Portfolio Intelligence & Fraud Analytics | Nium**
+   - Bangalore | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 59
+   - Fit: no | optimization projects. 4-7 years of experience in Fraud Analytics, Portfolio
+   - Experience: 4-7 yrs | Qualification: Master
+   - Requirements: . Track fraud-to-sales ratios, chargeback ratios, dispute rates, approval rates, and transaction-risk indicators. Analyze emerging payment-risk trends and provide early warning indicators to stakeholders. Provide analytical support for fraud prevention, risk management, and portfolio optimization
+   - ID: 27bc36a0-da5e-42c0-b3f1-78b360b9e5eb | open (ATS verified)
+   - Apply: https://jobs.lever.co/nium/27bc36a0-da5e-42c0-b3f1-78b360b9e5eb
+
+8. **Sr. Business Analyst – Deep tech Innovation | Bosch**
    - bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 61
-   - Fit: no | preferred. Experience · 5-8 years of experience in innovation, venture buildin
-   - Experience: 5-8 yrs | Qualification: Bachelor
-   - ID: 744000159056489 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159056489
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 58
+   - Fit: no | institutes Experience 5 to 10 years of experience in innovation, venture buildin
+   - Experience: 5-10 yrs | Qualification: Bachelor
+   - ID: 744000159110850 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159110850
 
-3. **Staff Software Engineer | ServiceNow**
+9. **Sr Software Engineer | ServiceNow**
    - Hyderabad, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 58
-   - Fit: no | services Qualifications 8-10 years of practical software development experience
-   - Experience: 8-10 yrs | Qualification: Bachelor
-   - Requirements: and develop scalable AI-driven solutions Stay current with the latest advancements in AI and related technologies (new models, frameworks, and techniques), and proactively identify opportunities to apply them to our products and services Qualifications 8-10 years of practical software development
-   - ID: 744000159052719 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159052719
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 55
+   - Fit: no | function or industry. 5+ years of experience in software engineering, with
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: into well-architected solutions, owning features from design through delivery Build intuitive and extensible user experiences using modern UI frameworks, ensuring flexibility for customer-specific needs. Contribute to the design and implementation of new products and features while enhancing
+   - ID: 744000159096479 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159096479
 
-4. **SR, Engineer - AMS Verification | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 57
-   - Fit: no | related discipline with 3+ years of relevant experience, or a Master’s degree
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: , interface definitions, and identified risk areas. · Run static and dynamic simulations to identify leakage paths, power-sequencing issues, and unintended circuit interactions. · Perform device-level electrical rule checks, including SOA, snapback, SFB, and related reliability checks. · Perform
-   - ID: JR114263 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/SR--Engineer---AMS-Verification_JR114263
-
-5. **Information Security Senior Associate | Salesforce**
+10. **Software Engineering PMTS - Backend Distributed Systems - Cloud Infrastructure | Salesforce**
    - India - Hyderabad | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-01 (1 days ago) | fresh | Score 57
-   - Fit: no
-   - Qualification: Bachelor
-   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
-   - ID: JR363986 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Information-Security-Senior-Associate_JR363986
-
-6. **Sr. Software Engineer- Databricks AI | Databricks**
-   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 56
-   - Fit: no | or a related field. 5+ years of experience developing large-scale distrib
-   - Experience: 5+ yrs | Qualification: Master
-   - Requirements: and ability to collaborate across teams. Experience with ML or LLM systems is a plus. About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the
-   - ID: 8924868002 | open (ATS verified)
-   - Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002
-
-7. **Senior Software Engineer - Backend (Java) | PayPal**
-   - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-01 (1 days ago) | fresh | Score 55
-   - Fit: no | discipline with 4-6 years of experience. • Strong applied experience:
-   - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Your way to impact • Protect customers and PayPal by building real-time risk systems that scale across millions of transactions. •
-   - ID: R0138265-1 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Senior-Software-Engineer---Backend--Java-_R0138265-1
-
-8. **Senior Manager Software Development, Smart Deliveries Tech | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 52
-   - Fit: no | - 10+ years of engineering experience - 5+ years of engi
-   - Experience: 10+ yrs
-   - ID: 10594169 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594169/senior-manager-software-development-smart-deliveries-tech
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 54
+   - Fit: no | practical experience. 15+ years of software engineering, systems engineering
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: , architecture, implementation, testing, deployment, production readiness, rollout, and ongoing operations. Continuously identify opportunities to improve security coverage, automation, detection quality, enforcement, and developer experience. Establish engineering standards and best practices for
+   - ID: JR357893 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893

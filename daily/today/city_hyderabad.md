@@ -1,73 +1,89 @@
-# SERVE ranked list: Jobs in Hyderabad (all domains, all experience levels), collected 2026-11-02 06:30 UTC
-8 jobs, best score first: 4 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Hyderabad (all domains, all experience levels), collected 2026-11-03 02:25 UTC
+10 jobs, best score first: 7 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Corporate Banking Analyst | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 74
-   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: 2+ years of Securities Research experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education. MBA, CA, CFA or Masters in Finance from a premier education institute Strong inclination towards building a career in
-   - ID: R-576872-1 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Corporate-Banking-Analyst_R-576872-1
+1. **Assoc Software Engineer | ServiceNow**
+   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
+   - Fit: yes | function or industry. 0+ years of work experience in software development E
+   - Experience: 0+ yrs | Qualification: Bachelor
+   - Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry. 0+ years
+   - ID: 744000159166108 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159166108
 
-2. **FinOps Analyst -AP, Corp AP - Invoice Processing | Amazon**
+2. **Customer Service Representative | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
+   - Fit: yes | a professional manner. 1–3 years of experience in billing, invoicing, or acco
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - Requirements: Customer Service experience is required, with proven ability to handle external customer communications in a professional manner. 1–3 years of experience in billing, invoicing, or accounts receivable. Strong proficiency in Microsoft Office (Excel, Word, Outlook). Demonstrated ability to process and
+   - ID: JR328615 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Customer-Service-Representative_JR328615
+
+3. **Quality Assurance Administrator | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-28 (5 days ago) | fallback | Score 67
-   - Fit: yes | in a related field - 1+ years of Accounts Payable (AP) experience - Knowle
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
+   - Fit: yes | Qualifications: 1+ year of Quality Assurance support, or equivalent
    - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: 10590820 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10590820/finops-analyst-ap-corp-ap-invoice-processing
+   - Requirements: . Work with internal business partners to resolve quality or control-related questions and support the operational needs of the assigned business line. Manage multiple applications, systems, and sources of information while maintaining accuracy and compliance with established guidelines. Administer
+   - ID: R-577557 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quality-Assurance-Administrator_R-577557
 
-3. **Team Leader, Customer Experience | DoorDash India**
+4. **Support Engineer, SCOT WW Long Term Planning and Forecasting | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: IT Support / Operations
+   - Posted: 2026-11-03 (0 days ago) | fresh | Score 77
+   - Fit: yes | - 2+ years of software development, or 2+ years of tech
+   - Experience: 2+ yrs
+   - ID: 10594997 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10594997/support-engineer-scot-ww-long-term-planning-and-forecasting
+
+5. **Technical Business Analyst, Product & Pricing Operations | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77 | second job
+   - Fit: yes | equivalent experience. 3+ years of technical and administrative experience i
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: to translate them into concrete technical requirements. To succeed, a candidate will need to be analytical, have excellent critical thinking skills, and be able to prioritize, deliver on multiple requests at once, identify inefficiencies in the process, and build scripts to help us continually
+   - ID: JR366091 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366091
+
+6. **Data Engineer, ShipTech Analytics | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 68 | second job
+   - Fit: yes | - 3+ years of data engineering experience - Experience
+   - Experience: 3+ yrs
+   - ID: 10594179 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10594179/data-engineer-shiptech-analytics
+
+7. **Team Leader, Customer Experience | DoorDash India**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-28 (5 days ago) | fallback | Score 66
+   - Posted: 2026-10-28 (6 days ago) | fallback | Score 66
    - Fit: yes | experience You have 2+ year or more of people management or team lead ex
    - Experience: 2+ yrs | Qualification: Bachelor
    - Requirements: because… You are a leader with a strong desire and natural ability to motivate a team, set and achieve targets, and manage career growth and team performance You increase results, and are constantly evaluating how and whether your team’s activities are achieving the desired, measurable impact You
    - ID: 8328688 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8328688
 
-4. **Staff Software Engineer | ServiceNow**
-   - Hyderabad, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 58
-   - Fit: no | services Qualifications 8-10 years of practical software development experience
-   - Experience: 8-10 yrs | Qualification: Bachelor
-   - Requirements: and develop scalable AI-driven solutions Stay current with the latest advancements in AI and related technologies (new models, frameworks, and techniques), and proactively identify opportunities to apply them to our products and services Qualifications 8-10 years of practical software development
-   - ID: 744000159052719 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159052719
-
-5. **SR, Engineer - AMS Verification | Micron**
+8. **Engineer, IT, AI Enablement | Micron**
    - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 57
-   - Fit: no | related discipline with 3+ years of relevant experience, or a Master’s degree
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: , interface definitions, and identified risk areas. · Run static and dynamic simulations to identify leakage paths, power-sequencing issues, and unintended circuit interactions. · Perform device-level electrical rule checks, including SOA, snapback, SFB, and related reliability checks. · Perform
-   - ID: JR114263 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/SR--Engineer---AMS-Verification_JR114263
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 54
+   - Fit: no | with a minimum of 5 years of experience in software development, inclu
+   - Experience: 5 yrs | Qualification: Bachelor
+   - Requirements: & Qualifications: Bachelor’s or master’s degree in computer science, AI, Machine Learning, Data Science or related field. Professionals with a minimum of 5 years of experience in software development, including at least 2 years specializing in AI/ML engineering. Strong understanding of AI concepts
+   - ID: JR115271 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--IT--AI-Enablement_JR115271
 
-6. **Information Security Senior Associate | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-01 (1 days ago) | fresh | Score 57
-   - Fit: no
-   - Qualification: Bachelor
-   - Requirements: throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options. Posting
-   - ID: JR363986 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Information-Security-Senior-Associate_JR363986
-
-7. **Staff Engineer, Analog Design | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 55 | second job
-   - Fit: no
-   - Qualification: Bachelor
-   - Requirements: into detailed circuit specifications, architectures, schematics, verification plans, and clear design documentation. · Perform transistor-level design and optimization to meet performance, power, area, noise, and reliability targets. · Conduct DC, AC, transient, noise, Monte Carlo, and corner
-   - ID: JR113578-1 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--Analog-Design_JR113578-1
-
-8. **Field Sales - Team Lead - Hyderabad (LRM) | Paytm**
+9. **Field Sales - Team Lead - Hyderabad (LRM) | Paytm**
    - Dharmavaram, Andhra Pradesh, Guntur, Andhra Pradesh, Hyderabad, Telangana, Sangareddy, Telangana, Tirupati, Andhra Pradesh, Vijayawada, Andhra Pradesh | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-10-31 (2 days ago) | fallback | Score 52
+   - Posted: 2026-10-31 (3 days ago) | fallback | Score 49
    - Fit: no | succeed in this role 1. 5-10 years of relevant experience in Sales, Business De
    - Experience: 5-10 yrs | Qualification: Bachelor
    - Requirements: 1. Responsible for the MCA Sales in the city. 2. Manage an assigned geographic sales area to maximize sales target and meet corporate objectives. 3. Build and maintain relationships with key client personnel. 4. Manage Category leads from qualification to closure. 5. Ensure the team members are
    - ID: 0be394d9-615f-4f95-b7ad-bb9d8ef22dcd | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/0be394d9-615f-4f95-b7ad-bb9d8ef22dcd
+
+10. **Sr Software Engineer (.net)(5-8 years) - 11964 | Coupa**
+   - Hyderabad, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-10-30 (4 days ago) | fallback | Score 46
+   - Fit: no | of microservices. 5+ years of experience with enterprise software devel
+   - Experience: 5+ yrs
+   - ID: 6579d4f7-335a-4e28-b7cd-8cc655dcc375 | open (ATS verified)
+   - Apply: https://jobs.lever.co/coupa/6579d4f7-335a-4e28-b7cd-8cc655dcc375

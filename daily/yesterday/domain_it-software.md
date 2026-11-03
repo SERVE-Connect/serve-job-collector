@@ -1,51 +1,51 @@
-# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-10-31 23:27 UTC
-6 jobs, best score first: 1 from today/yesterday, 5 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-02 06:30 UTC
+6 jobs, best score first: 4 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Software Dev Engineer II, Global WHS | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-31 (1 days ago) | fresh | Score 72
-   - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: 10593974 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10593974/software-dev-engineer-ii-global-whs
+1. **Software Engineer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 77
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+   - ID: JR-0000105971 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000105971
 
-2. **Software Development Engineer II, AFT Sortation, AFT Mansort | Amazon**
+2. **Full Stack Java designer/developer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 77 | second job
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: , devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively
+   - ID: JR-0000089232 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Java-designer-developer_JR-0000089232
+
+3. **Software Development Engineer II, Int'l TechnologyEURegionalfund | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-29 (3 days ago) | fallback | Score 66 | second job
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 75
    - Fit: yes | - 3+ years of non-internship professional software deve
    - Experience: 3+ yrs
-   - ID: 10592289 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10592289/software-development-engineer-ii-aft-sortation-aft-mansort
+   - ID: 10594157 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10594157/software-development-engineer-ii-int-l-technologyeuregionalfund
 
-3. **IN_RBAI_Senior Engineer - Engineering Change Management Co Ordinator_IN | Bosch**
+4. **Software Dev Engineer , Hub Tech | Amazon**
+   - Gurugram, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-02 (0 days ago) | fresh | Score 73 | second job
+   - Fit: yes | - 3+ years of non-internship professional software deve
+   - Experience: 3+ yrs
+   - ID: 10594151 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10594151/software-dev-engineer-hub-tech
+
+5. **IN_RBAI_Senior Engineer - Engineering Change Management Co Ordinator_IN | Bosch**
    - Bengaluru, KA, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-27 (5 days ago) | fallback | Score 65
+   - Posted: 2026-10-27 (6 days ago) | fallback | Score 65
    - Fit: yes | Engineer with 1-3 years of experience preferably in the manufacturin
    - Experience: 1-3 yrs | Qualification: Bachelor
    - ID: 744000157957529 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000157957529
 
-4. **IN_RBAI_Business Analyst - Product Controlling_IN | Bosch**
-   - Bengaluru, KA, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-27 (5 days ago) | fallback | Score 64 | second job
-   - Fit: yes | CA/CMA Qualified with 3+ Years of experience
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: Investment Evaluation: Evaluating capital budget proposals considering net presentvalue (NPV), internal rate of return(IRR) pay-back criteria & giving financial perspective for decision making. CA/CMA Qualified with 3+ Years of experience
-   - ID: 744000158014599 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158014599
-
-5. **Azure Infra Developer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-26 (6 days ago) | fallback | Score 62
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: , participate in design discussions, and contribute to the development of acceptance criteria, ensuring a thorough understanding of the software being tested. Root cause analysis for identified defects, working closely with developers to provide detailed information and support defect resolution.
-   - ID: JR-0000060053 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Test-Automation-Specialist_JR-0000060053
-
 6. **Facilities Cost Engineer (OPEX) | Micron**
    - Sanand - 303C - Facilities/Construction, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-27 (5 days ago) | fallback | Score 45
+   - Posted: 2026-10-27 (6 days ago) | fallback | Score 45
    - Fit: unknown
    - Qualification: Bachelor
    - Requirements: on invoices, including GST compliance, TDS applicability and e-invoicing details, in coordination with Accounts Payable and Tax teams. Maintain a P2P tracker with status, ageing and bottlenecks; follow up with Procurement, AP and vendors to ensure on-time payment and minimize vendor escalations.

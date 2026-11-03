@@ -1,9 +1,9 @@
-# SERVE ranked list: Jobs in Chennai (all domains, all experience levels), collected 2026-11-02 06:30 UTC
-4 jobs, best score first: 1 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Chennai (all domains, all experience levels), collected 2026-11-03 02:25 UTC
+4 jobs, best score first: 0 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **HR Global Services Advisor | HP**
    - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-27 (6 days ago) | fallback | Score 67
+   - Posted: 2026-10-27 (7 days ago) | fallback | Score 67
    - Fit: yes | • Typically has 0-2 years of work experience, preferably in customer s
    - Experience: 0-2 yrs | Qualification: Bachelor
    - Requirements: Agile Methodology • Auditing • Automation • Business Process • Business Requirements • Computer Science • Dashboard • Data Analysis • Data Integrity • Finance • Human Capital • Human Resources Information System (HRIS) • People Analytics • Power BI • Process Improvement • Project Management • SQL
@@ -12,7 +12,7 @@
 
 2. **Software Development Engineer, Alexa Connections | Amazon**
    - Chennai, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 60
+   - Posted: 2026-10-29 (5 days ago) | fallback | Score 57
    - Fit: yes | - 3+ years of non-internship professional software deve
    - Experience: 3+ yrs
    - ID: 10592247 | open (listed in employer's live search)
@@ -20,7 +20,7 @@
 
 3. **Senior Software Engineer - Backend (Java) | PayPal**
    - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-01 (1 days ago) | fresh | Score 55
+   - Posted: 2026-11-01 (2 days ago) | fallback | Score 52
    - Fit: no | discipline with 4-6 years of experience. • Strong applied experience:
    - Experience: 4-6 yrs | Qualification: Bachelor
    - Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Your way to impact • Protect customers and PayPal by building real-time risk systems that scale across millions of transactions. •
@@ -29,7 +29,7 @@
 
 4. **Supply Chain- Operations Transformation Lead | HP**
    - Chennai, Tamil Nadu, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-28 (5 days ago) | fallback | Score 43 | second job
+   - Posted: 2026-10-28 (6 days ago) | fallback | Score 43 | second job
    - Fit: no | Payment Recons Minimum 6-8 years of experience in various SAP S4 arenas (Forw
    - Experience: 6-8 yrs | Qualification: Bachelor
    - Requirements: minimum 17-20 years of experience in S u pply Chain function Experience in more than one supply chain function with primary focus on Sales Order Returns, Logistics (both Forward and Reverse), Procurement, Order Management, Pricing and Partner Payment Recons Minimum 6-8 years of experience in
