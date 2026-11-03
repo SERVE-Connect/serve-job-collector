@@ -348,10 +348,12 @@ REQ_HEAD = re.compile(
 def parse_requirements(text, limit=300):
     """Raw requirements text (about 300 characters) for the chat to summarise. Empty if none found."""
     t = clean(text)
-    m = REQ_HEAD.search(t)
+    # A heading starts a sentence or bullet. "...leadership skills and coordinating..." is prose, not a heading.
+    m = next((x for x in REQ_HEAD.finditer(t)
+              if not t[:x.start()].rstrip() or t[:x.start()].rstrip()[-1] in ".:;!?)·•*-–—|"), None)
     seg = t[m.end(): m.end() + limit] if m else ""
     seg = re.split(r"\b(?:benefits|what we offer|perks|why join|about us|equal opportunity)\b", seg, 1, flags=re.I)[0]
-    seg = re.sub(r"^[\s•\-–*:]+", "", seg)
+    seg = re.sub(r"^[\s•·\-–*:]+", "", seg)
     if len(seg) >= limit - 5:
         cut = seg.rfind(" ")
         seg = seg[: cut if cut > 120 else limit]
