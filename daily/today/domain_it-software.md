@@ -1,67 +1,67 @@
-# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-03 03:26 UTC
+# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-04 00:40 UTC
 8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Specialist, Software Development Engineering | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
-   - Fit: yes | you'll need to have: 4+ years of experience in software development 2+ yea
-   - Experience: 4+ yrs | Qualification: Bachelor
-   - ID: R-10401175 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175
-
-2. **Software Development Engineer II , Amazon Pay | Amazon**
+1. **Business Analyst, Global Solutions & Risk Compliance (GSRC) | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
-   - Fit: yes | - 2+ years of non-internship professional software deve
-   - Experience: 2+ yrs
-   - ID: 10594189 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594189/software-development-engineer-ii-amazon-pay
-
-3. **Calibration Engineer - Vehicle calibration | Bosch**
-   - pune, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
-   - Fit: yes | Automobile, E&C, EEE). 4 to 6 years of relevant work experience. Experienced in
-   - Experience: 4-6 yrs | Qualification: Bachelor
-   - Requirements: B.E, M.Tech (Mechanical, Automobile, E&C, EEE). 4 to 6 years of relevant work experience. Experienced in technically leading / working on calibration development projects Experience in calibrating torque-based control systems (diesel & alternative fuels) including emissions and climate development
-   - ID: 744000159074300 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159074300
-
-4. **Verification Engineer -  ARM Fabric Unit Level | NVIDIA**
-   - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
-   - Fit: yes | Candidates should have 2+ years of demonstrated ability in verification clos
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: JR2028794 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2028794
-
-5. **Software Engineer, Android | PayPal**
-   - Bangalore, Karnataka, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
-   - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 78
+   - Fit: yes | or related field - 1+ years of experience in BI/technical support roles.
    - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R0138414-1 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer--Android_R0138414-1
+   - ID: 10595194 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10595194/business-analyst-global-solutions-risk-compliance-gsrc
 
-6. **Technical Business Analyst, Product & Pricing Operations | Salesforce**
+2. **Sofware Engineer, Priceless Platform | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 77
+   - Fit: yes | or a related field. 4+ years of professional software engineering experie
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - Requirements: Experience in the payments, fintech, or e-commerce industry. Track record of delivering customer-facing products and systems at scale. Contributions to open-source projects or technical communities. Advanced knowledge of security and compliance best practices. Familiarity with event-driven
+   - ID: R-293896-1 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Sofware-Engineer--Priceless-Platform_R-293896-1
+
+3. **Technical Business Analyst, Product & Pricing Operations | Salesforce**
    - India - Hyderabad | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
-   - Fit: yes | equivalent experience. 3+ years of technical and administrative experience i
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 77
+   - Fit: yes | practical experience. 3+ years of technical and administrative experience o
    - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: JR366091 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366091
+   - ID: JR366422 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366422
 
-7. **Software Engineer | Barclays**
+4. **Mainframe Software Developer | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 74
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 74
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000105971 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000105971
+   - ID: JR-0000108583 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Mainframe-Software-Developer_JR-0000108583
 
-8. **Full Stack Java designer/developer | Barclays**
+5. **Full Stack Engineer | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 74 | second job
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 74 | second job
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000089232 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Java-designer-developer_JR-0000089232
+   - ID: JR-0000122783 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Engineer_JR-0000122783
+
+6. **IN_RBAI_Cost Engineer Electronics_IN | Bosch**
+   - Bengaluru, KA, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 71
+   - Fit: yes | & Communication) 3-5 Years of Experience in automotive industry or rele
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - ID: 744000159314013 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159314013
+
+7. **Software Engineer | ServiceNow**
+   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 64
+   - Fit: yes | practical experience) 4+ years of professional software development experie
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - ID: 744000159295769 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159295769
+
+8. **Engineer CAT PQA Engineer | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 57
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: JR110699 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Engineer-CAT-PQA-Engineer_JR110699

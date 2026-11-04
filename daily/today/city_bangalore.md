@@ -1,86 +1,85 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-03 03:26 UTC
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-04 00:40 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Analyst, Tax - GIR Compliance | PayPal**
-   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 82
-   - Fit: yes | Minimum Qualifications: 1+ years of relevant experience and a Bachelor's degr
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - Requirements: 1+ years of relevant experience and a Bachelor's degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Demonstrated experience with manual review and software aided review of W-8/W9, FATCA and CRS Self Certification form
-   - ID: R0138591 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Analyst--Tax---GIR-Compliance_R0138591
-
-2. **Software Development Engineer II , Amazon Pay | Amazon**
+1. **Business Analyst, Global Solutions & Risk Compliance (GSRC) | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
-   - Fit: yes | - 2+ years of non-internship professional software deve
-   - Experience: 2+ yrs
-   - ID: 10594189 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594189/software-development-engineer-ii-amazon-pay
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 78
+   - Fit: yes | or related field - 1+ years of experience in BI/technical support roles.
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: 10595194 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10595194/business-analyst-global-solutions-risk-compliance-gsrc
 
-3. **Verification Engineer -  ARM Fabric Unit Level | NVIDIA**
-   - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
-   - Fit: yes | Candidates should have 2+ years of demonstrated ability in verification clos
+2. **Commercial Loan Closing Specialist | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 77
+   - Fit: yes | Qualification : 2+ years of Commercial Loan Closing experience, or eq
    - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: JR2028794 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2028794
+   - ID: R-579875 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Specialist_R-579875
 
-4. **Payroll Accountant | Okta**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
-   - Fit: yes | Accounting or Finance 2-4 years of combined public accounting and private in
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 8323989 | open (ATS verified)
-   - Apply: https://www.okta.com/company/careers/opportunity/8323989?gh_jid=8323989
-
-5. **AI Model Optimization Engineer | Intel**
-   - India, Bangalore | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 71
-   - Fit: yes | discipline with 3+ years of hands-on experience in AI frameworks, alg
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: Qualifications: You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications and Experience : Bachelor's
-   - ID: JR0288104-1 | open (ATS verified)
-   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/AI-Model-Optimization-Engineer_JR0288104-1
-
-6. **Technology Business Systems Consultant | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 71
-   - Fit: yes | hands‑on experience (3–4+ years) supporting Loan IQ operations, including pr
-   - Experience: 3-4 yrs | Qualification: Bachelor
-   - ID: R-568049 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Technology-Business-Systems-Consultant_R-568049
-
-7. **Supply chain IT operations Support | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 71
-   - Fit: yes | , If needed. B.E B.Tech 3 to 5 years
+3. **IN_RBAI_Cost Engineer Electronics_IN | Bosch**
+   - Bengaluru, KA, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 71
+   - Fit: yes | & Communication) 3-5 Years of Experience in automotive industry or rele
    - Experience: 3-5 yrs | Qualification: Bachelor
-   - Requirements: to add the advantage:E2Open(E2MV), Jira , SAP MM (Materials Management), Jira , SAC Analytical Cloud Timings Of Work:9:00 AM IST to 6:00 PM IST( Mon-Friday) and Might extend a couple of hour whenever it is needed.Need to Support on weekend , If needed. B.E B.Tech 3 to 5 years
-   - ID: 744000159086615 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159086615
+   - ID: 744000159314013 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159314013
 
-8. **Analyst, Financial Operations | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 65
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 4749360005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749360005
+4. **AI and Automation Developer | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 71
+   - Fit: yes | Typically has 3–5 years of relevant experience in software developme
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - ID: 3170446-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI-and-Automation-Developer_3170446-1
 
-9. **Lead Analyst - Portfolio Intelligence & Fraud Analytics | Nium**
-   - Bangalore | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 59
-   - Fit: no | optimization projects. 4-7 years of experience in Fraud Analytics, Portfolio
-   - Experience: 4-7 yrs | Qualification: Master
-   - Requirements: Experience within fintech, payments, banking, card issuing, or acquiring environments. Knowledge of Visa and Mastercard fraud monitoring programs. Familiarity with AML, transaction monitoring, or financial crime controls. Experience with machine learning models or predictive analytics. Exposure to
-   - ID: 27bc36a0-da5e-42c0-b3f1-78b360b9e5eb | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/27bc36a0-da5e-42c0-b3f1-78b360b9e5eb
+5. **Verification Engineer - Networking IPs | NVIDIA**
+   - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 71
+   - Fit: yes | should have over 3 years of experience in verification closure of com
+   - Experience: 3 yrs | Qualification: Bachelor
+   - ID: JR2028803 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer---Networking-IPs_JR2028803
 
-10. **Financial Analyst 4 | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 58
-   - Fit: no | preferred. Typically 8+ years of experience as a financial analyst. Typica
+6. **Regional Sales Director | Salesforce**
+   - India - Mumbai | Work mode: unspecified | Also hiring in: India - Bangalore | Section: Non-IT / Other
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 66
+   - Fit: no | background in sales of 15+ years, with recent 5+ years in sales management (p
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - ID: JR366703 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Regional-Sales-Director_JR366703
+
+7. **Staff Software Development Engineer - Java + Microservices | Zscaler**
+   - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 53
+   - Fit: no | deployment experience 6+ years of experience in Java/Go coding in a highly
+   - Experience: 6+ yrs | Qualification: Bachelor
+   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
+   - ID: 5278549007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5278549007
+
+8. **Cloud Software Development Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 53
+   - Fit: no | Engineer with 5+ years of experience in cloud platform engineering,
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: Minimum Qualifications - Bachelor's degree in computer science, software engineering, or a related field with 4+ years of hands-on experience in cloud software development. Alternatively, a Master's degree in a relevant field with 3+ years of experience, or a PhD in a relevant field with no prior
+   - ID: JR0287692 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692
+
+9. **Senior Manager, Operational Excellence & AI Operations | PayPal**
+   - Bangalore, Karnataka, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 53
+   - Fit: no | Minimum Qualifications: 8+ years relevant experience and a Bachelor’s degree
    - Experience: 8+ yrs | Qualification: Bachelor
-   - ID: 3162274-2 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Financial-Analyst-Lease-Enablement_3162274-2
+   - Requirements: 8+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Experience leading others Additional Responsibilities & Preferred Qualifications : Job Summary This leader owns operational excellence across Enterprise Systems & Employee Technology.
+   - ID: R0138595 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Manager--Operational-Excellence---AI-Operations_R0138595
+
+10. **Sr/Staff/Principle/MTS Design Engineer | Micron**
+   - Hyderabad - Phoenix Aquila, India Bengaluru, India India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 51
+   - Fit: no
+   - Qualification: Bachelor
+   - ID: JR116949 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Sr-Staff-Principle-MTS-Design-Engineer_JR116949

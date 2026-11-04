@@ -1,45 +1,45 @@
-# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-11-02 06:30 UTC
-5 jobs, best score first: 2 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-11-03 03:26 UTC
+5 jobs, best score first: 4 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Business analyst key user and plant controlling  | Bosch**
-   - Gangaikondan, TN, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-30 (3 days ago) | fallback | Score 56 | second job
-   - Fit: unknown
-   - ID: 744000158803980 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158803980
+1. **In_RBIN_Sr. Manager_PS/QMM2-BidP1 | Bosch**
+   - Bannikuppe (Bidadi), KA, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-03 (0 days ago) | fresh | Score 53
+   - Fit: no | streams (desirable) * 15+ years of relevant work experience in Manufacturing
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - Requirements: , monitor improvement action to achieve customer results Manage & represent customer visits and audits at Bosch, plan & coordinate management visits to customer. Coordinate with stakeholders to enable continuity of production in special events Customer satisfaction index and fulfilment of customer
+   - ID: 744000159290379 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159290379
 
 2. **Principal Engineer Assy Equipment & Process | Micron**
    - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 53
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 50
    - Fit: no | preferred. Experience 12+ years of semiconductor manufacturing experience. 5
    - Experience: 12+ yrs | Qualification: Bachelor
-   - Requirements: . Manage equipment lifecycle activities including procurement, installation, qualification, upgrades, and decommissioning. Partner with Operations, PDE, Quality, Manufacturing, Facilities, and Global Teams to achieve operational objectives. Operational Excellence Drive continuous improvement
+   - Requirements: Education Bachelor's Degree in Mechanical Engineering, Electrical Engineering, Electronics Engineering, Mechatronics, Manufacturing Engineering, or related discipline. Master's Degree preferred. Experience 12+ years of semiconductor manufacturing experience. 5+ years of leadership experience
    - ID: JR106754 | open (ATS verified)
    - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Sr-Manager-PEE-Equipment-Manager_JR106754
 
-3. **IN_RBIN_Assistant Manager/Senior Engineer_Process Planner | Bosch**
-   - Nashik, Maharashtra, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-01 (1 days ago) | fresh | Score 50
-   - Fit: no | Years of experience : 1~3 yrs in industry (Automotive, Precision component
-   - Experience: 3 yrs | Qualification: Bachelor
-   - Requirements: from customers, stakeholders as well as standards and regulatory requirements into technical inputs to establish value stream capable of fulfilling needs of customer and stake holder expectations, conforming to standards & guidelines as well as continuously enhancing value stream efficiency &
-   - ID: 744000158966239 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158966239
+3. **Sr. Staff Software Development Engineer - Automation | Zscaler**
+   - Mohali, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 48
+   - Fit: no
+   - Qualification: Bachelor
+   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
+   - ID: 5253923007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5253923007
 
 4. **Facilities Cost Engineer (OPEX) | Micron**
    - Sanand - 303C - Facilities/Construction, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-10-27 (6 days ago) | fallback | Score 45 | second job
+   - Posted: 2026-10-27 (7 days ago) | fallback | Score 45 | second job
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: on invoices, including GST compliance, TDS applicability and e-invoicing details, in coordination with Accounts Payable and Tax teams. Maintain a P2P tracker with status, ageing and bottlenecks; follow up with Procurement, AP and vendors to ensure on-time payment and minimize vendor escalations.
    - ID: JR115233 | open (ATS verified)
    - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303C---FacilitiesConstruction-India/Facilities-Cost-Engineer--OPEX-_JR115233
 
-5. **Escalation Engineer - Cloud | Zscaler**
-   - Mohali, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-10-27 (6 days ago) | fallback | Score 38
-   - Fit: no | problem-solving Minimum 8+ years of experience working as a Support Engineer
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving Minimum 8+ years of experience working as a Support Engineer or Senior Support Engineer supporting cloud
-   - ID: 5269094007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5269094007
+5. **Senior Hardware Module Developer – Braking Systems | Bosch**
+   - coimbatore, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 44 | second job
+   - Fit: no | & Education7–10 years of relevant experience in automotive electro
+   - Experience: 7-10 yrs | Qualification: Bachelor
+   - ID: 744000159114818 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159114818

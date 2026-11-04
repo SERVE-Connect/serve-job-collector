@@ -1,90 +1,86 @@
-# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-02 06:30 UTC
-10 jobs, best score first: 5 from today/yesterday, 5 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-03 03:26 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Analyst - Compliance Operations | Nium**
+1. **Consultant - Payment Operations | Nium**
    - Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-28 (5 days ago) | fallback | Score 84
-   - Fit: yes | the Group. Minimum 2 years of experience in AML transaction monitoring,
-   - Experience: 2 yrs | Qualification: Bachelor
-   - Requirements: (both verbal and writing). Strong problem-solving and analytical skills with an investigative mindset. Team player but also able to work independently and self-motivated. Attention to detail, efficiency, and ability to work under pressure within tight deadlines. Good hands-on experience with
-   - ID: f74cc9cf-383e-4a91-8eb1-574fb912e35c | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/f74cc9cf-383e-4a91-8eb1-574fb912e35c
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 91
+   - Fit: yes | Bachelor's degree with 2-5 years of experience working in Payment Processing,
+   - Experience: 2-5 yrs | Qualification: Bachelor
+   - ID: a60371e3-efd9-4a71-8dae-90d44187991a | open (ATS verified)
+   - Apply: https://jobs.lever.co/nium/a60371e3-efd9-4a71-8dae-90d44187991a
 
-2. **Officer - KYC Quality Metrics Analyst | Citi**
-   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-10-27 (6 days ago) | fallback | Score 84
-   - Fit: yes | record with at least 2-4 years of relevant reporting, Metrics/MIS experienc
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - Requirements: and make a difference at one of the world’s most global banks. We’re fully committed to supporting your growth and development from the start with extensive on-the-job training and exposure to senior leaders, as well as more traditional learning. You’ll also have the chance to give back and make a
-   - ID: 261004625-1 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Officer---KYC-Quality-Metrics-Analyst_261004625-1
+2. **Associate II - New Business  | Zinnia**
+   - Gurugram, Haryana, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 85
+   - Fit: yes | • &nbsp; &nbsp;1+ year of working experience in Life Insurance, Ann
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: &nbsp; &nbsp;Graduation in any stream, Commerce Graduate preferred. • &nbsp; &nbsp;1+ year of working experience in Life Insurance, Annuities or financial services, with a focus on quality, attention to detail, accuracy and accountability for your work product. &nbsp; &nbsp; • &nbsp;
+   - ID: 4726335006 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zinnia/jobs/4726335006
 
-3. **Lending Application Support Analyst | Barclays**
+3. **Analyst, Tax - GIR Compliance | PayPal**
+   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 82
+   - Fit: yes | Minimum Qualifications: 1+ years of relevant experience and a Bachelor's degr
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: 1+ years of relevant experience and a Bachelor's degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Demonstrated experience with manual review and software aided review of W-8/W9, FATCA and CRS Self Certification form
+   - ID: R0138591 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Analyst--Tax---GIR-Compliance_R0138591
+
+4. **System Development Engineer, UTR Tech in Last Mile | Amazon**
+   - Gurugram, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-03 (0 days ago) | fresh | Score 79
+   - Fit: yes | - 1+ years of DevOps or SysOps in a large-scale softwar
+   - Experience: 1+ yrs
+   - ID: 10594981 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10594981/system-development-engineer-utr-tech-in-last-mile
+
+5. **Lending Application Support Analyst | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 82
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 79
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L –
    - ID: JR-0000107828 | open (ATS verified)
    - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Lending-Application-Support-Analyst_JR-0000107828
 
-4. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
-   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 81 | second job
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: and contribute to the development and implementation of credit risk policies and procedures for the Specialised Sector. Accountabilities Analysis of complex financial information and business models of LevFin, SLF, and Hedge Fund clients to assess their creditworthiness, repayment capacity, and
-   - ID: JR-0000133976-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
+6. **Specialist, Software Development Engineering | Fiserv**
+   - Pune - Trion Business Park, India | Work mode: onsite | Section: IT / Software
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
+   - Fit: yes | you'll need to have: 4+ years of experience in software development 2+ yea
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - ID: R-10401175 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175
 
-5. **Technical Writing Analyst | Salesforce**
-   - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-30 (3 days ago) | fallback | Score 76
-   - Fit: yes | Experience/Skills: 1-2 years of documentation experience - in documenting
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: 1-2 years of documentation experience - in documenting software for technical audiences, or creative content writing for end user audience, or editing technical content for software products Ability to understand the customer perspective Ability to write clean, concise, and approachable content.
-   - ID: JR366429 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Writing-Analyst_JR366429
+7. **Customer Service Representative | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
+   - Fit: yes | a professional manner. 1–3 years of experience in billing, invoicing, or acco
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - Requirements: Customer Service experience is required, with proven ability to handle external customer communications in a professional manner. 1–3 years of experience in billing, invoicing, or accounts receivable. Strong proficiency in Microsoft Office (Excel, Word, Outlook). Demonstrated ability to process and
+   - ID: JR328615 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Customer-Service-Representative_JR328615
 
-6. **Software Development Engineer II, Int'l TechnologyEURegionalfund | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 75
-   - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs
-   - ID: 10594157 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594157/software-development-engineer-ii-int-l-technologyeuregionalfund
+8. **Quality Assurance Administrator | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
+   - Fit: yes | Qualifications: 1+ year of Quality Assurance support, or equivalent
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: R-577557 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quality-Assurance-Administrator_R-577557
 
-7. **Technology Business Systems Consultant | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 74
-   - Fit: yes | hands‑on experience (3–4+ years) supporting Loan IQ operations, including pr
-   - Experience: 3-4 yrs | Qualification: Bachelor
-   - Requirements: Review and evaluate moderately complex technical business problems that can be resolved through internet or intranet based solutions Present recommendations for resolving business problems Exercise some independent judgment when developing project budgets, project plans, and schedules Provide
-   - ID: R-568049 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Technology-Business-Systems-Consultant_R-568049
+9. **Calibration Engineer - Vehicle calibration | Bosch**
+   - pune, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
+   - Fit: yes | Automobile, E&C, EEE). 4 to 6 years of relevant work experience. Experienced in
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - Requirements: B.E, M.Tech (Mechanical, Automobile, E&C, EEE). 4 to 6 years of relevant work experience. Experienced in technically leading / working on calibration development projects Experience in calibrating torque-based control systems (diesel & alternative fuels) including emissions and climate development
+   - ID: 744000159074300 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159074300
 
-8. **Software Dev Engineer , Hub Tech | Amazon**
-   - Gurugram, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-02 (0 days ago) | fresh | Score 73 | second job
-   - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs
-   - ID: 10594151 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594151/software-dev-engineer-hub-tech
-
-9. **Analyst, Risk Management | Mastercard**
-   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-30 (3 days ago) | fallback | Score 73
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: Graduate/Postgraduate degree in business, economics, econometrics or equivalent. • Experience in credit risk assessment and financial statements analysis (preferably). • Accuracy, self-drive, accountability and sense of urgency. • Outstanding written and verbal English communication skills. •
-   - ID: R-294790 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-294790
-
-10. **Associate, SME Sales | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (4 days ago) | fallback | Score 73
-   - Fit: yes | or those with up to 1 year of experience looking to start their career
-   - Experience: 1 yrs | Qualification: Bachelor
-   - Requirements: and Qualifications 0–1 year of experience in sales, inside sales, BPO, or customer support Internship experience in BFSI/startups is a bonus Basic knowledge of CRM tools and Google Sheets Good communication skills (spoken and written) Ability to follow standard processes and keep things organized
-   - ID: 4748409005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005
+10. **Verification Engineer -  ARM Fabric Unit Level | NVIDIA**
+   - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
+   - Fit: yes | Candidates should have 2+ years of demonstrated ability in verification clos
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: JR2028794 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2028794

@@ -1,9 +1,9 @@
-# SERVE ranked list: IT Support / Operations jobs (0-5 years), collected 2026-11-03 03:26 UTC
-2 jobs, best score first: 2 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: IT Support / Operations jobs (0-5 years), collected 2026-11-04 00:40 UTC
+2 jobs, best score first: 1 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Lending Application Support Analyst | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 79
+   - Posted: 2026-11-02 (2 days ago) | fallback | Score 76
    - Fit: unknown
    - Qualification: Bachelor
    - ID: JR-0000107828 | open (ATS verified)
@@ -11,7 +11,7 @@
 
 2. **Support Engineer, SCOT WW Long Term Planning and Forecasting | Amazon**
    - Hyderabad, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-03 (0 days ago) | fresh | Score 77
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 74
    - Fit: yes | - 2+ years of software development, or 2+ years of tech
    - Experience: 2+ yrs
    - ID: 10594997 | open (listed in employer's live search)
