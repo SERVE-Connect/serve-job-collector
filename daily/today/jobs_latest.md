@@ -1,13 +1,37 @@
-# SERVE jobs, collected 2026-11-04 00:40 UTC
-Window: last 7 days. Boards read OK: 56. Boards failed: 0. Jobs: 511 (IT: 291).
+# SERVE jobs, collected 2026-11-04 10:00 UTC
+Window: last 7 days. Boards read OK: 56. Boards failed: 0. Jobs: 577 (IT: 319).
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
 fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ years (listed under Senior IT roles).
 
-## IT / Software (42)
+## IT / Software (49)
 
-### Pune (10)
+### Pune (13)
+
+**Specialist, Software Development Engineering | Fiserv**
+- Location: Pune - Trion Business Park, India | Work mode: onsite
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | you'll need to have: 4+ years of experience in software development 2+ yea | Score: 81
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-10401173 / R-10401173 | Status: open (ATS verified)
+- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401173
+
+**Software Engineer - 11961 | Coupa**
+- Location: Pune, India | Work mode: hybrid
+- Posted: 2026-10-29 (6 days ago) | New today: yes
+- Fit: yes | or related field 2+ years of software development experience (preferab | Score: 80
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: f35ae214-b530-4156-b77a-124fed2e9663 | Status: open (ATS verified)
+- Apply: https://jobs.lever.co/coupa/f35ae214-b530-4156-b77a-124fed2e9663
+
+**Software Engineer - Technology Platform - 11960 | Coupa**
+- Location: Pune, India | Work mode: hybrid
+- Posted: 2026-10-29 (6 days ago) | New today: yes
+- Fit: yes | or a related field 2+ years of experience in software development, prefe | Score: 80
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: 7bbb7519-d38b-4d4e-933e-b04deafd4029 | Status: open (ATS verified)
+- Apply: https://jobs.lever.co/coupa/7bbb7519-d38b-4d4e-933e-b04deafd4029
 
 **Sofware Engineer, Priceless Platform | Mastercard**
 - Location: Pune, India | Work mode: unspecified
@@ -18,13 +42,13 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R-293896-1 / R-293896 | Status: open (ATS verified)
 - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Sofware-Engineer--Priceless-Platform_R-293896-1
 
-**Specialist, Software Development Engineering | Fiserv**
-- Location: Pune - Trion Business Park, India | Work mode: onsite
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: yes | you'll need to have: 4+ years of experience in software development 2+ yea | Score: 75
-- Experience: 4+ yrs | Qualification: Bachelor
-- ID: R-10401175 / R-10401175 | Status: open (ATS verified)
-- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175
+**Java Kafka Developer | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 77
+- Qualification: Bachelor
+- ID: JR-0000126876 / JR-0000126876 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Java-Kafka-Developer_JR-0000126876
 
 **Mainframe Software Developer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
@@ -119,7 +143,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR2028897 / JR2028897 | Status: open (ATS verified)
 - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/Formal-Verification-Engineer---New-College-Graduate-2026_JR2028897
 
-### Bangalore (17)
+### Bangalore (20)
+
+**IN_RBIN_Senior Engineer_Product Development_PS-CC | Bosch**
+- Location: Bengaluru, KA, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | (desirable) Experience: 2+ years experience in Product development Work exper | Score: 80
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: 744000159544369 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159544369
 
 **Business Analyst, Global Solutions & Risk Compliance (GSRC) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -209,6 +241,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 3166494-1 / 3166494 | Status: open (ATS verified)
 - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166494-1
 
+**UX Designer/ Java developer | Bosch**
+- Location: bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 63
+- Qualification: Bachelor
+- ID: 744000159553918 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159553918
+
 **Software Dev Engineer II, Global WHS | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
 - Posted: 2026-10-31 (4 days ago) | New today: no
@@ -232,6 +272,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3+ yrs
 - ID: 10590988 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10590988/software-dev-engineer-ii-amazon-now-tez
+
+**Software Firmware Engineer 4 | HP**
+- Location: Bengaluru, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 57
+- Qualification: Bachelor
+- ID: 3160029-2 / 3160029 | Status: open (ATS verified)
+- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Graphics-Expert_3160029-2
 
 **Software Development Engineer, Amazon Regulatory and Trade Services (ARTS Tech) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -295,6 +343,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR366422 / JR366422 | Status: open (ATS verified)
 - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366422
 
+**Software Dev Engineer II, Amazon Business | Amazon**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | - 3+ years of non-internship professional software deve | Score: 76
+- Experience: 3+ yrs
+- ID: 10588111 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10588111/software-dev-engineer-ii-amazon-business
+
 **SDE II, AB Mobile | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
 - Posted: 2026-10-29 (6 days ago) | New today: no | ALREADY SENT
@@ -310,14 +366,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 2+ yrs
 - ID: 10591201 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10591201/sde-ii-ab-mobile
-
-**Software Engineer | ServiceNow**
-- Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: yes
-- Fit: yes | practical experience) 4+ years of professional software development experie | Score: 64
-- Experience: 4+ yrs | Qualification: Bachelor
-- ID: 744000159295769 | Status: open (ATS verified)
-- Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159295769
 
 **Software Development Engineer  | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -335,7 +383,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10593690 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10593690/software-dev-engineer
 
-### Other India (3)
+### Other India (4)
+
+**Engineering Technician - GEL | Micron**
+- Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | Clean room Requirement: 4-5 year experience with Diploma in Electronics & Com | Score: 63
+- Experience: 4-5 yrs | Qualification: Diploma
+- ID: JR93921 / JR93921 | Status: open (ATS verified)
+- Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Equipment-maintenance-technician---GEL_JR93921
 
 **Engineer CAT PQA Engineer | Micron**
 - Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
@@ -362,15 +418,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 ## Data / Analytics / AI (24)
 
-### Pune (8)
-
-**Software Engineer(AI/ML Platform) | Autodesk**
-- Location: Pune, IND | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: yes
-- Fit: yes | experience Experience: 2 to 5 years of experience in software development and en | Score: 91
-- Experience: 2-5 yrs | Qualification: Bachelor
-- ID: 26WD96776-1 / 26WD96776 | Status: open (ATS verified)
-- Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-Software-Engineer-AI-ML-Platform-_26WD96776-1
+### Pune (7)
 
 **Data Engineer II | Mastercard**
 - Location: Pune, India | Work mode: unspecified
@@ -448,7 +496,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 26977233 / 26977233 | Status: open (ATS verified)
 - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Business-Intelligence-Analyst_26977233
 
-### Bangalore (12)
+### Bangalore (13)
+
+**Compliance Analyst - AI Governance | AlphaSense**
+- Location: Bengaluru | Work mode: unspecified
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: yes | frameworks shaping it. 2–4 years of experience in risk management, GRC, compl | Score: 82
+- Experience: 2-4 yrs
+- ID: 8929592002 / Req-103538 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/alphasenseindia/jobs/8929592002
 
 **AI and Automation Developer | HP**
 - Location: Bengaluru, Karnataka, India | Work mode: unspecified
@@ -547,6 +603,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 ### Hyderabad (2)
 
+**Business Intelligence Engineer, Last Mile BI | Amazon**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | - 2+ years of analyzing and interpreting data with Reds | Score: 77
+- Experience: 2+ yrs
+- ID: 10596172 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10596172/business-intelligence-engineer-last-mile-bi
+
 **Data Engineer, ShipTech Analytics | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
 - Posted: 2026-11-02 (2 days ago) | New today: no
@@ -554,14 +618,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3+ yrs
 - ID: 10594179 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594179/data-engineer-shiptech-analytics
-
-**Data Management Analyst | Wells Fargo**
-- Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-10-30 (5 days ago) | New today: no
-- Fit: yes | Qualifications: 4+ years of Data Management, Business Analysis, Analy | Score: 57
-- Experience: 4+ yrs | Qualification: Bachelor
-- ID: R-574157 / R-574157 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Data-Management-Analyst_R-574157
 
 ## Cybersecurity (3)
 
@@ -594,7 +650,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8349053 / 2026.10199 | Status: open (ATS verified)
 - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8349053
 
-## Cloud / DevOps / Infrastructure (10)
+## Cloud / DevOps / Infrastructure (11)
 
 ### Pune (3)
 
@@ -650,7 +706,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10594981 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594981/system-development-engineer-utr-tech-in-last-mile
 
-### Bangalore (4)
+### Bangalore (5)
 
 **Verification Engineer - Networking IPs | NVIDIA**
 - Location: India, Bengaluru India, Hyderabad India | Work mode: unspecified
@@ -667,6 +723,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 1+ yrs
 - ID: 10594417 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594417/system-development-engineer-tfs-onboarding
+
+**Embedded_Devops_ECT | Bosch**
+- Location: hosur road bangalore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | Electronics background 3 to 6 years | Score: 68
+- Experience: 3-6 yrs | Qualification: Bachelor
+- ID: 744000159545819 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159545819
 
 **Software System Engineer | HP**
 - Location: Bengaluru, Karnataka, India Tlaquepaque, Jalisco, Mexico India | Work mode: unspecified
@@ -728,7 +792,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0000107828 / JR-0000107828 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Lending-Application-Support-Analyst_JR-0000107828
 
-### Bangalore (3)
+### Bangalore (2)
 
 **Support Engineer, Global Solutions & Risk Compliance (GSRC) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -746,15 +810,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: aed5aae1-1ea2-486f-80b3-1e7b7992fd85 | Status: open (ATS verified)
 - Apply: https://jobs.lever.co/saviynt/aed5aae1-1ea2-486f-80b3-1e7b7992fd85
 
-**Technical Support Engineer | HP**
-- Location: Bengaluru, Karnataka, India | Work mode: unspecified
-- Posted: 2026-10-30 (5 days ago) | New today: no | ALREADY SENT
-- Fit: yes | • Typically has 4-6 years of related work experience, preferably in re | Score: 51
-- Experience: 4-6 yrs | Qualification: Diploma
-- ID: 3167731 / 3167731 | Status: open (ATS verified)
-- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Technical-Support-Engineer_3167731
-
-### Hyderabad (1)
+### Hyderabad (2)
 
 **Support Engineer, SCOT WW Long Term Planning and Forecasting | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -764,9 +820,17 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10594997 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594997/support-engineer-scot-ww-long-term-planning-and-forecasting
 
-## Senior IT roles (5+ yrs) (204)
+**Associate Technical Support Engineer (French Speaking) | Salesforce**
+- Location: India - Hyderabad | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: no | ALREADY SENT
+- Fit: unknown | Score: 69
+- Qualification: Bachelor
+- ID: JR356515 / JR356515 | Status: open (ATS verified)
+- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515
 
-### Pune (58)
+## Senior IT roles (5+ yrs) (224)
+
+### Pune (59)
 
 **Sr. Support Engineer I | Zinnia**
 - Location: Pune, Maharashtra, India | Work mode: unspecified
@@ -777,13 +841,45 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 4724649006 / 7817 | Status: open (ATS verified)
 - Apply: https://job-boards.greenhouse.io/zinnia/jobs/4724649006
 
-**ETL Automation Data Engineering Lead - Vice President | Citi**
-- Location: Pune Maharashtra India | Work mode: hybrid
-- Posted: 2026-11-03 (1 days ago) | New today: yes
-- Fit: no | Qualifications: 12-16 years of Technology experience. Strong Banking or | Score: 68
-- Experience: 12-16 yrs | Qualification: Bachelor
-- ID: 261001754 / 261001754 | Status: open (ATS verified)
-- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/ETL-Automation-Data-Engineering-Lead---Vice-President_261001754
+**Expertise Java Developer (Exp 12+ Years - Hands on SQL, AWS/ Azure, DevOps) || Pune | Fiserv**
+- Location: Pune - Trion Business Park, India | Work mode: onsite
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Java Developer (Exp 12+ Years - Hands on SQL, AWS/ Azure, DevOps) || Pune | Score: 71
+- Experience: 12+ yrs | Qualification: Bachelor
+- ID: R-10404803 / R-10404803 | Status: open (ATS verified)
+- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Expertise-Java-Developer--Exp-12--Years---Hands-on-SQL--AWS--Azure--DevOps-----Pune_R-10404803
+
+**Lead Software Engineer | Mastercard**
+- Location: Pune, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | All About You: 10+ years of overall software engineering experience, | Score: 70
+- Experience: 10+ yrs | Qualification: Bachelor
+- ID: R-291096 / R-291096 | Status: open (ATS verified)
+- Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-291096
+
+**Change and Release manager + Automation and AI | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | AI and data security. 1–4 years of relevant experience (internships and pers | Score: 70
+- Experience: 1-4 yrs | Qualification: Bachelor
+- ID: JR-0000111501-1 / JR-0000111501 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Change-and-Release-manager_JR-0000111501-1
+
+**Technical Expert – Avionics Validation & DO-160G Qualification Testing | Bosch**
+- Location: pune, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Systems BE / B-tech 8 - 10 year | Score: 70
+- Experience: 8-10 yrs | Qualification: Bachelor
+- ID: 744000159570878 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159570878
+
+**Infrastructure Design Engineer (AVP) | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Score: 68
+- Qualification: Bachelor
+- ID: JR-0000125520 / JR-0000125520 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Infrastructure-Design-Engineer--AVP-_JR-0000125520
 
 **Senior .NET Developer | Citi**
 - Location: Pune Maharashtra India | Work mode: hybrid
@@ -874,15 +970,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 5278561007 / 261028_I71807 | Status: open (ATS verified)
 - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5278561007
 
-**Lead Software Engineer | Mastercard**
-- Location: Pune, India | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: no | is desirable. •15+ years of experience in the software engineering fi | Score: 64
-- Experience: 15+ yrs | Qualification: Bachelor
-- Requirements: documents, design documents, and project financial analysis. Skills/ Abilities: •Ability to acquire and retain top talent. •Management skills necessary to provide functional and directional guidance to direct and indirect staff. Ability to set direction and assure appropriate business outcomes of
-- ID: R-294263 / R-294263 | Status: open (ATS verified)
-- Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-294263
-
 **Senior Supplier Quality Engineer | NVIDIA**
 - Location: India, Pune | Work mode: unspecified
 - Posted: 2026-11-02 (2 days ago) | New today: no
@@ -950,7 +1037,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Lead Software Engineer-2 | Mastercard**
 - Location: Pune, India | Work mode: unspecified
-- Posted: 2026-10-28 (7 days ago) | New today: no
+- Posted: 2026-10-28 (7 days ago) | New today: no | ALREADY SENT
 - Fit: no | Score: 58
 - Qualification: Bachelor
 - ID: R-290020 / R-290020 | Status: open (ATS verified)
@@ -971,24 +1058,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 8+ yrs | Qualification: Bachelor
 - ID: 261002390 / 261002390 | Status: open (ATS verified)
 - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Software-Engineer--Python---Data----Markets-Business-Controls-Technology_261002390
-
-**Senior Java Technical Lead - Vice President | Citi**
-- Location: Pune Maharashtra India | Work mode: hybrid
-- Posted: 2026-10-29 (6 days ago) | New today: no
-- Fit: no | Qualifications 10-15 years of hands-on software engineering experience | Score: 56
-- Experience: 10-15 yrs | Qualification: Bachelor
-- Requirements: 10-15 years of hands-on software engineering experience delivering enterprise-scale applications in complex, global environments. Deep expertise in Java-based application development, including Spring Boot, microservices architecture, and distributed systems design. Hands-on experience with
-- ID: 261000715 / 261000715 | Status: open (ATS verified)
-- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Technical-Lead---Vice-President_261000715
-
-**Senior Java Engineer - Vice President | Citi**
-- Location: Pune Maharashtra India | Work mode: hybrid
-- Posted: 2026-10-30 (5 days ago) | New today: no
-- Fit: no | Qualifications 7+ years of hands-on software engineering experience | Score: 56
-- Experience: 7+ yrs | Qualification: Bachelor
-- Requirements: 7+ years of hands-on software engineering experience delivering enterprise-scale applications in complex, global environments. Deep expertise in Java-based application development, including Spring Boot, microservices architecture, and distributed systems design. Hands-on experience with messaging
-- ID: 261001643 / 261001643 | Status: open (ATS verified)
-- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Engineer---Vice-President_261001643
 
 **Senior Software Engineering, Backend | DoorDash India**
 - Location: Pune, India | Work mode: unspecified | Also hiring in: Hyderabad, India
@@ -1101,7 +1170,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Lead Developer Advocate | Salesforce**
 - Location: India - Hyderabad India - Bangalore India - Pune India - Mumbai India - Gurgaon India - Jaipur India - Chennai India [multi-city] | Work mode: unspecified
-- Posted: 2026-10-30 (5 days ago) | New today: no
+- Posted: 2026-10-30 (5 days ago) | New today: yes
 - Fit: no | You're Our Person If... 8+ years of experience implementing on the Salesforce | Score: 55
 - Experience: 8+ yrs | Qualification: Bachelor
 - ID: JR363220 / JR363220 | Status: open (ATS verified)
@@ -1109,7 +1178,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Technical Consultant - Revenue/Fins/Communications/Health Cloud | Salesforce**
 - Location: India - Bangalore India - Hyderabad India - Pune India - Gurgaon India [multi-city] | Work mode: unspecified
-- Posted: 2026-10-29 (6 days ago) | New today: no | ALREADY SENT
+- Posted: 2026-10-29 (6 days ago) | New today: yes | ALREADY SENT
 - Fit: no | or Communications Cloud 7+ years as a Lead Developer overall doing solution d | Score: 55
 - Experience: 7+ yrs | Qualification: Bachelor
 - ID: JR361950 / JR361950 | Status: open (ATS verified)
@@ -1305,7 +1374,16 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R0138488 / R0138488 | Status: open (ATS verified)
 - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Mumbai-Maharashtra-India/Chief-Information-Security-Officer--CISO-_R0138488
 
-### Delhi NCR / Haryana (5)
+### Delhi NCR / Haryana (6)
+
+**Wealth - Reporting Analytics - Intermediate Analyst | Citi**
+- Location: Gurugram Haryana India Chennai  India India [multi-city] | Work mode: hybrid
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: no | Experience: 5+ years of experience as an individual contributor i | Score: 62
+- Experience: 5+ yrs | Qualification: Bachelor
+- Requirements: Experience: 5+ years of experience as an individual contributor in a major bank, working within Risk or Marketing teams with a focus on the mortgage and/or retail/commercial banking industry. Technical Skills: Programming: Expertise in SAS or Python for data analysis, MIS, and visualization.
+- ID: 261007433 / 261007433 | Status: open (ATS verified)
+- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth---Reporting-Analytics---Intermediate-Analyst_261007433
 
 **Software Development Manager | Amazon**
 - Location: Gurugram, India | Work mode: unspecified
@@ -1348,7 +1426,33 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10592212 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10592212/sr-applied-scientist-amazon-shipping
 
-### Bangalore (87)
+### Bangalore (101)
+
+**Principal Associate, Software Engineering | Capital One**
+- Location: Bangalore, In | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Science At least 4 years of experience in software engineering (Inter | Score: 61
+- Experience: 4 yrs | Qualification: Bachelor
+- Requirements: 3+ years of experience in any of the following: Java, Golang, Node or Python 1+ years of experience with AWS, GCP, Microsoft Azure or another cloud service 1+ years of experience with REST, Spring Boot, GraphQL, Jenkins 2+ years of experience in open source frameworks 2+ years of experience in
+- ID: R1004124-1 / R1004124 | Status: open (ATS verified)
+- Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--Software-Engineering_R1004124-1
+
+**Assistant Manager/Senior Engineer Sensor Development (PS-SB/ENC1-IN) | Bosch**
+- Location: Bengaluru, KA, India | Work mode: hybrid
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | in engineering with 1-5 years relavant experience Knowledge: Proficient kn | Score: 57
+- Experience: 1-5 yrs | Qualification: Bachelor
+- ID: 744000159583241 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159583241
+
+**Sr. Staff Software Development Engineer - Python + Networking | Zscaler**
+- Location: Bangalore, IND | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | or a related field with 9+ years of experience in system engineering for high | Score: 56
+- Experience: 9+ yrs | Qualification: Bachelor
+- Requirements: (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving Bachelor's or Master's degree in Computer Science or a related field with 9+ years of experience in system
+- ID: 5279075007 / 260709_I72495 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/zscaler/jobs/5279075007
 
 **Lead Analyst - Portfolio Intelligence & Fraud Analytics | Nium**
 - Location: Bangalore | Work mode: hybrid
@@ -1359,6 +1463,80 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 27bc36a0-da5e-42c0-b3f1-78b360b9e5eb | Status: open (ATS verified)
 - Apply: https://jobs.lever.co/nium/27bc36a0-da5e-42c0-b3f1-78b360b9e5eb
 
+**Software Engineer 4 | HP**
+- Location: Bengaluru, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | • Typically has 7-10 years of work experience, preferably in software d | Score: 56
+- Experience: 7-10 yrs | Qualification: Bachelor
+- ID: 3166627-1 / 3166627 | Status: open (ATS verified)
+- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-Engineer-4_3166627-1
+
+**Senior Software Engineer | Wells Fargo**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Qualifications: 4+ years of Software Engineering experience, or equiv | Score: 56
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-571628 / R-571628 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-571628
+
+**Lead Quantitative Analytics Specialist - Gen AI, Machine Learning Model Building, Python | Wells Fargo**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: no
+- Fit: no | Qualifications: 5+ years of Quantitative Analytics experience, or equ | Score: 56
+- Experience: 5+ yrs | Qualification: Bachelor
+- ID: R-575562-1 / R-575562 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Quantitative-Analytics-Specialist---Python--SQL--Machine-Learning-Model-Building--Gen-AI_R-575562-1
+
+**Sr Software Engineer, iOS | PayPal**
+- Location: Bangalore, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: no
+- Fit: no | do you need to bring- • 4 to 7 years of iOS development experience, with a record | Score: 56
+- Experience: 4-7 yrs | Qualification: Bachelor
+- ID: R0138411 / R0138411 | Status: open (ATS verified)
+- Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411
+
+**Lead Engineer -Appliance  Design & Development  | Bosch**
+- Location: bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | / B. Tech in Mechanical 6 to 10 years | Score: 56
+- Experience: 6-10 yrs | Qualification: Bachelor
+- ID: 744000159552338 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159552338
+
+**Linux kernel developer_BSH | Bosch**
+- Location: hosur road bangalore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Electronics background 5 to 8 years | Score: 56
+- Experience: 5-8 yrs | Qualification: Bachelor
+- ID: 744000159550959 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159550959
+
+**Senior Hyper Automation (RPA, AI, ML) Developer/Engineer | Bosch**
+- Location: bangalore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Experience: Minimum 5 years of hands-on experience in RPA development wi | Score: 56
+- Experience: 5 yrs | Qualification: Bachelor
+- Requirements: Power Automate, Automation Anywhere, Python. Good to have : AI/ML, NLP, Deep learning, C#, Agile Methodology. Preferred Skills: Knowledge of Low code apps (e.g., out Systems) is an added value. Exposure to Gen AI integrations, or Chatbot automation within A360. Knowledge of other scripting
+- ID: 744000159550538 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159550538
+
+**Build & Artifact Engineer_EPS1 | Bosch**
+- Location: hosur road bangalore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Electronics background 5-10 yrs | Score: 56
+- Experience: 5-10 yrs | Qualification: Bachelor
+- Requirements: Skills: Build System Development: Strong, hands-on expertise in implementing scalable and maintainable build systems with modern CMake. Dependency Management: Proven experience with C++ package managers, specifically Conan, including creating recipes and managing binary packages. Embedded
+- ID: 744000159545198 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159545198
+
+**Assistant Manager/ Senior Engineer - Customer project management Engineer (PS-SB/ENC2-IN) | Bosch**
+- Location: Bengaluru, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | is an added advantage 4-5 years of minimum experience in Project management | Score: 56
+- Experience: 4-5 yrs | Qualification: Bachelor
+- ID: 744000159543569 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159543569
+
 **Sr. Business Analyst – Deep tech Innovation | Bosch**
 - Location: bengaluru, India | Work mode: unspecified
 - Posted: 2026-11-02 (2 days ago) | New today: no
@@ -1366,6 +1544,41 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 5-10 yrs | Qualification: Bachelor
 - ID: 744000159110850 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159110850
+
+**Senior Site Reliability Engineer - Private Cloud | Barclays**
+- Location: Bengaluru, Maruthi Onyx - TESCO TSA | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Score: 54
+- Qualification: Bachelor
+- ID: JR-0000052441 / JR-0000052441 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Senior-Site-Reliability-Engineer---Private-Cloud_JR-0000052441
+
+**Senior Staff Software Development Engineer | Zscaler**
+- Location: Bangalore, IND | Work mode: unspecified
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: no | your functional domain 8+ years of software development experience in buildi | Score: 53
+- Experience: 8+ yrs | Qualification: Bachelor
+- Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 8+ years of software development experience in building large-scale applications using Python, Golang
+- ID: 5253935007 / 261001_I35923 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/zscaler/jobs/5253935007
+
+**Sr. Software Development Engineer - Java/ Agentic AI/ Big Data | Zscaler**
+- Location: Bangalore, IND | Work mode: unspecified
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: no | your functional domain 3+ years of hands-on software engineering experience | Score: 53
+- Experience: 3+ yrs | Qualification: Bachelor
+- Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 3+ years of hands-on software engineering experience in Java and Spring Boot within large-scale,
+- ID: 5267221007 / 260915_B28301 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/zscaler/jobs/5267221007
+
+**Sr. Staff Software Development Engineer | Zscaler**
+- Location: Bangalore, IND | Work mode: unspecified
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: no | or operations domain 10+ years of relevant experience designing, operating, | Score: 53
+- Experience: 10+ yrs | Qualification: Bachelor
+- Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or applying AI-driven solutions within an engineering or operations domain 10+ years of relevant experience designing, operating, tuning, and troubleshooting large-scale distributed
+- ID: 5279058007 / 261028_B11874 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/zscaler/jobs/5279058007
 
 **Staff Software Development Engineer - Java + Microservices | Zscaler**
 - Location: Bangalore, IND | Work mode: unspecified
@@ -1441,14 +1654,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R-567344-1 / R-567344 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Analytics-Consultant_R-567344-1
 
-**Lead Risk Analytics Consultant | Wells Fargo**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: no
-- Fit: no | Qualifications: 5+ years of Risk Analytics experience, or equivalent | Score: 53
-- Experience: 5+ yrs | Qualification: Bachelor
-- ID: R-584415 / R-584415 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Risk-Analytics-Consultant_R-584415
-
 **Cloud Software Development Engineer | Intel**
 - Location: India, Bangalore | Work mode: unspecified
 - Posted: 2026-11-03 (1 days ago) | New today: yes
@@ -1492,14 +1697,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000159306209 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159306209
 
-**Lead Engineer -Appliance  Design & Development  | Bosch**
-- Location: bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: yes
-- Fit: no | / B. Tech in Mechanical 6 to 10 years | Score: 53
-- Experience: 6-10 yrs | Qualification: Bachelor
-- ID: 744000159305978 | Status: open (ATS verified)
-- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159305978
-
 **Full Stack Developer with DevOps experience | Bosch**
 - Location: bangalore, India | Work mode: unspecified
 - Posted: 2026-11-03 (1 days ago) | New today: yes
@@ -1516,6 +1713,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 8-10 yrs | Qualification: Bachelor
 - ID: 744000159291782 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159291782
+
+**Software Development Manager, RBS Tech | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | management experience - 8+ years of leading the definition and development of | Score: 52
+- Experience: 8+ yrs
+- ID: 10590175 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10590175/software-development-manager-rbs-tech
 
 **Security Engineer III - Infra Security | Meesho**
 - Location: Bangalore, Karnataka | Work mode: onsite
@@ -1649,6 +1854,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R-576931 / R-576931 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Senior-Manager-Electronic-Trading-Java-and-or-C---AI_R-576931
 
+**Embedded Linux BSP Development_EPS1 | Bosch**
+- Location: hosur road bangalore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Electronics background 8-15 yrs | Score: 50
+- Experience: 8-15 yrs | Qualification: Bachelor
+- ID: 744000159551134 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159551134
+
 **Chapter Area Lead – Software Testing and Test Automation | Bosch**
 - Location: hosur road bangalore, India | Work mode: unspecified
 - Posted: 2026-11-02 (2 days ago) | New today: no
@@ -1664,6 +1877,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 8+ yrs
 - ID: 10592961 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10592961/software-development-manager-minerva
+
+**IN_ETAS_Regional Solution Field Manager – Embedded & Compute Middleware Solutions_IN | Bosch**
+- Location: Bengaluru, KA, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Score: 48
+- Qualification: Bachelor
+- Requirements: Hands-on experience with ETAS products and solutions . Strong understanding of the automotive embedded-software ecosystem and evolving software-defined vehicle architectures. Strong customer orientation with the ability to bridge business, technical, and organizational perspectives . Effective
+- ID: 744000159581580 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159581580
 
 **Director - Technical Consulting  ( Financial Services Cloud  /Revenue Cloud / Comms Cloud  / Telecom ) | Salesforce**
 - Location: India - Bangalore | Work mode: unspecified
@@ -1740,15 +1962,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 5271579007 / 261021_I70771 | Status: open (ATS verified)
 - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5271579007
 
-**Senior Staff Software Development Engineer | Zscaler**
-- Location: Bangalore, IND | Work mode: unspecified
-- Posted: 2026-10-28 (7 days ago) | New today: no
-- Fit: no | your functional domain 10+ years experience in the architecture, design, and | Score: 41
-- Experience: 10+ yrs | Qualification: Bachelor
-- Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
-- ID: 5267726007 / 260709_I72472 | Status: open (ATS verified)
-- Apply: https://job-boards.greenhouse.io/zscaler/jobs/5267726007
-
 **Team Lead - Platform Monitoring Engineer | Databricks**
 - Location: Bengaluru, India | Work mode: unspecified
 - Posted: 2026-10-28 (7 days ago) | New today: no
@@ -1823,14 +2036,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8334578 / R-005134 | Status: open (ATS verified)
 - Apply: https://www.netskope.com/company/careers/open-positions/?gh_jid=8334578
 
-**Salesforce Technical Architect-Healthcare Domain (SF Tech Arch exp mandatory) | Salesforce**
-- Location: India - Bangalore | Work mode: unspecified
-- Posted: 2026-10-30 (5 days ago) | New today: no
-- Fit: no | You're Our Person If... 10+ years of experience in developing technology solut | Score: 41
-- Experience: 10+ yrs | Qualification: Bachelor
-- ID: JR357464 / JR357464 | Status: open (ATS verified)
-- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Salesforce-Technical-Architect-Healthcare-Domain--SF-Tech-Arch-exp-mandatory-_JR357464
-
 **Agentic AI Engineer | HP**
 - Location: Bengaluru, Karnataka, India | Work mode: unspecified
 - Posted: 2026-10-28 (7 days ago) | New today: no
@@ -1895,14 +2100,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: the courage to share new ideas even when they are unproven. You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss. You are a resilient trail
 - ID: R249922-1 / R249922 | Status: open (ATS verified)
 - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Distinguished-AI-Engineer_R249922-1
-
-**Sr Software Engineer, iOS | PayPal**
-- Location: Bangalore, Karnataka, India | Work mode: unspecified
-- Posted: 2026-10-30 (5 days ago) | New today: no
-- Fit: no | do you need to bring- • 4 to 7 years of iOS development experience, with a record | Score: 41
-- Experience: 4-7 yrs | Qualification: Bachelor
-- ID: R0138411 / R0138411 | Status: open (ATS verified)
-- Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411
 
 **IN_RBIN_Assistant Manager / Senior Engineer_Project Management (Member) : PS-GH/PJM-IN | Bosch**
 - Location: Bengaluru, KA, India | Work mode: unspecified
@@ -2071,7 +2268,23 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10593262 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10593262/data-engineer-iii-data-engineering-india
 
-### Chennai (2)
+### Chennai (4)
+
+**Line Technical support Engineer (Assistant Manager) | Bosch**
+- Location: Chennai, Tamil Nadu, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | majors. • At least 3 years working experience in engineering related de | Score: 58
+- Experience: 3 yrs | Qualification: Bachelor
+- ID: 744000159546259 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159546259
+
+**Quality Site Specialist, Frontier AI Quality | Amazon**
+- Location: Chennai, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | level leaders - 5+ years of experience in program/project management, | Score: 54
+- Experience: 5+ yrs | Qualification: Bachelor
+- ID: 10596214 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10596214/quality-site-specialist-frontier-ai-quality
 
 **Senior Software Engineer - Backend (Java) | PayPal**
 - Location: Chennai, Tamil Nadu, India | Work mode: unspecified
@@ -2090,7 +2303,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R0138599-1 / R0138599 | Status: open (ATS verified)
 - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-Software-Engineer_R0138599-1
 
-### Hyderabad (34)
+### Hyderabad (35)
 
 **Sr Business Analyst - IT Workday | Micron**
 - Location: Hyderabad - Phoenix Aquila, India | Work mode: unspecified
@@ -2100,6 +2313,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: and Experience: · Minimum of 5 years of direct, hands-on experience in Workday. · Workday Certification · Hands-on Workday experience in Core HCM, Rec, onboarding, Time & Absence, Compensation · 3+ years of HCM experience, most recently in a Senior Analyst, Consultant, or similar level role. ·
 - ID: JR115999 / JR115999 | Status: open (ATS verified)
 - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Sr-Business-Analyst---IT-Workday_JR115999
+
+**Lead Infrastructure Engineer | Wells Fargo**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: no
+- Fit: no | Qualifications: 5+ years of Technology Infrastructure Engineering and | Score: 57
+- Experience: 5+ yrs | Qualification: Bachelor
+- ID: R-572230 / R-572230 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Infrastructure-Engineer_R-572230
 
 **Staff Software Engineer | ServiceNow**
 - Location: Hyderabad, India | Work mode: hybrid | Also hiring in: Hyderabad, Telangana, India
@@ -2379,7 +2600,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR111251 / JR111251 | Status: open (ATS verified)
 - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--ESSD-Firmware-Developer_JR111251
 
-### Other India (11)
+### Other India (12)
+
+**ECT2_Test Automation for Mobile APP_COB | Bosch**
+- Location: coimbatore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | science or similar 5 to 8 years | Score: 53
+- Experience: 5-8 yrs | Qualification: Bachelor
+- ID: 744000159545668 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159545668
 
 **Senior Quality & Reliability Assurance Engineer | Micron**
 - Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
@@ -2475,13 +2704,21 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000158669699 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158669699
 
-## Non-IT / Other (220)
+## Non-IT / Other (258)
 
-### Pune (31)
+### Pune (34)
+
+**Fraud & Dispute Analyst | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 82
+- Qualification: Bachelor
+- ID: JR-0000133202-1 / JR-0000133202 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Fraud---Dispute-Analyst_JR-0000133202-1
 
 **Banking Operations Specialist | Citi**
 - Location: Pune Maharashtra India | Work mode: hybrid
-- Posted: 2026-10-29 (6 days ago) | New today: no
+- Posted: 2026-10-29 (6 days ago) | New today: no | ALREADY SENT
 - Fit: yes | & Functional Skills: 1–2 years of relevant professional experience within b | Score: 80
 - Experience: 1-2 yrs | Qualification: Bachelor
 - ID: 26996280 / 26996280 | Status: open (ATS verified)
@@ -2504,6 +2741,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0110060 / JR-0110060 | Status: open (ATS verified)
 - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Customer-Support-Analyst--AI-ML-Application-Support-_JR-0110060
 
+**Advisor, Product Management | Fiserv**
+- Location: Pune - Trion Business Park, India | Work mode: onsite
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | you'll need to have: • 10-12 years of experience in quality assurance and test | Score: 71
+- Experience: 10-12 yrs | Qualification: Bachelor
+- ID: R-10404807 / R-10404807 | Status: open (ATS verified)
+- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Expertise-QA-Automation--12--Years-Exp---Hands-on-Selenium--JAVA---API--SQL--DevOps--AWS---Azure-----Pune_R-10404807
+
 **Legal Executive Assistant | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
 - Posted: 2026-11-02 (2 days ago) | New today: no
@@ -2511,6 +2756,23 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Qualification: Bachelor
 - ID: JR-0000137840-1 / JR-0000137840 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Legal-Executive-Assistant_JR-0000137840-1
+
+**Director, IT Service Management | Workday**
+- Location: IND.Pune | Work mode: hybrid
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | with ServiceNow 15+ years of technical experience in IT software devel | Score: 71
+- Experience: 15+ yrs | Qualification: Bachelor
+- Requirements: Basic Qualifications 8+ years of leadership experience in IT Service Management or Business Application Service Delivery in a large global organization. 8+ years of experience leading globally distributed teams that support a 24x7 operations model. 8+ years of hands-on experience with ServiceNow
+- ID: JR-0109405 / JR-0109405 | Status: open (ATS verified)
+- Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Director--IT-Service-Management_JR-0109405
+
+**Senior Technical Architect (Revenue/CPQ) | Salesforce**
+- Location: India - Bangalore India - Hyderabad India - Pune India - Gurgaon India [multi-city] | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Required Experience: 14+ years of experience in developing technology solut | Score: 70
+- Experience: 14+ yrs | Qualification: Bachelor
+- ID: JR362399 / JR362399 | Status: open (ATS verified)
+- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Technical-Architect--Revenue-CPQ-_JR362399
 
 **Program Management Senior Lead - C14 - PUNE | Citi**
 - Location: Pune Maharashtra India | Work mode: hybrid
@@ -2538,7 +2800,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Technical Program Manager | Mastercard**
 - Location: Vendor - Pune, India (EPAM) | Work mode: unspecified | Also hiring in: Pune, India
-- Posted: 2026-11-03 (1 days ago) | New today: no
+- Posted: 2026-11-03 (1 days ago) | New today: yes
 - Fit: no | in a DevOps model • 6+ years technical program delivery experience includ | Score: 67
 - Experience: 6+ yrs | Qualification: Bachelor
 - ID: R-294273-1 / R-294273 | Status: open (ATS verified)
@@ -2551,14 +2813,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Qualification: Bachelor
 - ID: R-294790 / R-294790 | Status: open (ATS verified)
 - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Risk-Management_R-294790
-
-**VP - CATS Pune Lead | Barclays**
-- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: yes
-- Fit: no | Score: 65
-- Qualification: Bachelor
-- ID: JR-0000124576 / JR-0000124576 | Status: open (ATS verified)
-- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/VP---CATS-Pune-Lead_JR-0000124576
 
 **Director, Global Transaction Banking | Barclays**
 - Location: Gurugram, DLF Downtown Pune, Gera Commerzone SEZ India | Work mode: unspecified
@@ -2595,7 +2849,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Specialist, Legal Services | Mastercard**
 - Location: Pune, India | Work mode: unspecified
-- Posted: 2026-10-28 (7 days ago) | New today: no
+- Posted: 2026-10-28 (7 days ago) | New today: no | ALREADY SENT
 - Fit: unknown | Score: 62
 - Qualification: Bachelor
 - ID: R-294730 / R-294730 | Status: open (ATS verified)
@@ -2688,7 +2942,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Vice President _ Fraud Ops | Barclays**
 - Location: Pune, Gera Commerzone SEZ Noida, Candor TechSpace India | Work mode: unspecified
-- Posted: 2026-10-28 (7 days ago) | New today: no
+- Posted: 2026-10-28 (7 days ago) | New today: yes
 - Fit: no | of 200+ HC for at least 5 yrs and above. Some other highly valued skills m | Score: 55
 - Experience: 5 yrs | Qualification: Bachelor
 - ID: JR-0000126586 / JR-0000126586 | Status: open (ATS verified)
@@ -2734,7 +2988,16 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0000131568 / JR-0000131568 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Surveillance-Optimization---AVP_JR-0000131568
 
-### Mumbai (28)
+### Mumbai (34)
+
+**Credit Maint Intmd Analyst - C11 - MUMBAI | Citi**
+- Location: Mumbai Maharashtra India | Work mode: hybrid
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | Qualifications: 2-5 years of relevant experience Experience in busines | Score: 99
+- Experience: 2-5 yrs | Qualification: Bachelor
+- Requirements: 2-5 years of relevant experience Experience in business preferred Working knowledge of industry standards and practices Working knowledge of data analysis tools and methodologies Demonstrated analytical skills Consistently demonstrates clear and concise written and verbal communication. Education:
+- ID: 261005645 / 261005645 | Status: open (ATS verified)
+- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Maint-Intmd-Analyst---C11---MUMBAI_261005645
 
 **Partner Business Managerv | HP**
 - Location: Mumbai, Maharashtra, India | Work mode: unspecified
@@ -2754,11 +3017,19 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Analyst - Compliance Operations | Nium**
 - Location: Mumbai | Work mode: hybrid
-- Posted: 2026-10-28 (7 days ago) | New today: no
+- Posted: 2026-10-28 (7 days ago) | New today: no | ALREADY SENT
 - Fit: yes | the Group. Minimum 2 years of experience in AML transaction monitoring, | Score: 84
 - Experience: 2 yrs | Qualification: Bachelor
 - ID: f74cc9cf-383e-4a91-8eb1-574fb912e35c | Status: open (ATS verified)
 - Apply: https://jobs.lever.co/nium/f74cc9cf-383e-4a91-8eb1-574fb912e35c
+
+**Analyst - Financial Control | Barclays**
+- Location: Mumbai, Nirlon Knowledge Park (IB) , 9th floor | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 81
+- Qualification: Bachelor
+- ID: JR-0000136280-1 / JR-0000136280 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Analyst---Financial-Control_JR-0000136280-1
 
 **Credit Analyst 2  - MUMBAI | Citi**
 - Location: Mumbai Maharashtra India | Work mode: hybrid
@@ -2799,8 +3070,8 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Fit: no | Qualifications: 6-10 years of experience in Business, Marketing/Servici | Score: 72
 - Experience: 6-10 yrs | Qualification: Diploma
 - Requirements: 6-10 years of experience in Business, Marketing/Servicing or Marketing Management, Project Management skills Demonstrated customer focus and past achievement in applying a customer mindset to shape solutions and approach to realize marketplace potential and meet financial goals. Digital experience
-- ID: 261002500 / 261002500 | Status: open (ATS verified)
-- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Digital-Marketing-Lead-Analyst---C13---MUMBAI_261002500
+- ID: 261002497 / 261002497 | Status: open (ATS verified)
+- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Digital-Marketing-Lead-Analyst---C13---MUMBAI_261002497
 
 **Cash & Trade Proc Intermediate Analyst | Citi**
 - Location: Mumbai Maharashtra India | Work mode: hybrid
@@ -2810,6 +3081,31 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: o 10 to 12 years of relevant/banking experience. o Bachelor’s degree in business, Finance, or other relevant discipline. o Demonstrated basic experience in Liquidity Management, Treasury, Investments or Cash Management knowledge is desirable. o Proficiency with Microsoft Office tools. Additional
 - ID: 261006702 / 261006702 | Status: open (ATS verified)
 - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Cash---Trade-Proc-Intermediate-Analyst_261006702
+
+**Principal Partner Sales Executive | Workday**
+- Location: India, Mumbai IND.DEL.Home Office IND.BLR.Home Office India | Work mode: hybrid
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Basic Qualifications 10+ years of relevant experience in technology sales, | Score: 70
+- Experience: 10+ yrs | Qualification: Bachelor
+- Requirements: Basic Qualifications 10+ years of relevant experience in technology sales, channel sales, or alliance management, ideally within the SaaS or enterprise software industry. Experience managing partner relationships and joint go-to-market plans that deliver measurable pipeline and revenue outcomes.
+- ID: JR-0109617 / JR-0109617 | Status: open (ATS verified)
+- Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/India-Mumbai/Principal-Partner-Sales-Executive_JR-0109617
+
+**Managing Consultant, Account Management. | Mastercard**
+- Location: Gurgaon, India Mumbai, India India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | practice. Experience 6-10 years of experience in acquiring, payment processi | Score: 69
+- Experience: 6-10 yrs | Qualification: Bachelor
+- ID: R-292444 / R-292444 | Status: open (ATS verified)
+- Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Managing-Consultant--Account-Management_R-292444
+
+**Key Account Director - CRM - TMT | ServiceNow**
+- Location: Mumbai, Maharashtra, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | function or industry. 12+ years of relevant experience in enterprise solutio | Score: 69
+- Experience: 12+ yrs | Qualification: Bachelor
+- ID: 744000159547286 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159547286
 
 **International Office Design & Utility Lead - Vice President | Citi**
 - Location: Mumbai Maharashtra India | Work mode: hybrid
@@ -2830,7 +3126,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Director, Solutions Builder (Builder Portfolio Leader) | Salesforce**
 - Location: India - Gurgaon India - Bangalore India - Mumbai India [multi-city] | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: no
+- Posted: 2026-11-03 (1 days ago) | New today: no | ALREADY SENT
 - Fit: no | Technical Depth: 15+years of Technical background with recent deep arc | Score: 66
 - Experience: 15+ yrs | Qualification: Bachelor
 - Requirements: hands-on experience with enterprise software implementation, data modeling, API integration, and AI deployments. You Have Proven Leadership: 3+ years of direct people management or high-impact technical leadership steering cross-functional engineering or technical teams. You have a track record of
@@ -2844,6 +3140,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 12+ yrs | Qualification: Bachelor
 - ID: 744000159378549 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159378549
+
+**Senior Program Manager, APAC/TR/ZA Payment Business Operations | Amazon**
+- Location: Mumbai, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | - 5+ years of working cross functionally with tech and | Score: 65
+- Experience: 5+ yrs
+- ID: 10596283 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10596283/senior-program-manager-apac-tr-za-payment-business-operations
 
 **Named Account Executive - Automotive Industry | Salesforce**
 - Location: India - Mumbai | Work mode: unspecified
@@ -2863,7 +3167,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **AVP - Tax | Barclays**
 - Location: Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
+- Posted: 2026-11-02 (2 days ago) | New today: no | ALREADY SENT
 - Fit: no | Score: 61
 - Qualification: Bachelor
 - ID: JR-0000134814 / JR-0000134814 | Status: open (ATS verified)
@@ -2871,7 +3175,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Commercial Banking - Structured Credit Product Sr. Lead Analyst - Senior Vice President | Citi**
 - Location: Mumbai Maharashtra India | Work mode: hybrid
-- Posted: 2026-10-28 (7 days ago) | New today: no
+- Posted: 2026-10-28 (7 days ago) | New today: no | ALREADY SENT
 - Fit: no | & Experience 10+ years of experience in Leveraged Finance or relate | Score: 60
 - Experience: 10+ yrs | Qualification: Bachelor
 - ID: 261002919-1 / 261002919 | Status: open (ATS verified)
@@ -2917,14 +3221,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 261005424 / 261005424 | Status: open (ATS verified)
 - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Corporate-Salesperson---C12---MUMBAI_261005424
 
-**Underwriter - Senior Vice President | Citi**
-- Location: Mumbai Maharashtra India | Work mode: hybrid
-- Posted: 2026-10-29 (6 days ago) | New today: no
-- Fit: no | Qualifications: 10+ years risk/risk-related credit work experience in | Score: 55
-- Experience: 10+ yrs | Qualification: Bachelor
-- ID: 26946807 / 26946807 | Status: open (ATS verified)
-- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Underwriter---Senior-Vice-President_26946807
-
 **Program Advisory, Consulting & Execution, Assistant Vice President | Citi**
 - Location: Mumbai Maharashtra India | Work mode: hybrid
 - Posted: 2026-10-30 (5 days ago) | New today: no
@@ -2933,6 +3229,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: A minimum of 5+ years of experience in a management consulting firm and/or financial services company, in a role supporting complex programs and projects. A Bachelor's Degree or equivalent work experience is required. Technical proficiency across the MS Office suite, with advanced skills in Excel
 - ID: 261006198 / 261006198 | Status: open (ATS verified)
 - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Program-Advisory--Consulting---Execution--Assistant-Vice-President_261006198
+
+**Underwriter - Senior Vice President | Citi**
+- Location: Mumbai Maharashtra India | Work mode: hybrid
+- Posted: 2026-10-29 (6 days ago) | New today: no
+- Fit: no | Qualifications: 10+ years risk/risk-related credit work experience in | Score: 55
+- Experience: 10+ yrs | Qualification: Bachelor
+- ID: 26946807 / 26946807 | Status: open (ATS verified)
+- Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Underwriter---Senior-Vice-President_26946807
 
 **Account Executive- Commercial  | Zscaler**
 - Location: Mumbai, IND | Work mode: unspecified
@@ -2945,7 +3249,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Sales Engineer - Majors | Zscaler**
 - Location: Mumbai, IND | Work mode: unspecified
-- Posted: 2026-10-28 (7 days ago) | New today: no
+- Posted: 2026-10-28 (7 days ago) | New today: no | ALREADY SENT
 - Fit: no | professional experience 15+ years of experience as a Sales Engineer or systems | Score: 54
 - Experience: 15+ yrs | Qualification: Bachelor
 - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
@@ -2968,7 +3272,16 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10592415 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10592415/sr-tech-infra-program-manager-dcpd
 
-### Remote (India) (1)
+### Remote (India) (2)
+
+**Product Designer | ServiceNow**
+- Location: Hyderabad, Telangana, India | Work mode: remote
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | function or industry . 2+ years of relevant design experience (internships i | Score: 90
+- Experience: 2+ yrs | Qualification: Bachelor
+- Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI’s potential impact on the function or industry . 2+ years
+- ID: 744000159551529 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159551529
 
 **Director of Global Account Management - India | JumpCloud**
 - Location: Bangalore, India - Remote | Work mode: remote
@@ -2978,7 +3291,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: d045efcf-da77-4ec8-976b-42de957c8f3d | Status: open (ATS verified)
 - Apply: https://jobs.lever.co/jumpcloud/d045efcf-da77-4ec8-976b-42de957c8f3d
 
-### Delhi NCR / Haryana (17)
+### Delhi NCR / Haryana (23)
 
 **Associate II - New Business  | Zinnia**
 - Location: Gurugram, Haryana, India | Work mode: unspecified
@@ -2998,6 +3311,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: d093bac9-07c4-4a77-852a-a3c4afcf3c1c | Status: open (ATS verified)
 - Apply: https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c
 
+**Growth Management- User Growth I Exp- 4- 6 Years | Paytm**
+- Location: Noida, Uttar Pradesh | Work mode: onsite
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: yes | succeed in this role: - 4 – 6 years of experience in growth, product growth, mon | Score: 72
+- Experience: 4-6 yrs
+- ID: 0eca6c8b-e855-415c-bf59-f26cb2d1ed44 | Status: open (ATS verified)
+- Apply: https://jobs.lever.co/paytm/0eca6c8b-e855-415c-bf59-f26cb2d1ed44
+
 **Early Talent Recruiter | MongoDB**
 - Location: Gurugram | Work mode: unspecified
 - Posted: 2026-11-03 (1 days ago) | New today: yes
@@ -3015,6 +3336,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 4726334006 / 7815 | Status: open (ATS verified)
 - Apply: https://job-boards.greenhouse.io/zinnia/jobs/4726334006
 
+**Growth Management- User Growth I Exp- 6- 10 Years | Paytm**
+- Location: Noida, Uttar Pradesh | Work mode: onsite
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | succeed in this role: - 6 – 10 years of experience in growth, product growth, mon | Score: 65
+- Experience: 6-10 yrs
+- ID: b523c654-372b-4387-8dd4-f564cc987828 | Status: open (ATS verified)
+- Apply: https://jobs.lever.co/paytm/b523c654-372b-4387-8dd4-f564cc987828
+
 **IN_Bosch Rexroth India_Executive / Assitstant Manager_Sales (Electric Drive and Controls) | Bosch**
 - Location: Delhi, DELHI, India | Work mode: unspecified
 - Posted: 2026-10-28 (7 days ago) | New today: no
@@ -3022,6 +3351,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3-6 yrs | Qualification: Bachelor
 - ID: 744000158290639 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158290639
+
+**AEM Technical Architect | Adobe**
+- Location: Bangalore Noida India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Experience Expertise 12+ years of experience in enterprise technology consu | Score: 59
+- Experience: 12+ yrs | Qualification: Bachelor
+- ID: R173444 / R173444 | Status: open (ATS verified)
+- Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/AEM-Technical-Architect_R173444
 
 **Account Executive- Public Sector  | Zscaler**
 - Location: Gurgaon, IND | Work mode: unspecified
@@ -3040,13 +3377,37 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8328355 / 3273600066 | Status: open (ATS verified)
 - Apply: https://www.mongodb.com/careers/job/?gh_jid=8328355
 
+**Category Sales - Print | HP**
+- Location: Gurugram, Haryana, India | Work mode: unspecified
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: no | & Qualifications • 8–12+ years of experience in business development, strat | Score: 56
+- Experience: 8-12 yrs | Qualification: Bachelor
+- ID: 3159705-2 / 3159705 | Status: open (ATS verified)
+- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Gurugram-Haryana-India/Category-Sales_3159705-2
+
+**Customer Executive Engagement Leader  | Amazon**
+- Location: Gurugram, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | decisions - • 10+ years of experience in customer success, executive | Score: 55
+- Experience: 10+ yrs
+- ID: 10596313 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10596313/customer-executive-engagement-leader
+
 **Senior Director, HR Business Partner | Adobe**
 - Location: Noida | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Posted: 2026-11-03 (1 days ago) | New today: yes | ALREADY SENT
 - Fit: no | Score: 54
 - Qualification: Bachelor
 - ID: R172285-1 / R172285 | Status: open (ATS verified)
 - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Director--HR-Business-Partner_R172285-1
+
+**Team Lead, Quality Control- Food Safety, Quick Commerce F F Center | Amazon**
+- Location: New Delhi, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Score: 53
+- Qualification: Bachelor
+- ID: 10596304 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10596304/team-lead-quality-control-food-safety-quick-commerce-f-f-center
 
 **Enterprise Architect (Martech) | Adobe**
 - Location: Bangalore Noida India | Work mode: unspecified
@@ -3090,7 +3451,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **AVP - Fraud Ops | Barclays**
 - Location: Noida, Candor TechSpace | Work mode: unspecified
-- Posted: 2026-10-28 (7 days ago) | New today: no
+- Posted: 2026-10-28 (7 days ago) | New today: no | ALREADY SENT
 - Fit: no | of 70+ HC for at least 2 yrs and above. Some other highly valued skills m | Score: 44
 - Experience: 2 yrs | Qualification: Bachelor
 - ID: JR-0000126616 / JR-0000126616 | Status: open (ATS verified)
@@ -3120,7 +3481,24 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0000122854 / JR-0000122854 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Product-Manager_JR-0000122854
 
-### Bangalore (83)
+### Bangalore (99)
+
+**Planning Process System Consultant | HP**
+- Location: Bengaluru, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | preferred. 1–3 years of overall experience , preferably with expo | Score: 80
+- Experience: 1-3 yrs | Qualification: Bachelor
+- Requirements: Required ü Demand & Supply Planning Fundamentals Good understanding of demand planning, supply planning, forecasting, inventory, and demand-supply balancing. ü Planning Systems Knowledge Working knowledge of SAP IBP, SAP HANA , ARIBA , Enterprises Business Wearhouse or similar supply-chain planning
+- ID: 3170458-1 / 3170458 | Status: open (ATS verified)
+- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Planning-Process-System-Consultant_3170458-1
+
+**Business Execution Consultant | Wells Fargo**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St | Score: 80
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: R-525374-1 / R-525374 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-525374-1
 
 **Analyst, Tax - GIR Compliance | PayPal**
 - Location: Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified
@@ -3147,13 +3525,13 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R-580462 / R-580462 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Institutional-Investment-Operations-Representative_R-580462
 
-**Business Execution Consultant | Wells Fargo**
+**Compliance Specialist, Tax & Trade Compliance Ops | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: no
-- Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St | Score: 77
-- Experience: 2+ yrs | Qualification: Bachelor
-- ID: R-578149 / R-578149 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-578149
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | - 1+ years of data-driven business operations processes | Score: 76
+- Experience: 1+ yrs | Qualification: Bachelor
+- ID: 10596216 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10596216/compliance-specialist-tax-trade-compliance-ops
 
 **Payroll Accountant | Okta**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -3171,6 +3549,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR2028798 / JR2028798 | Status: open (ATS verified)
 - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer--High-Speed-IO_JR2028798
 
+**Financial Analyst | HP**
+- Location: Bengaluru, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | • Typically has 4-7 years of work experience, preferably in financial | Score: 71
+- Experience: 4-7 yrs | Qualification: Bachelor
+- ID: 3169625-2 / 3169625 | Status: open (ATS verified)
+- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Financial-Analyst_3169625-2
+
 **Technical Writing Analyst | Salesforce**
 - Location: India - Bangalore India - Hyderabad India | Work mode: unspecified
 - Posted: 2026-10-30 (5 days ago) | New today: no
@@ -3186,6 +3572,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 1+ yrs
 - ID: 10594420 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594420/system-development-engineer-tfs-accounting-insights
+
+**Graphic Designer, IN-Events  | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | quality - Experience: 3+ years as a graphic designer in a creative agency o | Score: 70
+- Experience: 3+ yrs | Qualification: Bachelor
+- ID: 10595276 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10595276/graphic-designer-in-events
 
 **Pricing Analyst | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -3227,21 +3621,63 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10592048 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10592048/trust-privacy-program-mgr-devices-services-trust-privacy-and-accessibility-tpa
 
-**Analyst, Financial Operations | Razorpay**
-- Location: Bengaluru | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: unknown | Score: 62
+**Product Management Intern | Rubrik**
+- Location: Bangalore | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 63
 - Qualification: Bachelor
-- ID: 4749360005 / 14922 | Status: open (ATS verified)
-- Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749360005
+- Requirements: Education: Currently enrolled in a premier MBA/management program (IIM, ISB, or equivalent global top-tier business school) graduating in 2027/28 Technical Foundation: Bachelor’s degree in Computer Science, Information Technology, or an equivalent engineering discipline. Prior product management or
+- ID: 8345283 / INPD11676 | Status: open (ATS verified)
+- Apply: https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283
 
-**Business Accountability Associate | Wells Fargo**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: unknown | Score: 62
+**2027 Intern - Research Intern | Adobe**
+- Location: Bangalore | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 63
 - Qualification: Bachelor
-- ID: R-584419 / R-584419 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Accountability-Associate_R-584419
+- ID: R172424 / R172424 | Status: open (ATS verified)
+- Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-Intern_R172424
+
+**Associate Manager, Startup Hunting | Razorpay**
+- Location: Bengaluru | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | - A hunter with proof: 4-7 years of B2B new-logo sales, beating quota, ideall | Score: 61
+- Experience: 4-7 yrs | Qualification: Bachelor
+- ID: 4747985005 / 14907 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4747985005
+
+**Principal Associate, HR Business Partner | Capital One**
+- Location: Bangalore, In | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | or combination 3+ years of client facing experience or 3+ years of c | Score: 61
+- Experience: 3+ yrs | Qualification: Bachelor
+- ID: R999473 / R999473 | Status: open (ATS verified)
+- Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--HR-Business-Partner_R999473
+
+**Senior Associate, Accounting | Capital One**
+- Location: Bangalore, In | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | At least 2 years of experience as a Chartered Accountant Pref | Score: 61
+- Experience: 2 yrs | Qualification: Bachelor
+- Requirements: At least 2 years of experience as a Chartered Accountant Preferred Qualifications : Knowledge of Tally, Workday and Peoplesoft Excellent communication skills - Verbal, written and presentation At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+- ID: R247704 / R247704 | Status: open (ATS verified)
+- Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Associate--Accounting_R247704
+
+**Principal Associate, L&D | Capital One**
+- Location: Bangalore, In | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: no
+- Fit: no | Qualifications : 5+ years of experience in training needs assessment a | Score: 61
+- Experience: 5+ yrs | Qualification: Bachelor
+- ID: R999830 / R999830 | Status: open (ATS verified)
+- Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--L-D_R999830
+
+**Principal Associate, Risk Management | Capital One**
+- Location: Bangalore, In | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: no
+- Fit: no | degree At least 7 years of experience in Risk domain At least 5 year | Score: 61
+- Experience: 7 yrs | Qualification: Bachelor
+- ID: R1001986 / R1001986 | Status: open (ATS verified)
+- Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--Risk-Management_R1001986
 
 **ODM Factory Inventory Recon | HP**
 - Location: Bengaluru, Karnataka, India | Work mode: unspecified
@@ -3250,6 +3686,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 4-6 yrs | Qualification: Diploma
 - ID: 3170401-1 / 3170401 | Status: open (ATS verified)
 - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/ODM-Factory-Inventory-Recon_3170401-1
+
+**Securities Operations Associate | Wells Fargo**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | Qualifications: 4+ years of Securities Operations experience, or equi | Score: 60
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-574368 / R-574368 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Operations-Associate_R-574368
 
 **Supply chain IT operations Support | Bosch**
 - Location: bangalore, India | Work mode: unspecified
@@ -3276,14 +3720,80 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R-581845 / R-581845 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Treasury-Analyst_R-581845
 
-**Sr Analyst, Procure to Pay | PayPal**
-- Location: Bangalore, Karnataka, India | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: no | team members YOE: 8+ years of experience, with 4+ years in procurement | Score: 55
+**Sr. Associate - Quality Analyst, Global Solutions & Risk Compliance (GSRC) | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | - Bachelor's degree - 1+ years of logistics, transportation, supply chain, | Score: 57
+- Experience: 1+ yrs | Qualification: Bachelor
+- ID: 10596303 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10596303/sr-associate-quality-analyst-global-solutions-risk-compliance-gsrc
+
+**Staff Product Designer  | Okta**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | &nbsp; Qualifications: 8+ years of relevant work experience as a Product Des | Score: 56
 - Experience: 8+ yrs | Qualification: Bachelor
-- Requirements: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : · Strong working knowledge of SAP Ariba required, including Contract Compliance configuration · Strong proficiency in Microsoft
-- ID: R0138374 / R0138374 | Status: open (ATS verified)
-- Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Analyst--Procure-to-Pay_R0138374
+- Requirements: the heart of a teacher and can help mentor and train people. You build and share empathy with people to deeply understand them and their needs. You are a thought leader, undertaking explorations into new technologies and territories while also delivering practical designs. You see design as a
+- ID: 8351641 / P8418_3525106 | Status: open (ATS verified)
+- Apply: https://www.okta.com/company/careers/opportunity/8351641?gh_jid=8351641
+
+**Sr. Adaptive Planning Administrator | Netskope**
+- Location: Bengaluru, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Experience: &nbsp;2–4+ years of hands-on experience administering&nbsp; W | Score: 56
+- Experience: 2-4 yrs | Qualification: Bachelor
+- Requirements: &amp; Skills Experience: &nbsp;2–4+ years of hands-on experience administering&nbsp; Workday Adaptive Planning &nbsp;(formerly Adaptive Insights). Technical Expertise: &nbsp;Strong proficiency with&nbsp; OfficeConnect &nbsp;and building complex formulas within Adaptive. Experience managing data
+- ID: 8352188 / R-005041 | Status: open (ATS verified)
+- Apply: https://www.netskope.com/company/careers/open-positions/?gh_jid=8352188
+
+**Senior Technical Consultant | Adobe**
+- Location: Bangalore | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | What You Bring 10+ years in software development with 8+ years in cli | Score: 56
+- Experience: 10+ yrs | Qualification: Bachelor
+- ID: R171578 / R171578 | Status: open (ATS verified)
+- Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Technical-Consultant_R171578
+
+**Lead Commercial Loan Servicing Representative | Wells Fargo**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Qualifications: 4+ years of Commercial Loan Servicing support experie | Score: 56
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-570949 / R-570949 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Commercial-Loan-Servicing-Representative_R-570949
+
+**Senior Commercial Lending Servicing Specialist | Wells Fargo**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Qualifications : 4+ years of Commercial Loan Servicing experience, or | Score: 56
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-557318 / R-557318 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Commercial-Loan-Servicing-Specialist_R-557318
+
+**SW Architect CICD_EPS1 | Bosch**
+- Location: hosur road bangalore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Electronics background 8-10 yrs | Score: 56
+- Experience: 8-10 yrs | Qualification: Bachelor
+- Requirements: Skills Architectural Design Process: Mastery of systematic architectural design, including the ability to translate requirements into viable system designs (e.g., C4 model), design for critical quality attributes (scalability, reliability), and document decisions effectively. CI/CD Engine Mastery:
+- ID: 744000159544998 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159544998
+
+**Senior Autosar Architect (Classic + Adaptive) | Bosch**
+- Location: bangalore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | into BSW stack. B.E 6 to 15 years | Score: 56
+- Experience: 6-15 yrs | Qualification: Bachelor
+- ID: 744000159544026 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159544026
+
+**Account Director - CRM - MRD | ServiceNow**
+- Location: Bangalore, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | function or industry. 6+ years of relevant experience in enterprise solutio | Score: 56
+- Experience: 6+ yrs | Qualification: Bachelor
+- ID: 744000159544799 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159544799
 
 **Analyst, Procure to Pay | PayPal**
 - Location: Bangalore, Karnataka, India | Work mode: unspecified
@@ -3303,13 +3813,21 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000159113389 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159113389
 
-**Sr. Associate - Quality Analyst, Global Solutions & Risk Compliance (GSRC) | Amazon**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: yes
-- Fit: no | and applications - 2+ year work experience in Business Process Outsourc | Score: 54
-- Experience: 2+ yrs | Qualification: Bachelor
-- ID: 10595185 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10595185/sr-associate-quality-analyst-global-solutions-risk-compliance-gsrc
+**Staff Product Manager | Razorpay**
+- Location: Bengaluru | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Score: 54
+- Qualification: Bachelor
+- ID: 4727236005 / 14635 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727236005
+
+**Product Owner AVP | Barclays**
+- Location: Bengaluru, Maruthi Onyx - TESCO TSA | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Score: 54
+- Qualification: Bachelor
+- ID: JR-0000132943 / JR-0000132943 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Product-Owner-AVP_JR-0000132943
 
 **Manager, Sales Development | Salesforce**
 - Location: India - Bangalore | Work mode: unspecified
@@ -3360,6 +3878,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 10-15 yrs
 - ID: 744000159292499 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159292499
+
+**Senior Technical Customer Solution Manager, India CSM Team | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | - 9+ years of leading large-scale, technical or enginee | Score: 52
+- Experience: 9+ yrs | Qualification: Bachelor
+- ID: 10595151 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10595151/senior-technical-customer-solution-manager-india-csm-team
 
 **EPG Project Management Tools Expert | Bosch**
 - Location: bengaluru, India | Work mode: unspecified
@@ -3426,30 +3952,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 4+ yrs | Qualification: Bachelor
 - ID: R-565118 / R-565118 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Sourcing-Consultant_R-565118
-
-**Senior Institutional Investment Operations Representative | Wells Fargo**
-- Location: Bengaluru, India | Work mode: unspecified | Also hiring in: Hyderabad, India
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: no | Qualifications: 2+ years of Institutional Investment Operations suppo | Score: 50
-- Experience: 2+ yrs | Qualification: Bachelor
-- ID: R-580492 / R-580492 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Institutional-Investment-Operations-Representative_R-580492
-
-**Securities Operations Manager | Wells Fargo**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: no | Qualifications: 5+ years of Securities Operations experience, or equi | Score: 50
-- Experience: 5+ yrs | Qualification: Bachelor
-- ID: R-580588 / R-580588 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Operations-Manager_R-580588
-
-**Systems Operations Manager - SRE | Wells Fargo**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: no | Qualifications: 5+ years of Systems Engineering, and Technology Archi | Score: 50
-- Experience: 5+ yrs | Qualification: Bachelor
-- ID: R-584713 / R-584713 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Systems-Operations-Manager---SRE_R-584713
 
 **Sr Executive Assistant | PayPal**
 - Location: Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified
@@ -3582,14 +4084,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3+ yrs | Qualification: Bachelor
 - ID: 10593268 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10593268/program-manager-amazon-now
-
-**Business Operations Associate | HP**
-- Location: Bengaluru, Karnataka, India | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: yes
-- Fit: no | • Typically has 6-8 years of related work experience, preferably in su | Score: 44
-- Experience: 6-8 yrs | Qualification: Diploma
-- ID: 3170466-1 / 3170466 | Status: open (ATS verified)
-- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Business-Operations-Associate_3170466-1
 
 **Senior Manager, Strategic Accounts | Razorpay**
 - Location: Bengaluru | Work mode: unspecified
@@ -3805,7 +4299,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10592275 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10592275/senior-manager-applied-science-amazon-business-system-integrations
 
-### Chennai (2)
+### Chennai (3)
+
+**Manufacturing Operations Engineer | HP**
+- Location: Chennai, Tamil Nadu, India | Work mode: unspecified
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: no | experience. • Minimum 5 years+ of experience in electronics manufacturing | Score: 55
+- Experience: 5 yrs | Qualification: Bachelor
+- ID: 3169984-1 / 3169984 | Status: open (ATS verified)
+- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/Manufacturing-Operations-Engineer_3169984-1
 
 **Front Line Manager [Production Supervisor] | Bosch**
 - Location: orgadam- Chennai, Tamil Nadu, India | Work mode: unspecified
@@ -3834,7 +4336,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 3169627-1 / 3169627 | Status: open (ATS verified)
 - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Kolkata-West-Bengal-India/Partner-Business-Manager_3169627-1
 
-### Hyderabad (39)
+### Hyderabad (43)
+
+**CIBLO CRE Middle Office - Loan IQ, Risk management | Wells Fargo**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | Qualifications: 2+ years of credit operations, loan operations, or de | Score: 81
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: R-582208 / R-582208 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/CIBLO-CRE-Middle-Office_R-582208
 
 **Payroll Coordinator - US | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -3843,6 +4353,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 1+ yrs | Qualification: Bachelor
 - ID: R-565875 / R-565875 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Payroll-Coordinator---US_R-565875
+
+**Marketing Technology Operations Specialist | Salesforce**
+- Location: India - Hyderabad | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | You're Our Person If... 3+ years of experience in marketing operations, marke | Score: 75
+- Experience: 3+ yrs | Qualification: Bachelor
+- ID: JR365028-1 / JR365028 | Status: open (ATS verified)
+- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketing-Technology-Operations-Specialist_JR365028-1
 
 **Customer Service Representative | Salesforce**
 - Location: India - Hyderabad | Work mode: unspecified
@@ -3896,7 +4414,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Commercial Lending Servicing Associate | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: no
+- Posted: 2026-11-03 (1 days ago) | New today: yes
 - Fit: unknown | Score: 66
 - Qualification: Bachelor
 - ID: R-579871 / R-579871 | Status: open (ATS verified)
@@ -3966,13 +4484,38 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10594254 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594254/tax-analyst-capex-us-capex-team
 
-**Lead Treasury Analyst (VP) | Wells Fargo**
+**Lead Trade Services Processor | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: no | Qualifications: 5+ years of Treasury experience, or equivalent demons | Score: 56
-- Experience: 5+ yrs | Qualification: Bachelor
-- ID: R-584756 / R-584756 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Treasury-Analyst--VP-_R-584756
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Qualifications: 4+ years of Trade Services support experience, or equ | Score: 57
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-561071 / R-561071 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Trade-Services-Processor_R-561071
+
+**Lead Commercial Lending Servicing Representative | Wells Fargo**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Qualifications: 4+ years of Commercial Loan Servicing support experie | Score: 57
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-579363-1 / R-579363 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Commercial-Loan-Servicing-Representative_R-579363-1
+
+**Senior CIBLO CRE Middle Office - Loan IQ, Risk management | Wells Fargo**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Qualifications: 2+ years of credit operations, loan operations, or de | Score: 57
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: R-582203 / R-582203 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-CIBLO-CRE-Middle-Office_R-582203
+
+**Staff DRAM RTL Design Engineer | Micron**
+- Location: Hyderabad - Phoenix Aquila, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | engineering with 6-10 years of experience in RTL design. Solid knowledge | Score: 57
+- Experience: 6-10 yrs | Qualification: Bachelor
+- Requirements: Domain knowledge in DRAM design (DDR5, LPDDR5 or HBM or in any other memory related field) Exposure to or strong interest in AI/ML-assisted design flows, agentic AI or advanced automation in digital design and verification. Experience working with Spyglass Domain knowledge in NAND memory design
+- ID: JR116552 / JR116552 | Status: open (ATS verified)
+- Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-DRAM-RTL-Design-Engineer_JR116552
 
 **Manager I, Amazon Now Ops, Central Operations | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -4009,7 +4552,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Lead Commercial Lending Servicing Specialist | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: no
+- Posted: 2026-11-03 (1 days ago) | New today: yes
 - Fit: no | Qualifications: 5+ years of Commercial Loan Servicing experience, or | Score: 54
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: R-579870 / R-579870 | Status: open (ATS verified)
@@ -4023,6 +4566,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000159296209 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159296209
 
+**Sr. Technical Program Manager, Amazon Business - External Integrations | Amazon**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | management experience - 7+ years of working directly with engineering teams e | Score: 53
+- Experience: 7+ yrs
+- ID: 10593904 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10593904/sr-technical-program-manager-amazon-business-external-integrations
+
 **Now on Now Go To Market Sr. Manager | ServiceNow**
 - Location: Hyderabad, India | Work mode: hybrid
 - Posted: 2026-11-02 (2 days ago) | New today: no
@@ -4030,14 +4581,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 10+ yrs | Qualification: Bachelor
 - ID: 744000159219049 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159219049
-
-**Senior CIB Lending Operations Administration Representative | Wells Fargo**
-- Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: no | Qualifications: 2+ years of banking operations, finance, credit, or r | Score: 51
-- Experience: 2+ yrs | Qualification: Bachelor
-- ID: R-584251 / R-584251 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-CIB-Lending-Operations-Administration-Representative_R-584251
 
 **Quality Manager, Flex Investigations and Offboarding | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -4095,14 +4638,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 4+ yrs | Qualification: Bachelor
 - ID: R-537170-5 / R-537170 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Securities-Operations-Associate-Manager_R-537170-5
-
-**Data Center Strategic Negotiator (Real Estate), AWS Infrastructure - Data Center Supply Solutions (APAC) | Amazon**
-- Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-10-30 (5 days ago) | New today: no
-- Fit: unknown | Score: 45
-- Qualification: Bachelor
-- ID: 10593272 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10593272/data-center-strategic-negotiator-real-estate-aws-infrastructure-data-center-supply-solutions-apac
 
 **Commercial Banking Portfolio Manager | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -4162,7 +4697,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10595138 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10595138/area-manager
 
-### Other India (17)
+### Other India (18)
 
 **FG Analyst | Micron**
 - Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
@@ -4179,6 +4714,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Qualification: Bachelor
 - ID: JR116632 / JR116632 | Status: open (ATS verified)
 - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Program-Management_JR116632
+
+**Mechanical & Process Hook Up Engineer | Micron**
+- Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | required Minimum 12 years of experience in Mechanical Engineering with | Score: 53
+- Experience: 12 yrs | Qualification: Bachelor
+- ID: JR113614 / JR113614 | Status: open (ATS verified)
+- Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Mechanical---Process-Hook-Up-Engineer_JR113614
 
 **Senior Test Process Engineering Manager | Micron**
 - Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
@@ -4224,15 +4767,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000159290379 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159290379
 
-**BMS Hardware Engineer | Bosch**
-- Location: Coimbatore, India | Work mode: unspecified
-- Posted: 2026-10-29 (6 days ago) | New today: no
-- Fit: yes | Hardware. B. Tech 3-6 Years | Score: 50
-- Experience: 3-6 yrs | Qualification: Bachelor
-- Requirements: Good knowledge on Analog, Digital & Power Electronics circuits design Excellent hardware failure analysis, debugging and testing skills Experience in defining and execution of test cases with techniques. Handling of lab equipment like Oscilloscope, high voltage power supply, function generator
-- ID: 744000158437049 | Status: open (ATS verified)
-- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158437049
-
 **Staff Engineer Electrical Design | Micron**
 - Location: Sanand - 303C - Facilities/Construction, India | Work mode: unspecified
 - Posted: 2026-11-03 (1 days ago) | New today: yes
@@ -4249,6 +4783,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 4-10 yrs | Qualification: Bachelor
 - ID: 744000158662442 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000158662442
+
+**BMS Hardware Engineer (Analog) | Bosch**
+- Location: Coimbatore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: no | Hardware. B. Tech 6-9 Years | Score: 47
+- Experience: 6-9 yrs | Qualification: Bachelor
+- Requirements: Good knowledge on Analog, Digital & Power Electronics circuits design Excellent hardware failure analysis, debugging and testing skills Experience in defining and execution of test cases with techniques. Handling of lab equipment like Oscilloscope, high voltage power supply, function generator
+- ID: 744000159555073 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159555073
 
 **Senior Hardware Module Developer – Braking Systems | Bosch**
 - Location: coimbatore, India | Work mode: unspecified

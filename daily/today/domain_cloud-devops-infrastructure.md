@@ -1,5 +1,5 @@
-# SERVE ranked list: Cloud / DevOps / Infrastructure jobs (0-5 years), collected 2026-11-04 00:40 UTC
-7 jobs, best score first: 5 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Cloud / DevOps / Infrastructure jobs (0-5 years), collected 2026-11-04 10:00 UTC
+8 jobs, best score first: 6 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **System Development Engineer, UTR Tech in Last Mile | Amazon**
    - Gurugram, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
@@ -40,14 +40,22 @@
    - ID: 10595236 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10595236/systems-engineer-apac-controls-deployment-and-service-team
 
-6. **DevOps / Platform Engineer (Remote, Full-Time) [AS348] | Smart Working Solutions**
+6. **Embedded_Devops_ECT | Bosch**
+   - hosur road bangalore, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 68
+   - Fit: yes | Electronics background 3 to 6 years
+   - Experience: 3-6 yrs | Qualification: Bachelor
+   - ID: 744000159545819 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159545819
+
+7. **DevOps / Platform Engineer (Remote, Full-Time) [AS348] | Smart Working Solutions**
    - Bangalore, Chandigarh, Delhi NCR, Hyderabad, India, Indore, Pune [multi-city] | Work mode: remote | Section: Cloud / DevOps / Infrastructure
    - Posted: 2026-11-02 (2 days ago) | fallback | Score 67
    - Fit: unknown
    - ID: 791d9cf0-a767-48dc-aa0c-c4a980af568a | open (ATS verified)
    - Apply: https://jobs.lever.co/smart-working-solutions/791d9cf0-a767-48dc-aa0c-c4a980af568a
 
-7. **Software System Engineer | HP**
+8. **Software System Engineer | HP**
    - Bengaluru, Karnataka, India Tlaquepaque, Jalisco, Mexico India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
    - Posted: 2026-11-03 (1 days ago) | fresh | Score 63
    - Fit: yes | Typically has 4-7 years of work experience, preferably in systems en

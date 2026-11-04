@@ -1,7 +1,15 @@
-# SERVE ranked list: Sales & Marketing jobs (0-5 years, matched by keyword), collected 2026-11-04 00:40 UTC
-1 jobs, best score first: 0 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Sales & Marketing jobs (0-5 years, matched by keyword), collected 2026-11-04 10:00 UTC
+2 jobs, best score first: 1 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Team Leader, Customer Experience | DoorDash India**
+1. **Marketing Technology Operations Specialist | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 75
+   - Fit: yes | You're Our Person If... 3+ years of experience in marketing operations, marke
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: JR365028-1 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketing-Technology-Operations-Specialist_JR365028-1
+
+2. **Team Leader, Customer Experience | DoorDash India**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-10-28 (7 days ago) | fallback | Score 66
    - Fit: yes | experience You have 2+ year or more of people management or team lead ex

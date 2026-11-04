@@ -1,7 +1,25 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-04 00:40 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-04 10:00 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Partner Business Managerv | HP**
+1. **Credit Maint Intmd Analyst - C11 - MUMBAI | Citi**
+   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 99
+   - Fit: yes | Qualifications: 2-5 years of relevant experience Experience in busines
+   - Experience: 2-5 yrs | Qualification: Bachelor
+   - Requirements: 2-5 years of relevant experience Experience in business preferred Working knowledge of industry standards and practices Working knowledge of data analysis tools and methodologies Demonstrated analytical skills Consistently demonstrates clear and concise written and verbal communication. Education:
+   - ID: 261005645 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Maint-Intmd-Analyst---C11---MUMBAI_261005645
+
+2. **Product Designer | ServiceNow**
+   - Hyderabad, Telangana, India | Work mode: remote | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 90
+   - Fit: yes | function or industry . 2+ years of relevant design experience (internships i
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI’s potential impact on the function or industry . 2+ years
+   - ID: 744000159551529 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159551529
+
+3. **Partner Business Managerv | HP**
    - Mumbai, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-03 (1 days ago) | fresh | Score 90
    - Fit: yes | • Typically has 2-4 years of work experience, preferably in technical
@@ -9,7 +27,23 @@
    - ID: 3170101-1 | open (ATS verified)
    - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Mumbai-Maharashtra-India/Partner-Business-Managerv_3170101-1
 
-2. **Associate IT Audit | Paytm**
+4. **Fraud & Dispute Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 82
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: JR-0000133202-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Fraud---Dispute-Analyst_JR-0000133202-1
+
+5. **CIBLO CRE Middle Office - Loan IQ, Risk management | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 81
+   - Fit: yes | Qualifications: 2+ years of credit operations, loan operations, or de
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: R-582208 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/CIBLO-CRE-Middle-Office_R-582208
+
+6. **Associate IT Audit | Paytm**
    - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
    - Posted: 2026-11-03 (1 days ago) | fresh | Score 80
    - Fit: yes | candidate will have 3-7 years of expertise in data security and privacy co
@@ -18,31 +52,23 @@
    - ID: d093bac9-07c4-4a77-852a-a3c4afcf3c1c | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c
 
-3. **Payroll Coordinator - US | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 78
-   - Fit: yes | Qualifications: 1+ year of HR Operations, Accounting, Payroll, Payro
+7. **Compliance Specialist, Tax & Trade Compliance Ops | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 76
+   - Fit: yes | - 1+ years of data-driven business operations processes
    - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R-565875 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Payroll-Coordinator---US_R-565875
+   - ID: 10596216 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10596216/compliance-specialist-tax-trade-compliance-ops
 
-4. **Young Apprentice - C00 - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 74
-   - Fit: unknown
-   - Requirements: Previous experience preferred Consistently demonstrates clear and concise written and verbal communication skills Education: CA / CA inter or equivalent experience ------------------------------------------------------ Job Family Group: Business Strategy, Management & Administration
-   - ID: 26988220 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988220
+8. **Marketing Technology Operations Specialist | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 75
+   - Fit: yes | You're Our Person If... 3+ years of experience in marketing operations, marke
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: JR365028-1 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketing-Technology-Operations-Specialist_JR365028-1
 
-5. **Data Center Engineering Operations Engineer, HYD-Infinity - DCEO | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 74
-   - Fit: yes | or a related field, or 2+ years of electrical or mechanical engineering expe
-   - Experience: 2+ yrs | Qualification: Diploma
-   - ID: 10591980 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10591980/data-center-engineering-operations-engineer-hyd-infinity-dceo
-
-6. **Early Talent Recruiter | MongoDB**
+9. **Early Talent Recruiter | MongoDB**
    - Gurugram | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-03 (1 days ago) | fresh | Score 66
    - Fit: yes | What you’ll bring 4+ years of full-cycle recruiting experience, includi
@@ -50,18 +76,11 @@
    - ID: 8328316 | open (ATS verified)
    - Apply: https://www.mongodb.com/careers/job/?gh_jid=8328316
 
-7. **FG Analyst | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 62
+10. **Product Management Intern | Rubrik**
+   - Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 63
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR115511-1 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/FG-Analyst_JR115511-1
-
-8. **Supply chain IT operations Support | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 744000159306949 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159306949
+   - Requirements: Education: Currently enrolled in a premier MBA/management program (IIM, ISB, or equivalent global top-tier business school) graduating in 2027/28 Technical Foundation: Bachelor’s degree in Computer Science, Information Technology, or an equivalent engineering discipline. Prior product management or
+   - ID: 8345283 | open (ATS verified)
+   - Apply: https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283

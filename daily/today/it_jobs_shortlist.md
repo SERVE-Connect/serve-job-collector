@@ -1,13 +1,37 @@
-# SERVE jobs, collected 2026-11-04 00:40 UTC
-Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 58. Full list: jobs_latest.md
+# SERVE jobs, collected 2026-11-04 10:00 UTC
+Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 66. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
 fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ years (listed under Senior IT roles).
 
-## IT / Software (31)
+## IT / Software (38)
 
-### Pune (7)
+### Pune (10)
+
+**Specialist, Software Development Engineering | Fiserv**
+- Location: Pune - Trion Business Park, India | Work mode: onsite
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | you'll need to have: 4+ years of experience in software development 2+ yea | Score: 81
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-10401173 / R-10401173 | Status: open (ATS verified)
+- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401173
+
+**Software Engineer - 11961 | Coupa**
+- Location: Pune, India | Work mode: hybrid
+- Posted: 2026-10-29 (6 days ago) | New today: yes
+- Fit: yes | or related field 2+ years of software development experience (preferab | Score: 80
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: f35ae214-b530-4156-b77a-124fed2e9663 | Status: open (ATS verified)
+- Apply: https://jobs.lever.co/coupa/f35ae214-b530-4156-b77a-124fed2e9663
+
+**Software Engineer - Technology Platform - 11960 | Coupa**
+- Location: Pune, India | Work mode: hybrid
+- Posted: 2026-10-29 (6 days ago) | New today: yes
+- Fit: yes | or a related field 2+ years of experience in software development, prefe | Score: 80
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: 7bbb7519-d38b-4d4e-933e-b04deafd4029 | Status: open (ATS verified)
+- Apply: https://jobs.lever.co/coupa/7bbb7519-d38b-4d4e-933e-b04deafd4029
 
 **Sofware Engineer, Priceless Platform | Mastercard**
 - Location: Pune, India | Work mode: unspecified
@@ -18,13 +42,13 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: R-293896-1 / R-293896 | Status: open (ATS verified)
 - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Sofware-Engineer--Priceless-Platform_R-293896-1
 
-**Specialist, Software Development Engineering | Fiserv**
-- Location: Pune - Trion Business Park, India | Work mode: onsite
-- Posted: 2026-11-02 (2 days ago) | New today: no
-- Fit: yes | you'll need to have: 4+ years of experience in software development 2+ yea | Score: 75
-- Experience: 4+ yrs | Qualification: Bachelor
-- ID: R-10401175 / R-10401175 | Status: open (ATS verified)
-- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175
+**Java Kafka Developer | Barclays**
+- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 77
+- Qualification: Bachelor
+- ID: JR-0000126876 / JR-0000126876 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Java-Kafka-Developer_JR-0000126876
 
 **Mainframe Software Developer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
@@ -85,7 +109,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR2028897 / JR2028897 | Status: open (ATS verified)
 - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Gurugram/Formal-Verification-Engineer---New-College-Graduate-2026_JR2028897
 
-### Bangalore (14)
+### Bangalore (17)
+
+**IN_RBIN_Senior Engineer_Product Development_PS-CC | Bosch**
+- Location: Bengaluru, KA, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | (desirable) Experience: 2+ years experience in Product development Work exper | Score: 80
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: 744000159544369 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159544369
 
 **Business Analyst, Global Solutions & Risk Compliance (GSRC) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -167,6 +199,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10590907 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10590907/software-development-engineer-rbs-tech
 
+**UX Designer/ Java developer | Bosch**
+- Location: bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 63
+- Qualification: Bachelor
+- ID: 744000159553918 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159553918
+
 **Software Dev Engineer II, Global WHS | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
 - Posted: 2026-10-31 (4 days ago) | New today: no
@@ -190,6 +230,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3+ yrs
 - ID: 10590988 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10590988/software-dev-engineer-ii-amazon-now-tez
+
+**Software Firmware Engineer 4 | HP**
+- Location: Bengaluru, Karnataka, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: unknown | Score: 57
+- Qualification: Bachelor
+- ID: 3160029-2 / 3160029 | Status: open (ATS verified)
+- Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Graphics-Expert_3160029-2
 
 **Software Development Engineer, Amazon Regulatory and Trade Services (ARTS Tech) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -219,13 +267,13 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR366422 / JR366422 | Status: open (ATS verified)
 - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366422
 
-**Software Engineer | ServiceNow**
+**Software Dev Engineer II, Amazon Business | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: yes
-- Fit: yes | practical experience) 4+ years of professional software development experie | Score: 64
-- Experience: 4+ yrs | Qualification: Bachelor
-- ID: 744000159295769 | Status: open (ATS verified)
-- Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159295769
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | - 3+ years of non-internship professional software deve | Score: 76
+- Experience: 3+ yrs
+- ID: 10588111 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10588111/software-dev-engineer-ii-amazon-business
 
 **Software Development Engineer  | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -243,7 +291,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10593690 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10593690/software-dev-engineer
 
-### Other India (3)
+### Other India (4)
+
+**Engineering Technician - GEL | Micron**
+- Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | Clean room Requirement: 4-5 year experience with Diploma in Electronics & Com | Score: 63
+- Experience: 4-5 yrs | Qualification: Diploma
+- ID: JR93921 / JR93921 | Status: open (ATS verified)
+- Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Equipment-maintenance-technician---GEL_JR93921
 
 **Engineer CAT PQA Engineer | Micron**
 - Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
@@ -270,15 +326,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 ## Data / Analytics / AI (15)
 
-### Pune (3)
-
-**Software Engineer(AI/ML Platform) | Autodesk**
-- Location: Pune, IND | Work mode: unspecified
-- Posted: 2026-11-03 (1 days ago) | New today: yes
-- Fit: yes | experience Experience: 2 to 5 years of experience in software development and en | Score: 91
-- Experience: 2-5 yrs | Qualification: Bachelor
-- ID: 26WD96776-1 / 26WD96776 | Status: open (ATS verified)
-- Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-Software-Engineer-AI-ML-Platform-_26WD96776-1
+### Pune (2)
 
 **Data Engineer II | Mastercard**
 - Location: Pune, India | Work mode: unspecified
@@ -307,7 +355,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10595085 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10595085/business-intelligence-engineer-ii-prime-video-apac-and-anz-analytics-team
 
-### Bangalore (9)
+### Bangalore (10)
+
+**Compliance Analyst - AI Governance | AlphaSense**
+- Location: Bengaluru | Work mode: unspecified
+- Posted: 2026-11-03 (1 days ago) | New today: yes
+- Fit: yes | frameworks shaping it. 2–4 years of experience in risk management, GRC, compl | Score: 82
+- Experience: 2-4 yrs
+- ID: 8929592002 / Req-103538 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/alphasenseindia/jobs/8929592002
 
 **AI and Automation Developer | HP**
 - Location: Bengaluru, Karnataka, India | Work mode: unspecified
@@ -382,6 +438,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 ### Hyderabad (2)
 
+**Business Intelligence Engineer, Last Mile BI | Amazon**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | - 2+ years of analyzing and interpreting data with Reds | Score: 77
+- Experience: 2+ yrs
+- ID: 10596172 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10596172/business-intelligence-engineer-last-mile-bi
+
 **Data Engineer, ShipTech Analytics | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
 - Posted: 2026-11-02 (2 days ago) | New today: no
@@ -389,14 +453,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3+ yrs
 - ID: 10594179 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594179/data-engineer-shiptech-analytics
-
-**Data Management Analyst | Wells Fargo**
-- Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-10-30 (5 days ago) | New today: no
-- Fit: yes | Qualifications: 4+ years of Data Management, Business Analysis, Analy | Score: 57
-- Experience: 4+ yrs | Qualification: Bachelor
-- ID: R-574157 / R-574157 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Data-Management-Analyst_R-574157
 
 ## Cybersecurity (2)
 
@@ -420,7 +476,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8349053 / 2026.10199 | Status: open (ATS verified)
 - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8349053
 
-## Cloud / DevOps / Infrastructure (8)
+## Cloud / DevOps / Infrastructure (9)
 
 ### Pune (2)
 
@@ -468,7 +524,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10594981 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594981/system-development-engineer-utr-tech-in-last-mile
 
-### Bangalore (3)
+### Bangalore (4)
 
 **Verification Engineer - Networking IPs | NVIDIA**
 - Location: India, Bengaluru India, Hyderabad India | Work mode: unspecified
@@ -485,6 +541,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 1+ yrs
 - ID: 10594417 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594417/system-development-engineer-tfs-onboarding
+
+**Embedded_Devops_ECT | Bosch**
+- Location: hosur road bangalore, India | Work mode: unspecified
+- Posted: 2026-11-04 (0 days ago) | New today: yes
+- Fit: yes | Electronics background 3 to 6 years | Score: 68
+- Experience: 3-6 yrs | Qualification: Bachelor
+- ID: 744000159545819 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159545819
 
 **Software System Engineer | HP**
 - Location: Bengaluru, Karnataka, India Tlaquepaque, Jalisco, Mexico India | Work mode: unspecified
