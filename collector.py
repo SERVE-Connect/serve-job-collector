@@ -829,24 +829,45 @@ def score(j):
     return f + loc + fresh + ver + rel + comp
 
 
+SENT_DATE_FORMATS = ("%Y-%m-%d", "%y-%m-%d", "%Y/%m/%d")
+
+
+def _sent_date(token):
+    for fmt in SENT_DATE_FORMATS:
+        try:
+            return datetime.strptime(token, fmt).date()
+        except ValueError:
+            pass
+    return None
+
+
+def parse_sent(lines, today):
+    """Turn the lines of sent_ids.txt into (set of IDs sent in the last 7 days, lines to keep).
+    A date like 26-10-29 is read as 2026-10-29; IDs may be separated by spaces or commas; a line with no readable
+    date counts as sent today, so it can never sit in the file unnoticed. Kept lines are rewritten as 'YYYY-MM-DD id id'."""
+    ids, keep = set(), []
+    for ln in lines:
+        if not ln.strip() or ln.lstrip().startswith("#"):
+            keep.append(ln)  # comment or blank
+            continue
+        parts = ln.replace(",", " ").split()
+        day = _sent_date(parts[0])
+        tokens = parts[1:] if day else parts
+        day = day or today
+        if (today - day).days <= 7:
+            keep.append(" ".join([day.isoformat()] + tokens) if tokens else "")
+            ids.update(tokens)
+    return ids, [k for k in keep if k is not None]
+
+
 def load_sent():
     """Read data/sent_ids.txt, drop lines older than 7 days, return the set of IDs."""
-    ids, keep = set(), []
     try:
         with open(SENT) as f:
             lines = f.read().splitlines()
     except OSError:
         lines = list(SENT_HEAD)
-    for ln in lines:
-        parts = ln.split()
-        try:
-            day = datetime.strptime(parts[0], "%Y-%m-%d").date()
-        except (ValueError, IndexError):
-            keep.append(ln)  # comment or blank
-            continue
-        if (NOW.date() - day).days <= 7:
-            keep.append(ln)
-            ids.update(parts[1:])
+    ids, keep = parse_sent(lines, NOW.date())
     os.makedirs(DATA, exist_ok=True)
     with open(SENT, "w") as f:
         f.write("\n".join(keep) + "\n")
