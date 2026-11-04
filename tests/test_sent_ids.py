@@ -41,3 +41,39 @@ class SentIds(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SiteRegister(unittest.TestCase):
+    DOC = {"fields": {"data": {"stringValue": '{"R-1": "2026-11-04", "collector-amazon_ab12": "2026-11-04", "JR9": "2026-11-02"}'}}}
+
+    def test_reads_the_firestore_rest_document(self):
+        self.assertEqual(collector.parse_site_register(self.DOC),
+                         {"R-1": "2026-11-04", "collector-amazon_ab12": "2026-11-04", "JR9": "2026-11-02"})
+
+    def test_a_missing_or_broken_document_gives_nothing(self):
+        for bad in ({}, {"fields": {}}, {"fields": {"data": {"stringValue": "not json"}}}, None):
+            self.assertEqual(collector.parse_site_register(bad), {})
+
+    def test_only_new_ids_become_dated_lines(self):
+        lines = collector.site_sent_lines({"R-1": "2026-11-04", "JR9": "2026-11-02", "NEW": "2026-11-04"}, existing={"R-1"})
+        self.assertEqual(lines, ["2026-11-02 JR9", "2026-11-04 NEW"])
+
+    def test_nothing_new_nothing_added(self):
+        self.assertEqual(collector.site_sent_lines({"R-1": "2026-11-04"}, existing={"R-1"}), [])
+
+    def test_load_sent_merges_the_site_register_and_survives_a_failed_fetch(self):
+        import tempfile
+        d = tempfile.mkdtemp()
+        old_sent, old_data, old_fetch = collector.SENT, collector.DATA, collector.fetch_site_register
+        try:
+            collector.DATA, collector.SENT = d, os.path.join(d, "sent_ids.txt")
+            today = collector.NOW.date().isoformat()
+            open(collector.SENT, "w").write(f"{today} A B\n")
+            collector.fetch_site_register = lambda: {"B": today, "C": today}
+            self.assertEqual(collector.load_sent(), {"A", "B", "C"})
+            self.assertIn(f"{today} C", open(collector.SENT).read())
+            def boom(): raise OSError("offline")
+            collector.fetch_site_register = boom
+            self.assertEqual(collector.load_sent(), {"A", "B", "C"})   # the file alone is still enough
+        finally:
+            collector.SENT, collector.DATA, collector.fetch_site_register = old_sent, old_data, old_fetch
