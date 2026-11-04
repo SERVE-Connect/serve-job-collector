@@ -860,14 +860,52 @@ def parse_sent(lines, today):
     return ids, [k for k in keep if k is not None]
 
 
+# The site (serve-jobs.web.app) records the jobs an admin shared in a bulletin in one public Firestore document.
+# Each run copies them into sent_ids.txt, so the file stays the record of what went out.
+SITE_REGISTER_URL = ("https://firestore.googleapis.com/v1/projects/serve-jobs/databases/"
+                     "ai-studio-87983eb3-10dc-4cfb-999f-091a361740fe/documents/bulletinSent/ids")
+
+
+def parse_site_register(doc):
+    """The REST document as {job id: 'YYYY-MM-DD'}; anything unreadable gives {}."""
+    try:
+        data = json.loads(doc["fields"]["data"]["stringValue"])
+    except (TypeError, KeyError, ValueError):
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    return {str(k): v for k, v in data.items() if isinstance(v, str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", v)}
+
+
+def fetch_site_register():
+    with request.urlopen(SITE_REGISTER_URL, timeout=15) as r:
+        return parse_site_register(json.loads(r.read().decode("utf-8")))
+
+
+def site_sent_lines(register, existing):
+    """Dated sent_ids.txt lines for the registered IDs that are not in the file yet."""
+    by_day = {}
+    for job_id, day in register.items():
+        if job_id not in existing:
+            by_day.setdefault(day, []).append(job_id)
+    return [f"{day} {' '.join(sorted(ids))}" for day, ids in sorted(by_day.items())]
+
+
 def load_sent():
-    """Read data/sent_ids.txt, drop lines older than 7 days, return the set of IDs."""
+    """Read data/sent_ids.txt, add what the site registered, drop lines older than 7 days, return the set of IDs."""
     try:
         with open(SENT) as f:
             lines = f.read().splitlines()
     except OSError:
         lines = list(SENT_HEAD)
-    ids, keep = parse_sent(lines, NOW.date())
+    today = NOW.date()
+    ids, keep = parse_sent(lines, today)
+    try:
+        new = site_sent_lines(fetch_site_register(), existing=ids)
+        if new:
+            ids, keep = parse_sent(keep + new, today)
+    except Exception as e:  # offline, or the site has no register yet: the file alone is enough
+        print(f"  (site register not read: {e})", file=sys.stderr)
     os.makedirs(DATA, exist_ok=True)
     with open(SENT, "w") as f:
         f.write("\n".join(keep) + "\n")

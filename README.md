@@ -35,7 +35,9 @@ The chat commands read one of these files and only format it, so they cannot bre
 
 ## Telling the collector what you posted
 After a bulletin, open `data/sent_ids.txt` on GitHub, add the line the chat gives you at the end of each bulletin (date, then the job IDs) and commit. Those jobs are skipped on later days.
-Lines older than 7 days are removed by the daily run.
+Lines older than 7 days are removed by the daily run. Dates may be written 2026-10-29 or 26-10-29, and IDs separated by spaces or commas.
+
+When an admin ticks **Register as Sent** while sharing a bulletin on serve-jobs.web.app, the site records those job IDs and each daily run copies them into `sent_ids.txt` for you (if the site cannot be reached, the file alone is used).
 
 The run page on GitHub (Actions -> the run -> Summary) shows a table of boards and counts.
 
