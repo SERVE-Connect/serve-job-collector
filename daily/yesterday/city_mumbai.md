@@ -1,69 +1,68 @@
-# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-03 03:26 UTC
-8 jobs, best score first: 7 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-04 10:00 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Consultant - Payment Operations | Nium**
-   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 91
-   - Fit: yes | Bachelor's degree with 2-5 years of experience working in Payment Processing,
+1. **Credit Maint Intmd Analyst - C11 - MUMBAI | Citi**
+   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 99
+   - Fit: yes | Qualifications: 2-5 years of relevant experience Experience in busines
    - Experience: 2-5 yrs | Qualification: Bachelor
-   - ID: a60371e3-efd9-4a71-8dae-90d44187991a | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/a60371e3-efd9-4a71-8dae-90d44187991a
+   - Requirements: 2-5 years of relevant experience Experience in business preferred Working knowledge of industry standards and practices Working knowledge of data analysis tools and methodologies Demonstrated analytical skills Consistently demonstrates clear and concise written and verbal communication. Education:
+   - ID: 261005645 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Maint-Intmd-Analyst---C11---MUMBAI_261005645
 
-2. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
-   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
+2. **Partner Business Managerv | HP**
+   - Mumbai, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 90
+   - Fit: yes | • Typically has 2-4 years of work experience, preferably in technical
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - ID: 3170101-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Mumbai-Maharashtra-India/Partner-Business-Managerv_3170101-1
+
+3. **Business Intelligence Engineer II, Prime Video APAC and ANZ Analytics Team | Amazon**
+   - Mumbai, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 85
+   - Fit: yes | - 3+ years of analyzing and interpreting data with Reds
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: 10595085 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10595085/business-intelligence-engineer-ii-prime-video-apac-and-anz-analytics-team
+
+4. **Analyst - Financial Control | Barclays**
+   - Mumbai, Nirlon Knowledge Park (IB) , 9th floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 81
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000133976-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
+   - ID: JR-0000136280-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Analyst---Financial-Control_JR-0000136280-1
 
-3. **Young Apprentice - C00 - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 74
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: Required: Knowledge of programming languages like Python, or tools like Knime, or any other language that can help automate existing processes. For programming languages skills required are (Python Syntax & Standard library, script modularity and error handling, version control). Automation &
-   - ID: 261000621 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_261000621
-
-4. **Director, Solutions Builder (Builder Portfolio Leader) | Salesforce**
-   - India - Gurgaon India - Bangalore India - Mumbai India [multi-city] | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-03 (0 days ago) | fresh | Score 69
-   - Fit: no | Technical Depth: 15+years of Technical background with recent deep arc
-   - Experience: 15+ yrs | Qualification: Bachelor
-   - Requirements: hands-on experience with enterprise software implementation, data modeling, API integration, and AI deployments. You Have Proven Leadership: 3+ years of direct people management or high-impact technical leadership steering cross-functional engineering or technical teams. You have a track record of
-   - ID: JR366109 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Director--Solutions-Builder--Builder-Portfolio-Leader-_JR366109
-
-5. **Named Account Executive - Automotive Industry | Salesforce**
-   - India - Mumbai | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 66 | second job
-   - Fit: no | You're Our Person If... 10+ years of enterprise solution sales experience sell
+5. **Principal Partner Sales Executive | Workday**
+   - India, Mumbai IND.DEL.Home Office IND.BLR.Home Office India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 70
+   - Fit: no | Basic Qualifications 10+ years of relevant experience in technology sales,
    - Experience: 10+ yrs | Qualification: Bachelor
-   - ID: JR355536 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Named-Account-Executive---Automotive-Industry_JR355536
+   - Requirements: Basic Qualifications 10+ years of relevant experience in technology sales, channel sales, or alliance management, ideally within the SaaS or enterprise software industry. Experience managing partner relationships and joint go-to-market plans that deliver measurable pipeline and revenue outcomes.
+   - ID: JR-0109617 | open (ATS verified)
+   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/India-Mumbai/Principal-Partner-Sales-Executive_JR-0109617
 
-6. **Credit Risk Review, Vice President | Citi**
-   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 65 | second job
-   - Fit: no
-   - Qualification: Bachelor
-   - ID: 261003690 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Risk-Review--Vice-President_261003690
+6. **Managing Consultant, Account Management. | Mastercard**
+   - Gurgaon, India Mumbai, India India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 69
+   - Fit: no | practice. Experience 6-10 years of experience in acquiring, payment processi
+   - Experience: 6-10 yrs | Qualification: Bachelor
+   - ID: R-292444 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Managing-Consultant--Account-Management_R-292444
 
-7. **Content Acquisition Manager - Prime Videos, Amazon Prime Video | Amazon**
-   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 62
-   - Fit: no | development role - 10+ years of content licensing, syndication or distrib
-   - Experience: 10+ yrs
-   - ID: 10594269 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594269/content-acquisition-manager-prime-videos-amazon-prime-video
+7. **Key Account Director - CRM - TMT | ServiceNow**
+   - Mumbai, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 69
+   - Fit: no | function or industry. 12+ years of relevant experience in enterprise solutio
+   - Experience: 12+ yrs | Qualification: Bachelor
+   - ID: 744000159547286 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159547286
 
-8. **Account Executive- Commercial  | Zscaler**
-   - Mumbai, IND | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-10-29 (5 days ago) | fallback | Score 54
-   - Fit: no | your functional domain 6+ years of sales experience with a consistent track
-   - Experience: 6+ yrs | Qualification: Bachelor
-   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
-   - ID: 5276812007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5276812007
+8. **Regional Sales Director | Salesforce**
+   - India - Mumbai | Work mode: unspecified | Also hiring in: India - Bangalore | Section: Non-IT / Other
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 66
+   - Fit: no | background in sales of 15+ years, with recent 5+ years in sales management (p
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - ID: JR366703 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Regional-Sales-Director_JR366703

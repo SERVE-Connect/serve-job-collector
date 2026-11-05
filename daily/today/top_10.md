@@ -1,85 +1,82 @@
-# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-04 10:00 UTC
+# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-05 00:55 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Credit Maint Intmd Analyst - C11 - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-04 (0 days ago) | fresh | Score 99
-   - Fit: yes | Qualifications: 2-5 years of relevant experience Experience in busines
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - Requirements: 2-5 years of relevant experience Experience in business preferred Working knowledge of industry standards and practices Working knowledge of data analysis tools and methodologies Demonstrated analytical skills Consistently demonstrates clear and concise written and verbal communication. Education:
-   - ID: 261005645 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Maint-Intmd-Analyst---C11---MUMBAI_261005645
-
-2. **Product Designer | ServiceNow**
-   - Hyderabad, Telangana, India | Work mode: remote | Section: Non-IT / Other
-   - Posted: 2026-11-04 (0 days ago) | fresh | Score 90
-   - Fit: yes | function or industry . 2+ years of relevant design experience (internships i
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI’s potential impact on the function or industry . 2+ years
-   - ID: 744000159551529 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159551529
-
-3. **Partner Business Managerv | HP**
-   - Mumbai, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 90
-   - Fit: yes | • Typically has 2-4 years of work experience, preferably in technical
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 3170101-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Mumbai-Maharashtra-India/Partner-Business-Managerv_3170101-1
-
-4. **Business Intelligence Engineer II, Prime Video APAC and ANZ Analytics Team | Amazon**
-   - Mumbai, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 85
-   - Fit: yes | - 3+ years of analyzing and interpreting data with Reds
+1. **Global Trade Compliance Analyst | NVIDIA**
+   - India, Pune | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 90
+   - Fit: yes | or equivalent with 3+ years of experience in related field Demonstrate s
    - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: 10595085 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10595085/business-intelligence-engineer-ii-prime-video-apac-and-anz-analytics-team
+   - ID: JR2028679 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Global-Trade-Compliance-Analyst_JR2028679
 
-5. **Fraud & Dispute Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (0 days ago) | fresh | Score 82
+2. **Young Apprentice - C00 - MUMBAI | Citi**
+   - Mumbai Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 90
+   - Fit: yes | Knowledge/Experience: 0-2 years’ experience in banking, finance, or law Expe
+   - Experience: 0-2 yrs | Qualification: Bachelor
+   - ID: 26980896 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980896
+
+3. **Customer Support Engineer - I | Mindtickle**
+   - Pune, Maharashtra | Work mode: hybrid | Section: IT Support / Operations
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 80
+   - Fit: unknown
+   - ID: 68626a39-ae90-4870-b3c7-04bf489f66f7 | open (ATS verified)
+   - Apply: https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7
+
+4. **Business Analyst Support, AOP Research Science | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: IT Support / Operations
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 78
+   - Fit: yes | - 2+ years of data analytics or automation experience -
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: 10596571 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10596571/business-analyst-support-aop-research-science
+
+5. **Analyst - Financial Control | Barclays**
+   - Mumbai, Nirlon Knowledge Park (IB) , 9th floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 78
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000133202-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Fraud---Dispute-Analyst_JR-0000133202-1
+   - ID: JR-0000136280-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Analyst---Financial-Control_JR-0000136280-1
 
-6. **Compliance Analyst - AI Governance | AlphaSense**
-   - Bengaluru | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 82
-   - Fit: yes | frameworks shaping it. 2–4 years of experience in risk management, GRC, compl
-   - Experience: 2-4 yrs
-   - ID: 8929592002 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/alphasenseindia/jobs/8929592002
-
-7. **Specialist, Software Development Engineering | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: IT / Software
-   - Posted: 2026-11-04 (0 days ago) | fresh | Score 81
-   - Fit: yes | you'll need to have: 4+ years of experience in software development 2+ yea
-   - Experience: 4+ yrs | Qualification: Bachelor
-   - ID: R-10401173 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401173
-
-8. **CIBLO CRE Middle Office - Loan IQ, Risk management | Wells Fargo**
+6. **Fraud & Claims Operations Representative | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (0 days ago) | fresh | Score 81
-   - Fit: yes | Qualifications: 2+ years of credit operations, loan operations, or de
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-582208 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/CIBLO-CRE-Middle-Office_R-582208
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 78
+   - Fit: yes | Qualifications: 1+ year of customer service support experience, or e
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: R-585860 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Fraud---Claims-Operations-Representative_R-585860
 
-9. **IN_RBIN_Senior Engineer_Product Development_PS-CC | Bosch**
-   - Bengaluru, KA, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-04 (0 days ago) | fresh | Score 80
-   - Fit: yes | (desirable) Experience: 2+ years experience in Product development Work exper
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 744000159544369 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159544369
+7. **Planning Process System Consultant | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 77
+   - Fit: yes | preferred. 1–3 years of overall experience , preferably with expo
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - Requirements: Required ü Demand & Supply Planning Fundamentals Good understanding of demand planning, supply planning, forecasting, inventory, and demand-supply balancing. ü Planning Systems Knowledge Working knowledge of SAP IBP, SAP HANA , ARIBA , Enterprises Business Wearhouse or similar supply-chain planning
+   - ID: 3170458-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Planning-Process-System-Consultant_3170458-1
 
-10. **Associate IT Audit | Paytm**
-   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-03 (1 days ago) | fresh | Score 80
-   - Fit: yes | candidate will have 3-7 years of expertise in data security and privacy co
-   - Experience: 3-7 yrs | Qualification: Bachelor
-   - Requirements: & Certification: Bachelors / Master’s degree in Information Technology, Cyber Security, or a related field. ISO 27001/CNSS/CCNA/CISA/CISM/CISSP Preferred Detailed knowledge of security tools, PCI-DSS, general ITGC controls, compliance testing, cloud risk assessment, GRC, OWASP, MITRE ATT& amp; CK,
-   - ID: d093bac9-07c4-4a77-852a-a3c4afcf3c1c | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c
+8. **Marketing Technology Operations Specialist | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 72
+   - Fit: yes | You're Our Person If... 3+ years of experience in marketing operations, marke
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: JR365028-1 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketing-Technology-Operations-Specialist_JR365028-1
+
+9. **Embedded_Devops_ECT | Bosch**
+   - hosur road bangalore, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 65
+   - Fit: yes | Electronics background 3 to 6 years
+   - Experience: 3-6 yrs | Qualification: Bachelor
+   - ID: 744000159545819 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159545819
+
+10. **Engineering Technician - GEL | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-04 (1 days ago) | fresh | Score 60
+   - Fit: yes | Clean room Requirement: 4-5 year experience with Diploma in Electronics & Com
+   - Experience: 4-5 yrs | Qualification: Diploma
+   - ID: JR93921 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Equipment-maintenance-technician---GEL_JR93921

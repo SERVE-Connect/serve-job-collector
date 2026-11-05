@@ -1,86 +1,86 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-03 03:26 UTC
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-04 10:00 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Consultant - Payment Operations | Nium**
-   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 91
-   - Fit: yes | Bachelor's degree with 2-5 years of experience working in Payment Processing,
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - ID: a60371e3-efd9-4a71-8dae-90d44187991a | open (ATS verified)
-   - Apply: https://jobs.lever.co/nium/a60371e3-efd9-4a71-8dae-90d44187991a
-
-2. **Associate II - New Business  | Zinnia**
-   - Gurugram, Haryana, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 85
-   - Fit: yes | • &nbsp; &nbsp;1+ year of working experience in Life Insurance, Ann
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - Requirements: &nbsp; &nbsp;Graduation in any stream, Commerce Graduate preferred. • &nbsp; &nbsp;1+ year of working experience in Life Insurance, Annuities or financial services, with a focus on quality, attention to detail, accuracy and accountability for your work product. &nbsp; &nbsp; • &nbsp;
-   - ID: 4726335006 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zinnia/jobs/4726335006
-
-3. **Analyst, Tax - GIR Compliance | PayPal**
-   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 82
-   - Fit: yes | Minimum Qualifications: 1+ years of relevant experience and a Bachelor's degr
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - Requirements: 1+ years of relevant experience and a Bachelor's degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Demonstrated experience with manual review and software aided review of W-8/W9, FATCA and CRS Self Certification form
-   - ID: R0138591 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Analyst--Tax---GIR-Compliance_R0138591
-
-4. **Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Also hiring in: Chennai, DLF IT Park Pune, Gera Commerzone SEZ India | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 79
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR-0000123491 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Analyst_JR-0000123491
-
-5. **Customer Service Representative | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
-   - Fit: yes | a professional manner. 1–3 years of experience in billing, invoicing, or acco
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - Requirements: Customer Service experience is required, with proven ability to handle external customer communications in a professional manner. 1–3 years of experience in billing, invoicing, or accounts receivable. Strong proficiency in Microsoft Office (Excel, Word, Outlook). Demonstrated ability to process and
-   - ID: JR328615 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Customer-Service-Representative_JR328615
-
-6. **Quality Assurance Administrator | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 78
-   - Fit: yes | Qualifications: 1+ year of Quality Assurance support, or equivalent
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R-577557 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Quality-Assurance-Administrator_R-577557
-
-7. **Payroll Accountant | Okta**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
-   - Fit: yes | Accounting or Finance 2-4 years of combined public accounting and private in
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 8323989 | open (ATS verified)
-   - Apply: https://www.okta.com/company/careers/opportunity/8323989?gh_jid=8323989
-
-8. **ASIC Design Engineer, High Speed IO | NVIDIA**
-   - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 77
-   - Fit: yes | see: BTech/MTech with 2+ years of experience in crafting complex Units and
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: JR2028798 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer--High-Speed-IO_JR2028798
-
-9. **Young Apprentice - C00 - MUMBAI | Citi**
+1. **Credit Maint Intmd Analyst - C11 - MUMBAI | Citi**
    - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 74
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 99
+   - Fit: yes | Qualifications: 2-5 years of relevant experience Experience in busines
+   - Experience: 2-5 yrs | Qualification: Bachelor
+   - Requirements: 2-5 years of relevant experience Experience in business preferred Working knowledge of industry standards and practices Working knowledge of data analysis tools and methodologies Demonstrated analytical skills Consistently demonstrates clear and concise written and verbal communication. Education:
+   - ID: 261005645 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Credit-Maint-Intmd-Analyst---C11---MUMBAI_261005645
+
+2. **Product Designer | ServiceNow**
+   - Hyderabad, Telangana, India | Work mode: remote | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 90
+   - Fit: yes | function or industry . 2+ years of relevant design experience (internships i
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI’s potential impact on the function or industry . 2+ years
+   - ID: 744000159551529 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159551529
+
+3. **Partner Business Managerv | HP**
+   - Mumbai, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 90
+   - Fit: yes | • Typically has 2-4 years of work experience, preferably in technical
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - ID: 3170101-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Mumbai-Maharashtra-India/Partner-Business-Managerv_3170101-1
+
+4. **Fraud & Dispute Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 82
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: Required: Knowledge of programming languages like Python, or tools like Knime, or any other language that can help automate existing processes. For programming languages skills required are (Python Syntax & Standard library, script modularity and error handling, version control). Automation &
-   - ID: 261000621 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_261000621
+   - ID: JR-0000133202-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Fraud---Dispute-Analyst_JR-0000133202-1
 
-10. **System Development Engineer, TFS Accounting Insights | Amazon**
+5. **CIBLO CRE Middle Office - Loan IQ, Risk management | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 81
+   - Fit: yes | Qualifications: 2+ years of credit operations, loan operations, or de
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: R-582208 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/CIBLO-CRE-Middle-Office_R-582208
+
+6. **Associate IT Audit | Paytm**
+   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 80
+   - Fit: yes | candidate will have 3-7 years of expertise in data security and privacy co
+   - Experience: 3-7 yrs | Qualification: Bachelor
+   - Requirements: & Certification: Bachelors / Master’s degree in Information Technology, Cyber Security, or a related field. ISO 27001/CNSS/CCNA/CISA/CISM/CISSP Preferred Detailed knowledge of security tools, PCI-DSS, general ITGC controls, compliance testing, cloud risk assessment, GRC, OWASP, MITRE ATT& amp; CK,
+   - ID: d093bac9-07c4-4a77-852a-a3c4afcf3c1c | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/d093bac9-07c4-4a77-852a-a3c4afcf3c1c
+
+7. **Compliance Specialist, Tax & Trade Compliance Ops | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-02 (1 days ago) | fresh | Score 73
-   - Fit: yes | - 1+ years of systems development experience - Experien
-   - Experience: 1+ yrs
-   - ID: 10594420 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594420/system-development-engineer-tfs-accounting-insights
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 76
+   - Fit: yes | - 1+ years of data-driven business operations processes
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: 10596216 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10596216/compliance-specialist-tax-trade-compliance-ops
+
+8. **Marketing Technology Operations Specialist | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 75
+   - Fit: yes | You're Our Person If... 3+ years of experience in marketing operations, marke
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: JR365028-1 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketing-Technology-Operations-Specialist_JR365028-1
+
+9. **Early Talent Recruiter | MongoDB**
+   - Gurugram | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-03 (1 days ago) | fresh | Score 66
+   - Fit: yes | What you’ll bring 4+ years of full-cycle recruiting experience, includi
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - ID: 8328316 | open (ATS verified)
+   - Apply: https://www.mongodb.com/careers/job/?gh_jid=8328316
+
+10. **Product Management Intern | Rubrik**
+   - Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-04 (0 days ago) | fresh | Score 63
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Education: Currently enrolled in a premier MBA/management program (IIM, ISB, or equivalent global top-tier business school) graduating in 2027/28 Technical Foundation: Bachelor’s degree in Computer Science, Information Technology, or an equivalent engineering discipline. Prior product management or
+   - ID: 8345283 | open (ATS verified)
+   - Apply: https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283
