@@ -1,64 +1,66 @@
-# SERVE bulletin picks, 2026-11-05 00:55 UTC
+# SERVE bulletin picks, 2026-11-06 00:58 UTC
 8 jobs: 8 from today/yesterday, 0 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
-1. **Customer Support Engineer - I | Mindtickle**
-   - Pune, Maharashtra | Work mode: hybrid | Posted: 2026-11-04 (1 days ago) | fresh
-   - Fit: unknown | Score 80
-   - ID: 68626a39-ae90-4870-b3c7-04bf489f66f7 | open (ATS verified)
-   - Apply: https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7
+1. **Technical Support Engineer 2 | Twilio**
+   - Remote - India | Work mode: remote | Posted: 2026-11-05 (1 days ago) | fresh
+   - Fit: yes | work experience 3+ years of experience in a client-facing technical r | Score 86
+   - ID: 8028473 | open (ATS verified)
+   - Experience: 3+ yrs | Qualification: Diploma
+   - Requirements: &nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people
+   - Apply: https://job-boards.greenhouse.io/twilio/jobs/8028473
 
-2. **Business Analyst Support, AOP Research Science | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Posted: 2026-11-04 (1 days ago) | fresh
-   - Fit: yes | - 2+ years of data analytics or automation experience - | Score 78
-   - ID: 10596571 | open (listed in employer's live search)
+2. **Mainframe Automation Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-11-05 (1 days ago) | fresh
+   - Fit: unknown | Score 79
+   - ID: JR-0000106342 | open (ATS verified)
+   - Qualification: Bachelor
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Mainframe-Automation-Analyst_JR-0000106342
+
+3. **Software Engineer - Fullstack | ServiceNow**
+   - Bangalore, Karnataka, India | Work mode: hybrid | Posted: 2026-11-05 (1 days ago) | fresh
+   - Fit: yes | in this role you have: 2+ years of experience with Java or a similar OO lang | Score 78
+   - ID: 744000159899389 | open (ATS verified)
    - Experience: 2+ yrs | Qualification: Bachelor
-   - Apply: https://www.amazon.jobs/en/jobs/10596571/business-analyst-support-aop-research-science
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000159899389
 
-3. **Software Engineer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-11-04 (1 days ago) | fresh
-   - Fit: unknown | Score 74
-   - ID: JR-0000119489-1 | open (ATS verified)
+4. **Support Engineer II, CMT Tech Support | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Posted: 2026-11-05 (1 days ago) | fresh
+   - Fit: yes | - 2+ years of software development, or 2+ years of tech | Score 78
+   - ID: 10595026 | open (listed in employer's live search)
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Apply: https://www.amazon.jobs/en/jobs/10595026/support-engineer-ii-cmt-tech-support
+
+5. **IN_RBAI_Senior Engineer - Engineering Change Management Co Ordinator_IN | Bosch**
+   - Bengaluru, KA, India | Work mode: unspecified | Posted: 2026-11-05 (1 days ago) | fresh
+   - Fit: yes | Engineer with 1-3 years of experience preferably in the manufacturin | Score 77
+   - ID: 744000159851862 | open (ATS verified)
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159851862
+
+6. **Software Engineering PMTS (Apache, Kafka, Terraform) | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Posted: 2026-11-05 (1 days ago) | fresh
+   - Fit: unknown | Score 61
+   - ID: JR359744 | open (ATS verified)
    - Qualification: Bachelor
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000119489-1
+   - Requirements: hands-on experience with open-source tools like Kafka, Flink, and Apache Druid. You are a kind and helpful mentor to other engineers. You are a great "service owner," meaning you care deeply about keeping systems online and running smoothly. Even Better If… You have worked on an Observability stack
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS_JR359744
 
-4. **Associate Technical Support Engineer (French Speaking) | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Posted: 2026-11-04 (1 days ago) | fresh
-   - Fit: unknown | Score 66
-   - ID: JR356515 | open (ATS verified)
+7. **QA Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-11-05 (1 days ago) | fresh
+   - Fit: unknown | Score 79 | second job
+   - ID: JR-0000137353 | open (ATS verified)
    - Qualification: Bachelor
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/QA-Analyst_JR-0000137353
 
-5. **Embedded_Devops_ECT | Bosch**
-   - hosur road bangalore, India | Work mode: unspecified | Posted: 2026-11-04 (1 days ago) | fresh
-   - Fit: yes | Electronics background 3 to 6 years | Score 65
-   - ID: 744000159545819 | open (ATS verified)
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159545819
-
-6. **Engineering Technician - GEL | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Posted: 2026-11-04 (1 days ago) | fresh
-   - Fit: yes | Clean room Requirement: 4-5 year experience with Diploma in Electronics & Com | Score 60
-   - ID: JR93921 | open (ATS verified)
-   - Experience: 4-5 yrs | Qualification: Diploma
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Equipment-maintenance-technician---GEL_JR93921
-
-7. **AI Platform and Agentic Engineer | Intel**
-   - India, Bangalore | Work mode: unspecified | Posted: 2026-11-04 (1 days ago) | fresh
-   - Fit: unknown | Score 60
-   - ID: JR0287292 | open (ATS verified)
-   - Qualification: Bachelor
-   - Requirements: Minimum Qualifications 1. Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Data Science, or a related field. 2. Significant experience in software engineering, AI engineering, platform engineering, or solution architecture. 3. Advanced Python development skills
-   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/AI-Platform-and-Agentic-Engineer_JR0287292
-
-8. **Software Firmware Engineer 4 | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Posted: 2026-11-04 (1 days ago) | fresh
-   - Fit: unknown | Score 54
-   - ID: 3160029-2 | open (ATS verified)
-   - Qualification: Bachelor
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Graphics-Expert_3160029-2
+8. **IN_RBAI_Engineer_FA Testing & Inspection Maintenance | Bosch**
+   - Bengaluru, KA, India | Work mode: unspecified | Posted: 2026-11-05 (1 days ago) | fresh
+   - Fit: yes | / Electronics with 2 to 4 Years of experience in Testing breakdown maintenan | Score 77 | second job
+   - ID: 744000159791384 | open (ATS verified)
+   - Experience: 2-4 yrs | Qualification: Diploma
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159791384
 
 After you post, paste this line into data/sent_ids.txt:
 
 ```
-2026-11-05 68626a39-ae90-4870-b3c7-04bf489f66f7 10596571 JR-0000119489-1 JR356515 744000159545819 JR93921 JR0287292 3160029-2
+2026-11-06 8028473 JR-0000106342 744000159899389 10595026 744000159851862 JR359744 JR-0000137353 744000159791384
 ```

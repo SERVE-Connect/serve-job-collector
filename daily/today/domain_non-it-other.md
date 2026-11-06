@@ -1,68 +1,87 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-05 00:55 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-06 00:58 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Global Trade Compliance Analyst | NVIDIA**
-   - India, Pune | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 90
-   - Fit: yes | or equivalent with 3+ years of experience in related field Demonstrate s
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: JR2028679 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Global-Trade-Compliance-Analyst_JR2028679
+1. **Phone Number specialist 1 | Twilio**
+   - Remote - India | Work mode: remote | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 92
+   - Fit: yes | You have 2-4 years of experience working with global customers
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Requirements: &nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people
+   - ID: 8346263 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/twilio/jobs/8346263
 
-2. **Young Apprentice - C00 - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 90
-   - Fit: yes | Knowledge/Experience: 0-2 years’ experience in banking, finance, or law Expe
-   - Experience: 0-2 yrs | Qualification: Bachelor
-   - ID: 26980896 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980896
+2. **Customer Support Associate I | Zscaler**
+   - Bangalore, IND; Bangalore, IND; Mohali, IND | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 82
+   - Fit: yes | At least 2 years of dedicated experience in a customer servic
+   - Experience: 2 yrs | Qualification: Bachelor
+   - Requirements: (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving At least 2 years of dedicated experience in a customer service or support environment Foundational
+   - ID: 5263579007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5263579007
 
-3. **Analyst - Financial Control | Barclays**
-   - Mumbai, Nirlon Knowledge Park (IB) , 9th floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 78
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR-0000136280-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Analyst---Financial-Control_JR-0000136280-1
-
-4. **Fraud & Claims Operations Representative | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 78
-   - Fit: yes | Qualifications: 1+ year of customer service support experience, or e
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R-585860 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Fraud---Claims-Operations-Representative_R-585860
-
-5. **Planning Process System Consultant | HP**
+3. **Finance Analyst-Contra Revenue | HP**
    - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 77
-   - Fit: yes | preferred. 1–3 years of overall experience , preferably with expo
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - Requirements: Required ü Demand & Supply Planning Fundamentals Good understanding of demand planning, supply planning, forecasting, inventory, and demand-supply balancing. ü Planning Systems Knowledge Working knowledge of SAP IBP, SAP HANA , ARIBA , Enterprises Business Wearhouse or similar supply-chain planning
-   - ID: 3170458-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Planning-Process-System-Consultant_3170458-1
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 82
+   - Fit: yes | • Typically has 2-4 years of work experience, preferably in financial
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - ID: 3170023-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Finance-Analyst-Contra-Revenue_3170023-1
 
-6. **Compliance Specialist, Tax & Trade Compliance Ops | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 73
-   - Fit: yes | - 1+ years of data-driven business operations processes
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: 10596216 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10596216/compliance-specialist-tax-trade-compliance-ops
-
-7. **Marketing Technology Operations Specialist | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 72
-   - Fit: yes | You're Our Person If... 3+ years of experience in marketing operations, marke
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: JR365028-1 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketing-Technology-Operations-Specialist_JR365028-1
-
-8. **Product Management Intern | Rubrik**
-   - Bangalore | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 60
+4. **KYC Operations Analyst 1 - C09 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 80
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: Education: Currently enrolled in a premier MBA/management program (IIM, ISB, or equivalent global top-tier business school) graduating in 2027/28 Technical Foundation: Bachelor’s degree in Computer Science, Information Technology, or an equivalent engineering discipline. Prior product management or
-   - ID: 8345283 | open (ATS verified)
-   - Apply: https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283
+   - Requirements: Previous relevant experience preferred Education: Bachelor's degree/University degree or equivalent experience ------------------------------------------------------ Job Family Group: Operations - Services ------------------------------------------------------ Job Family: Business KYC
+   - ID: 261004326 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/KYC-Operations-Analyst-1---C09---PUNE_261004326
+
+5. **PC Equities Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ Chennai, DLF IT Park India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 79
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: JR-0000115408-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/PC-Equities-Analyst_JR-0000115408-1
+
+6. **Coordinator, Marketing Operations | Elastic**
+   - Bangalore, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 77
+   - Fit: yes | automation experience (2+ yrs) Exemplary time management Proficient attent
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: 8289153 | open (ATS verified)
+   - Apply: https://jobs.elastic.co/jobs?gh_jid=8289153&gh_jid=8289153
+
+7. **Business Execution Consultant | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 77
+   - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: R-571045 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-571045
+
+8. **IN_RBAI_Maintenance Engineer_Charcon_Mechanical | Bosch**
+   - Bengaluru, KA, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 77
+   - Fit: yes | / Mechanical. 2 to 4 Years of experience in Maintenance in Electronics
+   - Experience: 2-4 yrs | Qualification: Diploma
+   - ID: 744000159791911 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159791911
+
+9. **Analyst, Risk Management | Razorpay**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 65
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Required&nbsp; Knowledge about a customer support application or CRM, such as Freshdesk. ○ Familiarity with Stages/levels of chargebacks, penalty involved at the arbitration stage, technical chargebacks, Visa/Mastercard guidelines (in brief), and reason codes in relation to fraud chargebacks.&nbsp;
+   - ID: 4750978005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750978005
+
+10. **Platform Hardware Design Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 57
+   - Fit: yes | or a related field with 4+ years of hands-on experience in hardware systems d
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - Requirements: Bachelor's degree in Electrical Engineering, Electronics Engineering, or a related field with 4+ years of hands-on experience in hardware systems design OR Master's degree in a related field with 3+ years of experience OR PhD with no prior professional experience. - Proficiency in electrical
+   - ID: JR0287602 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Platform-Hardware-Design-Engineer_JR0287602
