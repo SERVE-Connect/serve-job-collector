@@ -17,7 +17,7 @@
  },
  "greenhouse:Elastic": {
   "ok": true,
-  "listed": 423
+  "listed": 425
  },
  "greenhouse:Druva": {
   "ok": true,
@@ -45,7 +45,7 @@
  },
  "greenhouse:Databricks": {
   "ok": true,
-  "listed": 923
+  "listed": 922
  },
  "greenhouse:Cloudflare": {
   "ok": true,
@@ -53,7 +53,7 @@
  },
  "greenhouse:Stripe": {
   "ok": true,
-  "listed": 765
+  "listed": 766
  },
  "greenhouse:Twilio": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "greenhouse:Datadog": {
   "ok": true,
-  "listed": 399
+  "listed": 400
  },
  "greenhouse:MongoDB": {
   "ok": true,
@@ -125,7 +125,7 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 502
+  "listed": 521
  },
  "workday:Mastercard": {
   "ok": true,
@@ -173,7 +173,7 @@
  },
  "workday:Citi": {
   "ok": true,
-  "listed": 272
+  "listed": 260
  },
  "workday:Capital One": {
   "ok": true,
@@ -181,7 +181,7 @@
  },
  "workday:Intel": {
   "ok": true,
-  "listed": 83
+  "listed": 82
  },
  "workday:Qualcomm": {
   "ok": true,
@@ -209,19 +209,19 @@
  },
  "amazon:Amazon": {
   "ok": true,
-  "listed": 310
+  "listed": 314
  },
  "remote:We Work Remotely": {
   "ok": true,
   "listed": 100,
-  "kept": 61,
+  "kept": 57,
   "undated_skipped": 0,
   "without_company": 0
  },
  "remote:WordPress Jobs": {
   "ok": true,
   "listed": 6,
-  "kept": 5,
+  "kept": 3,
   "undated_skipped": 0,
   "without_company": 0
  },
