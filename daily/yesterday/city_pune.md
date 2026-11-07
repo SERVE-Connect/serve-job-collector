@@ -1,84 +1,67 @@
-# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-11-05 00:55 UTC
-10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-11-06 00:58 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Global Trade Compliance Analyst | NVIDIA**
-   - India, Pune | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 90
-   - Fit: yes | or equivalent with 3+ years of experience in related field Demonstrate s
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: JR2028679 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Global-Trade-Compliance-Analyst_JR2028679
-
-2. **Customer Support Engineer - I | Mindtickle**
-   - Pune, Maharashtra | Work mode: hybrid | Section: IT Support / Operations
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 80
-   - Fit: unknown
-   - ID: 68626a39-ae90-4870-b3c7-04bf489f66f7 | open (ATS verified)
-   - Apply: https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7
-
-3. **Software Engineer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 74
+1. **KYC Operations Analyst 1 - C09 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 80
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000119489-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000119489-1
+   - Requirements: Previous relevant experience preferred Education: Bachelor's degree/University degree or equivalent experience ------------------------------------------------------ Job Family Group: Operations - Services ------------------------------------------------------ Job Family: Business KYC
+   - ID: 261004326 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/KYC-Operations-Analyst-1---C09---PUNE_261004326
 
-4. **Incident Management - Advisor I | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 73
-   - Fit: no | you'll need to have: 6+ years of experience in incident management and res
-   - Experience: 6+ yrs | Qualification: Bachelor
-   - ID: R-10404851 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Incident-Management---Advisor-I_R-10404851
+2. **Mainframe Automation Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 79
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: JR-0000106342 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Mainframe-Automation-Analyst_JR-0000106342
 
-5. **Finance Technology Records Management & Workforce Strategy / Governance - Senior Vice President | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 68
-   - Fit: no | Experience: 14+ years of relevant experience in Business Managemen
-   - Experience: 14+ yrs | Qualification: Bachelor
-   - Requirements: & Experience Required Qualifications Experience: 14+ years of relevant experience in Business Management, Chief of Staff, PMO/RMO, or Technology Governance functions. Industry Background: Minimum 4+ years of experience within Financial Services, Banking, or Global Capability Centers (GCCs).
-   - ID: 261006379 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Finance-Technology-Records-Management---Workforce-Strategy---Governance---Senior-Vice-President_261006379
+3. **QA Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: QA / Testing
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 79 | second job
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: JR-0000137353 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/QA-Analyst_JR-0000137353
 
-6. **Director, IT Service Management | Workday**
-   - IND.Pune | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 68
-   - Fit: no | with ServiceNow 15+ years of technical experience in IT software devel
-   - Experience: 15+ yrs | Qualification: Bachelor
-   - Requirements: Basic Qualifications 8+ years of leadership experience in IT Service Management or Business Application Service Delivery in a large global organization. 8+ years of experience leading globally distributed teams that support a 24x7 operations model. 8+ years of hands-on experience with ServiceNow
-   - ID: JR-0109405 | open (ATS verified)
-   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Director--IT-Service-Management_JR-0109405
+4. **Senior Accountant-2 | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 72
+   - Fit: no | preferred. 5+ years of progressive accounting experience, with a
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - ID: R-292512 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Accountant-2_R-292512
 
-7. **Staff Engineer, Cloud Ops | Druva**
-   - Pune, Maharashtra, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 67
-   - Fit: no | Must Have Skills:&nbsp; 3–6 years of experience in Linux (e.g., Red Hat, Ubunt
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - Requirements: Skills:&nbsp; 3–6 years of experience in Linux (e.g., Red Hat, Ubuntu) environments.&nbsp;3+ years hands-on experience of Cloud providers such as Amazon AWS, Microsoft Azure, or Google Cloud Platform.&nbsp; Strong in Network Infrastructures.&nbsp; Strong experience with Terraform or other
-   - ID: 8878375002 | open (ATS verified)
-   - Apply: https://www.druva.com/why-druva/explore/careers/jobs/8878375002/?gh_jid=8878375002
-
-8. **Lead Software Engineer | Mastercard**
+5. **Senior Enterprise Operations Engineer-2 | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 67
-   - Fit: no | All About You: 10+ years of overall software engineering experience,
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - ID: R-291096 | open (ATS verified)
-   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-291096
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 70 | second job
+   - Fit: no
+   - Qualification: Bachelor
+   - ID: R-295300-1 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Enterprise-Operations-Engineer-2_R-295300-1
 
-9. **Technical Support Engineer | Broadcom**
-   - IND-Pune EON Kharadi Infrastructure | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 67
-   - Fit: no | in a related field. 10+ years of experience working with customers in a fa
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - ID: R027713 | open (ATS verified)
-   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-EON-Kharadi-Infrastructure/Technical-Support-Engineer_R027713
+6. **Accountant | Workday**
+   - IND.Pune | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 68
+   - Fit: no | focus on accounting. 5+ years of progressive accounting experience, ideall
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: Basic Qualifications Master’s degree in accounting, Finance, or a related field with a strong focus on accounting. 5+ years of progressive accounting experience, ideally managing accounting operations within a fast-growing company. Other Qualifications Industry background: Background in public
+   - ID: JR-0111144 | open (ATS verified)
+   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Accountant_JR-0111144
 
-10. **Technical Expert – Avionics Validation & DO-160G Qualification Testing | Bosch**
-   - pune, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-04 (1 days ago) | fresh | Score 67
-   - Fit: no | Systems BE / B-tech 8 - 10 year
-   - Experience: 8-10 yrs | Qualification: Bachelor
-   - ID: 744000159570878 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159570878
+7. **Senior Software Engineer, AI Infrastructure Solutions | NVIDIA**
+   - India, Pune | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 67
+   - Fit: no | or a related field. 5+ years of software engineering experience, with 2+
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - ID: JR2029182 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Software-Engineer--AI-Infrastructure-Solutions_JR2029182
+
+8. **Program Manager | Mindtickle**
+   - Pune, Maharashtra | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-05 (1 days ago) | fresh | Score 66
+   - Fit: no
+   - ID: 7bb05102-cc74-4b4e-b0cc-a3267a6e2af3 | open (ATS verified)
+   - Apply: https://jobs.lever.co/mindtickle/7bb05102-cc74-4b4e-b0cc-a3267a6e2af3
