@@ -65,11 +65,11 @@
  },
  "greenhouse:Datadog": {
   "ok": true,
-  "listed": 400
+  "listed": 401
  },
  "greenhouse:MongoDB": {
   "ok": true,
-  "listed": 375
+  "listed": 374
  },
  "greenhouse:Netskope": {
   "ok": true,
@@ -113,7 +113,7 @@
  },
  "lever:CRED": {
   "ok": true,
-  "listed": 13
+  "listed": 14
  },
  "lever:Palantir": {
   "ok": true,
@@ -125,7 +125,7 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 521
+  "listed": 522
  },
  "workday:Mastercard": {
   "ok": true,
@@ -165,7 +165,7 @@
  },
  "workday:Wells Fargo": {
   "ok": true,
-  "listed": 86
+  "listed": 85
  },
  "workday:Barclays": {
   "ok": true,

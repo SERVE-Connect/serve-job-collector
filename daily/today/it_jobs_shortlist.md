@@ -1,5 +1,5 @@
-# SERVE jobs, collected 2026-11-07 23:40 UTC
-Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 62. Full list: jobs_latest.md
+# SERVE jobs, collected 2026-11-08 10:06 UTC
+Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 61. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
@@ -11,7 +11,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Full Stack Developer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: unknown | Score: 71
 - Qualification: Bachelor
 - ID: JR-0000126582 / JR-0000126582 | Status: open (ATS verified)
@@ -63,7 +63,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Business Analyst Inventory Reconciliation, | HP**
 - Location: Bengaluru, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | • Typically has 0-2 years of work experience, preferably in supply cha | Score: 79
 - Experience: 0-2 yrs | Qualification: Bachelor
 - ID: 3168963-1 / 3168963 | Status: open (ATS verified)
@@ -71,7 +71,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Development Engineer II, Cross Border Seller Programs | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | - 3+ years of non-internship professional software deve | Score: 69
 - Experience: 3+ yrs
 - ID: 10598473 | Status: open (listed in employer's live search)
@@ -95,7 +95,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Business Analyst, Global Solutions & Risk Compliance (GSRC) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: yes | or related field - 1+ years of experience in BI/technical support roles. | Score: 66
 - Experience: 1+ yrs | Qualification: Bachelor
 - ID: 10595212 | Status: open (listed in employer's live search)
@@ -143,7 +143,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Product Accessibility Engineer | Salesforce**
 - Location: India - Bangalore India - Hyderabad India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: unknown | Score: 57
 - Qualification: Bachelor
 - Requirements: We're Looking For Front-End Development: A solid understanding of HTML, CSS, and JavaScript. Empathy: A genuine desire to understand and advocate for the needs of users with disabilities. Design Skills: An eye for good design and an understanding of user experience principles. Bonus Skills:
@@ -176,7 +176,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Embedded_C++ Developer_EBH | Bosch**
 - Location: hosur road bangalore, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | or related field. 4 to 8 years | Score: 54
 - Experience: 4-8 yrs | Qualification: Bachelor
 - ID: 744000160127819 | Status: open (ATS verified)
@@ -202,7 +202,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Dev Engineer II, Amazon International Seller Services | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | - 3+ years of full software development life cycle, inc | Score: 70
 - Experience: 3+ yrs
 - ID: 10598513 | Status: open (listed in employer's live search)
@@ -210,7 +210,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Engineer - IT Enterprise Applications | Micron**
 - Location: Hyderabad - Phoenix Aquila, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | / Requirements 3–5 years of professional software engineering experie | Score: 69
 - Experience: 3-5 yrs | Qualification: Bachelor
 - ID: JR112270 / JR112270 | Status: open (ATS verified)
@@ -234,7 +234,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Development Engineer, DSP Tech | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: yes | - 3+ years of non-internship professional software deve | Score: 62
 - Experience: 3+ yrs
 - ID: 10597850 | Status: open (listed in employer's live search)
@@ -331,7 +331,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Research Scientist II, Grocery ECO | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | data sets - 3+ years of building machine learning models for busi | Score: 58
 - Experience: 3+ yrs | Qualification: Bachelor
 - ID: 10598475 | Status: open (listed in employer's live search)
@@ -400,18 +400,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3+ yrs
 - ID: 10594179 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10594179/data-engineer-shiptech-analytics
-
-## Cybersecurity (1)
-
-### Bangalore (1)
-
-**Cybersecurity development | Bosch**
-- Location: bangalore, India | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: no
-- Fit: unknown | Score: 48
-- Qualification: Bachelor
-- ID: 744000159347028 | Status: open (ATS verified)
-- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159347028
 
 ## Cloud / DevOps / Infrastructure (7)
 

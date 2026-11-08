@@ -1,10 +1,10 @@
 {
- "generated_utc": "2026-11-07 23:40",
+ "generated_utc": "2026-11-08 10:06",
  "window_days": 7,
  "job_count": 487,
  "jobs": [
   {
-   "score_rank": 24,
+   "score_rank": 25,
    "score": 71,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -24,7 +24,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR-0000126582",
    "req_id": "JR-0000126582",
@@ -38,7 +38,7 @@
    "internship": false
   },
   {
-   "score_rank": 44,
+   "score_rank": 45,
    "score": 68,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -72,7 +72,7 @@
    "internship": false
   },
   {
-   "score_rank": 45,
+   "score_rank": 46,
    "score": 68,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -106,7 +106,7 @@
    "internship": false
   },
   {
-   "score_rank": 62,
+   "score_rank": 63,
    "score": 65,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -140,7 +140,7 @@
    "internship": false
   },
   {
-   "score_rank": 63,
+   "score_rank": 64,
    "score": 65,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -174,7 +174,7 @@
    "internship": false
   },
   {
-   "score_rank": 79,
+   "score_rank": 80,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -208,7 +208,7 @@
    "internship": false
   },
   {
-   "score_rank": 80,
+   "score_rank": 81,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -242,7 +242,7 @@
    "internship": false
   },
   {
-   "score_rank": 81,
+   "score_rank": 82,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Pune",
@@ -330,7 +330,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": 2,
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "3168963-1",
    "req_id": "3168963",
@@ -344,7 +344,7 @@
    "internship": false
   },
   {
-   "score_rank": 25,
+   "score_rank": 26,
    "score": 71,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -378,7 +378,7 @@
    "internship": false
   },
   {
-   "score_rank": 37,
+   "score_rank": 38,
    "score": 69,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -398,7 +398,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10598473",
    "req_id": "",
@@ -412,7 +412,7 @@
    "internship": false
   },
   {
-   "score_rank": 38,
+   "score_rank": 39,
    "score": 69,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -446,7 +446,7 @@
    "internship": false
   },
   {
-   "score_rank": 46,
+   "score_rank": 47,
    "score": 68,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -480,7 +480,7 @@
    "internship": false
   },
   {
-   "score_rank": 56,
+   "score_rank": 57,
    "score": 66,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -514,7 +514,7 @@
    "internship": false
   },
   {
-   "score_rank": 57,
+   "score_rank": 58,
    "score": 66,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -534,7 +534,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10595212",
    "req_id": "",
@@ -548,7 +548,7 @@
    "internship": false
   },
   {
-   "score_rank": 64,
+   "score_rank": 65,
    "score": 65,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -582,7 +582,7 @@
    "internship": false
   },
   {
-   "score_rank": 77,
+   "score_rank": 78,
    "score": 63,
    "section": "IT / Software",
    "city_group": "Bangalore",
@@ -772,7 +772,7 @@
    "salary": "",
    "requirements": "We're Looking For Front-End Development: A solid understanding of HTML, CSS, and JavaScript. Empathy: A genuine desire to understand and advocate for the needs of users with disabilities. Design Skills: An eye for good design and an understanding of user experience principles. Bonus Skills:",
    "bulletin_pick": 10,
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR367595",
    "req_id": "JR367595",
@@ -908,7 +908,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160127819",
    "req_id": "",
@@ -990,7 +990,7 @@
    "internship": false
   },
   {
-   "score_rank": 31,
+   "score_rank": 32,
    "score": 70,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -1010,7 +1010,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": 6,
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10598513",
    "req_id": "",
@@ -1024,7 +1024,7 @@
    "internship": false
   },
   {
-   "score_rank": 39,
+   "score_rank": 40,
    "score": 69,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -1044,7 +1044,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": 7,
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR112270",
    "req_id": "JR112270",
@@ -1058,7 +1058,7 @@
    "internship": false
   },
   {
-   "score_rank": 65,
+   "score_rank": 66,
    "score": 65,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -1092,7 +1092,7 @@
    "internship": false
   },
   {
-   "score_rank": 69,
+   "score_rank": 70,
    "score": 64,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -1126,7 +1126,7 @@
    "internship": false
   },
   {
-   "score_rank": 70,
+   "score_rank": 71,
    "score": 64,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -1160,7 +1160,7 @@
    "internship": false
   },
   {
-   "score_rank": 82,
+   "score_rank": 83,
    "score": 62,
    "section": "IT / Software",
    "city_group": "Hyderabad",
@@ -1180,7 +1180,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10597850",
    "req_id": "",
@@ -1330,7 +1330,7 @@
    "internship": false
   },
   {
-   "score_rank": 83,
+   "score_rank": 84,
    "score": 62,
    "section": "Data / Analytics / AI",
    "city_group": "Pune",
@@ -1364,7 +1364,7 @@
    "internship": false
   },
   {
-   "score_rank": 18,
+   "score_rank": 19,
    "score": 73,
    "section": "Data / Analytics / AI",
    "city_group": "Mumbai",
@@ -1398,7 +1398,7 @@
    "internship": false
   },
   {
-   "score_rank": 32,
+   "score_rank": 33,
    "score": 70,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1432,7 +1432,7 @@
    "internship": false
   },
   {
-   "score_rank": 47,
+   "score_rank": 48,
    "score": 68,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1466,7 +1466,7 @@
    "internship": false
   },
   {
-   "score_rank": 58,
+   "score_rank": 59,
    "score": 66,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1500,7 +1500,7 @@
    "internship": false
   },
   {
-   "score_rank": 93,
+   "score_rank": 94,
    "score": 61,
    "section": "Data / Analytics / AI",
    "city_group": "Bangalore",
@@ -1724,7 +1724,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10598475",
    "req_id": "",
@@ -1976,7 +1976,7 @@
    "internship": false
   },
   {
-   "score_rank": 66,
+   "score_rank": 67,
    "score": 65,
    "section": "Data / Analytics / AI",
    "city_group": "Hyderabad",
@@ -2065,7 +2065,7 @@
    "requirements": "",
    "bulletin_pick": "",
    "new_today": false,
-   "already_sent": false,
+   "already_sent": true,
    "id": "744000159347028",
    "req_id": "",
    "status": "open (ATS verified)",
@@ -2112,7 +2112,7 @@
    "internship": false
   },
   {
-   "score_rank": 84,
+   "score_rank": 85,
    "score": 62,
    "section": "Cloud / DevOps / Infrastructure",
    "city_group": "Pune",
@@ -2214,7 +2214,7 @@
    "internship": false
   },
   {
-   "score_rank": 71,
+   "score_rank": 72,
    "score": 64,
    "section": "Cloud / DevOps / Infrastructure",
    "city_group": "Delhi NCR / Haryana",
@@ -2384,7 +2384,7 @@
    "internship": false
   },
   {
-   "score_rank": 19,
+   "score_rank": 20,
    "score": 73,
    "section": "QA / Testing",
    "city_group": "Pune",
@@ -2418,7 +2418,7 @@
    "internship": false
   },
   {
-   "score_rank": 26,
+   "score_rank": 27,
    "score": 71,
    "section": "QA / Testing",
    "city_group": "Bangalore",
@@ -2452,7 +2452,7 @@
    "internship": false
   },
   {
-   "score_rank": 27,
+   "score_rank": 28,
    "score": 71,
    "section": "IT Support / Operations",
    "city_group": "Pune",
@@ -2520,7 +2520,7 @@
    "internship": false
   },
   {
-   "score_rank": 22,
+   "score_rank": 23,
    "score": 72,
    "section": "IT Support / Operations",
    "city_group": "Bangalore",
@@ -2554,7 +2554,7 @@
    "internship": false
   },
   {
-   "score_rank": 40,
+   "score_rank": 41,
    "score": 69,
    "section": "IT Support / Operations",
    "city_group": "Bangalore",
@@ -2588,7 +2588,7 @@
    "internship": false
   },
   {
-   "score_rank": 85,
+   "score_rank": 86,
    "score": 62,
    "section": "IT Support / Operations",
    "city_group": "Hyderabad",
@@ -2656,7 +2656,7 @@
    "internship": false
   },
   {
-   "score_rank": 72,
+   "score_rank": 73,
    "score": 64,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2690,7 +2690,7 @@
    "internship": false
   },
   {
-   "score_rank": 73,
+   "score_rank": 74,
    "score": 64,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2710,7 +2710,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR2029365",
    "req_id": "JR2029365",
@@ -2724,7 +2724,7 @@
    "internship": false
   },
   {
-   "score_rank": 74,
+   "score_rank": 75,
    "score": 64,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2758,7 +2758,7 @@
    "internship": false
   },
   {
-   "score_rank": 86,
+   "score_rank": 87,
    "score": 62,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2778,7 +2778,7 @@
    "salary": "",
    "requirements": "/Requirements • Strong hands-on experience in Java, J2EE, Spring, and Spring Boot • Experience building and consuming REST APIs and Web Services • Hands-on experience with Playwright, Selenium, and API Automation • Experience designing and implementing automation frameworks and automation",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-290601",
    "req_id": "R-290601",
@@ -2792,7 +2792,7 @@
    "internship": false
   },
   {
-   "score_rank": 87,
+   "score_rank": 88,
    "score": 62,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2812,7 +2812,7 @@
    "salary": "",
    "requirements": "You are a hands-on, technical and people leader able to manage directly and through others. As a technically astute leader, your recognized subject matter expertise allows you regularly dive deep into everything your teams do. Your leadership style is based on building trust with your team, your",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-276668",
    "req_id": "R-276668",
@@ -2826,7 +2826,7 @@
    "internship": false
   },
   {
-   "score_rank": 88,
+   "score_rank": 89,
    "score": 62,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -2860,7 +2860,7 @@
    "internship": false
   },
   {
-   "score_rank": 94,
+   "score_rank": 95,
    "score": 61,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Pune",
@@ -3608,7 +3608,7 @@
    "internship": false
   },
   {
-   "score_rank": 41,
+   "score_rank": 42,
    "score": 69,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Mumbai",
@@ -3628,7 +3628,7 @@
    "salary": "",
    "requirements": "& Skills Experience & Domain Knowledge ● 6+ years of progressive experience in audit or technology functions within financial services or a highly regulated global institution. ● Demonstrated experience designing, building, and deploying automated solutions and repeatable workflows to address",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "261006216",
    "req_id": "261006216",
@@ -3696,7 +3696,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "6d1c3e24-068c-4209-bbd6-bfe13d44987b",
    "req_id": "",
@@ -4070,7 +4070,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "3168960-1",
    "req_id": "3168960",
@@ -4104,7 +4104,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "7647294002",
    "req_id": "P-1346",
@@ -4172,7 +4172,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-573782",
    "req_id": "R-573782",
@@ -4206,7 +4206,7 @@
    "salary": "",
    "requirements": "already researched our products and possibly downloaded our stack to test it out&nbsp; Networking Server Administration Wireshark or comparable packet analysis tool Exposure to scripting (Shell, Python, etc.) Experience with support tools and platforms like Salesforce, Zendesk and JIRA. Additional",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "8362973",
    "req_id": "R12674",
@@ -4240,7 +4240,7 @@
    "salary": "",
    "requirements": "a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "5279071007",
    "req_id": "260709_I72460",
@@ -4274,7 +4274,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "8234586",
    "req_id": "3273563184",
@@ -4410,7 +4410,7 @@
    "salary": "",
    "requirements": "the courage to share new ideas even when they are unproven You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enables you to see and exploit optimization opportunities that others miss You are a resilient",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R1004302-1",
    "req_id": "R1004302",
@@ -4444,7 +4444,7 @@
    "salary": "",
    "requirements": "5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Bachelor’s degree with at least 8 years of professional experience , or a master’s degree with at least six years of experience.",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R0138614",
    "req_id": "R0138614",
@@ -4512,7 +4512,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160122249",
    "req_id": "",
@@ -4580,7 +4580,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR-0000133238-3",
    "req_id": "JR-0000133238",
@@ -4682,7 +4682,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-586123",
    "req_id": "R-586123",
@@ -4716,7 +4716,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-584407-1",
    "req_id": "R-584407",
@@ -4900,7 +4900,7 @@
    "internship": false
   },
   {
-   "score_rank": 317,
+   "score_rank": 318,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4934,7 +4934,7 @@
    "internship": false
   },
   {
-   "score_rank": 318,
+   "score_rank": 319,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4968,7 +4968,7 @@
    "internship": false
   },
   {
-   "score_rank": 319,
+   "score_rank": 320,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -4988,7 +4988,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR361157",
    "req_id": "JR361157",
@@ -5002,7 +5002,7 @@
    "internship": false
   },
   {
-   "score_rank": 320,
+   "score_rank": 321,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5022,7 +5022,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR330045-1",
    "req_id": "JR330045",
@@ -5036,7 +5036,7 @@
    "internship": false
   },
   {
-   "score_rank": 321,
+   "score_rank": 322,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5070,7 +5070,7 @@
    "internship": false
   },
   {
-   "score_rank": 322,
+   "score_rank": 323,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5104,7 +5104,7 @@
    "internship": false
   },
   {
-   "score_rank": 323,
+   "score_rank": 324,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5138,7 +5138,7 @@
    "internship": false
   },
   {
-   "score_rank": 324,
+   "score_rank": 325,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5172,7 +5172,7 @@
    "internship": false
   },
   {
-   "score_rank": 325,
+   "score_rank": 326,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5206,7 +5206,7 @@
    "internship": false
   },
   {
-   "score_rank": 326,
+   "score_rank": 327,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5240,7 +5240,7 @@
    "internship": false
   },
   {
-   "score_rank": 327,
+   "score_rank": 328,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5274,7 +5274,7 @@
    "internship": false
   },
   {
-   "score_rank": 328,
+   "score_rank": 329,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5308,7 +5308,7 @@
    "internship": false
   },
   {
-   "score_rank": 329,
+   "score_rank": 330,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5342,7 +5342,7 @@
    "internship": false
   },
   {
-   "score_rank": 330,
+   "score_rank": 331,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -5532,7 +5532,7 @@
    "salary": "",
    "requirements": "(Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 8+ years of software development experience with fluency in C and C++ Demonstrated expertise in",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "5253933007",
    "req_id": "261001_I35922",
@@ -5838,7 +5838,7 @@
    "salary": "",
    "requirements": "a good mix of technical and enterprise skills from a technology perspective, including a foundational understanding of how to leverage AI development tools to optimize delivery cycles. The solutions you design are built for the long-term and will scale with the customer’s growth plans seamlessly.",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR327146",
    "req_id": "JR327146",
@@ -5872,7 +5872,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR354838",
    "req_id": "JR354838",
@@ -6348,7 +6348,7 @@
    "salary": "",
    "requirements": "8+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Experience leading others Additional Responsibilities & Preferred Qualifications : Job Summary This leader owns operational excellence across Enterprise Systems & Employee Technology.",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R0138595",
    "req_id": "R0138595",
@@ -7096,7 +7096,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160184480",
    "req_id": "",
@@ -7130,7 +7130,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160138669",
    "req_id": "",
@@ -7198,7 +7198,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-577843",
    "req_id": "R-577843",
@@ -7368,7 +7368,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-583782",
    "req_id": "R-583782",
@@ -7402,12 +7402,46 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-582503",
    "req_id": "R-582503",
    "status": "open (ATS verified)",
    "apply_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Data-Product-Integrity-Specialist_R-582503",
+   "source": "workday",
+   "cities": [
+    "Hyderabad"
+   ],
+   "domains": [],
+   "internship": false
+  },
+  {
+   "score_rank": 309,
+   "score": 45,
+   "section": "Senior IT roles (5+ yrs)",
+   "city_group": "Hyderabad",
+   "geo_rank": 9,
+   "posted": "2026-11-04",
+   "age_days": 4,
+   "title": "Leads Systems Operations Engineer - Infrastructure Development",
+   "company": "Wells Fargo",
+   "location": "Hyderabad, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": 5.5,
+   "exp_hint": "Qualifications: 5+ years of Systems Engineering, Systems Operations,",
+   "exp_label": "5+ yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "R-581851-1",
+   "req_id": "R-581851",
+   "status": "open (ATS verified)",
+   "apply_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Leads-Systems-Operations-Engineer---Infrastructure-Development_R-581851-1",
    "source": "workday",
    "cities": [
     "Hyderabad"
@@ -7776,7 +7810,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160117778",
    "req_id": "",
@@ -7790,7 +7824,7 @@
    "internship": false
   },
   {
-   "score_rank": 331,
+   "score_rank": 332,
    "score": 44,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Other India",
@@ -8150,7 +8184,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "261008768",
    "req_id": "261008768",
@@ -8184,7 +8218,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "261002203",
    "req_id": "261002203",
@@ -8232,7 +8266,7 @@
    "internship": false
   },
   {
-   "score_rank": 16,
+   "score_rank": 17,
    "score": 74,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8266,7 +8300,7 @@
    "internship": false
   },
   {
-   "score_rank": 33,
+   "score_rank": 34,
    "score": 70,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8286,7 +8320,7 @@
    "salary": "",
    "requirements": "to have: 1-4 years of financial or customer service experience What would be great to have: Knowledge of Regulation E and Regulation Z Knowledge of Visa and/or Mastercard operating regulations Experience with electronic funds transfer (EFT) Proficient in Microsoft 365 (Outlook, Word, Excel,",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-10404081",
    "req_id": "R-10404081",
@@ -8303,7 +8337,7 @@
    "internship": false
   },
   {
-   "score_rank": 55,
+   "score_rank": 56,
    "score": 67,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8337,7 +8371,7 @@
    "internship": false
   },
   {
-   "score_rank": 59,
+   "score_rank": 60,
    "score": 66,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8373,7 +8407,7 @@
    "internship": false
   },
   {
-   "score_rank": 75,
+   "score_rank": 76,
    "score": 64,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8407,7 +8441,7 @@
    "internship": false
   },
   {
-   "score_rank": 89,
+   "score_rank": 90,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8441,7 +8475,7 @@
    "internship": false
   },
   {
-   "score_rank": 90,
+   "score_rank": 91,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8477,7 +8511,7 @@
    "internship": false
   },
   {
-   "score_rank": 91,
+   "score_rank": 92,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Pune",
@@ -8635,7 +8669,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR-0000064605-1",
    "req_id": "JR-0000064605",
@@ -9155,7 +9189,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10594348",
    "req_id": "",
@@ -9189,7 +9223,7 @@
    "salary": "",
    "requirements": "& Skills Required: Education: Bachelor's degree in Finance, Business Administration, Law, or a related field. Experience: 1-3 years of relevant experience in an AML, KYC, or client onboarding/due diligence role within the financial services industry. Regulatory Knowledge: Foundational knowledge of",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "26992082",
    "req_id": "26992082",
@@ -9275,7 +9309,7 @@
    "internship": false
   },
   {
-   "score_rank": 20,
+   "score_rank": 21,
    "score": 73,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9309,7 +9343,7 @@
    "internship": false
   },
   {
-   "score_rank": 23,
+   "score_rank": 24,
    "score": 72,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9345,7 +9379,7 @@
    "internship": false
   },
   {
-   "score_rank": 42,
+   "score_rank": 43,
    "score": 69,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9381,7 +9415,7 @@
    "internship": false
   },
   {
-   "score_rank": 48,
+   "score_rank": 49,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9415,7 +9449,7 @@
    "internship": true
   },
   {
-   "score_rank": 60,
+   "score_rank": 61,
    "score": 66,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9451,7 +9485,7 @@
    "internship": false
   },
   {
-   "score_rank": 95,
+   "score_rank": 96,
    "score": 61,
    "section": "Non-IT / Other",
    "city_group": "Mumbai",
@@ -9539,7 +9573,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR362385-1",
    "req_id": "JR362385",
@@ -9609,7 +9643,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10595208",
    "req_id": "",
@@ -9852,7 +9886,7 @@
    "salary": "",
    "requirements": "hands-on experience with enterprise software implementation, data modeling, API integration, and AI deployments. You Have Proven Leadership: 3+ years of direct people management or high-impact technical leadership steering cross-functional engineering or technical teams. You have a track record of",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR366109",
    "req_id": "JR366109",
@@ -10060,7 +10094,7 @@
    "salary": "",
    "requirements": "&nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "8355804",
    "req_id": "51190",
@@ -10094,7 +10128,7 @@
    "salary": "",
    "requirements": "&nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "8334053",
    "req_id": "51506",
@@ -10108,7 +10142,7 @@
    "internship": false
   },
   {
-   "score_rank": 14,
+   "score_rank": 15,
    "score": 75,
    "section": "Non-IT / Other",
    "city_group": "Remote (India)",
@@ -10128,7 +10162,7 @@
    "salary": "",
    "requirements": "&nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "8355801",
    "req_id": "51573",
@@ -10176,7 +10210,7 @@
    "internship": false
   },
   {
-   "score_rank": 21,
+   "score_rank": 22,
    "score": 73,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -10212,7 +10246,7 @@
    "internship": false
   },
   {
-   "score_rank": 49,
+   "score_rank": 50,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -10248,7 +10282,7 @@
    "internship": false
   },
   {
-   "score_rank": 96,
+   "score_rank": 97,
    "score": 61,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -10268,7 +10302,7 @@
    "salary": "",
    "requirements": "Master’s degree in information technology / information systems / computer applications / Data Science / Business Analytics / MCA in Information Technology / Information Systems / Computer Applications. • Good communication skills (both verbal and written) and ability to work with",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "261008599",
    "req_id": "261008599",
@@ -10525,7 +10559,7 @@
    "internship": false
   },
   {
-   "score_rank": 332,
+   "score_rank": 333,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -10561,7 +10595,7 @@
    "internship": false
   },
   {
-   "score_rank": 333,
+   "score_rank": 334,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -10753,7 +10787,7 @@
    "salary": "",
    "requirements": "Bachelor's degree in computer science, business, or equivalent experience. 0-3 years of hands-on platform or systems support, administration, or implementation experience in an enterprise IT environment. Strong knowledge of Salesforce native functionality and best practices. Demonstrated ability to",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR367594",
    "req_id": "JR367594",
@@ -10768,6 +10802,40 @@
   },
   {
    "score_rank": 12,
+   "score": 77,
+   "section": "Non-IT / Other",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-05",
+   "age_days": 3,
+   "title": "fraud analyst",
+   "company": "CRED",
+   "location": "bengaluru",
+   "work_mode": "onsite",
+   "multi_city": false,
+   "fit_0_5": "yes",
+   "exp_years_est": 1,
+   "exp_hint": "assumptions. have 1–2 years of experience in data science, analytics, en",
+   "exp_label": "1-2 yrs",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": true,
+   "already_sent": false,
+   "id": "913a6616-78c9-4ca3-8c92-67ddea8a80df",
+   "req_id": "",
+   "status": "open (ATS verified)",
+   "apply_url": "https://jobs.lever.co/cred/913a6616-78c9-4ca3-8c92-67ddea8a80df",
+   "source": "lever",
+   "cities": [
+    "Bangalore"
+   ],
+   "domains": [],
+   "internship": false
+  },
+  {
+   "score_rank": 13,
    "score": 76,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10803,7 +10871,7 @@
    "internship": false
   },
   {
-   "score_rank": 13,
+   "score_rank": 14,
    "score": 76,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10839,7 +10907,7 @@
    "internship": false
   },
   {
-   "score_rank": 17,
+   "score_rank": 18,
    "score": 74,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10875,7 +10943,7 @@
    "internship": false
   },
   {
-   "score_rank": 28,
+   "score_rank": 29,
    "score": 71,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10911,7 +10979,7 @@
    "internship": false
   },
   {
-   "score_rank": 29,
+   "score_rank": 30,
    "score": 71,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10947,7 +11015,7 @@
    "internship": false
   },
   {
-   "score_rank": 30,
+   "score_rank": 31,
    "score": 71,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -10981,7 +11049,7 @@
    "internship": false
   },
   {
-   "score_rank": 34,
+   "score_rank": 35,
    "score": 70,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11015,7 +11083,7 @@
    "internship": false
   },
   {
-   "score_rank": 35,
+   "score_rank": 36,
    "score": 70,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11051,7 +11119,7 @@
    "internship": false
   },
   {
-   "score_rank": 50,
+   "score_rank": 51,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11071,7 +11139,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "8356059",
    "req_id": "INLC11716",
@@ -11085,7 +11153,7 @@
    "internship": false
   },
   {
-   "score_rank": 51,
+   "score_rank": 52,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11105,7 +11173,7 @@
    "salary": "",
    "requirements": "(Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving 3 to 5 years of professional graphic design, visual communications, or multidisciplinary marketing design",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "5283496007",
    "req_id": "261012_B28192",
@@ -11121,7 +11189,7 @@
    "internship": false
   },
   {
-   "score_rank": 52,
+   "score_rank": 53,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11141,7 +11209,7 @@
    "salary": "",
    "requirements": "a keen eye for useful products, and you share your findings with the team. You're a tireless advocate for the end user. You have deep empathy for their everyday struggles and challenges. You always put their needs first, and you're unwavering in your desire to provide the best experiences for",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR363777",
    "req_id": "JR363777",
@@ -11155,7 +11223,7 @@
    "internship": false
   },
   {
-   "score_rank": 53,
+   "score_rank": 54,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11191,7 +11259,7 @@
    "internship": false
   },
   {
-   "score_rank": 54,
+   "score_rank": 55,
    "score": 68,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11225,7 +11293,7 @@
    "internship": false
   },
   {
-   "score_rank": 67,
+   "score_rank": 68,
    "score": 65,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11261,7 +11329,7 @@
    "internship": false
   },
   {
-   "score_rank": 68,
+   "score_rank": 69,
    "score": 65,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11295,7 +11363,7 @@
    "internship": false
   },
   {
-   "score_rank": 76,
+   "score_rank": 77,
    "score": 64,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -11331,42 +11399,6 @@
    "internship": false
   },
   {
-   "score_rank": 97,
-   "score": 61,
-   "section": "Non-IT / Other",
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-11-02",
-   "age_days": 6,
-   "title": "System Development Engineer, TFS Accounting Insights",
-   "company": "Amazon",
-   "location": "Bengaluru, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "yes",
-   "exp_years_est": 1,
-   "exp_hint": "- 1+ years of systems development experience - Experien",
-   "exp_label": "1+ yrs",
-   "qualification": "",
-   "salary": "",
-   "requirements": "",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "10594420",
-   "req_id": "",
-   "status": "open (listed in employer's live search)",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10594420/system-development-engineer-tfs-accounting-insights",
-   "source": "amazon",
-   "cities": [
-    "Bangalore"
-   ],
-   "domains": [
-    "Banking & Finance"
-   ],
-   "internship": false
-  },
-  {
    "score_rank": 108,
    "score": 60,
    "section": "Non-IT / Other",
@@ -11387,7 +11419,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "8811059002",
    "req_id": "P-1596",
@@ -11491,7 +11523,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-585251",
    "req_id": "R-585251",
@@ -11525,7 +11557,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR362815",
    "req_id": "JR362815",
@@ -11559,7 +11591,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "3168932-1",
    "req_id": "3168932",
@@ -11595,7 +11627,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "3170098-2",
    "req_id": "3170098",
@@ -11735,7 +11767,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-581179-1",
    "req_id": "R-581179",
@@ -11769,7 +11801,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160380993",
    "req_id": "",
@@ -11977,7 +12009,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-580225",
    "req_id": "R-580225",
@@ -12047,7 +12079,7 @@
    "salary": "",
    "requirements": "(Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving 5+ years of experience in system/network engineering, cloud architecture, or technical operations with",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "5275401007",
    "req_id": "261021_T11600",
@@ -12081,7 +12113,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-580768",
    "req_id": "R-580768",
@@ -12115,7 +12147,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-582135",
    "req_id": "R-582135",
@@ -12149,7 +12181,7 @@
    "salary": "",
    "requirements": "a desire and ability to connect with our external or internal customers to fully understand their needs and build long lasting relationships. Growth Mindset: You have an appetite to learn new things or new technologies all while exhibiting humbleness when exploring unknown technologies; you will",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R1000787-2",
    "req_id": "R1000787",
@@ -12183,7 +12215,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160153394",
    "req_id": "",
@@ -12217,7 +12249,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160147770",
    "req_id": "",
@@ -12253,7 +12285,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "744000160130155",
    "req_id": "",
@@ -12427,7 +12459,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R999830",
    "req_id": "R999830",
@@ -12461,7 +12493,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R1001986",
    "req_id": "R1001986",
@@ -12815,7 +12847,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10599305",
    "req_id": "",
@@ -12849,7 +12881,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-581845",
    "req_id": "R-581845",
@@ -12919,7 +12951,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10598559",
    "req_id": "",
@@ -12953,7 +12985,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10598431",
    "req_id": "",
@@ -12967,7 +12999,7 @@
    "internship": false
   },
   {
-   "score_rank": 309,
+   "score_rank": 310,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13001,7 +13033,7 @@
    "internship": false
   },
   {
-   "score_rank": 310,
+   "score_rank": 311,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13037,7 +13069,7 @@
    "internship": false
   },
   {
-   "score_rank": 311,
+   "score_rank": 312,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13071,7 +13103,7 @@
    "internship": false
   },
   {
-   "score_rank": 312,
+   "score_rank": 313,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13105,7 +13137,7 @@
    "internship": false
   },
   {
-   "score_rank": 334,
+   "score_rank": 335,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13139,7 +13171,7 @@
    "internship": false
   },
   {
-   "score_rank": 335,
+   "score_rank": 336,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13176,7 +13208,7 @@
    "internship": false
   },
   {
-   "score_rank": 336,
+   "score_rank": 337,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13210,7 +13242,7 @@
    "internship": false
   },
   {
-   "score_rank": 337,
+   "score_rank": 338,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13244,7 +13276,7 @@
    "internship": false
   },
   {
-   "score_rank": 338,
+   "score_rank": 339,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13278,7 +13310,7 @@
    "internship": false
   },
   {
-   "score_rank": 339,
+   "score_rank": 340,
    "score": 44,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -13309,42 +13341,6 @@
     "Bangalore"
    ],
    "domains": [],
-   "internship": false
-  },
-  {
-   "score_rank": 340,
-   "score": 44,
-   "section": "Non-IT / Other",
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-11-04",
-   "age_days": 4,
-   "title": "Lead Commercial Loan Servicing Representative",
-   "company": "Wells Fargo",
-   "location": "Bengaluru, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "no",
-   "exp_years_est": 4,
-   "exp_hint": "Qualifications: 4+ years of Commercial Loan Servicing support experie",
-   "exp_label": "4+ yrs",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "R-570949",
-   "req_id": "R-570949",
-   "status": "open (ATS verified)",
-   "apply_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Commercial-Loan-Servicing-Representative_R-570949",
-   "source": "workday",
-   "cities": [
-    "Bangalore"
-   ],
-   "domains": [
-    "Banking & Finance"
-   ],
    "internship": false
   },
   {
@@ -13504,7 +13500,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10598564",
    "req_id": "",
@@ -14642,7 +14638,7 @@
    "internship": false
   },
   {
-   "score_rank": 313,
+   "score_rank": 314,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Chennai",
@@ -14744,7 +14740,7 @@
    "internship": false
   },
   {
-   "score_rank": 15,
+   "score_rank": 16,
    "score": 75,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -14764,7 +14760,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-571656-1",
    "req_id": "R-571656",
@@ -14778,7 +14774,7 @@
    "internship": false
   },
   {
-   "score_rank": 36,
+   "score_rank": 37,
    "score": 70,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -14798,7 +14794,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "10599171",
    "req_id": "",
@@ -14814,7 +14810,7 @@
    "internship": false
   },
   {
-   "score_rank": 43,
+   "score_rank": 44,
    "score": 69,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -14848,7 +14844,7 @@
    "internship": false
   },
   {
-   "score_rank": 61,
+   "score_rank": 62,
    "score": 66,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -14884,7 +14880,7 @@
    "internship": false
   },
   {
-   "score_rank": 78,
+   "score_rank": 79,
    "score": 63,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -14920,7 +14916,7 @@
    "internship": false
   },
   {
-   "score_rank": 92,
+   "score_rank": 93,
    "score": 62,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -15114,7 +15110,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR105995",
    "req_id": "JR105995",
@@ -15442,7 +15438,7 @@
    "internship": false
   },
   {
-   "score_rank": 314,
+   "score_rank": 315,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -15476,7 +15472,7 @@
    "internship": false
   },
   {
-   "score_rank": 315,
+   "score_rank": 316,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
@@ -15496,7 +15492,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "R-585861",
    "req_id": "R-585861",
@@ -15632,7 +15628,7 @@
    "salary": "",
    "requirements": "deep experience leading complex customer engagements and driving long-term value. You’ve built frameworks for success, managed executive stakeholders, and consistently delivered outcomes that matter to customers’ business goals. Cross-Functional Collaboration: A strong collaborator with a proven",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR364448",
    "req_id": "JR364448",
@@ -16254,7 +16250,7 @@
    "salary": "",
    "requirements": "Experience supporting semiconductor, manufacturing, engineering or other complex technology/operations environments. Experience working within a multinational, matrixed organization across multiple countries or sites. Experience partnering across global and local HR teams and translating enterprise",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR116891-1",
    "req_id": "JR116891",
@@ -16270,7 +16266,7 @@
    "internship": false
   },
   {
-   "score_rank": 316,
+   "score_rank": 317,
    "score": 45,
    "section": "Non-IT / Other",
    "city_group": "Other India",
@@ -16562,7 +16558,7 @@
    "salary": "",
    "requirements": "",
    "bulletin_pick": "",
-   "new_today": true,
+   "new_today": false,
    "already_sent": false,
    "id": "JR115338",
    "req_id": "JR115338",

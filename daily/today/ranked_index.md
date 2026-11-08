@@ -1,4 +1,4 @@
-# SERVE ranked lists, collected 2026-11-07 23:40 UTC
+# SERVE ranked lists, collected 2026-11-08 10:06 UTC
 Each file below is a ready top-10 list. Commands read one file only.
 
 | File | List | Jobs |
@@ -17,7 +17,7 @@ Each file below is a ready top-10 list. Commands read one file only.
 | city_other-india.md | Jobs in Other India (all domains, all experience levels) | 5 |
 | domain_it-software.md | IT / Software jobs (0-5 years) | 8 |
 | domain_data-analytics-ai.md | Data / Analytics / AI jobs (0-5 years) | 5 |
-| domain_cybersecurity.md | Cybersecurity jobs (0-5 years) | 1 |
+| domain_cybersecurity.md | Cybersecurity jobs (0-5 years) | 0 |
 | domain_cloud-devops-infrastructure.md | Cloud / DevOps / Infrastructure jobs (0-5 years) | 6 |
 | domain_qa-testing.md | QA / Testing jobs (0-5 years) | 2 |
 | domain_it-support-operations.md | IT Support / Operations jobs (0-5 years) | 5 |

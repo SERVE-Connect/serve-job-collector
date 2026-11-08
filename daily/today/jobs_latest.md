@@ -1,5 +1,5 @@
-# SERVE jobs, collected 2026-11-07 23:40 UTC
-Window: last 7 days. Boards read OK: 56. Boards failed: 0. Jobs: 487 (IT: 239).
+# SERVE jobs, collected 2026-11-08 10:06 UTC
+Window: last 7 days. Boards read OK: 56. Boards failed: 0. Jobs: 487 (IT: 240).
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
@@ -11,7 +11,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Full Stack Developer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: unknown | Score: 71
 - Qualification: Bachelor
 - ID: JR-0000126582 / JR-0000126582 | Status: open (ATS verified)
@@ -89,7 +89,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Business Analyst Inventory Reconciliation, | HP**
 - Location: Bengaluru, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | • Typically has 0-2 years of work experience, preferably in supply cha | Score: 79
 - Experience: 0-2 yrs | Qualification: Bachelor
 - ID: 3168963-1 / 3168963 | Status: open (ATS verified)
@@ -105,7 +105,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Development Engineer II, Cross Border Seller Programs | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | - 3+ years of non-internship professional software deve | Score: 69
 - Experience: 3+ yrs
 - ID: 10598473 | Status: open (listed in employer's live search)
@@ -137,7 +137,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Business Analyst, Global Solutions & Risk Compliance (GSRC) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: yes | or related field - 1+ years of experience in BI/technical support roles. | Score: 66
 - Experience: 1+ yrs | Qualification: Bachelor
 - ID: 10595212 | Status: open (listed in employer's live search)
@@ -193,7 +193,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Product Accessibility Engineer | Salesforce**
 - Location: India - Bangalore India - Hyderabad India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: unknown | Score: 57
 - Qualification: Bachelor
 - Requirements: We're Looking For Front-End Development: A solid understanding of HTML, CSS, and JavaScript. Empathy: A genuine desire to understand and advocate for the needs of users with disabilities. Design Skills: An eye for good design and an understanding of user experience principles. Bonus Skills:
@@ -226,7 +226,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Embedded_C++ Developer_EBH | Bosch**
 - Location: hosur road bangalore, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | or related field. 4 to 8 years | Score: 54
 - Experience: 4-8 yrs | Qualification: Bachelor
 - ID: 744000160127819 | Status: open (ATS verified)
@@ -252,7 +252,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Dev Engineer II, Amazon International Seller Services | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | - 3+ years of full software development life cycle, inc | Score: 70
 - Experience: 3+ yrs
 - ID: 10598513 | Status: open (listed in employer's live search)
@@ -260,7 +260,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Engineer - IT Enterprise Applications | Micron**
 - Location: Hyderabad - Phoenix Aquila, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | / Requirements 3–5 years of professional software engineering experie | Score: 69
 - Experience: 3-5 yrs | Qualification: Bachelor
 - ID: JR112270 / JR112270 | Status: open (ATS verified)
@@ -292,7 +292,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Development Engineer, DSP Tech | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: yes | - 3+ years of non-internship professional software deve | Score: 62
 - Experience: 3+ yrs
 - ID: 10597850 | Status: open (listed in employer's live search)
@@ -432,7 +432,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Research Scientist II, Grocery ECO | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | data sets - 3+ years of building machine learning models for busi | Score: 58
 - Experience: 3+ yrs | Qualification: Bachelor
 - ID: 10598475 | Status: open (listed in employer's live search)
@@ -517,7 +517,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Cybersecurity development | Bosch**
 - Location: bangalore, India | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: no
+- Posted: 2026-11-03 (5 days ago) | New today: no | ALREADY SENT
 - Fit: unknown | Score: 48
 - Qualification: Bachelor
 - ID: 744000159347028 | Status: open (ATS verified)
@@ -689,7 +689,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR356515 / JR356515 | Status: open (ATS verified)
 - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515
 
-## Senior IT roles (5+ yrs) (161)
+## Senior IT roles (5+ yrs) (162)
 
 ### Pune (28)
 
@@ -703,7 +703,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Manager, System Software Engineering - Infrastructure Engineering and Automation | NVIDIA**
 - Location: India, Pune | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | management and over all 10+ years of relevant software engineering experience, | Score: 64
 - Experience: 10+ yrs | Qualification: Bachelor
 - ID: JR2029365 / JR2029365 | Status: open (ATS verified)
@@ -719,7 +719,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior software engineer | Mastercard**
 - Location: Pune, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Score: 62
 - Qualification: Bachelor
 - Requirements: /Requirements • Strong hands-on experience in Java, J2EE, Spring, and Spring Boot • Experience building and consuming REST APIs and Web Services • Hands-on experience with Playwright, Selenium, and API Automation • Experience designing and implementing automation frameworks and automation
@@ -728,7 +728,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Vice President, Software Engineering | Mastercard**
 - Location: Pune, India O'Fallon, Missouri (Main Campus) India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Score: 62
 - Qualification: Bachelor
 - Requirements: You are a hands-on, technical and people leader able to manage directly and through others. As a technically astute leader, your recognized subject matter expertise allows you regularly dive deep into everything your teams do. Your leadership style is based on building trust with your team, your
@@ -926,7 +926,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Business Analytics Lead Analyst – Audit Innovation - C13 - MUMBAI | Citi**
 - Location: Mumbai Maharashtra India | Work mode: hybrid
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | & Domain Knowledge ● 6+ years of progressive experience in audit or techno | Score: 69
 - Experience: 6+ yrs | Qualification: Diploma
 - Requirements: & Skills Experience & Domain Knowledge ● 6+ years of progressive experience in audit or technology functions within financial services or a highly regulated global institution. ● Demonstrated experience designing, building, and deploying automated solutions and repeatable workflows to address
@@ -945,7 +945,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior React Native Engineer (Remote, Full-Time) [HR222] | Smart Working Solutions**
 - Location: Bangalore, Chandigarh, Delhi NCR, Hyderabad, India, Indore, Pune [multi-city] | Work mode: remote
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: no | review and release. 5+ years of software engineering experience, with the | Score: 57
 - Experience: 5+ yrs
 - ID: 6d1c3e24-068c-4209-bbd6-bfe13d44987b | Status: open (ATS verified)
@@ -1039,7 +1039,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Business Analyst Inventory Reconciliation | HP**
 - Location: Bengaluru, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | • Typically has 8+ years of related work experience, preferably in su | Score: 55
 - Experience: 8+ yrs | Qualification: Diploma
 - ID: 3168960-1 / 3168960 | Status: open (ATS verified)
@@ -1047,7 +1047,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Software Engineer - Backend Infrastructure | Databricks**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-07 (1 days ago) | New today: yes
+- Posted: 2026-11-07 (1 days ago) | New today: no
 - Fit: no | What we look for: 8+ years of production level experience in one of: Py | Score: 53
 - Experience: 8+ yrs | Qualification: Bachelor
 - ID: 7647294002 / P-1346 | Status: open (ATS verified)
@@ -1063,7 +1063,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Principal Engineer - AVI load balancer, F5 Big-IP | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-07 (1 days ago) | New today: yes
+- Posted: 2026-11-07 (1 days ago) | New today: no
 - Fit: no | Qualifications: 7+ years of Engineering experience, or equivalent dem | Score: 53
 - Experience: 7+ yrs | Qualification: Bachelor
 - ID: R-573782 / R-573782 | Status: open (ATS verified)
@@ -1071,7 +1071,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Support Engineer | Elastic**
 - Location: Bangalore, India | Work mode: unspecified
-- Posted: 2026-11-07 (1 days ago) | New today: yes
+- Posted: 2026-11-07 (1 days ago) | New today: no
 - Fit: no | Score: 51
 - Qualification: Bachelor
 - Requirements: already researched our products and possibly downloaded our stack to test it out&nbsp; Networking Server Administration Wireshark or comparable packet analysis tool Exposure to scripting (Shell, Python, etc.) Experience with support tools and platforms like Salesforce, Zendesk and JIRA. Additional
@@ -1080,7 +1080,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Manager, Software Development Engineering | Zscaler**
 - Location: Bangalore, IND | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | your functional domain 10+ years of software engineering experience and 2+ ye | Score: 50
 - Experience: 10+ yrs | Qualification: Bachelor
 - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
@@ -1089,7 +1089,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Lead, Technical Services Engineer - Partners | MongoDB**
 - Location: Bengaluru | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | desire to help others ~7 years of experience building, managing, and mainta | Score: 50
 - Experience: 7 yrs | Qualification: Bachelor
 - ID: 8234586 / 3273563184 | Status: open (ATS verified)
@@ -1122,7 +1122,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Manager- AI Engineer | Capital One**
 - Location: Bangalore, In | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | an engineering team 6+ years of experience deploying scalable and respons | Score: 50
 - Experience: 6+ yrs | Qualification: Bachelor
 - Requirements: the courage to share new ideas even when they are unproven You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enables you to see and exploit optimization opportunities that others miss You are a resilient
@@ -1131,7 +1131,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Staff Data Scientist | PayPal**
 - Location: Chennai, Tamil Nadu, India Bangalore, Karnataka, India India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | degree with at least 8 years of professional experience , or a master’s d | Score: 50
 - Experience: 8 yrs | Qualification: Bachelor
 - Requirements: 5+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Bachelor’s degree with at least 8 years of professional experience , or a master’s degree with at least six years of experience.
@@ -1148,7 +1148,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **SAP S4HANA Data Migration – Manager | Bosch**
 - Location: bangalore, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Engineering Experience: 15+ years of experience in SAP Data Migration with min | Score: 50
 - Experience: 15+ yrs | Qualification: Bachelor
 - ID: 744000160122249 | Status: open (ATS verified)
@@ -1165,7 +1165,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **BUK TESCO Bank IN- Platforms-API Technical Product Owner - VP | Barclays**
 - Location: Bengaluru, Maruthi Onyx - TESCO TSA | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Score: 48
 - Qualification: Bachelor
 - ID: JR-0000133238-3 / JR-0000133238 | Status: open (ATS verified)
@@ -1190,7 +1190,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Engineering Manager__Electronic Trading_Java _AI | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: no | Qualifications: 5+ years of Software Engineering experience, or equiv | Score: 47
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: R-586123 / R-586123 | Status: open (ATS verified)
@@ -1198,7 +1198,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Lead Software Engineer - Endur | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: no | Qualifications: 5+ years of Software Engineering experience, or equiv | Score: 47
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: R-584407-1 / R-584407 | Status: open (ATS verified)
@@ -1264,7 +1264,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Manager/Senior Manager, Technical Consulting  (Salesforce Exp mandatory) | Salesforce**
 - Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Posted: 2026-11-04 (4 days ago) | New today: no
 - Fit: no | You're Our Person If... 15 years of experience leading Salesforce technical c | Score: 44
 - Experience: 15 yrs | Qualification: Bachelor
 - ID: JR361157 / JR361157 | Status: open (ATS verified)
@@ -1272,7 +1272,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Salesforce Success Architect - Gen AI & Agentforce (EST & PST Timezone) | Salesforce**
 - Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Posted: 2026-11-04 (4 days ago) | New today: no
 - Fit: no | Person If... Minimum 8 years proven experience in enterprise consulting i | Score: 44
 - Experience: 8 yrs | Qualification: Bachelor
 - ID: JR330045-1 / JR330045 | Status: open (ATS verified)
@@ -1397,7 +1397,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Staff Software Development Engineer | Zscaler**
 - Location: Bangalore, IND | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: no | your functional domain 8+ years of software development experience with flue | Score: 41
 - Experience: 8+ yrs | Qualification: Bachelor
 - Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 8+ years of software development experience with fluency in C and C++ Demonstrated expertise in
@@ -1474,7 +1474,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Salesforce Senior Technical Manager (Salesforce Technical Architect experience is mandatory) | Salesforce**
 - Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: no | aligned to the role 14-18 years CRM experience with a minimum of 10 years on | Score: 41
 - Experience: 14-18 yrs | Qualification: Bachelor
 - Requirements: a good mix of technical and enterprise skills from a technology perspective, including a foundational understanding of how to leverage AI development tools to optimize delivery cycles. The solutions you design are built for the long-term and will scale with the customer’s growth plans seamlessly.
@@ -1483,7 +1483,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Lead Software Engineer, Python/Flask | Salesforce**
 - Location: India - Bangalore | Work mode: unspecified
-- Posted: 2026-11-02 (6 days ago) | New today: yes
+- Posted: 2026-11-02 (6 days ago) | New today: no
 - Fit: no | You're Our Person If... 10+ years of Total experience 5+ years of Flask develo | Score: 41
 - Experience: 10+ yrs | Qualification: Bachelor
 - ID: JR354838 / JR354838 | Status: open (ATS verified)
@@ -1598,7 +1598,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Manager, Operational Excellence & AI Operations | PayPal**
 - Location: Bangalore, Karnataka, India | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: no | Minimum Qualifications: 8+ years relevant experience and a Bachelor’s degree | Score: 41
 - Experience: 8+ yrs | Qualification: Bachelor
 - Requirements: 8+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Experience leading others Additional Responsibilities & Preferred Qualifications : Job Summary This leader owns operational excellence across Enterprise Systems & Employee Technology.
@@ -1778,11 +1778,11 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10596214 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10596214/quality-site-specialist-frontier-ai-quality
 
-### Hyderabad (20)
+### Hyderabad (21)
 
 **Sr Software Engineer | ServiceNow**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | in this role, you have: 5-9 years of software engineering, with a record of te | Score: 51
 - Experience: 5-9 yrs | Qualification: Bachelor
 - ID: 744000160184480 | Status: open (ATS verified)
@@ -1790,7 +1790,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Staff Software AIML Engineer | ServiceNow**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | engineers or product 8+ years of software engineering experience, or equiv | Score: 51
 - Experience: 8+ yrs | Qualification: Bachelor
 - ID: 744000160138669 | Status: open (ATS verified)
@@ -1806,7 +1806,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Lead Software Engineer - Java Full Stack – React - Messaging - GenAI | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: no | - preferred EXPERIENCE 14-20 years ROLE TYPE Lead individual contributor DOMAIN | Score: 48
 - Experience: 14-20 yrs | Qualification: Bachelor
 - ID: R-577843 / R-577843 | Status: open (ATS verified)
@@ -1847,7 +1847,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Analytics Consultant | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Posted: 2026-11-04 (4 days ago) | New today: no
 - Fit: no | Qualifications: 4+ years of Analytics experience, or equivalent demon | Score: 45
 - Experience: 4+ yrs | Qualification: Bachelor
 - ID: R-583782 / R-583782 | Status: open (ATS verified)
@@ -1855,11 +1855,19 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Data Product Integrity Specialist | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Posted: 2026-11-04 (4 days ago) | New today: no
 - Fit: no | Qualifications: 4+ years of data quality or data management experienc | Score: 45
 - Experience: 4+ yrs | Qualification: Bachelor
 - ID: R-582503 / R-582503 | Status: open (ATS verified)
 - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Data-Product-Integrity-Specialist_R-582503
+
+**Leads Systems Operations Engineer - Infrastructure Development | Wells Fargo**
+- Location: Hyderabad, India | Work mode: unspecified
+- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Fit: no | Qualifications: 5+ years of Systems Engineering, Systems Operations, | Score: 45
+- Experience: 5+ yrs | Qualification: Bachelor
+- ID: R-581851-1 / R-581851 | Status: open (ATS verified)
+- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Leads-Systems-Operations-Engineer---Infrastructure-Development_R-581851-1
 
 **Staff Software Engineer | ServiceNow**
 - Location: Hyderabad, India | Work mode: hybrid | Also hiring in: Hyderabad, Telangana, India
@@ -1951,7 +1959,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Data Consultant - Logistics | Bosch**
 - Location: coimbatore, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | rules. Experience : 5+ years of hands-on experience in data modeling, eng | Score: 47
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: 744000160117778 | Status: open (ATS verified)
@@ -2043,13 +2051,13 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 5253923007 / 261001_I35925 | Status: open (ATS verified)
 - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5253923007
 
-## Non-IT / Other (248)
+## Non-IT / Other (247)
 
 ### Pune (30)
 
 **Transaction Services - US Operations | Citi**
 - Location: Pune Maharashtra India | Work mode: hybrid
-- Posted: 2026-11-07 (1 days ago) | New today: yes
+- Posted: 2026-11-07 (1 days ago) | New today: no
 - Fit: yes | & Functional Skills: 1–2 years of relevant professional experience within b | Score: 92
 - Experience: 1-2 yrs | Qualification: Bachelor
 - ID: 261008768 / 261008768 | Status: open (ATS verified)
@@ -2057,7 +2065,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Core Operations - Transaction Processing | Citi**
 - Location: Pune Maharashtra India | Work mode: onsite
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | & Functional Skills: 1–2 years of relevant professional experience within b | Score: 89
 - Experience: 1-2 yrs | Qualification: Bachelor
 - ID: 261002203 / 261002203 | Status: open (ATS verified)
@@ -2082,7 +2090,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Sr Associate, Disputes and Fraud Analysis | Fiserv**
 - Location: Pune - Trion Business Park, India | Work mode: onsite
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | you will need to have: 1-4 years of financial or customer service experience | Score: 70
 - Experience: 1-4 yrs | Qualification: Bachelor
 - Requirements: to have: 1-4 years of financial or customer service experience What would be great to have: Knowledge of Regulation E and Regulation Z Knowledge of Visa and/or Mastercard operating regulations Experience with electronic funds transfer (EFT) Proficient in Microsoft 365 (Outlook, Word, Excel,
@@ -2164,7 +2172,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **AVP - Journey Excellence and Optimisation | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: no | Score: 59
 - Qualification: Bachelor
 - ID: JR-0000064605-1 / JR-0000064605 | Status: open (ATS verified)
@@ -2288,7 +2296,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **FinOps Manager - AP, Accounts Payable Operations team | Amazon**
 - Location: Pune, India | Work mode: unspecified
-- Posted: 2026-11-02 (6 days ago) | New today: yes
+- Posted: 2026-11-02 (6 days ago) | New today: no
 - Fit: no | degree with 10+ years of post-qualification experience in Shared S | Score: 51
 - Experience: 10+ yrs | Qualification: Bachelor
 - ID: 10594348 | Status: open (listed in employer's live search)
@@ -2298,7 +2306,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **KYC Operations Analyst | Citi**
 - Location: Mumbai Maharashtra India | Work mode: hybrid
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | field. Experience: 1-3 years of relevant experience in an AML, KYC, or cl | Score: 93
 - Experience: 1-3 yrs | Qualification: Bachelor
 - Requirements: & Skills Required: Education: Bachelor's degree in Finance, Business Administration, Law, or a related field. Experience: 1-3 years of relevant experience in an AML, KYC, or client onboarding/due diligence role within the financial services industry. Regulatory Knowledge: Foundational knowledge of
@@ -2381,7 +2389,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Solutions Builder (Strategic Builder) | Salesforce**
 - Location: India - Bangalore India - Mumbai India - Gurgaon India [multi-city] | Work mode: unspecified
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: no | You're Our Person If... 10-15 years of total experience with relevant 5 years in | Score: 60
 - Experience: 10-15 yrs | Qualification: Bachelor
 - ID: JR362385-1 / JR362385 | Status: open (ATS verified)
@@ -2398,7 +2406,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **TEAM LEAD  | Amazon**
 - Location: Mumbai, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | - Bachelor's degree - 1+ years of customer-facing environment, warehousing, | Score: 59
 - Experience: 1+ yrs | Qualification: Bachelor
 - ID: 10595208 | Status: open (listed in employer's live search)
@@ -2456,7 +2464,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Director, Solutions Builder (Builder Portfolio Leader) | Salesforce**
 - Location: India - Gurgaon India - Bangalore India - Mumbai India [multi-city] | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: no | Technical Depth: 15+years of Technical background with recent deep arc | Score: 54
 - Experience: 15+ yrs | Qualification: Bachelor
 - Requirements: hands-on experience with enterprise software implementation, data modeling, API integration, and AI deployments. You Have Proven Leadership: 3+ years of direct people management or high-impact technical leadership steering cross-functional engineering or technical teams. You have a track record of
@@ -2507,7 +2515,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Onboarding Operations Specialist 1 | Twilio**
 - Location: Remote - India | Work mode: remote
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | Experience Required: 1 - 3 Yrs*( depending on candidature) Strong technical | Score: 89
 - Experience: 1-3 yrs | Qualification: Bachelor
 - Requirements: &nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people
@@ -2516,7 +2524,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Phone Number specialist 1 | Twilio**
 - Location: Remote - India | Work mode: remote
-- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Posted: 2026-11-05 (3 days ago) | New today: no
 - Fit: yes | You have 2-4 years of experience working with global customers | Score: 86
 - Experience: 2-4 yrs | Qualification: Bachelor
 - Requirements: &nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people
@@ -2525,7 +2533,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Phone Numbers Operations Specialist 2 | Twilio**
 - Location: Remote - India | Work mode: remote
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | You have 4-6 years of experience working with global customers | Score: 75
 - Experience: 4-6 yrs | Qualification: Bachelor
 - Requirements: &nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people
@@ -2562,7 +2570,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Young Apprentice - C00 - Gurugram | Citi**
 - Location: Gurugram Haryana India | Work mode: hybrid
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: unknown | Score: 61
 - Qualification: Bachelor
 - Requirements: Master’s degree in information technology / information systems / computer applications / Data Science / Business Analytics / MCA in Information Technology / Information Systems / Computer Applications. • Good communication skills (both verbal and written) and ability to work with
@@ -2675,16 +2683,24 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10596304 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10596304/team-lead-quality-control-food-safety-quick-commerce-f-f-center
 
-### Bangalore (112)
+### Bangalore (111)
 
 **System Analyst | Salesforce**
 - Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | equivalent experience. 0-3 years of hands-on platform or systems support, adm | Score: 79
 - Experience: 0-3 yrs | Qualification: Bachelor
 - Requirements: Bachelor's degree in computer science, business, or equivalent experience. 0-3 years of hands-on platform or systems support, administration, or implementation experience in an enterprise IT environment. Strong knowledge of Salesforce native functionality and best practices. Demonstrated ability to
 - ID: JR367594 / JR367594 | Status: open (ATS verified)
 - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/System-Analyst_JR367594
+
+**fraud analyst | CRED**
+- Location: bengaluru | Work mode: onsite
+- Posted: 2026-11-05 (3 days ago) | New today: yes
+- Fit: yes | assumptions. have 1–2 years of experience in data science, analytics, en | Score: 77
+- Experience: 1-2 yrs | Qualification: Bachelor
+- ID: 913a6616-78c9-4ca3-8c92-67ddea8a80df | Status: open (ATS verified)
+- Apply: https://jobs.lever.co/cred/913a6616-78c9-4ca3-8c92-67ddea8a80df
 
 **Customer Support Associate I | Zscaler**
 - Location: Bangalore, IND; Bangalore, IND; Mohali, IND | Work mode: unspecified
@@ -2754,7 +2770,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Legal Counsel | Rubrik**
 - Location: Bangalore | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | State Bar Council) with 3 to 6 years of post-qualification experience, including | Score: 68
 - Experience: 3-6 yrs | Qualification: Bachelor
 - ID: 8356059 / INLC11716 | Status: open (ATS verified)
@@ -2762,7 +2778,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Creative Specialist — Content & Graphic Design | Zscaler**
 - Location: Bangalore, IND | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | augment problem-solving 3 to 5 years of professional graphic design, visual commu | Score: 68
 - Experience: 3-5 yrs | Qualification: Bachelor
 - Requirements: (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving 3 to 5 years of professional graphic design, visual communications, or multidisciplinary marketing design
@@ -2771,7 +2787,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **User Interface/User Experience Designer | Salesforce**
 - Location: India - Bangalore | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | Minimum Requirements 3 to 6 years of experience designing and delivering produ | Score: 68
 - Experience: 3-6 yrs | Qualification: Bachelor
 - Requirements: a keen eye for useful products, and you share your findings with the team. You're a tireless advocate for the end user. You have deep empathy for their everyday struggles and challenges. You always put their needs first, and you're unwavering in your desire to provide the best experiences for
@@ -2819,17 +2835,9 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10596216 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10596216/compliance-specialist-tax-trade-compliance-ops
 
-**System Development Engineer, TFS Accounting Insights | Amazon**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-02 (6 days ago) | New today: no
-- Fit: yes | - 1+ years of systems development experience - Experien | Score: 61
-- Experience: 1+ yrs
-- ID: 10594420 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10594420/system-development-engineer-tfs-accounting-insights
-
 **Tech Sourcer (Contract) | Databricks**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-07 (1 days ago) | New today: yes
+- Posted: 2026-11-07 (1 days ago) | New today: no
 - Fit: unknown | Score: 60
 - Qualification: Bachelor
 - ID: 8811059002 / P-1596 | Status: open (ATS verified)
@@ -2853,7 +2861,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Associate operations Processer | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Posted: 2026-11-04 (4 days ago) | New today: no
 - Fit: unknown | Score: 56
 - Qualification: Bachelor
 - ID: R-585251 / R-585251 | Status: open (ATS verified)
@@ -2861,7 +2869,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Analyst - Global Incentive Compensation Operations | Salesforce**
 - Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Required Experience: 7+ years experience in Business, Accounting or relate | Score: 55
 - Experience: 7+ yrs | Qualification: Bachelor
 - ID: JR362815 / JR362815 | Status: open (ATS verified)
@@ -2869,7 +2877,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Financial Analyst 4 | HP**
 - Location: Bengaluru, Karnataka, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | preferred. Typically 8+ years of experience as a financial analyst. Typica | Score: 55
 - Experience: 8+ yrs | Qualification: Bachelor
 - ID: 3168932-1 / 3168932 | Status: open (ATS verified)
@@ -2877,7 +2885,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Supply Chain SOX Compliance Analyst | HP**
 - Location: Bengaluru, Karnataka, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | • Typically has 7-10 years of work experience, preferably in financial | Score: 55
 - Experience: 7-10 yrs | Qualification: Bachelor
 - ID: 3170098-2 / 3170098 | Status: open (ATS verified)
@@ -2909,7 +2917,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Product Owner: Market Maker & Options Clearing (VP) | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-07 (1 days ago) | New today: yes
+- Posted: 2026-11-07 (1 days ago) | New today: no
 - Fit: no | Qualifications: 5+ years of Business Execution, Implementation, or St | Score: 53
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: R-581179-1 / R-581179 | Status: open (ATS verified)
@@ -2917,7 +2925,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **IN_RBAI_AI_ML_Expert_IN_2026 | Bosch**
 - Location: Bengaluru, KA, India | Work mode: unspecified
-- Posted: 2026-11-07 (1 days ago) | New today: yes
+- Posted: 2026-11-07 (1 days ago) | New today: no
 - Fit: no | min. 1 (BE) to 6 years relevant job experience B.E in AI or CS or E | Score: 53
 - Experience: 6 yrs | Qualification: Bachelor
 - ID: 744000160380993 | Status: open (ATS verified)
@@ -2966,7 +2974,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Securities Operations Associate | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: unknown | Score: 51
 - Qualification: Bachelor
 - ID: R-580225 / R-580225 | Status: open (ATS verified)
@@ -2983,7 +2991,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Staff Technical Enablement Consultant | Zscaler**
 - Location: Bangalore, IND; Bangalore, IND | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | augment problem-solving 5+ years of experience in system/network engineering, | Score: 50
 - Experience: 5+ yrs | Qualification: Bachelor
 - Requirements: (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving 5+ years of experience in system/network engineering, cloud architecture, or technical operations with
@@ -2992,7 +3000,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Business Execution Consultant | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | education. A minimum of 8 years in Strategic planning and Business execution | Score: 50
 - Experience: 8 yrs | Qualification: Bachelor
 - ID: R-580768 / R-580768 | Status: open (ATS verified)
@@ -3000,7 +3008,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Institutional Operations Representative | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Qualifications: 2+ years of Institutional Investment Operations suppo | Score: 50
 - Experience: 2+ yrs | Qualification: Bachelor
 - ID: R-582135 / R-582135 | Status: open (ATS verified)
@@ -3008,7 +3016,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Sr. Director Product Management | Capital One**
 - Location: Bangalore, In | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Computer Science or MBA 8+ years of experience in Agile product management 8+ | Score: 50
 - Experience: 8+ yrs | Qualification: Bachelor
 - Requirements: a desire and ability to connect with our external or internal customers to fully understand their needs and build long lasting relationships. Growth Mindset: You have an appetite to learn new things or new technologies all while exhibiting humbleness when exploring unknown technologies; you will
@@ -3017,7 +3025,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **BGSW_SAP_Variant_Configuration_Consultant | Bosch**
 - Location: bangalore, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Experience : 7+ Years Mandatory/requires Skills : Variant Configur | Score: 50
 - Experience: 7+ yrs | Qualification: Master
 - ID: 744000160153394 | Status: open (ATS verified)
@@ -3025,7 +3033,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Logistics Cost Controlling Specialist Senior  | Bosch**
 - Location: bangalore, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Experience : Minimum 2 to 3 years accounting experience in a accounting or fin | Score: 50
 - Experience: 2-3 yrs | Qualification: Bachelor
 - ID: 744000160147770 | Status: open (ATS verified)
@@ -3033,7 +3041,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Mechanical Design Engineer (Specialist) - Design of an Industrial welding controller | Bosch**
 - Location: bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | PDM B.E. or B.Tech 8-14 years | Score: 50
 - Experience: 8-14 yrs | Qualification: Bachelor
 - ID: 744000160130155 | Status: open (ATS verified)
@@ -3074,7 +3082,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Principal Associate, L&D | Capital One**
 - Location: Bangalore, In | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Posted: 2026-11-04 (4 days ago) | New today: no
 - Fit: no | Qualifications : 5+ years of experience in training needs assessment a | Score: 49
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: R999830 / R999830 | Status: open (ATS verified)
@@ -3082,7 +3090,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Principal Associate, Risk Management | Capital One**
 - Location: Bangalore, In | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Posted: 2026-11-04 (4 days ago) | New today: no
 - Fit: no | degree At least 7 years of experience in Risk domain At least 5 year | Score: 49
 - Experience: 7 yrs | Qualification: Bachelor
 - ID: R1001986 / R1001986 | Status: open (ATS verified)
@@ -3165,7 +3173,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Principal Product Manager, Technical, Customer Anecdote Miner (CAM) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-07 (1 days ago) | New today: yes
+- Posted: 2026-11-07 (1 days ago) | New today: no
 - Fit: no | Score: 47
 - Qualification: Bachelor
 - ID: 10599305 | Status: open (listed in employer's live search)
@@ -3173,7 +3181,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Lead Treasury Analyst | Wells Fargo**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: no | Qualifications: 5+ years of Treasury experience, or equivalent demons | Score: 46
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: R-581845 / R-581845 | Status: open (ATS verified)
@@ -3190,7 +3198,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Manager, Account Management, NA AVS | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | - Bachelor's degree - 3+ years of team management experience - Experience a | Score: 46
 - Experience: 3+ yrs | Qualification: Bachelor
 - ID: 10598559 | Status: open (listed in employer's live search)
@@ -3198,7 +3206,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Sr. Manager - Prog. Mgmt.- Profitability, RBS - SPEG UDE | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | - 7+ years of team management experience - Experience m | Score: 46
 - Experience: 7+ yrs
 - ID: 10598431 | Status: open (listed in employer's live search)
@@ -3289,14 +3297,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 3168017-1 / 3168017 | Status: open (ATS verified)
 - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Business-Operations-Specialist_3168017-1
 
-**Lead Commercial Loan Servicing Representative | Wells Fargo**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: no
-- Fit: no | Qualifications: 4+ years of Commercial Loan Servicing support experie | Score: 44
-- Experience: 4+ yrs | Qualification: Bachelor
-- ID: R-570949 / R-570949 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Commercial-Loan-Servicing-Representative_R-570949
-
 **SW Architect CICD_EPS1 | Bosch**
 - Location: hosur road bangalore, India | Work mode: unspecified
 - Posted: 2026-11-04 (4 days ago) | New today: no
@@ -3332,7 +3332,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Sr Program Manager- FC Returns, ACES | Amazon**
 - Location: Bangalore, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | Score: 44
 - Qualification: Bachelor
 - ID: 10598564 | Status: open (listed in employer's live search)
@@ -3633,7 +3633,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Operations Processor | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | Qualifications: 2+ year of operations support experience, or equival | Score: 75
 - Experience: 2+ yrs | Qualification: Bachelor
 - ID: R-571656-1 / R-571656 | Status: open (ATS verified)
@@ -3641,7 +3641,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Software Dev Engineer II, Finance Technology  | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: yes | - 3+ years of programming using a modern programming la | Score: 70
 - Experience: 3+ yrs
 - ID: 10599171 | Status: open (listed in employer's live search)
@@ -3714,7 +3714,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Staff Layout Engineer – DPG Layout | Micron**
 - Location: Hyderabad - Phoenix Aquila, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | flows. Job Requirements 8+ years of experience in analog/custom layout design | Score: 51
 - Experience: 8+ yrs | Qualification: Bachelor
 - ID: JR105995 / JR105995 | Status: open (ATS verified)
@@ -3803,7 +3803,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Fraud & Claims Operations Representative | Wells Fargo**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-04 (4 days ago) | New today: yes
+- Posted: 2026-11-04 (4 days ago) | New today: no
 - Fit: no | Qualifications: 2+ years of customer service support experience, or e | Score: 45
 - Experience: 2+ yrs | Qualification: Bachelor
 - ID: R-585861 / R-585861 | Status: open (ATS verified)
@@ -3835,7 +3835,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **VP, Success Management - Portfolio Leader | Salesforce**
 - Location: India - Hyderabad | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: no | including at least 5 years managing large, geographically dispersed Cus | Score: 42
 - Experience: 5 yrs | Qualification: Bachelor
 - Requirements: deep experience leading complex customer engagements and driving long-term value. You’ve built frameworks for success, managed executive stakeholders, and consistently delivered outcomes that matter to customers’ business goals. Cross-Functional Collaboration: A strong collaborator with a proven
@@ -3984,7 +3984,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Staff Global Business Partner | Micron**
 - Location: Sanand - MIB - Mini Pioneer, India | Work mode: unspecified
-- Posted: 2026-11-06 (2 days ago) | New today: yes
+- Posted: 2026-11-06 (2 days ago) | New today: no
 - Fit: no | experience. At least 8 to 10 years HR Business Partner experience supporting co | Score: 47
 - Experience: 8-10 yrs | Qualification: Bachelor
 - Requirements: Experience supporting semiconductor, manufacturing, engineering or other complex technology/operations environments. Experience working within a multinational, matrixed organization across multiple countries or sites. Experience partnering across global and local HR teams and translating enterprise
@@ -4061,7 +4061,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Sr.Manager, MOD SSD Manufacturing | Micron**
 - Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
-- Posted: 2026-11-03 (5 days ago) | New today: yes
+- Posted: 2026-11-03 (5 days ago) | New today: no
 - Fit: no | Engineering. Experience 12 to 15 years in manufacturing operations. 8+ years leadin | Score: 38
 - Experience: 12-15 yrs | Qualification: Bachelor
 - ID: JR115338 / JR115338 | Status: open (ATS verified)

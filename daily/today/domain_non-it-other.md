@@ -1,4 +1,4 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-07 23:40 UTC
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-08 10:06 UTC
 10 jobs, best score first: 2 from today/yesterday, 8 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Transaction Services - US Operations | Citi**
@@ -27,7 +27,15 @@
    - ID: JR367594 | open (ATS verified)
    - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/System-Analyst_JR367594
 
-4. **Operations Processor | Wells Fargo**
+4. **fraud analyst | CRED**
+   - bengaluru | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-11-05 (3 days ago) | fallback | Score 77
+   - Fit: yes | assumptions. have 1–2 years of experience in data science, analytics, en
+   - Experience: 1-2 yrs | Qualification: Bachelor
+   - ID: 913a6616-78c9-4ca3-8c92-67ddea8a80df | open (ATS verified)
+   - Apply: https://jobs.lever.co/cred/913a6616-78c9-4ca3-8c92-67ddea8a80df
+
+5. **Operations Processor | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-06 (2 days ago) | fallback | Score 75
    - Fit: yes | Qualifications: 2+ year of operations support experience, or equival
@@ -35,7 +43,7 @@
    - ID: R-571656-1 | open (ATS verified)
    - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Operations-Processor_R-571656-1
 
-5. **Analyst - Wholesale Credit Sanctioning - LevFin | Barclays**
+6. **Analyst - Wholesale Credit Sanctioning - LevFin | Barclays**
    - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-05 (3 days ago) | fallback | Score 72
    - Fit: unknown
@@ -43,7 +51,7 @@
    - ID: JR-0000096239-1 | open (ATS verified)
    - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Wholesale-Credit-Sanctioning---LevFin_JR-0000096239-1
 
-6. **IN_RBAI_Maintenance Engineer_Charcon_Mechanical | Bosch**
+7. **IN_RBAI_Maintenance Engineer_Charcon_Mechanical | Bosch**
    - Bengaluru, KA, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-05 (3 days ago) | fallback | Score 71
    - Fit: yes | / Mechanical. 2 to 4 Years of experience in Maintenance in Electronics
@@ -51,7 +59,7 @@
    - ID: 744000159791911 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000159791911
 
-7. **Software Dev Engineer II, Finance Technology  | Amazon**
+8. **Software Dev Engineer II, Finance Technology  | Amazon**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-06 (2 days ago) | fallback | Score 70
    - Fit: yes | - 3+ years of programming using a modern programming la
@@ -59,22 +67,13 @@
    - ID: 10599171 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10599171/software-dev-engineer-ii-finance-technology
 
-8. **Legal Counsel | Rubrik**
+9. **Legal Counsel | Rubrik**
    - Bangalore | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-06 (2 days ago) | fallback | Score 68
    - Fit: yes | State Bar Council) with 3 to 6 years of post-qualification experience, including
    - Experience: 3-6 yrs | Qualification: Bachelor
    - ID: 8356059 | open (ATS verified)
    - Apply: https://www.rubrik.com/company/careers/departments/job.8356059?gh_jid=8356059
-
-9. **Creative Specialist — Content & Graphic Design | Zscaler**
-   - Bangalore, IND | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-06 (2 days ago) | fallback | Score 68
-   - Fit: yes | augment problem-solving 3 to 5 years of professional graphic design, visual commu
-   - Experience: 3-5 yrs | Qualification: Bachelor
-   - Requirements: (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving 3 to 5 years of professional graphic design, visual communications, or multidisciplinary marketing design
-   - ID: 5283496007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5283496007
 
 10. **Tech Sourcer (Contract) | Databricks**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other

@@ -1,4 +1,4 @@
-# SERVE bulletin picks, 2026-11-07 23:40 UTC
+# SERVE bulletin picks, 2026-11-08 10:06 UTC
 10 jobs: 0 from today/yesterday, 10 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
 1. **Technical Support Engineer 2 | Twilio**
