@@ -17,7 +17,7 @@
  },
  "greenhouse:Elastic": {
   "ok": true,
-  "listed": 425
+  "listed": 426
  },
  "greenhouse:Druva": {
   "ok": true,
@@ -25,7 +25,7 @@
  },
  "greenhouse:Zscaler": {
   "ok": true,
-  "listed": 375
+  "listed": 376
  },
  "greenhouse:PubMatic": {
   "ok": true,
@@ -125,7 +125,7 @@
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 522
+  "listed": 525
  },
  "workday:Mastercard": {
   "ok": true,
@@ -153,11 +153,11 @@
  },
  "workday:Salesforce": {
   "ok": true,
-  "listed": 98
+  "listed": 97
  },
  "workday:Adobe": {
   "ok": true,
-  "listed": 46
+  "listed": 45
  },
  "workday:HP": {
   "ok": true,
@@ -169,7 +169,7 @@
  },
  "workday:Barclays": {
   "ok": true,
-  "listed": 125
+  "listed": 123
  },
  "workday:Citi": {
   "ok": true,
@@ -177,7 +177,7 @@
  },
  "workday:Capital One": {
   "ok": true,
-  "listed": 19
+  "listed": 22
  },
  "workday:Intel": {
   "ok": true,
@@ -193,7 +193,7 @@
  },
  "workday:PayPal": {
   "ok": true,
-  "listed": 21
+  "listed": 20
  },
  "workday:Workday": {
   "ok": true,
@@ -209,12 +209,12 @@
  },
  "amazon:Amazon": {
   "ok": true,
-  "listed": 314
+  "listed": 315
  },
  "remote:We Work Remotely": {
   "ok": true,
   "listed": 100,
-  "kept": 57,
+  "kept": 55,
   "undated_skipped": 0,
   "without_company": 0
  },
@@ -227,8 +227,8 @@
  },
  "remote:Laravel Jobs": {
   "ok": true,
-  "listed": 6,
-  "kept": 1,
+  "listed": 7,
+  "kept": 2,
   "undated_skipped": 0,
   "without_company": 0
  }

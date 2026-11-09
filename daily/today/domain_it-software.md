@@ -1,9 +1,9 @@
-# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-08 10:06 UTC
+# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-08 23:47 UTC
 8 jobs, best score first: 0 from today/yesterday, 8 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Business Analyst Inventory Reconciliation, | HP**
    - Bengaluru, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-06 (2 days ago) | fallback | Score 79
+   - Posted: 2026-11-06 (3 days ago) | fallback | Score 76
    - Fit: yes | • Typically has 0-2 years of work experience, preferably in supply cha
    - Experience: 0-2 yrs | Qualification: Bachelor
    - ID: 3168963-1 | open (ATS verified)
@@ -11,7 +11,7 @@
 
 2. **Full Stack Developer | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-06 (2 days ago) | fallback | Score 71
+   - Posted: 2026-11-06 (3 days ago) | fallback | Score 68
    - Fit: unknown
    - Qualification: Bachelor
    - ID: JR-0000126582 | open (ATS verified)
@@ -19,7 +19,7 @@
 
 3. **Software Dev Engineer II, Amazon International Seller Services | Amazon**
    - Hyderabad, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-06 (2 days ago) | fallback | Score 70
+   - Posted: 2026-11-06 (3 days ago) | fallback | Score 67
    - Fit: yes | - 3+ years of full software development life cycle, inc
    - Experience: 3+ yrs
    - ID: 10598513 | open (listed in employer's live search)
@@ -27,7 +27,7 @@
 
 4. **Software Engineer - IT Enterprise Applications | Micron**
    - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-06 (2 days ago) | fallback | Score 69
+   - Posted: 2026-11-06 (3 days ago) | fallback | Score 66
    - Fit: yes | / Requirements 3–5 years of professional software engineering experie
    - Experience: 3-5 yrs | Qualification: Bachelor
    - ID: JR112270 | open (ATS verified)
@@ -35,7 +35,7 @@
 
 5. **Software Development Engineer II, Cross Border Seller Programs | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-06 (2 days ago) | fallback | Score 69 | second job
+   - Posted: 2026-11-06 (3 days ago) | fallback | Score 66 | second job
    - Fit: yes | - 3+ years of non-internship professional software deve
    - Experience: 3+ yrs
    - ID: 10598473 | open (listed in employer's live search)
@@ -43,7 +43,7 @@
 
 6. **Software Engineer | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-05 (3 days ago) | fallback | Score 68 | second job
+   - Posted: 2026-11-05 (4 days ago) | fallback | Score 65 | second job
    - Fit: unknown
    - Qualification: Bachelor
    - ID: JR-0000108971 | open (ATS verified)
@@ -51,7 +51,7 @@
 
 7. **IN_RBAI_Cost Engineer Electronics_IN | Bosch**
    - Bengaluru, KA, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-03 (5 days ago) | fallback | Score 59
+   - Posted: 2026-11-03 (6 days ago) | fallback | Score 59
    - Fit: yes | & Communication) 3-5 Years of Experience in automotive industry or rele
    - Experience: 3-5 yrs | Qualification: Bachelor
    - ID: 744000159314013 | open (ATS verified)
@@ -59,7 +59,7 @@
 
 8. **Product Accessibility Engineer | Salesforce**
    - India - Bangalore India - Hyderabad India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-06 (2 days ago) | fallback | Score 57
+   - Posted: 2026-11-06 (3 days ago) | fallback | Score 54
    - Fit: unknown
    - Qualification: Bachelor
    - Requirements: We're Looking For Front-End Development: A solid understanding of HTML, CSS, and JavaScript. Empathy: A genuine desire to understand and advocate for the needs of users with disabilities. Design Skills: An eye for good design and an understanding of user experience principles. Bonus Skills:

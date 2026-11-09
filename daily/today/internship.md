@@ -1,9 +1,9 @@
-# SERVE ranked list: Internships, apprenticeships and trainee roles (all domains, matched by title), collected 2026-11-08 10:06 UTC
+# SERVE ranked list: Internships, apprenticeships and trainee roles (all domains, matched by title), collected 2026-11-08 23:47 UTC
 4 jobs, best score first: 0 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Young Apprentice - C00 - MUMBAI | Citi**
    - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-05 (3 days ago) | fallback | Score 68
+   - Posted: 2026-11-05 (4 days ago) | fallback | Score 65
    - Fit: unknown
    - Requirements: Previous experience preferred Consistently demonstrates clear and concise written and verbal communication skills Education: CA / CA inter or equivalent experience ------------------------------------------------------ Job Family Group: Business Strategy, Management & Administration
    - ID: 26988220 | open (ATS verified)
@@ -11,7 +11,7 @@
 
 2. **Young Apprentice - C00 - Gurugram | Citi**
    - Gurugram Haryana India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-06 (2 days ago) | fallback | Score 61 | second job
+   - Posted: 2026-11-06 (3 days ago) | fallback | Score 58 | second job
    - Fit: unknown
    - Qualification: Bachelor
    - Requirements: Master’s degree in information technology / information systems / computer applications / Data Science / Business Analytics / MCA in Information Technology / Information Systems / Computer Applications. • Good communication skills (both verbal and written) and ability to work with
@@ -20,7 +20,7 @@
 
 3. **Finance Intern | HP**
    - Gurugram, Haryana, India | Work mode: unspecified | Also hiring in: Bengaluru, Karnātaka, India | Section: Non-IT / Other
-   - Posted: 2026-11-05 (3 days ago) | fallback | Score 57
+   - Posted: 2026-11-05 (4 days ago) | fallback | Score 54
    - Fit: unknown
    - Qualification: Bachelor
    - ID: UNI4226-1 | open (ATS verified)
@@ -28,7 +28,7 @@
 
 4. **Finance Audit Intern | HP**
    - Bengaluru, Karnātaka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-04 (4 days ago) | fallback | Score 51 | second job
+   - Posted: 2026-11-04 (5 days ago) | fallback | Score 48 | second job
    - Fit: unknown
    - Qualification: Bachelor
    - ID: UNI4884-1 | open (ATS verified)
