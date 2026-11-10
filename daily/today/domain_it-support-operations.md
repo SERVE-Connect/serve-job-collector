@@ -1,41 +1,25 @@
-# SERVE ranked list: IT Support / Operations jobs (0-5 years), collected 2026-11-08 23:47 UTC
-5 jobs, best score first: 0 from today/yesterday, 5 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: IT Support / Operations jobs (0-5 years), collected 2026-11-10 02:47 UTC
+3 jobs, best score first: 1 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Technical Support Engineer 2 | Twilio**
-   - Remote - India | Work mode: remote | Section: IT Support / Operations
-   - Posted: 2026-11-05 (4 days ago) | fallback | Score 77
-   - Fit: yes | work experience 3+ years of experience in a client-facing technical r
-   - Experience: 3+ yrs | Qualification: Diploma
-   - Requirements: &nbsp; Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people
-   - ID: 8028473 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/twilio/jobs/8028473
-
-2. **Customer Support Engineer - I | Mindtickle**
-   - Pune, Maharashtra | Work mode: hybrid | Section: IT Support / Operations
-   - Posted: 2026-11-04 (5 days ago) | fallback | Score 68
-   - Fit: unknown
-   - ID: 68626a39-ae90-4870-b3c7-04bf489f66f7 | open (ATS verified)
-   - Apply: https://jobs.lever.co/mindtickle/68626a39-ae90-4870-b3c7-04bf489f66f7
-
-3. **Business Analyst Support, AOP Research Science | Amazon**
+1. **Business Analyst Support, AOP Research Science | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-04 (5 days ago) | fallback | Score 66
+   - Posted: 2026-11-04 (6 days ago) | fallback | Score 66 | second job
    - Fit: yes | - 2+ years of data analytics or automation experience -
    - Experience: 2+ yrs | Qualification: Bachelor
    - ID: 10596571 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10596571/business-analyst-support-aop-research-science
 
-4. **Support Engineer, SCOT WW Long Term Planning and Forecasting | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-03 (6 days ago) | fallback | Score 62 | second job
-   - Fit: yes | - 2+ years of software development, or 2+ years of tech
-   - Experience: 2+ yrs
-   - ID: 10594997 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594997/support-engineer-scot-ww-long-term-planning-and-forecasting
+2. **Support Engineer IV , Amazon Pharmacy Operations | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: IT Support / Operations
+   - Posted: 2026-11-09 (1 days ago) | fresh | Score 59
+   - Fit: yes | - 4+ years of software development, or 4+ years of tech
+   - Experience: 4+ yrs
+   - ID: 10599959 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10599959/support-engineer-iv-amazon-pharmacy-operations
 
-5. **Associate Technical Support Engineer (French Speaking) | Salesforce**
+3. **Associate Technical Support Engineer (French Speaking) | Salesforce**
    - India - Hyderabad | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-04 (5 days ago) | fallback | Score 54
+   - Posted: 2026-11-04 (6 days ago) | fallback | Score 54
    - Fit: unknown
    - Qualification: Bachelor
    - ID: JR356515 | open (ATS verified)

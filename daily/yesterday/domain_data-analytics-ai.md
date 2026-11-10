@@ -1,9 +1,9 @@
-# SERVE ranked list: Data / Analytics / AI jobs (0-5 years), collected 2026-11-08 10:06 UTC
+# SERVE ranked list: Data / Analytics / AI jobs (0-5 years), collected 2026-11-08 23:47 UTC
 5 jobs, best score first: 0 from today/yesterday, 5 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Analytics Consultant | Wells Fargo**
    - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-04 (4 days ago) | fallback | Score 68
+   - Posted: 2026-11-04 (5 days ago) | fallback | Score 65
    - Fit: yes | Qualifications: 2+ years of Analytics experience, or equivalent demon
    - Experience: 2+ yrs | Qualification: Bachelor
    - ID: R-583411 | open (ATS verified)
@@ -11,7 +11,7 @@
 
 2. **Software Dev Engineer II, Alexa AI - Personalization and Delivery Experiences | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-05 (3 days ago) | fallback | Score 66
+   - Posted: 2026-11-05 (4 days ago) | fallback | Score 63
    - Fit: yes | - 3+ years of non-internship professional software deve
    - Experience: 3+ yrs
    - ID: 10598131 | open (listed in employer's live search)
@@ -19,7 +19,7 @@
 
 3. **Business Intelligence Engineer, Last Mile BI | Amazon**
    - Hyderabad, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-04 (4 days ago) | fallback | Score 65 | second job
+   - Posted: 2026-11-04 (5 days ago) | fallback | Score 62 | second job
    - Fit: yes | - 2+ years of analyzing and interpreting data with Reds
    - Experience: 2+ yrs
    - ID: 10596172 | open (listed in employer's live search)
@@ -27,7 +27,7 @@
 
 4. **Data Modeller | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-03 (5 days ago) | fallback | Score 62
+   - Posted: 2026-11-03 (6 days ago) | fallback | Score 62
    - Fit: unknown
    - Qualification: Bachelor
    - ID: JR-0000122696-1 | open (ATS verified)
@@ -35,7 +35,7 @@
 
 5. **Full-Stack Developer — AI-Native Engineering | Salesforce**
    - India - Bangalore | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-05 (3 days ago) | fallback | Score 54
+   - Posted: 2026-11-05 (4 days ago) | fallback | Score 51
    - Fit: unknown
    - Qualification: Bachelor
    - ID: JR359537 | open (ATS verified)
