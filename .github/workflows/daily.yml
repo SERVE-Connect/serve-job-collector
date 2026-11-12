@@ -86,6 +86,6 @@ jobs:
           if [ -z "$GH_TOKEN" ]; then
             echo "SERVE_JOBS_DISPATCH_TOKEN is not set: the sync will run on its own schedule instead." >> "$GITHUB_STEP_SUMMARY"
           else
-            gh workflow run sync-jobs.yml -R SERVE-Connect/SERVE-Jobs --ref main
-            echo "Started Sync Jobs in SERVE-Jobs." >> "$GITHUB_STEP_SUMMARY"
+            gh workflow run deploy.yml -R SERVE-Connect/SERVE-Jobs --ref main
+            echo "Started Sync + Deploy in SERVE-Jobs." >> "$GITHUB_STEP_SUMMARY"
           fi
