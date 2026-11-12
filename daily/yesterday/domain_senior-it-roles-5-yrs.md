@@ -1,69 +1,69 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-11-10 02:47 UTC
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-11-11 00:41 UTC
 8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **SAP Developer | NVIDIA**
-   - India, Bengaluru India, Hyderabad India, Pune India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 67
-   - Fit: no | What we need to see: 5+ years of experience in SAP ABAP analysis, design,
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - ID: JR2029586 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/SAP-Developer_JR2029586
+1. **Applications Development Sr Programmer Analyst - C12 - PUNE | Citi**
+   - 1/124, SHIVAJI GARDENS, MOONLI Pune Maharashtra India India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 73
+   - Fit: no | Qualifications: 5-8 years of relevant experience Experience in systems
+   - Experience: 5-8 yrs | Qualification: Bachelor
+   - ID: 261005927 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Applications-Development-Sr-Programmer-Analyst---C12---PUNE_261005927
 
-2. **Commissioning Engineer, APJC Commissioning | Amazon**
-   - Mumbai, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 62
-   - Fit: no | - 7+ years of commissioning experience - 7+ years of en
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - ID: 10599644 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10599644/commissioning-engineer-apjc-commissioning
+2. **Staff Software Engineer, Integrations | ServiceNow**
+   - Hyderabad, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 55
+   - Fit: no | agentic development. 8+ years of software engineering with strong fundamen
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - ID: 744000160956760 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000160956760
 
-3. **Mgr, Quality/Training Strategy, GO-AI Operations Integration | Amazon**
-   - Virtual, India | Work mode: remote | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 59 | second job
-   - Fit: no | - 5+ years of team management experience - 5+ years of
-   - Experience: 5+ yrs
-   - ID: 10598209 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10598209/mgr-quality-training-strategy-go-ai-operations-integration
-
-4. **Senior Engineer / Assistant Manager - Product Quality Engineer (Chip - Power Tools Plant) | Bosch**
-   - Chennai, TN, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 55
-   - Fit: no | Engineering with min 4 yrs experience in project quality, plant quality
-   - Experience: 4 yrs | Qualification: Bachelor
-   - ID: 744000160534670 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000160534670
-
-5. **Senior Software Engineer - Workday Developer, Studio API, Orchestration | Wells Fargo**
+3. **Senior Commercial Loan Servicing Representative-5 - Alteryx and Power BI | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 54
-   - Fit: no | Qualifications: 4+ years of Software Engineering experience, or equiv
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 54
+   - Fit: no | Qualification : 4+ years of Commercial Loan Servicing support experie
    - Experience: 4+ yrs | Qualification: Bachelor
-   - ID: R-578213 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer---Workday-Developer--Studio-API--Orchestration_R-578213
+   - ID: R-577888 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Commercial-Loan-Servicing-Representative-5_R-577888
 
-6. **DMTS ITP AI Architecture and Delivery | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 54
-   - Fit: no | or related field. 15+ years of experience in advanced AI research, AI pl
-   - Experience: 15+ yrs | Qualification: Bachelor
-   - Requirements: MS or PhD in Computer Science, Artificial Intelligence, Machine Learning, Computer Engineering, Applied Mathematics, or related field. 15+ years of experience in advanced AI research, AI platform development, machine learning, semiconductor or related technical domains. Demonstrated record of
-   - ID: JR117033 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/DMTS-ITP-AI-Architecture-and-Delivery_JR117033
-
-7. **Staff Software Development Engineer | Zscaler**
+4. **Sr. Staff Software Development Engineer | Zscaler**
    - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 53
-   - Fit: no | your functional domain 5+ years of experience with proficiency coding in Jav
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | your functional domain 5+ years of experience in Software development, Softw
    - Experience: 5+ yrs | Qualification: Bachelor
    - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
-   - ID: 5279066007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5279066007
+   - ID: 5271588007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5271588007
 
-8. **Director - AI Engineering | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 53
-   - Fit: no | an engineering team 8+ years of experience deploying scalable and respons
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: the courage to share new ideas even when they are unproven. You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss. You are a resilient trail
-   - ID: R1004322-1 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director---AI-Engineering_R1004322-1
+5. **Engineering Manager - Internal Systems Automations Platform | Stripe**
+   - Bengaluru  | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | experience and 10+ years of overall experience in the industry. Prove
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: Experience with AI, large language model (LLM), or ML technologies is highly valuable. Understanding of context-driven AI agents that can autonomously figure out solutions when given business problems and context.
+   - ID: 8352150 | open (ATS verified)
+   - Apply: https://stripe.com/jobs/search?gh_jid=8352150
+
+6. **Salesforce Senior Technical Manager (Salesforce Technical Architect experience is mandatory) | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | aligned to the role 14-18 years CRM experience with a minimum of 10 years on
+   - Experience: 14-18 yrs | Qualification: Bachelor
+   - Requirements: a good mix of technical and enterprise skills from a technology perspective, including a foundational understanding of how to leverage AI development tools to optimize delivery cycles. The solutions you design are built for the long-term and will scale with the customer’s growth plans seamlessly.
+   - ID: JR327146 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Salesforce-Senior-Technical-Manager_JR327146
+
+7. **Sr.Data Engineer | Bosch**
+   - bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | Mandatory: JD · 4-6 years of professional work experience in a relevan
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - ID: 744000160873298 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000160873298
+
+8. **Sr. Software Engineer, AI Trust and Innovation | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 49
+   - Fit: no | - 5+ years of non-internship professional software deve
+   - Experience: 5+ yrs
+   - ID: 10596568 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10596568/sr-software-engineer-ai-trust-and-innovation

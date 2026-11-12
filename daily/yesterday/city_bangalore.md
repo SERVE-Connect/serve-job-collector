@@ -1,70 +1,86 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-10 02:47 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-11 00:41 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Finance Business Support Analyst | PayPal**
-   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 82
-   - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - Requirements: BA/BS degree, MBA preferred, Experience with policy or contract review, Experience with inbox and ticketing management support ( Salesforce or JIRA ), Experience around process improvement with example of cost savings projects Experience working with cross functional and international teams,
-   - ID: R0138563 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Finance-Business-Support-Analyst_R0138563
+1. **Quality Assurance Engineer, IES Prime Tech | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: QA / Testing
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 73
+   - Fit: yes | - 2+ years of quality assurance engineering experience
+   - Experience: 2+ yrs
+   - ID: 10600973 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10600973/quality-assurance-engineer-ies-prime-tech
 
-2. **BIE I , FCGT | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 78
-   - Fit: yes | - 2+ years of analyzing and interpreting data with Reds
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 10596280 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10596280/bie-i-fcgt
+2. **Systems Engineer -  Workday Platform | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 71
+   - Fit: yes | Required Experience: 3-5 years of hands-on configuration/implementation exp
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - ID: JR364391 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer----Workday-Platform_JR364391
 
-3. **Business Execution Consultant | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Also hiring in: Hyderabad, India | Section: Non-IT / Other
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 77
-   - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-571045 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-571045
+3. **Product Manager II | Razorpay**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 58
+   - Fit: no | in the team. Must have 5 to 6 years of product management experience, with at le
+   - Experience: 5-6 yrs | Qualification: Bachelor
+   - Requirements: 5 to 6 years of product management experience, with at least 1 year in payments, fintech or financial infrastructure. Proven 0 to 1 external stakeholder management: you have built a relationship with a merchant, partner or bank from first contact to a live deal or launch, not only supported one.
+   - ID: 4751768005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005
 
-4. **Software Development Engineer- Frontend | HP**
-   - Bengaluru, Karnataka, India Sant Cugat del Valles, Barcelona, Spain India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 71
-   - Fit: yes | practical experience. 3-8 years of software development experience, with a s
-   - Experience: 3-8 yrs | Qualification: Bachelor
-   - Requirements: Strong proficiency in JavaScript/TypeScript and React, with experience building responsive, accessible, and maintainable frontend applications. Nice to have: Backend development experience with Node.js, REST APIs, microservices, authentication, and authorization. Experience with cloud platforms and
-   - ID: 3170250-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-Development-Engineer--Frontend_3170250-1
+4. **Senior Staff Technical Architect, Infrastructure and Cloud | ServiceNow**
+   - Bangalore, Karnataka, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 54
+   - Fit: no | in this role you have: 10+ years of progressive experience in infrastructure,
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: Experience in a large, global, regulated, or mission-critical environment. Familiarity with IT service management practices, including the IT Infrastructure Library (ITIL), and with configuration management database (CMDB) alignment for infrastructure configuration items. Familiarity with
+   - ID: 744000160928607 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000160928607
 
-5. **Automotive Diagnostic and troubleshooting Engineer for EV & HEV Systems - BAN | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 71
-   - Fit: yes | Automobile/Mechanical 3 to 6 Years
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - ID: 744000160675170 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000160675170
+5. **Fraud Operations Associate SDC | Stripe**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 54
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: 8158943 | open (ATS verified)
+   - Apply: https://stripe.com/jobs/search?gh_jid=8158943
 
-6. **Automotive Systems Diagnostic and troubleshooting Engineer (Grade X & OTX/ODX) | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 71 | second job
-   - Fit: yes | Automobile/Mechanical 3 to 13 Years
-   - Experience: 3-13 yrs | Qualification: Bachelor
-   - ID: 744000160675673 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000160675673
-
-7. **Staff Software Development Engineer | Zscaler**
+6. **Sr. Staff Software Development Engineer | Zscaler**
    - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 53
-   - Fit: no | your functional domain 5+ years of experience with proficiency coding in Jav
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | your functional domain 5+ years of experience in Software development, Softw
    - Experience: 5+ yrs | Qualification: Bachelor
    - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
-   - ID: 5279066007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5279066007
+   - ID: 5271588007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5271588007
 
-8. **Director - AI Engineering | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-09 (1 days ago) | fresh | Score 53
-   - Fit: no | an engineering team 8+ years of experience deploying scalable and respons
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: the courage to share new ideas even when they are unproven. You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss. You are a resilient trail
-   - ID: R1004322-1 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director---AI-Engineering_R1004322-1
+7. **Senior Software Engineer -  F5 BIG-IP (LTM/GTM/DNS/WAF) and AVI Load Balancers | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | Qualifications: 4+ years of Software Engineering experience, or equiv
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - ID: R-578484 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-578484
+
+8. **Sr.Data Engineer | Bosch**
+   - bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | Mandatory: JD · 4-6 years of professional work experience in a relevan
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - ID: 744000160873298 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000160873298
+
+9. **Senior Post Silicon HSIO Bringup Lead | NVIDIA**
+   - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | equivalent degree with 7+ years or more experience in HSIO validation. Compr
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - ID: JR2016435 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Post-Silicon-HSIO-Bringup-Lead_JR2016435
+
+10. **Analog Design Flow and Infrastructure Design Automation Manager | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-10 (1 days ago) | fresh | Score 53
+   - Fit: no | or related field. 10+ years of experience in analog/mixed-signal design
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - Requirements: Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or related field. 10+ years of experience in analog/mixed-signal design or CAD support. 5+ years of leadership experience. Strong hands-on experience with analog design platforms such as Virtuoso and p-cell development.
+   - ID: JR0286600-1 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Analog-Design-Flow-and-Infrastructure-Design-Automation-Manager_JR0286600-1
