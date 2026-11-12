@@ -339,6 +339,23 @@ def parse_salary(text):
     return ""
 
 
+DESC_LIMIT = 2000
+
+
+def describe(text, limit=DESC_LIMIT):
+    """The job text for the website's details page: paragraphs and bullets kept as lines, no tags, cut at a word."""
+    t = html.unescape(text or "")
+    t = re.sub(r"(?i)<br\s*/?>|</(?:p|div|h[1-6]|ul|ol|tr)>", "\n", t)
+    t = re.sub(r"(?i)<li[^>]*>", "\n• ", t)
+    t = re.sub(r"<[^>]+>", " ", t)
+    lines = [re.sub(r"[ \t\xa0]+", " ", ln).strip() for ln in t.split("\n")]
+    t = re.sub(r"\n{2,}", "\n", "\n".join(lines)).strip()
+    if len(t) > limit:
+        cut = t.rfind(" ", 0, limit)
+        t = t[: cut if cut > limit // 2 else limit].rstrip() + "…"
+    return t
+
+
 REQ_HEAD = re.compile(
     r"(?:basic qualifications|minimum qualifications|preferred qualifications|qualifications|requirements|"
     r"what you(?:'|’)ll need|what you will need|what we(?:'|’)re looking for|must[- ]have|"
@@ -363,7 +380,7 @@ def parse_requirements(text, limit=300):
 def cand(**kw):
     c = {"company": "", "title": "", "id": "", "req_id": "", "location": "",
          "posted_dt": None, "apply_url": "", "source": "", "text": "",
-         "token": "", "status": "unchecked", "mode": "", "salary": ""}
+         "token": "", "status": "unchecked", "mode": "", "salary": "", "desc": ""}
     c.update(kw)
     return c
 
@@ -482,6 +499,7 @@ def verify_workday(c):
     if not is_india(c["location"]) and is_india(extra):
         c["location"] = extra.strip()
     c["text"] = info.get("jobDescription", "")
+    c["desc"] = c["text"]
     c["status"] = "open (ATS verified)"
     return True
 
@@ -510,7 +528,9 @@ def list_amazon(b):
                     company="Amazon", title=j.get("title", ""), id=jid,
                     location=(j.get("city") or j.get("normalized_location") or "") + ", India",
                     posted_dt=dt, apply_url="https://www.amazon.jobs" + j.get("job_path", ""),
-                    source="amazon", text=j.get("basic_qualifications", "") or ""))
+                    source="amazon", text=j.get("basic_qualifications", "") or "",
+                    desc="\n".join(x for x in (j.get("description"), j.get("basic_qualifications"),
+                                               j.get("preferred_qualifications")) if x)))
             if oldest and age_days(oldest) > WINDOW:
                 break
             offset += 50
@@ -551,6 +571,7 @@ def verify_smartrecruiters(c):
         return False
     sections = ((d.get("jobAd") or {}).get("sections") or {})
     c["text"] = " ".join(clean((v or {}).get("text", "")) for v in sections.values())
+    c["desc"] = "\n".join((sections.get(k) or {}).get("text", "") for k in ("jobDescription", "qualifications", "additionalInformation"))
     c["status"] = "open (ATS verified)"
     return True
 
@@ -755,6 +776,7 @@ def run(cfg):
             "age_days": a, "exp_years_est": est, "exp_hint": hint, "exp_label": exp_label(hint),
             "qualification": parse_qual(c["text"]), "salary": salary,
             "requirements": parse_requirements(c["text"]),
+            "description": describe(c.get("desc") or c["text"]),
             "fit_0_5": fit(c["title"], est), "status": c["status"],
             "apply_url": c["apply_url"], "source": c["source"],
         })
@@ -1099,6 +1121,9 @@ CSV_COLUMNS = ["score_rank", "score", "section", "city_group", "geo_rank", "post
                "apply_url", "source"]
 
 
+JSON_EXTRA = ("description",)  # in jobs_latest.json only (the website's details page); not in the CSV or the lists
+
+
 def chip_fields(j):
     """Extra fields for the website's filter chips (same rules as the ranked lists above)."""
     cities = [j["city_group"]] + [city_group(loc, "unspecified") for loc in j.get("also_in") or []]
@@ -1121,6 +1146,7 @@ def write_json(jobs, picks, meta):
         row = dict(j, section=dsec(j), score_rank=rank[k], bulletin_pick=picked.get(k, ""))
         r = {c: (row.get(c) if row.get(c) is not None else "") for c in CSV_COLUMNS}
         r.update(chip_fields(j))
+        r.update({c: row.get(c) or "" for c in JSON_EXTRA})
         rows.append(r)
     out = {"generated_utc": meta["generated_utc"], "window_days": meta["window_days"],
            "job_count": len(rows), "jobs": rows}
