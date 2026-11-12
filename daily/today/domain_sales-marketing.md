@@ -1,4 +1,4 @@
-# SERVE ranked list: Sales & Marketing jobs (0-5 years, matched by keyword), collected 2026-11-12 01:55 UTC
+# SERVE ranked list: Sales & Marketing jobs (0-5 years, matched by keyword), collected 2026-11-12 11:19 UTC
 5 jobs, best score first: 3 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Account Executive, SMB, North America Region - India | JumpCloud**
@@ -18,7 +18,15 @@
    - ID: 8374610 | open (ATS verified)
    - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8374610
 
-3. **Data Scientist, EU Prime and Marketing Analytics & Science (PRIMAS) | Amazon**
+3. **Business Development Representative | Salesforce**
+   - India - Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-12 (0 days ago) | fresh | Score 74
+   - Fit: yes | Even Better If... 3-6 years of Experience in business development, sales
+   - Experience: 3-6 yrs | Qualification: Bachelor
+   - ID: JR367354 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Business-Development-Representative_JR367354
+
+4. **Data Scientist, EU Prime and Marketing Analytics & Science (PRIMAS) | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-11 (1 days ago) | fresh | Score 73
    - Fit: yes | etc.) experience - 2+ years of data/research scientist, statistician or
@@ -26,18 +34,10 @@
    - ID: 10602129 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10602129/data-scientist-eu-prime-and-marketing-analytics-science-primas
 
-4. **Associate, Marketing Technology | Elastic**
+5. **Associate, Marketing Technology | Elastic**
    - Bangalore, India | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-11 (1 days ago) | fresh | Score 65
    - Fit: unknown
    - Qualification: Bachelor
    - ID: 8337068 | open (ATS verified)
    - Apply: https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068
-
-5. **Service Sales Specialist | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-11 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 3170480 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Service-Sales-Specialist_3170480

@@ -1,37 +1,29 @@
-# SERVE jobs, collected 2026-11-12 01:55 UTC
-Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 33. Full list: jobs_latest.md
+# SERVE jobs, collected 2026-11-12 11:19 UTC
+Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 35. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
 fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ years (listed under Senior IT roles).
 
-## IT / Software (18)
+## IT / Software (19)
 
-### Pune (6)
-
-**Software Engineer – Mainframe | Barclays**
-- Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-11-11 (1 days ago) | New today: yes
-- Fit: unknown | Score: 74
-- Qualification: Bachelor
-- ID: JR-0000104527 / JR-0000104527 | Status: open (ATS verified)
-- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer---Mainframe_JR-0000104527
+### Pune (5)
 
 **Avaloq Developer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-11-11 (1 days ago) | New today: yes
-- Fit: unknown | Score: 74
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: unknown | Score: 77
 - Qualification: Bachelor
-- ID: JR-0000074700-1 / JR-0000074700 | Status: open (ATS verified)
-- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Avaloq-Developer_JR-0000074700-1
+- ID: JR-0000111028-2 / JR-0000111028 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Avaloq-Developer_JR-0000111028-2
 
 **Full Stack Engineer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
-- Posted: 2026-11-11 (1 days ago) | New today: no
-- Fit: unknown | Score: 74
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: unknown | Score: 77
 - Qualification: Bachelor
-- ID: JR-0000127774 / JR-0000127774 | Status: open (ATS verified)
-- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Engineer_JR-0000127774
+- ID: JR-0000116600-1 / JR-0000116600 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Application-Developer_JR-0000116600-1
 
 **Full Stack Developer | Barclays**
 - Location: Pune, Gera Commerzone SEZ | Work mode: unspecified
@@ -57,7 +49,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: JR-0000126876 / JR-0000126876 | Status: open (ATS verified)
 - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Java-Kafka-Developer_JR-0000126876
 
-### Bangalore (6)
+### Bangalore (7)
 
 **Software Dev Engineer II, Amazon, Selection Monitoring | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -82,6 +74,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 3+ yrs
 - ID: 10590909 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10590909/software-development-engineer-rbs-tech
+
+**Software Engineering MTS | Salesforce**
+- Location: India - Hyderabad India - Bangalore India | Work mode: unspecified | Also hiring in: India - Hyderabad
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: unknown | Score: 63
+- Qualification: Bachelor
+- ID: JR363864 / JR363864 | Status: open (ATS verified)
+- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR363864
 
 **Software Development Engineer II, Cross Border Seller Programs | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -109,21 +109,21 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 ### Hyderabad (5)
 
-**Software Engineer - Java Fullstack | Wells Fargo**
+**Software Engineer | ServiceNow**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-11 (1 days ago) | New today: yes
-- Fit: yes | Qualifications: 2+ years of software engineering experience, or equiv | Score: 78
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: yes | function or industry. 2+ years of experience with Java or a similar OO lang | Score: 81
 - Experience: 2+ yrs | Qualification: Bachelor
-- ID: R-584425 / R-584425 | Status: open (ATS verified)
-- Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Fullstack_R-584425
+- ID: 744000161221879 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161221879
 
 **Applications Dev Engineer | ServiceNow**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-11 (1 days ago) | New today: yes
-- Fit: yes | function or industry. 0-2+ years of experience with Java or a similar OO lang | Score: 78
-- Experience: 0-2 yrs | Qualification: Bachelor
-- ID: 744000161074019 | Status: open (ATS verified)
-- Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161074019
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: yes | function or industry. 2-5 years of experience with Java or a similar OO lang | Score: 81
+- Experience: 2-5 yrs | Qualification: Bachelor
+- ID: 744000161219059 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161219059
 
 **Software Development Engineer, Customer Experience and Business Trends | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -149,7 +149,16 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10597850 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10597850/software-development-engineer-dsp-tech
 
-### Other India (1)
+### Other India (2)
+
+**Equipment Engineer - GEL | Micron**
+- Location: Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: yes | Requirements: Minimum 4-6 Years of experience with Bachelors, Masters in fil | Score: 63
+- Experience: 4-6 yrs | Qualification: Bachelor
+- Requirements: Minimum 4-6 Years of experience with Bachelors, Masters in filed of Electronics, Electronics & communication, Electrical, Mechatronics, Computer science holders with Engineering studies. At least one year or equivalent experience in engineering Lab maintain Meticulous and attention to details,
+- ID: JR117216-1 / JR117216 | Status: open (ATS verified)
+- Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Equipment-Engineer---GEL_JR117216-1
 
 **Embedded_Linux_ECT | Bosch**
 - Location: coimbatore, India | Work mode: unspecified
@@ -159,9 +168,9 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000160677639 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000160677639
 
-## Data / Analytics / AI (10)
+## Data / Analytics / AI (12)
 
-### Pune (2)
+### Pune (1)
 
 **AI Engineer - 11967 | Coupa**
 - Location: Pune, India | Work mode: hybrid
@@ -171,13 +180,25 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 7b93f224-46af-4399-ba5c-37a6ad04041d | Status: open (ATS verified)
 - Apply: https://jobs.lever.co/coupa/7b93f224-46af-4399-ba5c-37a6ad04041d
 
-**AI Engineer - P | Coupa**
-- Location: Pune, India | Work mode: hybrid
-- Posted: 2026-11-09 (3 days ago) | New today: no
-- Fit: yes | Proven experience (3-5+ years) in software engineering, data science, or A | Score: 80
-- Experience: 3-5 yrs | Qualification: Bachelor
-- ID: 0d055227-841e-4268-86ac-894beaee23de | Status: open (ATS verified)
-- Apply: https://jobs.lever.co/coupa/0d055227-841e-4268-86ac-894beaee23de
+### Mumbai (1)
+
+**Quantitative Analytics Market Risk Modeler | Barclays**
+- Location: Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: unknown | Score: 76
+- Qualification: Bachelor
+- ID: JR-0000128143-1 / JR-0000128143 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Quantitative-Analytics-Market-Risk-Modeler_JR-0000128143-1
+
+### Delhi NCR / Haryana (1)
+
+**FCE Data and Assurance Analyst (BA3) | Barclays**
+- Location: Gurugram, DLF Downtown | Work mode: unspecified
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: unknown | Score: 71
+- Qualification: Bachelor
+- ID: JR-0000137544 / JR-0000137544 | Status: open (ATS verified)
+- Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/FCE-Data-and-Assurance-Analyst--BA3-_JR-0000137544
 
 ### Bangalore (6)
 
@@ -228,7 +249,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10598475 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10598475/research-scientist-ii-grocery-eco
 
-### Chennai (1)
+### Chennai (2)
+
+**Data Scientist II, AWS - Quick | Amazon**
+- Location: Chennai, India | Work mode: unspecified
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: yes | scientist experience - 3+ years of data querying languages (e.g. SQL), scrip | Score: 77
+- Experience: 3+ yrs | Qualification: Bachelor
+- ID: 10602065 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10602065/data-scientist-ii-aws-quick
 
 **Data Engineer, MIDAS, Digital Acceleration | Amazon**
 - Location: Chennai, India | Work mode: unspecified
@@ -248,39 +277,29 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10601582 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10601582/data-engineer-i-dsp-analytics
 
-## Cloud / DevOps / Infrastructure (3)
-
-### Pune (1)
-
-**DevOps Engineering | Fiserv**
-- Location: Pune - Trion Business Park, India | Work mode: onsite
-- Posted: 2026-11-11 (1 days ago) | New today: yes
-- Fit: unknown | Score: 75
-- Qualification: Bachelor
-- ID: R-10401496 / R-10401496 | Status: open (ATS verified)
-- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Advisor--Software-Development-Engineering_R-10401496
+## Cloud / DevOps / Infrastructure (1)
 
 ### Bangalore (1)
 
-**Systems Engineer -  Workday Platform | Salesforce**
-- Location: India - Hyderabad India - Bangalore India | Work mode: unspecified
-- Posted: 2026-11-10 (2 days ago) | New today: no
-- Fit: yes | Required Experience: 3-5 years of hands-on configuration/implementation exp | Score: 68
-- Experience: 3-5 yrs | Qualification: Bachelor
-- ID: JR364391 / JR364391 | Status: open (ATS verified)
-- Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer----Workday-Platform_JR364391
+**Software Engineer - Cloud Native Protection | Rubrik**
+- Location: Bangalore  | Work mode: unspecified
+- Posted: 2026-11-11 (1 days ago) | New today: yes
+- Fit: yes | or related field 2+ years of relevant work experience,&nbsp; Proficien | Score: 77
+- Experience: 2+ yrs | Qualification: Bachelor
+- ID: 8327940 / INSW11643 | Status: open (ATS verified)
+- Apply: https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940
 
-### Hyderabad (1)
+## QA / Testing (2)
 
-**Program Specialist, NCC, Network Control Center, Amazon Customer Service | Amazon**
-- Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-05 (7 days ago) | New today: no
-- Fit: unknown | Score: 45
-- Qualification: Bachelor
-- ID: 10595295 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10595295/program-specialist-ncc-network-control-center-amazon-customer-service
+### Pune (1)
 
-## QA / Testing (1)
+**Professional, Quality Assurance Engineering | Fiserv**
+- Location: Pune - Trion Business Park, India | Work mode: onsite
+- Posted: 2026-11-12 (0 days ago) | New today: yes
+- Fit: yes | you'll need to have: 4+ years of experience in software quality assurance | Score: 81
+- Experience: 4+ yrs | Qualification: Bachelor
+- ID: R-10401211 / R-10401211 | Status: open (ATS verified)
+- Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional--Quality-Assurance-Engineering_R-10401211
 
 ### Bangalore (1)
 
