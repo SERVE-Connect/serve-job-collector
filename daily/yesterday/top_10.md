@@ -1,67 +1,83 @@
-# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-11 00:41 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-12 11:19 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Associate Engineer, IT Eng System Mgr | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-10 (1 days ago) | fresh | Score 83
-   - Fit: yes | to fresh graduates with 0 years of experience. ( Linux and Windows knowledge
-   - Experience: 0 yrs | Qualification: Bachelor
-   - ID: JR112672 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer--IT-Eng-System-Mgr_JR112672
+1. **Securities & Derivatives Intmd Analyst (Digital Asset Custody Operations) - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-12 (0 days ago) | fresh | Score 94
+   - Fit: yes | field. Experience: 3–5 years of experience in settlements and reconciliat
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: & Skills Required Education: (good to have) Bachelor’s degree in Finance, Technology, Business Administration, or related field. Experience: 3–5 years of experience in settlements and reconciliations (digital asset or securities operations). Prior checker or transaction authorization experience
+   - ID: 261007963 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Intmd-Analyst--Digital-Asset-Custody-Operations----PUNE_261007963
 
-2. **Data Engineer I, DSP Analytics | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-10 (1 days ago) | fresh | Score 79
-   - Fit: yes | - 2+ years of data engineering experience - Experience
-   - Experience: 2+ yrs
-   - ID: 10601582 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10601582/data-engineer-i-dsp-analytics
+2. **CTL-Quick Commerce Last Mile, Quick Commerce Last Mile | Amazon**
+   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-11 (1 days ago) | fresh | Score 87
+   - Fit: yes | - Bachelor's degree, or 2+ years of solving problems with technology in the T
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: 10602026 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10602026/ctl-quick-commerce-last-mile-quick-commerce-last-mile
 
-3. **Operations Analyst Payment | Barclays**
+3. **Social Experience Analyst | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-11 (1 days ago) | fresh | Score 83
+   - Fit: yes | Required Skills: 1–3 years in social care, customer support, or digital
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - ID: JR367933 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Social-Experience-Analyst_JR367933
+
+4. **Technical Analyst | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-10 (1 days ago) | fresh | Score 79
+   - Posted: 2026-11-12 (0 days ago) | fresh | Score 82
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000132293 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Operations-Analyst-Payment_JR-0000132293
+   - ID: JR-0000124719 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Analyst_JR-0000124719
 
-4. **Team Leader, Customer Experience | DoorDash India**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-10 (1 days ago) | fresh | Score 78
-   - Fit: yes | experience You have 2+ year or more of people management or team lead ex
+5. **Software Engineer | ServiceNow**
+   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-12 (0 days ago) | fresh | Score 81
+   - Fit: yes | function or industry. 2+ years of experience with Java or a similar OO lang
    - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: experience in the tech, restaurant, or logistics industries (preferred) You have familiarity with working with large, diverse customer support, operations, and sales organizations (preferred) You have flexibility to occasionally work shifts, holidays, and outside of standard schedule Are bilingual
-   - ID: 8374610 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8374610
+   - ID: 744000161221879 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161221879
 
-5. **Business Execution Consultant-3 | Wells Fargo**
+6. **Professional, Quality Assurance Engineering | Fiserv**
+   - Pune - Trion Business Park, India | Work mode: onsite | Section: QA / Testing
+   - Posted: 2026-11-12 (0 days ago) | fresh | Score 81
+   - Fit: yes | you'll need to have: 4+ years of experience in software quality assurance
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - ID: R-10401211 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional--Quality-Assurance-Engineering_R-10401211
+
+7. **Trade Services Processor | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-10 (1 days ago) | fresh | Score 78
-   - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
+   - Posted: 2026-11-12 (0 days ago) | fresh | Score 81
+   - Fit: yes | Qualifications: 1+ year of Trade Services support experience, or equ
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: R-557025 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Trade-Services-Processor_R-557025
+
+8. **Consultant - Financial Reconciliation | Nium**
+   - Mumbai | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-12 (0 days ago) | fresh | Score 80
+   - Fit: yes | holiday schedule. 4-6 years of relevant experience in the reconciliation
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - ID: 581d7886-9d43-4aa1-9f0e-1cecaba7ef08 | open (ATS verified)
+   - Apply: https://jobs.lever.co/nium/581d7886-9d43-4aa1-9f0e-1cecaba7ef08
+
+9. **key account management | CRED**
+   - bengaluru | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-11-11 (1 days ago) | fresh | Score 78
+   - Fit: yes | with insurer partners 2-4 years of experience in insurance partner managemen
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - ID: 30d6a745-5873-4079-bd59-449ff3a977f5 | open (ATS verified)
+   - Apply: https://jobs.lever.co/cred/30d6a745-5873-4079-bd59-449ff3a977f5
+
+10. **Software Engineer - Cloud Native Protection | Rubrik**
+   - Bangalore  | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-11 (1 days ago) | fresh | Score 77
+   - Fit: yes | or related field 2+ years of relevant work experience,&nbsp; Proficien
    - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-575506 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant-3_R-575506
-
-6. **Software Dev Engineer II, Amazon India CFX team  | Amazon**
-   - Gurugram, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-10 (1 days ago) | fresh | Score 75 | second job
-   - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs
-   - ID: 10594182 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10594182/software-dev-engineer-ii-amazon-india-cfx-team
-
-7. **Software Engineering MTS – Production Support & AI Automation | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-10 (1 days ago) | fresh | Score 72
-   - Fit: yes | What You'll bring 3+ yrs of programming exp in at least one language,
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: JR365887 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS---Production-Support---AI-Automation_JR365887
-
-8. **Fraud Operations Associate SDC | Stripe**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-10 (1 days ago) | fresh | Score 54
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 8158943 | open (ATS verified)
-   - Apply: https://stripe.com/jobs/search?gh_jid=8158943
+   - ID: 8327940 | open (ATS verified)
+   - Apply: https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940
