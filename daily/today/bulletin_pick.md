@@ -1,4 +1,4 @@
-# SERVE bulletin picks, 2026-11-14 00:55 UTC
+# SERVE bulletin picks, 2026-11-14 01:50 UTC
 8 jobs: 8 from today/yesterday, 0 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
 1. **Technical Business Analyst, Product & Pricing Operations | Salesforce**

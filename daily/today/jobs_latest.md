@@ -1,6 +1,6 @@
-# SERVE jobs, collected 2026-11-14 00:55 UTC
-Window: last 7 days. Boards read OK: 44. Boards failed: 12. Jobs: 283 (IT: 144).
-Failed boards: workday:Mastercard (HTTP 521); workday:Autodesk (HTTP 521); workday:NVIDIA (HTTP 521); workday:Fiserv (HTTP 521); workday:Adobe (HTTP 521); workday:HP (HTTP 521); workday:Wells Fargo (HTTP 521); workday:Citi (HTTP 521); workday:Intel (HTTP 521); workday:Micron (HTTP 521); workday:PayPal (HTTP 521); workday:Workday (HTTP 521)
+# SERVE jobs, collected 2026-11-14 01:50 UTC
+Window: last 7 days. Boards read OK: 42. Boards failed: 14. Jobs: 283 (IT: 144).
+Failed boards: workday:Mastercard (HTTP 521); workday:Autodesk (HTTP 521); workday:NVIDIA (HTTP 521); workday:Broadcom (HTTP 521); workday:BMC Software (HTTP 521); workday:Fiserv (HTTP 521); workday:Adobe (HTTP 521); workday:HP (HTTP 521); workday:Wells Fargo (HTTP 521); workday:Citi (HTTP 521); workday:Intel (HTTP 521); workday:Micron (HTTP 521); workday:PayPal (HTTP 521); workday:Workday (HTTP 521)
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
@@ -812,6 +812,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8358353 / P17750_3612345 | Status: open (ATS verified)
 - Apply: https://www.okta.com/company/careers/opportunity/8358353?gh_jid=8358353
 
+**Staff Software Engineer | Okta**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-11 (3 days ago) | New today: no
+- Fit: no | you bring to the role 5+ years of full stack development experience. Experi | Score: 47
+- Experience: 5+ yrs | Qualification: Bachelor
+- ID: 8345801 / P26238_3607357 | Status: open (ATS verified)
+- Apply: https://www.okta.com/company/careers/opportunity/8345801?gh_jid=8345801
+
 **Lead Software Engineer | Capital One**
 - Location: Bangalore, In | Work mode: unspecified
 - Posted: 2026-11-11 (3 days ago) | New today: no
@@ -854,14 +862,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Requirements: engineering experience using IBM DOORS NG with adherence to ASPICE development and change‑management processes. Hands‑on hardware debugging and validation skills, including structured root cause analysis (DoE) and lab‑based troubleshooting. Knowledge of automotive standards and compliance,
 - ID: 744000161028378 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161028378
-
-**Staff Software Engineer | Okta**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-11 (3 days ago) | New today: no
-- Fit: no | Score: 45
-- Qualification: Bachelor
-- ID: 8263825 / P22385_3575625 | Status: open (ATS verified)
-- Apply: https://www.okta.com/company/careers/opportunity/8263825?gh_jid=8263825
 
 **Senior Staff Technical Architect, Infrastructure and Cloud | ServiceNow**
 - Location: Bangalore, Karnataka, India | Work mode: hybrid

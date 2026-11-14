@@ -1,4 +1,4 @@
-# SERVE ranked lists, collected 2026-11-14 00:55 UTC
+# SERVE ranked lists, collected 2026-11-14 01:50 UTC
 Each file below is a ready top-10 list. Commands read one file only.
 
 | File | List | Jobs |

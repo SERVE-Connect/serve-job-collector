@@ -1,4 +1,4 @@
-# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-14 00:55 UTC
+# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-14 01:50 UTC
 8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Group Records Execution Analyst | Barclays**

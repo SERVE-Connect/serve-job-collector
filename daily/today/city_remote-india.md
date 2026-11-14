@@ -1,4 +1,4 @@
-# SERVE ranked list: Jobs in Remote (India) (all domains, all experience levels), collected 2026-11-14 00:55 UTC
+# SERVE ranked list: Jobs in Remote (India) (all domains, all experience levels), collected 2026-11-14 01:50 UTC
 4 jobs, best score first: 2 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Vendor Consultant, Arabic, Vendor Consultant Program | Amazon**

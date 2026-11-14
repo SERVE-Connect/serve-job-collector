@@ -140,12 +140,12 @@
   "error": "HTTP 521"
  },
  "workday:Broadcom": {
-  "ok": true,
-  "listed": 12
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:BMC Software": {
-  "ok": true,
-  "listed": 0
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Fiserv": {
   "ok": false,
