@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-11-14 01:50",
+ "generated_utc": "2026-11-14 03:23",
  "window_days": 7,
- "job_count": 69,
+ "job_count": 70,
  "jobs": [
   {
    "title": "SEO & Digital Marketing Specialist",
@@ -1122,6 +1122,23 @@
    "id": "https://jobs.wordpress.net/?post_type=job&p=64984",
    "board": "WordPress Jobs",
    "board_key": "wpjobs",
+   "source": "remote-board",
+   "status": "listed on the board's feed, not checked on an employer page"
+  },
+  {
+   "title": "Senior Full Stack Software Engineer (Remote)",
+   "company": "Emergent 3",
+   "location": "Remote / USA",
+   "posted": "2026-11-13",
+   "age_days": 1,
+   "exp_label": "",
+   "qualification": "",
+   "salary": "",
+   "requirements": "",
+   "apply_url": "https://larajobs.com/job/3956",
+   "id": "https://larajobs.com/job/3956",
+   "board": "Laravel Jobs",
+   "board_key": "larajobs",
    "source": "remote-board",
    "status": "listed on the board's feed, not checked on an employer page"
   },

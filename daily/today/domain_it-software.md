@@ -1,4 +1,4 @@
-# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-14 01:50 UTC
+# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-14 03:23 UTC
 7 jobs, best score first: 6 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Technical Business Analyst, Product & Pricing Operations | Salesforce**

@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14 01:50",
+ "generated_utc": "2026-11-14 03:23",
  "window_days": 7,
  "job_count": 283,
  "jobs": [
@@ -2490,7 +2490,7 @@
    "description": "MongoDB Technical Services partners with customers to help them successfully run MongoDB in production. Our globally distributed organization provides 24x7x365 support through a follow-the-sun model, combining deep technical expertise with a strong commitment to customer outcomes.\nThe Role\nMongoDB Technical Services Engineers use their exceptional problem solving and customer service skills, along with their deep technical experience, to advise customers and to solve their complex MongoDB ecosystem problems. Technical Service Engineers are experts in the entire MongoDB ecosystem - database server, drivers, cloud and infrastructure. This also includes services such as Atlas (database as a service), or Cloud Manager (which helps customers with automation, backup and monitoring of their MongoDB systems). Our engineers combine their MongoDB expertise with passion, initiative, teamwork and a great sense of humor to help our customers to be successful with MongoDB.\nWe are looking to speak to candidates who are based in Gurugram and Bengaluru for our hybrid working model.\nCool things you’ll do\nYou’ll bring strong SQL (and/or NOSQL) and database fundamentals, a practical approach to technical problem-solving, and genuine curiosity about the trade-offs between performance and cost. You’ll also help build the AI-enabled support infrastructure that lets customers and engineers solve problems more effectively.\nWhat you’ll do\n• Diagnose problems across application, database, network, storage and infrastructure layers using logs, metrics, traces, query plans and other diagnostic evidence\n• Advise customers and prospects on data architecture, query performance, and practical ways to meet their performance and cost goals\n• Be a trusted technical voice throughout evaluation and adoption, communicating trade-offs clearly to engineers and other stakeholders\n• Bring customer feedback, recurring issues, and product gaps to Product and Engineering, and help turn those signals into…"
   },
   {
-   "score_rank": 214,
+   "score_rank": 213,
    "score": 46,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Delhi NCR / Haryana",
@@ -3232,41 +3232,6 @@
    "geo_rank": 6,
    "posted": "2026-11-11",
    "age_days": 3,
-   "title": "Staff Software Engineer",
-   "company": "Okta",
-   "location": "Bengaluru, India",
-   "work_mode": "unspecified",
-   "multi_city": false,
-   "fit_0_5": "no",
-   "exp_years_est": 5.5,
-   "exp_hint": "you bring to the role 5+ years of full stack development experience. Experi",
-   "exp_label": "5+ yrs",
-   "qualification": "Bachelor",
-   "salary": "",
-   "requirements": "",
-   "bulletin_pick": "",
-   "new_today": false,
-   "already_sent": false,
-   "id": "8345801",
-   "req_id": "P26238_3607357",
-   "status": "open (ATS verified)",
-   "apply_url": "https://www.okta.com/company/careers/opportunity/8345801?gh_jid=8345801",
-   "source": "greenhouse",
-   "cities": [
-    "Bangalore"
-   ],
-   "domains": [],
-   "internship": false,
-   "description": "Secure Every Identity, from AI to Human\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\nStaff Software Engineer - Support Tooling\nAuth0 is an easy-to-implement authentication and authorization platform designed by developers for developers. We make access to applications safe, secure, and seamless for the more than 100 million daily logins around the world. Our modern approach to identity enables this Tier-Ø global service to deliver convenience, privacy, and security so customers can focus on innovation.\nWe are looking for a Senior Full Stack Software Engineer to join the Support Tooling Team. The team builds and maintains the internal tools that help our support engineers and teammates meet customer needs. You will work on upcoming architecture and security needs for the tooling, authentication and authorization for internal users, and maintaining &amp; new functionality requested by internal support teams.\nWhat you'll be doing\n• Build secure, performant, cross-platform applications for the support team.\n• Evaluate and maintain the architecture of our tooling, and assess new technologies and techniques to improve our practices.\n• Design and improve authentication and authorization for internal tools.\n• Build new features and maintain existing ones across the full technical stack.\n• Collaborate across teams to solve technical and non-technical challenges.\n• Participate in the team's on-call rotation.\n• Debug and resolve production issues.\nWhat you bring to the role\n• 5+ years of full stack development experience.\n• Experience with React and…"
-  },
-  {
-   "score_rank": 198,
-   "score": 47,
-   "section": "Senior IT roles (5+ yrs)",
-   "city_group": "Bangalore",
-   "geo_rank": 6,
-   "posted": "2026-11-11",
-   "age_days": 3,
    "title": "Lead Software Engineer",
    "company": "Capital One",
    "location": "Bangalore, In",
@@ -3295,7 +3260,7 @@
    "description": "Voyager (94001), India, Bangalore, Karnātaka\nLead Software Engineer\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment?\nAt Capital One India, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Lead Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\nThe Machine Learning eXperience (MLX) team is at the forefront of how Capital One builds and deploys responsible GenAI and ML models; we onboard and educate associates on the GenAI and ML platforms and products that the whole company uses; we drive new innovation and research; and we’re working to seamlessly infuse GenAI and ML into the fabric of the company. The AI experience we're creating is the foundation upon which our lines of business will continue to deliver next-generation machine learning-driven products and services for our more than 100MM customers.\nWhat You’ll Do:\n• Lead a portfolio of diverse technology projects with deep experience in distributed systems, microservices, platform engineering, and AI/ML applications.\n• Partner with product, design, data science, and engineering teams to define and deliver scalable AI/ML platform capabilities and developer experiences.\n• Design and develop production-grade APIs, SDKs, libraries, microservices, and developer tools that enable teams to build, integrate, evaluate, and operate AI/ML applications.\n• Build and integrate GenAI capabilities including LLMs, RAG, agents, tool use, orchestration, inference, and AI evaluation into enterprise platforms and applications.\n• Develop capabilities for LLM/AI observability, evaluation, monitoring, and responsible AI,…"
   },
   {
-   "score_rank": 199,
+   "score_rank": 198,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -3330,7 +3295,7 @@
    "description": "Roles & Responsibilities :\n• Own and prioritize the team backlog: ServiceNow features (catalog items, flows, portal and ITSM enhancements), ATF suites and CI/CD quality gates.\n• Turn business needs into clear epics, stories and acceptance criteria with stakeholders, developers and testers, including the automated tests each story needs.\n• Accept delivered work against acceptance criteria and test results, and plan releases with the team.\n• Track delivery and quality metrics (velocity, automation coverage, pass rates, defect leakage) and use them to set priorities.\n• Make sure features and regression suites are ready for platform upgrades and transition wave go-lives.\nEducational qualification:\nB.E - Computer Science or IT\nExperience :\n• 6 to 10 years in IT, with at least 3 years of ServiceNow development or testing and at least 2 years as a Product Owner or team lead.\n• Good knowledge of ServiceNow development: Service Catalog, Workflow Studio/Flow Designer, portals, integrations and ITSM.\n• Hands-on ATF knowledge (test steps, suites, templates, scheduled runs).\n• Experience with CI/CD pipelines and Agile DevOps teams.\nMandatory/requires Skills :\nProduct Management, Leading Teams\nPreferred Skills :\nPSPO, CSPO or SAFe POPM; ServiceNow Certified System Administrator (CSA); Certified Application Developer (CAD) or ISTQB Foundation.\nManual Approved PANF#BD/PA-SM_MX_India_136"
   },
   {
-   "score_rank": 200,
+   "score_rank": 199,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -3365,7 +3330,7 @@
    "description": "Roles & Responsibilities:\n• Design, develop, test, and deploy machine learning models and generative AI solutions using state-of-the-art algorithms with a strong focus on large language models\n• Build end-to-end AI/ML/NLP solutions including conversational AI, document understanding, and question-answering systems\n• Develop and fine-tune language models (LLMs, SLMs) using frameworks like LlamaIndex, Langchain, and Autogen, with expertise in RAG, prompt engineering, and model optimization techniques\n• Mine and analyze data using statistical methods to identify critical product insights and customer patterns\n• Translate analytic insights into concrete, actionable recommendations for business and product improvement\n• Define, deploy, and mentor best practices in machine learning, MLOps, and LLMOps across teams\n• Lead projects independently, provide technical direction to team members, and champion effective techniques through development\n• Partner closely with product and engineering leaders throughout the project lifecycle\n• Communicate data-driven insights clearly and concisely to stakeholders at all organizational levels through effective storytelling and visualization\nExperience Required:\n5-8 years of experience as a Data Scientist or GenAI specialist, with 2-3 years specifically in generative AI solution development\n**Must have Skills:**\n• 5-8 years of experience as a Data Scientist or GenAI specialist, with 2-3 years specifically in generative AI solution development\n• Proficiency in Python , TensorFlow, Keras, PyTorch, and NLP libraries (NLTK, SpaCy, Gensim)\n• Hands-on experience with open-source LLMs (Llama, Gemma, Mixtral) and closed-source models (GPT, Azure OpenAI , Claude, Gemini)\n• Strong understanding of vector databases (Pinecone, Qdrant) and cloud services (Azure, GCP, AWS)\n• Expertise in NLP algorithms for intent recognition, entity extraction, text classification, summarization, and question answering\n**Good to Have skills*\n• Prior experience in…"
   },
   {
-   "score_rank": 201,
+   "score_rank": 200,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -3400,7 +3365,7 @@
    "description": "• Execute customer projects for External Gear units from initial enquiry through engineering release, including CKD projects.\n• Collaborate with Sales and Product Management to provide value-engineering support for configuration orders.\n• Manage the MaCS tool for REACH/RoHS conformity documentation for OEG products.\n• Create and maintain material master data in SAP and support other SAP-related engineering activities.\n• Support and monitor Variant project releases, ensuring timely coordination with colleagues.\n• Build competency and contribute to DFMEA, 8D, IPN, PEP, and PEP Lite activities.\n• Provide cross-plant engineering support for customer projects, MaCS, SAP, and related technical topics.\n• Creation of 3D models of new and existing products using CREO\n• Process and coordinate Engineering Change Requests (ECR) and Engineering Change Notifications (ECN).\nB.E./B.Tech in Mechanical Engineering with 5- 8 years of experience\n• Strong knowledge of Mechanical Engineering fundamentals.\n• Experience with CAD tools such as Creo, Windchill, or equivalent PLM systems.\n• Strong analytical and problem-solving skills.\n• Effective communication and stakeholder management skills.\n• Ability to work in a global and cross-functional environment."
   },
   {
-   "score_rank": 202,
+   "score_rank": 201,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Bangalore",
@@ -3433,6 +3398,41 @@
    "domains": [],
    "internship": false,
    "description": "Hardware Design Engineer – LV/HV Power Electronics & Inverters\nRole Summary\nResponsible for the end-to-end design and development of low-voltage and high-voltage power electronics hardware, including DC/DC converters and low-power inverter systems, covering analog/digital circuitry, simulations, PCB design support, testing, and compliance with automotive standards.\nKey Responsibilities\n• Design analog and digital circuits using microcontrollers, op-amps, transistor families, and mixed-signal interfaces.\n• Develop low-voltage DC/DC converters and high-voltage wide-input flyback converters (multiple outputs, isolation, transformer design, feedback).\n• Design B6 bridge HV inverter (1200V) using SiC MOSFETs, gate drivers, HV filter protection, thermal design, PCB stack-up and insulation.\n• Perform worst-case design calculations, derating, stress and power-loss analysis.\n• Conduct PSpice/LTspice simulations (time-domain, frequency-domain, Monte Carlo).\n• Create schematics in Zuken CR8000/OrCAD and support PCB layout (Allegro/PADS) with considerations for EMC, PCB stack-up, PCB track characteristics, and manufacturability.\n• Capture/analyze customer requirements using IBM DOORS NG and follow ASPICE processes.\n• Support hardware testing, debugging (Design of experiments), and validation.\n• Ensure compliance with ISO 16750, ISO 7637, CISPR 25, ISO 11452, and reinforced insulation standards (12V/24V/400-800V).\nRequired Skills\n• Analog & mixed‑signal circuit design using MCUs, op‑amps, BJTs/MOSFETs, ADC/DAC interfaces, and standard communication interfaces (SPI, I²C, UART, CAN).\n• Power electronics design experience with low‑voltage DC/DC converters and wide‑input isolated flyback converters, including magnetics, feedback, and multi‑output regulation.\n• High‑voltage inverter design expertise (up to 1200 V) with SiC MOSFETs, isolated gate drivers, protection concepts, thermal design, and reinforced insulation.\n• Strong analytical capability in worst‑case design, derating,…"
+  },
+  {
+   "score_rank": 219,
+   "score": 45,
+   "section": "Senior IT roles (5+ yrs)",
+   "city_group": "Bangalore",
+   "geo_rank": 6,
+   "posted": "2026-11-11",
+   "age_days": 3,
+   "title": "Staff Software Engineer",
+   "company": "Okta",
+   "location": "Bengaluru, India",
+   "work_mode": "unspecified",
+   "multi_city": false,
+   "fit_0_5": "no",
+   "exp_years_est": "",
+   "exp_hint": "",
+   "exp_label": "",
+   "qualification": "Bachelor",
+   "salary": "",
+   "requirements": "",
+   "bulletin_pick": "",
+   "new_today": false,
+   "already_sent": false,
+   "id": "8263825",
+   "req_id": "P22385_3575625",
+   "status": "open (ATS verified)",
+   "apply_url": "https://www.okta.com/company/careers/opportunity/8263825?gh_jid=8263825",
+   "source": "greenhouse",
+   "cities": [
+    "Bangalore"
+   ],
+   "domains": [],
+   "internship": false,
+   "description": "Secure Every Identity, from AI to Human\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\nWe are looking for a Staff Software engineer who is passionate about writing the tools to integrate and support to build large-scale, high-demand software in a fast-paced agile environment. You will share our passion for test-driven development, continuous integration and automation to produce frequent high-quality releases.\nOur engineering team is fast, innovative and flexible; with a weekly release cycle and individual ownership. We expect great things from our engineers and reward them with stimulating new projects, emerging technologies and the chance to be part of a company that is changing the cloud computing landscape forever.\nYou will get an opportunity to work in scaling our infrastructure to next generation. Our scale is already huge in running tens of thousands of tests for every commit automatically.&nbsp; This comes with challenges in speed by reducing compute time from days to few minutes.&nbsp;\nResponsibilities:\nMajor areas of responsibility include:\n• You will be part of the team that builds, maintains, and improves our highly-automated build, release and testing infrastructure.\n• Scripting, tools-building, and automation are paramount to Okta Engineering; everybody automates. You will be creating and coding tools for internal use to support continuous delivery.&nbsp;\n• Team up with Development, QA and OPS to continuously innovate and enhance our build and automation infrastructure\n• Collaborate with peers and stake-holders to create new…"
   },
   {
    "score_rank": 220,
@@ -4590,7 +4590,7 @@
    "description": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.\nJob Category\nSoftware Engineering\nJob Details\nAbout Salesforce\nSalesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.\nReady to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.\nThe Experience\nThe Revenue Analytics team builds the data platforms, intelligent products, application capabilities, and AI-enabled automation that power enterprise decision-making. We combine deep engineering expertise with business context to deliver trusted, scalable systems for both human and agent-driven workflows.\nWe partner with business and technology leaders to solve complex challenges through modern data architecture, governed data products, and agentic systems, emphasizing production reliability, measurable business value, and responsible automation.\nWe are seeking a Lead Member of Technical Staff (LMTS) to be a hands-on technical execution lead across our core data platform and its application integration interfaces. Working within the architecture set by Principal Engineers, you will own delivery of high-impact data engineering projects, mentor senior engineers, and turn complex requirements into production-ready software.\nWhat You'll Actually Be Doing\n• Lead design, delivery and optimization of end-to-end batch and event-driven data pipelines, writing production code and guiding the team to ship scalable data products on schedule\n• Define…"
   },
   {
-   "score_rank": 203,
+   "score_rank": 202,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -4625,7 +4625,7 @@
    "description": "We are looking for an experienced SAP SD and GTS Functional Lead to spearhead the Sales and Distribution (SD) module for our organization. The ideal candidate will be responsible for configuring, customizing, and deploying the SD module to enhance our sales, distribution, and returns management processes.\nKey job responsibilities\n* Analyze and document business requirements related to sales, distribution, and returns management processes.\n* Implement and support business processes such as B2B (Business-to-Business), Make-to-Stock, VMI (Vendor Managed Inventory), Contract Manufacturing, Vendor Consignment, Subcontracting, 3rd Party, Inter-company sales, Back Order Processing, Rebates and Settlement management.\n* Design and configure the SAP SD module to meet the identified business requirements, including:\n* Sales Order management in SAP S/4 HANA\n* Pricing and condition techniques\n* Delivery and transportation management\n* Returns management and credit/debit memo processing\n* Integration with other SAP modules (e.g., MM, FICO, LE, GTS)\n* Customize and develop SAP SD solutions, including user exits, and enhancements, to address any gaps between standard SAP functionality and specific business needs.\n* Manage and support all Sales and Distribution related Data Workflows, including all Partner EDI communications, interfaces, and APIs with external applications\n* Collaborate with cross-functional teams to ensure seamless integration and data flow across modules.\n* Implement and configure Global Trade Services (GTS) related business process and integration with SAP modules including but not limited to Sanctioned Party List (SPL), Global Trade Compliance, Trade preference management.\n* Document configurations, customization, and best practices for future reference and knowledge transfer.\n- 10+ years of IT development or implementation/consulting in the software or Internet industries experience\n- 10+ years implementing SAP S/4HANA SD, with focus on supply chain…"
   },
   {
-   "score_rank": 204,
+   "score_rank": 203,
    "score": 47,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -4660,7 +4660,7 @@
    "description": "Off-Amazon Selection (OAS) team aims to make worldwide selection discoverable and shoppable for its customers using large language models, and Agentic AI. In EU Off-Amazon Selection (EU OAS), we bring OAS to customers in Amazon's European stores building and owning OAS customer experiences and systems covering for multilingual, multi-currency and multi-country usecases within the constraints of EU regulatory setup.\nWe are looking for a Software Development Manager to setup and lead the EU OAS engineering team in Hyderabad. As its founding manager, you will hire a full team comprising of software development, machine learning and support engineers, set the technical direction for EU OAS engineering, and lay its foundations. You will lead your team's work from the first launches to scale across Amazon's European stores, and take on more of OAS as the program grows in the coming years.\nYou will build from scratch with a large platform team beside you. EU OAS is part of Localization group, whose platform processes tens of millions of products every day with machine translation, large language models and machine learning quality checks. You will reuse what already works at Amazon scale, partner with its engineers and scientists, and use that head start to make EU OAS bigger, faster.\nThe problems are new and hard. Your team will build catalog, discovery and commerce systems that take in product information in many formats and levels of quality, decide what is accurate and eligible to show customers, match it to the Amazon catalog, and help customers discover, evaluate and buy it.\nIf you want to build a team and a customer facing product from the start across 10 EU Stores, with the newest AI and a large platform behind you, we would love to talk to you.\nKey job responsibilities\n- Hire, develop and lead the founding team, and set a high bar for every engineer you hire and grow.\n- Own the technical vision, roadmap and architecture for your team's catalog, discovery and…"
   },
   {
-   "score_rank": 215,
+   "score_rank": 214,
    "score": 46,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -4695,7 +4695,7 @@
    "description": "About Flow by ServiceNow\nFlow is a product and a new business unit in ServiceNow staffed by a team of 0-1 builders. We’re creating Flow, an AI-native conversational experience for natural language automation and enterprise service management. Flow is built on a new tech stack with new ways of working. We challenge established practices and are defining a new product and GTM playbook for ServiceNow. Flow puts what we build in front of the largest possible audience. You’ll have real ownership of the work, the freedom to move fast, and the resources of a global technology leader behind you. If you have a point of view on building and want to start from the beginning again, we want to talk to you, wherever you are.\nPlenty of people can ship an AI prototype this year. Few get to build a product that runs enterprise work at global scale. Join us.\nJob Description\nWe are hiring a hands-on Senior Forward Deployed Solutions Engineer who serves as the technical champion for customers, guiding them from their first demo and trial to long-term success with Flow. You will demonstrate the product, answer technical questions, set up and enable Flow, and help customers build automations and integrations through AI-assisted, natural-language development. You will solve problems the product does not yet handle and translate customer needs into clear requirements that help product managers prioritize what to build next. The role combines technical implementation, customer success, and support.\nReady to be the person who turns “we’re stuck” into “we’re live”? We’re looking for a hybrid problem-solver who helps trial customers and enterprise IT teams unlock the full power of Flow. You will own complex customer problems end to end, and your work will shape what Flow does next.\nWhat You Will Do\nTechnical Solutions\n• Work with customer IT and security teams to configure SSO and integrations with tools such as Okta, Microsoft Teams, Slack, and ServiceNow.\n• Build, test, and launch…"
   },
   {
-   "score_rank": 216,
+   "score_rank": 215,
    "score": 46,
    "section": "Senior IT roles (5+ yrs)",
    "city_group": "Hyderabad",
@@ -6499,7 +6499,7 @@
    "description": "We are seeking an experienced, techno-functional Business Systems Analyst (BSA) with broad experience across enterprise finance systems and processes, including accounting, Order-to-Cash (OTC), Source-to-Pay (S2P), and Procure-to-Pay (P2P). The ideal candidate will bridge business stakeholders and technical teams to deliver system enhancements, integrations, automation, and process improvements across the finance function. The role requires an understanding of end-to-end finance processes, requirements gathering, functional configuration, integration design, testing, production support, and stakeholder management.\n1. Business Analysis and Process Management\n• Partner with Procurement, Accounts Payable, Finance, and business stakeholders to gather, analyze, and document business requirements\n• Translate business requirements into functional specifications, user stories, process flows, and solution designs\n• Analyze and optimize end-to-end finance processes, including general ledger, record-to-report, accounts payable, accounts receivable, Order-to-Cash (OTC), Source-to-Pay (S2P), Procure-to-Pay (P2P), billing, collections, reconciliations, and financial close\n• Conduct fit-gap analysis and recommend scalable solutions aligned with business and compliance requirements\n• Facilitate stakeholder workshops, requirement reviews, and solution walkthroughs\n2. Integrations and Technical Collaboration\n• Work with integration developers to define interface requirements, data mappings, transformation rules, and error-handling mechanisms\n• Support integrations using REST/SOAP APIs, SFTP, flat files, and middleware or iPaaS platforms\n• Analyze integration failures, data discrepancies, synchronization issues, and transaction errors\n• Document interface specifications, field mappings, dependencies, and reconciliation procedures\n• Collaborate with ERP teams, particularly NetSuite, SAP, or Oracle, to support financial postings and master data synchronization\n3. Testing, Deployment,…"
   },
   {
-   "score_rank": 205,
+   "score_rank": 204,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -6534,7 +6534,7 @@
    "description": "What you get to do in this role:\n• Support product sales as a technical, solution, and industry domain expert within a client-facing sales team pursuing strategic enterprise customers and prospects.\n• Bring industry-specific expertise across Manufacturing, Retail, IT/ITES, and/or Telecommunications, with the ability to understand industry operating models, customer journeys, service operations, business processes, technology landscapes, and transformation priorities.\n• Translate industry challenges into compelling solution narratives by connecting business outcomes, customer experience, workflow transformation, automation, data, and AI with ServiceNow capabilities.\n• Lead executive and technical discovery workshops to uncover customer priorities, operational challenges, transformation opportunities, and desired business outcomes.\n• Develop and deliver compelling product demonstrations and solution experiences that reflect real industry scenarios and end-to-end business processes, rather than feature-led demonstrations.\n• Engage credibly with senior business stakeholders, CIO/CTO/CBO organizations, enterprise architects, operations leaders, and transformation teams.\n• Develop strong client and partner relationships and establish yourself as a trusted advisor throughout the sales cycle.\n• Develop solution architectures that demonstrate how ServiceNow integrates with a customer's broader enterprise technology ecosystem, including CRM, ERP, contact center, data, integration, and AI platforms.\n• Articulate the role of AI, Agentic AI, automation, workflow orchestration, and data in transforming industry-specific processes and customer experiences.\n• Stay current on competitive positioning, industry trends, emerging technology, AI developments, and market differentiation.\n• Represent ServiceNow at executive briefings, customer workshops, conferences, industry forums, user groups, partner events, and trade shows.\nTo be successful in this role you have:\n• Experience in…"
   },
   {
-   "score_rank": 206,
+   "score_rank": 205,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Delhi NCR / Haryana",
@@ -7781,7 +7781,7 @@
    "description": "What you get to do in this role:\n• Understand customers’ unique needs for our products, including defining and synthesizing user needs, pain points, use cases, and specific product opportunities.\n• Build trusted relationships across PM, Design, Engineering, and Support so research is brought into roadmap conversations early.\n• Serve as a strategic partner to Product Managers, Designers, and other cross-functional team members to influence product strategy and roadmaps through actionable insights and data.\n• Influence product decisions by presenting evidence that reframes problems, shifts priorities, or changes scope.\n• Triangulate quant, qual, and telemetry data to formulate a strong perspective for the future state of the product and develop strategic and tactical insights with actionable recommendations.\n• Translate complex research into clear, compelling narratives tailored to audiences from designers to executives. Champion the strategic value of research with senior leaders to expand its role in product decisions.\n• Use advanced AI skills to enhance the execution and analysis phases to move fast.\n• Provide mentorship to other members of the team and champion the discipline across the organization.\nBasic Qualifications (The must have):\n• Experience in leveraging how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.\n• Proven track record in using qual and quant research methods in solving user problems.\n• Extensive experience in applying customer-centered research techniques to product definition and designs.\n• Expert knowledge in defining, planning and executing research studies including outlining objectives, goals, and timelines. This includes developing sample plans and determining the best data collection approach using quantitative and/or qualitative methods.\n• Expert…"
   },
   {
-   "score_rank": 207,
+   "score_rank": 206,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -7819,7 +7819,7 @@
    "description": "Razorpay is one of India’s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we’ve since grown into a fintech powerhouse driving India’s digital payment revolution.\nRazorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow.\nFrom building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech\nAcross India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that’s redefining how money moves across Asia.\nToday, that ecosystem supports everyone from early-stage startups to some of India’s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently.\nOur scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow, Zomato, Swiggy, Lenskart, Mirae Asset Capital markets, Indian Oil, National Pension Scheme - and over 100 of India’s unicorns. With strong roots in India and growing operations in Southeast Asia, we are shaping the next chapter of financial technology across the region.\nWe are backed by global investors including GIC, Peak XV Partners (formerly Sequoia Capital India &amp; SEA), Tiger Global, Ribbit Capital, Matrix Partners, MasterCard, and Salesforce…"
   },
   {
-   "score_rank": 208,
+   "score_rank": 207,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -7856,7 +7856,7 @@
    "description": "Voyager (94001), India, Bangalore, Karnātaka\nAccounting, Audit and Tax Manager\nAt Capital One, we think big and do bigger things. We were the first company to develop and offer mass customization and personalization of credit card, auto loans and other financial services products, and we have been innovating relentlessly ever since.\nToday, we are a progressive financial services powerhouse spanning Credit Cards, Auto Loans, Savings, and Commercial Banking and at the same time a high-tech company, a scientific laboratory, and a well-recognized brand all in one. We are a passionate and entrepreneurial team with heart – a team that embraces bold ideas, fosters collaboration, and delivers world-class products and services impacting over 65 million customer accounts.\nStill founder-led by Chairman and CEO Richard Fairbank, we dare to dream, disrupt and deliver a better way for our customers, the financial industry and for each other. Our goal is simple – bring ingenuity, simplicity and humanity to an industry ripe for change.\nAt Capital One India, we solve fundamental business problems at scale using advanced analytics, data science and machine learning. We specialize in deriving valuable insights about various aspects of the business - including product and process design, consumer behavior, regulatory and credit risk, and much more - from large volumes of data to build cutting edge patentable products at an industrial scale.\nCapital One is looking for an Accounts and Tax Manager with a demonstrated ability to work across teams, develop new ideas, and take ownership of your projects. Would you like the opportunity to individually contribute to the team, along with the opportunity to grow into a leader? Would you like to work in a collaborative environment where your contributions are recognized and rewarded, all the while having a work-life balance? If so, opportunity for professional and personal fulfillment in a dynamic, progressive organization awaits you at Capital…"
   },
   {
-   "score_rank": 209,
+   "score_rank": 208,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -7891,7 +7891,7 @@
    "description": "Roles & Responsibilities :\nOwn end-to-end delivery and product management of ServiceNow products, AI development and Strategic ITSM initiatives.\n• Be accountable for service levels (SLAs, availability, user satisfaction), and drive AI use cases from proof of concept to rollout within AI governance and security requirements.\n• Lead the receiving teams through the service transition: knowledge transfer, reverse shadow, readiness sign-off and hyper care.\n• Lead, hire and develop team leads, developers, L2 engineers and contractors, building India as a ServiceNow and AI competence center.\n• Manage the contracting partner, budget and stakeholders, reporting delivery, service and financial status to the tribe lead.\nEducational qualification:\nBachelor’s or Master’s degree in computer science, Information Technology?\nExperience :\n• 15+ years of experience in IT, technology operations, service management, digital transformation or related areas.\n• Significant experience in leading complex transformation initiatives across multiple teams, functions or regions.\n• Strong understanding of ITSM processes and their integration, Infrastructure, Applications and digital services.\n• Proven experience transforming operating models, ways of working, governance or organizational structures.\n• Demonstrated experience working with senior management and influencing stakeholders across organizational boundaries.\n• Experience translating technology opportunities into business outcomes and measurable value.\n• Experience leading global or multi-regional initiatives in a complex enterprise environment.\n• Strong understanding of AI, automation, analytics and their application to technology/service management.\n• Leadership Competencies: Strategic Thinking, Transformation Leadership, Business Orientation, Influencing & Collaboration, Innovation Mindset and People Leadership\nMandatory/requires Skills :\nStrong knowledge of IT service management and transformation frameworks, with certifications…"
   },
   {
-   "score_rank": 210,
+   "score_rank": 209,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -7926,7 +7926,7 @@
    "description": "Roles & Responsibilities :\nSupervise and mentor team, fostering a collaborative and high-performance work environment.\nOversee the provisioning, modification, and deactivation of user accounts and access permissions, ensuring adherence to the principle of least privilege.?\nIncident Management: Manage and resolve incidents promptly, in alignment with ITIL best practices.?\nMaintain compliance with organizational standards and regulatory requirements.?\nAudit and Compliance: Conduct regular access reviews and quality audits to ensure compliance with internal policies?\nStakeholder Communication: Act as a liaison between the team and other departments, ensuring clear and effective communication regarding access management.\nEducational qualification:\nBachelor’s degree in Computer Science, Information Technology, or a related field.?\nExperience :\n9 years of experience in IT Support Services.?\nITIL certification is highly desirable.?\nExperience in managing a team of 20 or more associates.\nMandatory/requires Skills :\n• ITIL Framework: In-depth understanding and application of ITIL principles and practices.?\n• Incident Management: Proven experience in managing and resolving incidents promptly.?\n• Active Directory: Proficiency in administering Active Directory, including user management and group policy configuration.?\n• Network Administration: Basic knowledge of network protocols, configurations, and troubleshooting techniques.?\n• Tools: Experience with IAM technologies and tools for identity provisioning, role management, and access governance.?\nSoft Skills:\n• Leadership: Ability to lead, motivate, and develop a team effectively.?\n• Communication: Strong verbal and written communication skills, capable of conveying technical information to non-technical stakeholders.?\n• Problem-Solving: Excellent analytical skills to identify issues and implement effective solutions.?\n• Time Management: Proven ability to manage multiple tasks and priorities in a fast-paced environment.?\n•…"
   },
   {
-   "score_rank": 211,
+   "score_rank": 210,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -7961,7 +7961,7 @@
    "description": "Project Manager Purchasing – Sensors & Small Control Units\nRole Purpose\nResponsible for Purchasing Project Management for Sensors and Small Control Units (SU) products , with end-to-end ownership of the purchasing workstream for projects industrialized at the Gangaikonda Plant (GanP), India .\nAct as the local Purchasing Project Lead (PPx) and key interface between Indian stakeholders, suppliers, and the international production network (IPN), ensuring achievement of Quality, Cost and Delivery (QCD) targets from sourcing through industrialization, ramp-up, and series production.\nMajor Responsibilities\n• Take end-to-end ownership of the Purchasing workstream for Sensors and Small Control Units for GanP.\n• Act as the local Purchasing Project Lead (PPL) and primary purchasing contact for Indian stakeholders and suppliers.\n• Drive project targets for Quality, Cost and Delivery (QCD) and ensure timely achievement of purchasing milestones.\n• Coordinate purchasing activities across the complete project lifecycle, from sourcing and supplier nomination through industrialization, ramp-up and series production .\n• Represent Purchasing in cross-functional project teams , working closely with Engineering, Quality, Manufacturing, Logistics and Project Management.\n• Drive supplier readiness , including capacity, quality, cost and delivery preparedness, and lead escalation and resolution of critical supplier issues.\n• Ensure transparent and structured tracking of milestones, risks, actions, countermeasures and open points .\n• Coordinate closely with the IPN Project Lead to ensure effective alignment between international and Indian teams.\n• Prepare and lead supplier meetings, project reviews and internal cross-functional alignment meetings .\n• Proactively identify project and supply-chain risks and ensure timely escalation and implementation of countermeasures .\n• Support sourcing strategy, RFQ activities and supplier selection in collaboration with the responsible IPN Purchasing…"
   },
   {
-   "score_rank": 212,
+   "score_rank": 211,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -7996,7 +7996,7 @@
    "description": "Key Responsibilities:\n• Data Analysis and Preprocessing:\n• Gather, clean, and preprocess structured and unstructured data for analysis.\n• Perform exploratory data analysis (EDA) to uncover trends, patterns, and actionable insights.\n• Model Development:\n• Develop, train, and validate machine learning models to address business challenges.\n• Implement deep learning algorithms where applicable for advanced analytics.\n• Data Visualization:\n• Create interactive dashboards and reports to visualize insights using tools like Tableau, Power BI, or Python libraries (e.g., Matplotlib, Seaborn, Plotly).\n• Communicate results and recommendations effectively to stakeholders.\n• System Integration and Deployment:\n• Integrate ML models into production environments and ensure their scalability and performance.\n• Use tools like TensorFlow Serving, Flask, FastAPI, or Docker for model deployment.\n• Collaboration:\n• Work closely with cross-functional teams, including data engineers, business analysts, and product Planning Team, to understand project requirements.\n• Continuous Learning and Improvement:\n• Stay updated with the latest trends, technologies, and methodologies in data science, machine learning, and AI.\n• Optimize existing models and systems for improved performance and accuracy.\nmin. 1 (BE) to 6 years relevant job experience B.E in AI or CS or E&C or EEE or Mechatronics\nCertifications in AI/ML or data analytics (e.g., Google Data Analytics, TensorFlow Developer, AWS Certified Machine Learning).\nExperience with natural language processing (NLP), computer vision, or reinforcement learning\nRequired Skills and Qualifications:\n• Educational Background:\n• Bachelor’s degree in Computer Science, Data Science, Statistics, Mathematics, or related fields.\n• Technical Skills:\n• Proficiency in Python, R, or Julia.\n• Experience with machine learning libraries and frameworks (e.g., TensorFlow, PyTorch, Scikit-learn).\n• Strong knowledge of SQL and NoSQL databases.\n• Familiarity with big data…"
   },
   {
-   "score_rank": 217,
+   "score_rank": 216,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -8031,7 +8031,7 @@
    "description": "Amazon is looking for a smart, and driven Instock Manager to support US Vendor Success Program (VSP). The Instock Manager will be responsible for driving inventory decisions and key supply chain initiatives for VSP's fast-growing business. He or she will be responsible for developing and executing best practices in managing inventory to maximize sales, margin, and inventory turns. He or she will have responsibility for ensuring all inventory systems and processes are meeting the needs of the business and implementing controls around these processes. Key areas of focus include driving improvement in inventory availability, increasing inventory efficiency and improving product sourcing decisions. The Instock manager will also drive supply chain program adoption and new programs.\nA successful candidate possesses superb business judgment, instock or operations management experience, skills in working cross functionally, and a track record of delivering results through others. He or she will excel in having analytical capabilities, including experience generating and managing forecasts, reports, and analyses. The position requires an individual who can work autonomously in a demanding and often ambiguous environment, with attention to detail and effective prioritization.\nTimings will be as per USA shift, 04:00 pm IST to 01:00 am IST\nKey job responsibilities\n- Generate adoption of new instock program with the vendors.\n- Bring new supply programs to scale the business.\n- Manage relationships with vendors to ensure a reliable and operationally effective flow of goods\n- Deliver reports, project updates, and handling escalations\n- Forecast and manage efficient inbound and outbound inventory flows and health, including forecasting, purchasing, and managing down unproductive inventory\n- Measure and improve vendor lead times, reduce operational defects, and improve systems to streamline operations between vendors and Amazon.\n- Drive root cause analysis/reporting on operational…"
   },
   {
-   "score_rank": 218,
+   "score_rank": 217,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Bangalore",
@@ -8916,7 +8916,7 @@
    "description": "We are seeking a Quality Manager for our Amazon Logistics (AMZL) Last Mile Delivery Experience Team.\nThe successful candidate has last mile logistics experience, an interest in and ability to work and think analytically, and manage all the aspects of multi-disciplinary projects and programs.\nKey job responsibilities\nBecome an subject matter expert for AMZL and customer service processes and systems\nConduct root cause analysis, define corrective actions and ensure they are completed. Dive deep on executive escalations.\nDevelop a thorough understanding of customer needs and pain points related to our deliveries, both existing and potential. Produce white papers and present to senior management\nBuild strong relationships with stakeholders to understand and evaluate business priorities, define shared opportunities and requirements, and establish information sharing mechanisms. Work alongside stakeholders to define and execute innovative solutions for customers while influencing with and without authority.\nDeliver end-to-end continuous improvement programs, projects and initiatives. Develop and produce metrics and reports leading to performance improvement. Lead Kaizens or auditing activities in delivery stations to ensure process implementation.\nAbout the team\nAmazon Logistics, or AMZL, handles Last Mile delivery duties in partnership with multiple stakeholders - LM Ops, NOC, CPU, LMAQ etc. We utilize creative thinking and continuous improvement initiatives to get millions of physical products into the hands of our customers. Our goal is to make our customers’ delivery experience as smooth as possible and roll out global delivery solutions.\nKey job responsibilities\nOwn daily and weekly operational performance governance for the cluster — review metrics, identify bottom-performing stations, conduct site Gembas, and drive defect reduction through structured action tracking with clear ownership and timelines.\nPartner cross-functionally with COM leadership, Station…"
   },
   {
-   "score_rank": 213,
+   "score_rank": 212,
    "score": 47,
    "section": "Non-IT / Other",
    "city_group": "Chennai",
@@ -9530,7 +9530,7 @@
    "description": "What you get to do in this role:\n• Define and operate NPI planning & governance processes across cross-functional GTM teams, to ensure the right investment levels for product success & the ability to pivot plans and respond swiftly to customer needs\n• Influence and work cross-functionally to align functional plans\n• Ensuring comprehensive planning including post sale readiness\n• Define & manage KPI’s (leading, lagging indicators) across product lifecycle\n• Accountable for driving accountability for action plans cross-functionally to improve KPI’s\n• Mobilize and lead a variety of initiatives across the NPI transformation portfolio, including digitization and automation projects\n• Drive projects from inception to completion, ensuring all workstream deliverables are completed on time, on budget, and with quality\n• Partner closely with enterprise business planning teams to provide visibility and transparency to strategic priorities\n• Conduct thorough and detailed analysis to produce data driven recommendations to enable leadership decisions\n• Deliver progress updates to stakeholders and leadership\n• Continuously apply a customer / partner lens across the customer journey to identify and execute optimization opportunities to improve NPI objectives.\nTo be successful in this role you have:\n• Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.\n• Business Unit Financial Planning & Analysis experience\n• Strong program/project management skills & strong facilitation skills\n• Leading diverse, high performing matrixed teams\n• Highly analytical, fact driven, and process orientated mindset\n• Ability to conduct meaningful analysis of complex data and translate the results into actionable messages and deliverables\n• Thrives in fast-paced…"
   },
   {
-   "score_rank": 219,
+   "score_rank": 218,
    "score": 46,
    "section": "Non-IT / Other",
    "city_group": "Hyderabad",
