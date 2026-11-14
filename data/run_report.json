@@ -5,7 +5,7 @@
  },
  "greenhouse:Zinnia": {
   "ok": true,
-  "listed": 19
+  "listed": 18
  },
  "greenhouse:Meltplan": {
   "ok": true,
@@ -13,23 +13,23 @@
  },
  "greenhouse:Rubrik": {
   "ok": true,
-  "listed": 181
+  "listed": 182
  },
  "greenhouse:Elastic": {
   "ok": true,
-  "listed": 398
+  "listed": 400
  },
  "greenhouse:Druva": {
   "ok": true,
-  "listed": 29
+  "listed": 27
  },
  "greenhouse:Zscaler": {
   "ok": true,
-  "listed": 375
+  "listed": 373
  },
  "greenhouse:PubMatic": {
   "ok": true,
-  "listed": 77
+  "listed": 78
  },
  "greenhouse:DoorDash India": {
   "ok": true,
@@ -37,7 +37,7 @@
  },
  "greenhouse:Razorpay": {
   "ok": true,
-  "listed": 25
+  "listed": 26
  },
  "greenhouse:Graviton Research Capital": {
   "ok": true,
@@ -45,39 +45,39 @@
  },
  "greenhouse:Databricks": {
   "ok": true,
-  "listed": 906
+  "listed": 896
  },
  "greenhouse:Cloudflare": {
   "ok": true,
-  "listed": 480
+  "listed": 479
  },
  "greenhouse:Stripe": {
   "ok": true,
-  "listed": 785
+  "listed": 786
  },
  "greenhouse:Twilio": {
   "ok": true,
-  "listed": 117
+  "listed": 115
  },
  "greenhouse:Okta": {
   "ok": true,
-  "listed": 370
+  "listed": 363
  },
  "greenhouse:Datadog": {
   "ok": true,
-  "listed": 382
+  "listed": 384
  },
  "greenhouse:MongoDB": {
   "ok": true,
-  "listed": 385
+  "listed": 391
  },
  "greenhouse:Netskope": {
   "ok": true,
-  "listed": 121
+  "listed": 122
  },
  "greenhouse:PagerDuty": {
   "ok": true,
-  "listed": 48
+  "listed": 46
  },
  "lever:JumpCloud": {
   "ok": true,
@@ -89,7 +89,7 @@
  },
  "lever:Smart Working Solutions": {
   "ok": true,
-  "listed": 13
+  "listed": 12
  },
  "lever:Meesho": {
   "ok": true,
@@ -97,19 +97,19 @@
  },
  "lever:Paytm": {
   "ok": true,
-  "listed": 201
+  "listed": 202
  },
  "lever:Coupa": {
   "ok": true,
-  "listed": 48
+  "listed": 49
  },
  "lever:Saviynt": {
   "ok": true,
-  "listed": 59
+  "listed": 58
  },
  "lever:Mindtickle": {
   "ok": true,
-  "listed": 21
+  "listed": 20
  },
  "lever:CRED": {
   "ok": true,
@@ -121,83 +121,83 @@
  },
  "lever:Nium": {
   "ok": true,
-  "listed": 30
+  "listed": 31
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 520
+  "listed": 515
  },
  "workday:Mastercard": {
-  "ok": true,
-  "listed": 114
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Autodesk": {
-  "ok": true,
-  "listed": 1
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:NVIDIA": {
-  "ok": true,
-  "listed": 146
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Broadcom": {
   "ok": true,
-  "listed": 13
+  "listed": 12
  },
  "workday:BMC Software": {
   "ok": true,
   "listed": 0
  },
  "workday:Fiserv": {
-  "ok": true,
-  "listed": 6
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Salesforce": {
   "ok": true,
-  "listed": 102
+  "listed": 103
  },
  "workday:Adobe": {
-  "ok": true,
-  "listed": 42
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:HP": {
-  "ok": true,
-  "listed": 80
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Wells Fargo": {
-  "ok": true,
-  "listed": 82
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Barclays": {
   "ok": true,
-  "listed": 125
+  "listed": 127
  },
  "workday:Citi": {
-  "ok": true,
-  "listed": 261
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Capital One": {
   "ok": true,
-  "listed": 17
+  "listed": 16
  },
  "workday:Intel": {
-  "ok": true,
-  "listed": 82
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Qualcomm": {
   "ok": true,
   "listed": 0
  },
  "workday:Micron": {
-  "ok": true,
-  "listed": 80
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:PayPal": {
-  "ok": true,
-  "listed": 23
+  "ok": false,
+  "error": "HTTP 521"
  },
  "workday:Workday": {
-  "ok": true,
-  "listed": 28
+  "ok": false,
+  "error": "HTTP 521"
  },
  "smartrecruiters:Bosch": {
   "ok": true,
@@ -205,7 +205,7 @@
  },
  "smartrecruiters:ServiceNow": {
   "ok": true,
-  "listed": 85
+  "listed": 82
  },
  "amazon:Amazon": {
   "ok": true,
@@ -228,7 +228,7 @@
  "remote:Laravel Jobs": {
   "ok": true,
   "listed": 8,
-  "kept": 4,
+  "kept": 3,
   "undated_skipped": 0,
   "without_company": 0
  }
