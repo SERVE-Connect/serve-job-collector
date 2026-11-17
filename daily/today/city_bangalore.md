@@ -1,83 +1,86 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-15 23:59 UTC
-10 jobs, best score first: 4 from today/yesterday, 6 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-17 02:58 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Graphic Designer | Meesho**
-   - Bangalore, Karnataka | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 72
-   - Fit: yes | in design. Minimum 2 years of professional design experience in design
-   - Experience: 2 yrs | Qualification: Master
-   - ID: 6175b1de-5749-4a29-9016-5c387aee5e32 | open (ATS verified)
-   - Apply: https://jobs.lever.co/meesho/6175b1de-5749-4a29-9016-5c387aee5e32
-
-2. **Commercial Loan Closing Specialist | Wells Fargo**
+1. **Associate Operations Processor | Wells Fargo**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 71
-   - Fit: yes | Qualification : 2+ years of Commercial Loan Closing experience, or eq
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-579875 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Specialist_R-579875
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 82
+   - Fit: yes | or any other discipline 0 to 1 year of experience in banking/Financial Services
+   - Experience: 0-1 yrs | Qualification: Bachelor
+   - ID: R-562782 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Operations-Processor_R-562782
 
-3. **Business Intelligence Engineer, WHS Data | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-15 (1 days ago) | fresh | Score 67
-   - Fit: yes | quantitative field - 3+ years of analyzing and interpreting data with Reds
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: 10605445 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10605445/business-intelligence-engineer-whs-data
+2. **System integration exhaust treatment | Bosch**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 77
+   - Fit: yes | Mechanical) along with 1–2 years of experience in automotive powertrain devel
+   - Experience: 1-2 yrs | Qualification: Bachelor
+   - Requirements: The role requires a Bachelor's degree in Engineering (Mechatronics, Automotive, or Mechanical) along with 1–2 years of experience in automotive powertrain development or system engineering and advanced knowledge of chemical kinetics and emission legislation. ​​​​​​ Basic to intermediate
+   - ID: 744000161773044 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161773044
 
-4. **Engineer - AI Platform | Barclays**
-   - Bengaluru, Maruthi Onyx - TESCO TSA | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 65
-   - Fit: yes | engineering on cloud (3+ yrs) building applications at scale on AWS/Azure
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: JR-0000101382 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Engineer---AI-Platform_JR-0000101382
+3. **Vendor Consultant, Vendor Consultant | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 73
+   - Fit: yes | BQ #1: 2+ years experience of interacting with customers/sta
+   - Experience: 2+ yrs
+   - ID: 10606027 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10606027/vendor-consultant-vendor-consultant
 
-5. **Credit Analyst | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 62
-   - Fit: yes | • Typically has 4-7 years of work experience, preferably in collection
-   - Experience: 4-7 yrs | Qualification: Bachelor
-   - ID: 3171031 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Credit-Analyst_3171031
+4. **Business Development Representative | ServiceNow**
+   - Bangalore, India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 61
+   - Fit: unknown
+   - Qualification: Diploma
+   - ID: 744000161932469 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161932469
 
-6. **Ad Sales (KAM) -Manager/ Senior Manager - Paytm Ads - Bangalore | Paytm**
-   - Bangalore, Karnataka | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-15 (1 days ago) | fresh | Score 54
-   - Fit: no | Qualifications:  7+ years of experience in preferred)  Proven experie
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - ID: 552abb0b-e76d-4902-aedb-ca2290536744 | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/552abb0b-e76d-4902-aedb-ca2290536744
-
-7. **AI Architect | Bosch**
-   - bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-15 (1 days ago) | fresh | Score 53
-   - Fit: no | Exp : 11 years till 14 years · 11+ years of experience working with large
-   - Experience: 11 yrs | Qualification: Bachelor
-   - ID: 744000161679769 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161679769
-
-8. **GenAI/Agentic AI specialists | Bosch**
-   - bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-15 (1 days ago) | fresh | Score 53 | second job
-   - Fit: no | (LLMs): GPT, BE/MCA 7-11 years
-   - Experience: 7-11 yrs | Qualification: Bachelor
-   - ID: 744000161679729 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161679729
-
-9. **Associate, Marketing Technology | Elastic**
-   - Bangalore, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-11 (5 days ago) | fallback | Score 53
+5. **Software Engineer  | Rubrik**
+   - bangalore | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 60
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: 8337068 | open (ATS verified)
-   - Apply: https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068
+   - Requirements: Must-have Strong hands-on programming skills in Golang . Deep, practical knowledge of identity protocols: OIDC/OAuth 2.0 and SAML 2.0 — including token/assertion internals, standard flows, and failure modes. Working knowledge of Active Directory . Applied cryptography/PKI experience: X.509,
+   - ID: 8349847 | open (ATS verified)
+   - Apply: https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847
 
-10. **Staff Software Engineer (App-Framework) | Databricks**
-   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-14 (2 days ago) | fallback | Score 50
-   - Fit: no | or a related field. 12+ years of professional experience in software devel
+6. **Benefits Operations Specialist | Okta**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 60
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: 8354829 | open (ATS verified)
+   - Apply: https://www.okta.com/company/careers/opportunity/8354829?gh_jid=8354829
+
+7. **Engineer, HIG HBM IPDEV DESIGN | Micron**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 60
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: JR114961 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Engineer--HIG-HBM-IPDEV-DESIGN_JR114961
+
+8. **Associate, Executive Assistant | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 58
+   - Fit: no | in Communications 12+ years of experience in managing the scheduling and
    - Experience: 12+ yrs | Qualification: Bachelor
-   - Requirements: Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field. 12+ years of professional experience in software development. Deep understanding of Java Virtual Machine (JVM) internals, including garbage collection, JIT compilation, class loading, and memory model.
-   - ID: 8944097002 | open (ATS verified)
-   - Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8944097002
+   - Requirements: Masters Degree in Communications 12+ years of experience in managing the scheduling and organization of multiple managers, making travel arrangements, processing business expenses and working with partner groups such as Finance, Accounting and HR 12+ years of experience in coordinating with vendors
+   - ID: R1000342 | open (ATS verified)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Executive-Assistant_R1000342
+
+9. **Engineering Manager, Core Infrastructure | Stripe**
+   - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 53
+   - Fit: no | Minimum requirements 10+ years of industry experience in software engineeri
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - ID: 8386610 | open (ATS verified)
+   - Apply: https://stripe.com/jobs/search?gh_jid=8386610
+
+10. **Architect, Software Development | Zscaler**
+   - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 51
+   - Fit: no
+   - Qualification: Bachelor
+   - Requirements: (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving Extensive hands-on software application development and system architecture experience building
+   - ID: 5278551007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5278551007

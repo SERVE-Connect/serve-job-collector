@@ -1,18 +1,17 @@
-# SERVE ranked list: Cloud / DevOps / Infrastructure jobs (0-5 years), collected 2026-11-15 23:59 UTC
-2 jobs, best score first: 0 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Cloud / DevOps / Infrastructure jobs (0-5 years), collected 2026-11-17 02:58 UTC
+2 jobs, best score first: 1 from today/yesterday, 1 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **DevOps Engineer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 68
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR-0000116538-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/DevOps-Engineer_JR-0000116538-1
-
-2. **System Dev Engineer II, AFT Platform Engineering and Services | Amazon**
+1. **System Dev Engineer II, AFT Platform Engineering and Services | Amazon**
    - Hyderabad, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-11-12 (4 days ago) | fallback | Score 64
+   - Posted: 2026-11-12 (5 days ago) | fallback | Score 61 | second job
    - Fit: yes | build processes - 3+ years of administrative experience in networking,
    - Experience: 3+ yrs
    - ID: 10603263 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10603263/system-dev-engineer-ii-aft-platform-engineering-and-services
+
+2. **System Development Engineer, Engineering & IT | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 57
+   - Fit: unknown
+   - ID: 10606130 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10606130/system-development-engineer-engineering-it

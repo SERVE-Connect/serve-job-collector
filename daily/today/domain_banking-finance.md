@@ -1,59 +1,25 @@
-# SERVE ranked list: Banking & Finance jobs (0-5 years, matched by keyword), collected 2026-11-15 23:59 UTC
-7 jobs, best score first: 0 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Banking & Finance jobs (0-5 years, matched by keyword), collected 2026-11-17 02:58 UTC
+3 jobs, best score first: 3 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Cash and Trade Proc Analyst 1 - C09 - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 73
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: Previous relevant experience preferred Fundamental comprehension of financial industry regulations Effective verbal and written skills Effective communication and analytical skills Education: Bachelor’s/University degree or equivalent experience This job description provides a high-level review of
-   - ID: 261007854-1 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Cash-and-Trade-Proc-Analyst-1---C09---MUMBAI_261007854-1
-
-2. **Operations Analyst - Private Bank and Wealth Management | Barclays**
-   - Mumbai, Nirlon Knowledge Park (IB) , 9th floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 72
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR-0000125427-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Operations-Analyst---Private-Bank-and-Wealth-Management_JR-0000125427-1
-
-3. **Commercial Loan Closing Specialist | Wells Fargo**
+1. **Data Engineer, DIGI - Ads Marketing Finance  | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 71
-   - Fit: yes | Qualification : 2+ years of Commercial Loan Closing experience, or eq
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-579875 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Specialist_R-579875
-
-4. **Citi - Internal Audit, Summer Analyst, India – APAC, 2027 | Citi**
-   - Mumbai Maharashtra India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-12 (4 days ago) | fallback | Score 70 | second job
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 261002957 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi---Internal-Audit--Summer-Analyst--India---APAC--2027_261002957
-
-5. **Wholesale Credit Risk Sanctioning - LevFin - Analyst | Barclays**
-   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-11 (5 days ago) | fallback | Score 66 | second job
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR-0000133976-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Wholesale-Credit-Risk-Sanctioning---LevFin---Analyst_JR-0000133976-1
-
-6. **Credit Analyst | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 62
-   - Fit: yes | • Typically has 4-7 years of work experience, preferably in collection
-   - Experience: 4-7 yrs | Qualification: Bachelor
-   - ID: 3171031 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Credit-Analyst_3171031
-
-7. **Software Dev Engineer II, Finance Technology  | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-11 (5 days ago) | fallback | Score 61
-   - Fit: yes | - 3+ years of non-internship professional software deve
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 67
+   - Fit: yes | - 3+ years of data engineering experience - Experience
    - Experience: 3+ yrs
-   - ID: 10600827 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10600827/software-dev-engineer-ii-finance-technology
+   - ID: 10606082 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10606082/data-engineer-digi-ads-marketing-finance
+
+2. **Securities Research Associate | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Clinical / Research
+   - Posted: 2026-11-17 (0 days ago) | fresh | Score 61
+   - Fit: unknown
+   - ID: R-587207-1 | unchecked (HTTP 429)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Research-Associate_R-587207-1
+
+3. **Data Engineer, Amazon Operations Finance Standardisation and Automation | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 60 | second job
+   - Fit: yes | experience - 4+ years of SQL experience - Experience with data mod
+   - Experience: 4+ yrs
+   - ID: 10605597 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10605597/data-engineer-amazon-operations-finance-standardisation-and-automation
