@@ -1,86 +1,69 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-17 02:58 UTC
-10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-18 02:28 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Associate Operations Processor | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 82
-   - Fit: yes | or any other discipline 0 to 1 year of experience in banking/Financial Services
-   - Experience: 0-1 yrs | Qualification: Bachelor
-   - ID: R-562782 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Operations-Processor_R-562782
+1. **Software Dev Engineer I, L4 | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 78
+   - Fit: yes | - Experience of 1 to 3 years as an SDE
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - ID: 10605737 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10605737/software-dev-engineer-i-l4
 
-2. **System integration exhaust treatment | Bosch**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 77
-   - Fit: yes | Mechanical) along with 1–2 years of experience in automotive powertrain devel
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Requirements: The role requires a Bachelor's degree in Engineering (Mechatronics, Automotive, or Mechanical) along with 1–2 years of experience in automotive powertrain development or system engineering and advanced knowledge of chemical kinetics and emission legislation. ​​​​​​ Basic to intermediate
-   - ID: 744000161773044 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161773044
+2. **HR Executive - Event Management | Bosch**
+   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 77
+   - Fit: yes | graduate Experience : 2-4 years in event management Mandatory/requires Skill
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - ID: 744000161992419 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161992419
 
-3. **Vendor Consultant, Vendor Consultant | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 73
-   - Fit: yes | BQ #1: 2+ years experience of interacting with customers/sta
-   - Experience: 2+ yrs
-   - ID: 10606027 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10606027/vendor-consultant-vendor-consultant
+3. **Senior Analyst, Sales Compensation Systems | Elastic**
+   - Bangalore, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 58
+   - Fit: no | goals What You Bring 5+ years with sales compensation analysis 3+ years ex
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - ID: 8344335 | open (ATS verified)
+   - Apply: https://jobs.elastic.co/jobs?gh_jid=8344335&gh_jid=8344335
 
-4. **Business Development Representative | ServiceNow**
-   - Bangalore, India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 61
-   - Fit: unknown
-   - Qualification: Diploma
-   - ID: 744000161932469 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161932469
+4. **Senior Product Manager | Meesho**
+   - Bangalore, Karnataka | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 54
+   - Fit: no | Overall experience of 7+ yrs with atleast 5+ yrs in product management in
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - ID: 19954b1f-3bbc-44b6-b836-65c0f854953b | open (ATS verified)
+   - Apply: https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b
 
-5. **Software Engineer  | Rubrik**
-   - bangalore | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: Must-have Strong hands-on programming skills in Golang . Deep, practical knowledge of identity protocols: OIDC/OAuth 2.0 and SAML 2.0 — including token/assertion internals, standard flows, and failure modes. Working knowledge of Active Directory . Applied cryptography/PKI experience: X.509,
-   - ID: 8349847 | open (ATS verified)
-   - Apply: https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847
-
-6. **Benefits Operations Specialist | Okta**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: 8354829 | open (ATS verified)
-   - Apply: https://www.okta.com/company/careers/opportunity/8354829?gh_jid=8354829
-
-7. **Engineer, HIG HBM IPDEV DESIGN | Micron**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR114961 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Engineer--HIG-HBM-IPDEV-DESIGN_JR114961
-
-8. **Associate, Executive Assistant | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 58
-   - Fit: no | in Communications 12+ years of experience in managing the scheduling and
-   - Experience: 12+ yrs | Qualification: Bachelor
-   - Requirements: Masters Degree in Communications 12+ years of experience in managing the scheduling and organization of multiple managers, making travel arrangements, processing business expenses and working with partner groups such as Finance, Accounting and HR 12+ years of experience in coordinating with vendors
-   - ID: R1000342 | open (ATS verified)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Executive-Assistant_R1000342
-
-9. **Engineering Manager, Core Infrastructure | Stripe**
-   - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 53
-   - Fit: no | Minimum requirements 10+ years of industry experience in software engineeri
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - ID: 8386610 | open (ATS verified)
-   - Apply: https://stripe.com/jobs/search?gh_jid=8386610
-
-10. **Architect, Software Development | Zscaler**
+5. **Sr. Staff Software Development Engineer (Backend Dev - C/DLP/Linux) | Zscaler**
    - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 51
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
+   - Fit: no | your functional domain 7+ years of experience with systems software engineer
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 7+ years of experience with systems software engineering, including a proven track record of a tech
+   - ID: 5287177007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5287177007
+
+6. **Engineering Manager   | Okta**
+   - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
+   - Fit: no | are a good fit if you: 8 - 12 years of experience with 3 years in Engineering Ma
+   - Experience: 8-12 yrs | Qualification: Bachelor
+   - ID: 8378013 | open (ATS verified)
+   - Apply: https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013
+
+7. **Sr Mgr, Software Engrg Mgmt - Moveworks | ServiceNow**
+   - Bangalore, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
+   - Fit: no | function or industry. 14+ years of experience designing, building, shipping,
+   - Experience: 14+ yrs | Qualification: Bachelor
+   - Requirements: familiarity with building and integrating with API based platforms and have an understanding of REST and or other RPC based systems You have experience with SQL and noSQL databases You feel at home developing on Linux with languages like Python, Golang, or C++ B.S./M.S. in Computer Science or the
+   - ID: 744000162026555 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162026555
+
+8. **Operations Manager (FinCrime) | Stripe**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 51
    - Fit: no
    - Qualification: Bachelor
-   - Requirements: (Minimum Qualifications) Demonstrated curiosity and active exploration of AI tools, with a proven history of integrating new technologies to enhance daily workflows and augment problem-solving Extensive hands-on software application development and system architecture experience building
-   - ID: 5278551007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5278551007
+   - Requirements: Experience leading complex financial crime investigations or risk review teams in a payments, fintech, or financial services environment. Experience reviewing higher-risk businesses or complex ownership structures across multiple markets. Experience improving investigative workflows, quality
+   - ID: 8336296 | open (ATS verified)
+   - Apply: https://stripe.com/jobs/search?gh_jid=8336296

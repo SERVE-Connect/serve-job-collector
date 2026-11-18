@@ -1,50 +1,65 @@
-# SERVE bulletin picks, 2026-11-15 23:59 UTC
-6 jobs: 1 from today/yesterday, 5 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
+# SERVE bulletin picks, 2026-11-17 02:58 UTC
+8 jobs: 8 from today/yesterday, 0 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
-1. **Business Intelligence Engineer, WHS Data | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Posted: 2026-11-15 (1 days ago) | fresh
-   - Fit: yes | quantitative field - 3+ years of analyzing and interpreting data with Reds | Score 67
-   - ID: 10605445 | open (listed in employer's live search)
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Apply: https://www.amazon.jobs/en/jobs/10605445/business-intelligence-engineer-whs-data
+1. **AI Platform Engineer | ServiceNow**
+   - Hyderabad, India | Work mode: hybrid | Posted: 2026-11-16 (1 days ago) | fresh
+   - Fit: yes | reviews and mentoring. 2 to 4 years of software engineering experience, with at | Score 79
+   - ID: 744000161736459 | open (ATS verified)
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161736459
 
-2. **Applications Dev Engineer | ServiceNow**
-   - Hyderabad, India | Work mode: unspecified | Posted: 2026-11-12 (4 days ago) | fallback (older than yesterday)
-   - Fit: yes | function or industry. 2-5 years of experience with Java or a similar OO lang | Score 69
-   - ID: 744000161219059 | open (ATS verified)
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161219059
+2. **Software Dev Engineer II, Amazon India CFX team  | Amazon**
+   - Gurugram, India | Work mode: unspecified | Posted: 2026-11-17 (0 days ago) | fresh
+   - Fit: yes | - 3+ years of non-internship professional software deve | Score 78
+   - ID: 10594183 | open (listed in employer's live search)
+   - Experience: 3+ yrs
+   - Apply: https://www.amazon.jobs/en/jobs/10594183/software-dev-engineer-ii-amazon-india-cfx-team
 
-3. **Full Stack Engineer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-11-13 (3 days ago) | fallback (older than yesterday)
-   - Fit: unknown | Score 68
-   - ID: JR-0000122685 | open (ATS verified)
+3. **STIBO STEP Jr Developer | Bosch**
+   - bengaluru, India | Work mode: unspecified | Posted: 2026-11-16 (1 days ago) | fresh
+   - Fit: yes | Experience Developer: 3-5 years Platform STIBO STEP Domain MDM / Product Mas | Score 76
+   - ID: 744000161763598 | open (ATS verified)
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: and Competencies • Bachelor’s degree in Computer Science, Engineering or a related field. • Strong problem-solving, debugging and structured-thinking skills. • Ability to work independently while collaborating in a distributed agile team. • Good written and verbal communication, with an affinity
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161763598
+
+4. **Computer Scientist - II | Adobe**
+   - Noida | Work mode: unspecified | Posted: 2026-11-17 (0 days ago) | fresh
+   - Fit: unknown | Score 64
+   - ID: R172286 | unchecked (HTTP 429)
+   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II_R172286
+
+5. **Software Engineer  | Rubrik**
+   - bangalore | Work mode: unspecified | Posted: 2026-11-16 (1 days ago) | fresh
+   - Fit: unknown | Score 60
+   - ID: 8349847 | open (ATS verified)
    - Qualification: Bachelor
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Full-Stack-Engineer_JR-0000122685
+   - Requirements: Must-have Strong hands-on programming skills in Golang . Deep, practical knowledge of identity protocols: OIDC/OAuth 2.0 and SAML 2.0 — including token/assertion internals, standard flows, and failure modes. Working knowledge of Active Directory . Applied cryptography/PKI experience: X.509,
+   - Apply: https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847
 
-4. **Embedded_Linux_ECT | Bosch**
-   - coimbatore, India | Work mode: unspecified | Posted: 2026-11-09 (7 days ago) | fallback (older than yesterday)
-   - Fit: yes | Electronics background 4 to 8 years | Score 42
-   - ID: 744000160677639 | open (ATS verified)
-   - Experience: 4-8 yrs | Qualification: Bachelor
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000160677639
-
-5. **Product Engineer – Tenant | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-11-13 (3 days ago) | fallback (older than yesterday)
-   - Fit: unknown | Score 68 | second job
-   - ID: JR-0000092835 | open (ATS verified)
+6. **ENGINEER, EQUIPMENT ENGINEER | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Posted: 2026-11-17 (0 days ago) | fresh
+   - Fit: unknown | Score 60
+   - ID: JR116316 | open (ATS verified)
    - Qualification: Bachelor
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Service-Engineer_JR-0000092835
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/ENGINEER--EQUIPMENT-ENGINEER_JR116316
 
-6. **Support Engineer III, BXT | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Posted: 2026-11-13 (3 days ago) | fallback (older than yesterday)
-   - Fit: yes | - 2+ years of software development, or 2+ years of tech | Score 68 | second job
-   - ID: 10600737 | open (listed in employer's live search)
+7. **Controls Engineer, Controls Deployment and Service | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Posted: 2026-11-16 (1 days ago) | fresh
+   - Fit: yes | - 2+ years of relevant work experience - Experience wit | Score 74 | second job
+   - ID: 10605640 | open (listed in employer's live search)
    - Experience: 2+ yrs
-   - Apply: https://www.amazon.jobs/en/jobs/10600737/support-engineer-iii-bxt
+   - Apply: https://www.amazon.jobs/en/jobs/10605640/controls-engineer-controls-deployment-and-service
+
+8. **IN_Bosch Rexroth India_Engineer / Executive_Project Management | Bosch**
+   - Sanand, GJ, India | Work mode: unspecified | Posted: 2026-11-16 (1 days ago) | fresh
+   - Fit: yes | Engineering with 1 to 6 years of experience | Score 74 | second job
+   - ID: 744000161787824 | open (ATS verified)
+   - Experience: 1-6 yrs | Qualification: Bachelor
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161787824
 
 After you post, paste this line into data/sent_ids.txt:
 
 ```
-2026-11-16 10605445 744000161219059 JR-0000122685 744000160677639 JR-0000092835 10600737
+2026-11-17 744000161736459 10594183 744000161763598 R172286 8349847 JR116316 10605640 744000161787824
 ```

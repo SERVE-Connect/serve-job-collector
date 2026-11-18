@@ -1,26 +1,34 @@
-# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-11-15 23:59 UTC
-3 jobs, best score first: 0 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-11-17 02:58 UTC
+4 jobs, best score first: 4 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **IN_RBIN_Sr. Engineer / Assistant Manager -Junior Procurement Planner | Bosch**
-   - Jaipur, Rajasthan, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 49
-   - Fit: no | (Mech) Experience : 2-4 Years Experience in core Operation (Logistic, Purc
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 744000161429909 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161429909
+1. **IN_Bosch Rexroth India_Engineer / Executive_Project Management | Bosch**
+   - Sanand, GJ, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 74
+   - Fit: yes | Engineering with 1 to 6 years of experience
+   - Experience: 1-6 yrs | Qualification: Bachelor
+   - ID: 744000161787824 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161787824
 
-2. **Quality and Reliability Assurance Technician (NVM) | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-11 (5 days ago) | fallback | Score 45
+2. **IN_Bosch Rexroth India_Engineer / Executive _Tool Engineering | Bosch**
+   - Sanand, GJ, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 74 | second job
+   - Fit: yes | B.E. Mechanical with 1 - 3 years of Experience Preferred Skills : 1) SAP basi
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - ID: 744000161771200 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161771200
+
+3. **ENGINEER, EQUIPMENT ENGINEER | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-17 (0 days ago) | fresh | Score 60
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR114855 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Quality-and-Reliability-Assurance-Technician--NVM-_JR114855
+   - ID: JR116316 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/ENGINEER--EQUIPMENT-ENGINEER_JR116316
 
-3. **Embedded_Linux_ECT | Bosch**
-   - coimbatore, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-09 (7 days ago) | fallback | Score 42 | second job
-   - Fit: yes | Electronics background 4 to 8 years
-   - Experience: 4-8 yrs | Qualification: Bachelor
-   - ID: 744000160677639 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000160677639
+4. **Sr. Engineer, Mechanical & HVAC | Micron**
+   - Sanand - 303C - Facilities/Construction, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 50 | second job
+   - Fit: no | • Experience: Minimum 10 years of experience in execution of HVAC and Proce
+   - Experience: 10 yrs | Qualification: Bachelor
+   - ID: JR111947 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303C---FacilitiesConstruction-India/Sr-Engineer--Mechanical---HVAC_JR111947

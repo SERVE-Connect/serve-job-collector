@@ -1,58 +1,50 @@
-# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-15 23:59 UTC
-7 jobs, best score first: 0 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Mumbai (all domains, all experience levels), collected 2026-11-17 02:58 UTC
+6 jobs, best score first: 6 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Cash and Trade Proc Analyst2 - C10 - MUMBAI | Citi**
    - Mumbai Maharashtra India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 85
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 91
    - Fit: yes | Qualifications: 0-2 years of experience in a related role Proven syste
    - Experience: 0-2 yrs | Qualification: Bachelor
-   - ID: 261007810 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Cash-and-Trade-Proc-Analyst2---C10---MUMBAI_261007810
+   - Requirements: 0-2 years of experience in a related role Proven system development lifecycle skills Proficient understanding of emerging technologies Effective verbal and written skills Effective analytic and presentation skills Education: Bachelor’s/University degree or equivalent experience This job description
+   - ID: 261007812 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Cash-and-Trade-Proc-Analyst2---C10---MUMBAI_261007812
 
-2. **Cash and Trade Proc Analyst 1 - C09 - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 73 | second job
+2. **Customer Support Associate- Paytm Money | Paytm**
+   - Mumbai, Maharashtra | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 79
    - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: Previous relevant experience preferred Fundamental comprehension of financial industry regulations Effective verbal and written skills Effective communication and analytical skills Education: Bachelor’s/University degree or equivalent experience This job description provides a high-level review of
-   - ID: 261007854-1 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Cash-and-Trade-Proc-Analyst-1---C09---MUMBAI_261007854-1
+   - ID: 7da6d28a-6f4b-4d70-975b-5e358f1b3af0 | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0
 
-3. **Analyst- DMT Operations | Barclays**
-   - Mumbai, Nirlon Knowledge Park (IB) , 9th floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 72
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR-0000127853 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Analyst--DMT-Operations_JR-0000127853
+3. **Relationship Manager - Affiliate Channel - Paytm Money | Paytm**
+   - Mumbai, Maharashtra | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 67 | second job
+   - Fit: no | or PGDM preferred. • 1–3 years of experience in business development, partn
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - Requirements: Bachelor's degree in any stream; MBA or PGDM preferred. • 1–3 years of experience in business development, partnerships, affiliate or performance marketing, or B2B/solution sales, ideally in fintech, broking, BFSI, or payments. • Proven record of sourcing and engaging corporate, SME, or creator
+   - ID: f260e4d3-1b36-4f25-a595-fd4d8a9cb1e4 | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/f260e4d3-1b36-4f25-a595-fd4d8a9cb1e4
 
-4. **Operations Analyst - Private Bank and Wealth Management | Barclays**
-   - Mumbai, Nirlon Knowledge Park (IB) , 9th floor | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 72 | second job
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR-0000125427-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Operations-Analyst---Private-Bank-and-Wealth-Management_JR-0000125427-1
-
-5. **Data Center Manager, Data Center Operations | Amazon**
-   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 54
-   - Fit: no
-   - Qualification: Bachelor
-   - ID: 10603993 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10603993/data-center-manager-data-center-operations
-
-6. **Key Account Director - CRM ( CPQ) | ServiceNow**
+4. **Key Account Director - CRM & Industry Solutions | ServiceNow**
    - Mumbai, Maharashtra, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-11 (5 days ago) | fallback | Score 54
-   - Fit: no | function or industry. 12+ years in sales with success generating new busines
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 66
+   - Fit: no | function or industry 12+ years in sales with success generating new busines
    - Experience: 12+ yrs | Qualification: Bachelor
-   - ID: 744000161081819 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161081819
+   - ID: 744000161781149 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161781149
 
-7. **General Manager - Corporate Development - (VC Experienced) | Paytm**
-   - Bengaluru, Karnataka, Mumbai, Maharashtra, Noida, Uttar Pradesh [multi-city] | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-10 (6 days ago) | fallback | Score 53
+5. **Sr. Electrical Colo Regional Engineer, Colocation Regional Engineering | Amazon**
+   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-16 (1 days ago) | fresh | Score 62
+   - Fit: no | - 10+ years of data center design, construction, operati
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - ID: 10606009 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10606009/sr-electrical-colo-regional-engineer-colocation-regional-engineering
+
+6. **Delta One Trading Assistant – AVP | Citi**
+   - Mumbai Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-17 (0 days ago) | fresh | Score 60 | second job
    - Fit: no
-   - ID: 405b278f-a8f4-4b73-91ad-465da86466db | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/405b278f-a8f4-4b73-91ad-465da86466db
+   - ID: 261009567 | unchecked (HTTP 429)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Delta-One-Trading-Assistant---AVP_261009567

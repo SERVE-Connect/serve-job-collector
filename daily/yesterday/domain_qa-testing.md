@@ -1,9 +1,9 @@
-# SERVE ranked list: QA / Testing jobs (0-5 years), collected 2026-11-15 23:59 UTC
+# SERVE ranked list: QA / Testing jobs (0-5 years), collected 2026-11-17 02:58 UTC
 2 jobs, best score first: 0 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Quality Assurance Engineer, IES Prime Tech | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: QA / Testing
-   - Posted: 2026-11-10 (6 days ago) | fallback | Score 61
+   - Posted: 2026-11-10 (7 days ago) | fallback | Score 61
    - Fit: yes | - 2+ years of quality assurance engineering experience
    - Experience: 2+ yrs
    - ID: 10600973 | open (listed in employer's live search)
@@ -11,7 +11,7 @@
 
 2. **Quality Assurance Engineer II, Alexa Connectivity Devices | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: QA / Testing
-   - Posted: 2026-11-13 (3 days ago) | fallback | Score 58 | second job
+   - Posted: 2026-11-13 (4 days ago) | fallback | Score 55 | second job
    - Fit: yes | - 4+ years of quality assurance engineering experience
    - Experience: 4+ yrs
    - ID: 10604213 | open (listed in employer's live search)
