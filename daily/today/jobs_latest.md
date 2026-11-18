@@ -1,5 +1,5 @@
-# SERVE jobs, collected 2026-11-18 02:28 UTC
-Window: last 7 days. Boards read OK: 37. Boards failed: 19. Jobs: 268 (IT: 138).
+# SERVE jobs, collected 2026-11-18 03:08 UTC
+Window: last 7 days. Boards read OK: 37. Boards failed: 19. Jobs: 269 (IT: 138).
 Failed boards: workday:Accenture (HTTP 429); workday:Mastercard (HTTP 429); workday:Autodesk (HTTP 429); workday:NVIDIA (HTTP 429); workday:Broadcom (HTTP 429); workday:BMC Software (HTTP 429); workday:Fiserv (HTTP 429); workday:Salesforce (HTTP 429); workday:Adobe (HTTP 429); workday:HP (HTTP 429); workday:Wells Fargo (HTTP 429); workday:Barclays (HTTP 429); workday:Citi (HTTP 429); workday:Capital One (HTTP 429); workday:Intel (HTTP 429); workday:Qualcomm (HTTP 429); workday:Micron (HTTP 429); workday:PayPal (HTTP 429); workday:Workday (HTTP 429)
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
@@ -526,8 +526,8 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Posted: 2026-11-17 (1 days ago) | New today: yes
 - Fit: no | are a good fit if you: 8 - 12 years of experience with 3 years in Engineering Ma | Score: 53
 - Experience: 8-12 yrs | Qualification: Bachelor
-- ID: 8378013 / P26273_3617008 | Status: open (ATS verified)
-- Apply: https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013
+- ID: 8395428 / P26273_3617008 | Status: open (ATS verified)
+- Apply: https://www.okta.com/company/careers/opportunity/8395428?gh_jid=8395428
 
 **Component Engineer BTV Stator | Bosch**
 - Location: bangalore, India | Work mode: unspecified
@@ -1189,7 +1189,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000161026409 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161026409
 
-## Non-IT / Other (130)
+## Non-IT / Other (131)
 
 ### Pune (2)
 
@@ -1449,7 +1449,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8327106 / 3273599598 | Status: open (ATS verified)
 - Apply: https://www.mongodb.com/careers/job/?gh_jid=8327106
 
-### Bangalore (69)
+### Bangalore (70)
 
 **HR Executive - Event Management | Bosch**
 - Location: bengaluru, India | Work mode: unspecified
@@ -1458,6 +1458,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 2-4 yrs | Qualification: Bachelor
 - ID: 744000161992419 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161992419
+
+**Brand Specialist | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-18 (0 days ago) | New today: yes
+- Fit: yes | - Bachelor's degree - 1+ years of Account Management/Vendor Management | Score: 76
+- Experience: 1+ yrs | Qualification: Bachelor
+- ID: 10607794 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10607794/brand-specialist
 
 **Benefits Operations Specialist | Okta**
 - Location: Bengaluru | Work mode: unspecified

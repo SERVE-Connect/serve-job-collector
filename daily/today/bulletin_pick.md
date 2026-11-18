@@ -1,4 +1,4 @@
-# SERVE bulletin picks, 2026-11-18 02:28 UTC
+# SERVE bulletin picks, 2026-11-18 03:08 UTC
 6 jobs: 4 from today/yesterday, 2 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
 1. **Software Dev Engineer I, L4 | Amazon**

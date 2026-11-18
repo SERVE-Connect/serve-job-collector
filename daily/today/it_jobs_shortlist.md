@@ -1,4 +1,4 @@
-# SERVE jobs, collected 2026-11-18 02:28 UTC
+# SERVE jobs, collected 2026-11-18 03:08 UTC
 Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 41. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.

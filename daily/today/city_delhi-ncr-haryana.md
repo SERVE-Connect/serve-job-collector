@@ -1,4 +1,4 @@
-# SERVE ranked list: Jobs in Delhi NCR / Haryana (all domains, all experience levels), collected 2026-11-18 02:28 UTC
+# SERVE ranked list: Jobs in Delhi NCR / Haryana (all domains, all experience levels), collected 2026-11-18 03:08 UTC
 6 jobs, best score first: 4 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Talent Discovery Sourcer | MongoDB**

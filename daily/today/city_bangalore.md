@@ -1,4 +1,4 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-18 02:28 UTC
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-18 03:08 UTC
 8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Software Dev Engineer I, L4 | Amazon**
@@ -47,8 +47,8 @@
    - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
    - Fit: no | are a good fit if you: 8 - 12 years of experience with 3 years in Engineering Ma
    - Experience: 8-12 yrs | Qualification: Bachelor
-   - ID: 8378013 | open (ATS verified)
-   - Apply: https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013
+   - ID: 8395428 | open (ATS verified)
+   - Apply: https://www.okta.com/company/careers/opportunity/8395428?gh_jid=8395428
 
 7. **Sr Mgr, Software Engrg Mgmt - Moveworks | ServiceNow**
    - Bangalore, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
