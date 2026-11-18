@@ -1,5 +1,5 @@
-# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-18 03:08 UTC
-10 jobs, best score first: 6 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-18 04:31 UTC
+10 jobs, best score first: 7 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Fast Track Operations Specialist 2 | Twilio**
    - Remote - India | Work mode: remote | Section: Non-IT / Other
@@ -57,13 +57,13 @@
    - ID: 7da6d28a-6f4b-4d70-975b-5e358f1b3af0 | open (ATS verified)
    - Apply: https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0
 
-8. **IN_Bosch Rexroth India_Engineer / Executive _ Engineering Change Management & Project Co-ordination | Bosch**
-   - Sanand, GJ, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 74 | second job
-   - Fit: yes | B.E. Mechanical with 1 - 3 years of Experience Preferred Skills : 1) SAP basi
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - ID: 744000162039884 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162039884
+8. **Power BI Developer | Bosch**
+   - bangalore, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-18 (0 days ago) | fresh | Score 74 | second job
+   - Fit: yes | Experience : At least 3-5 years experience in Power bi dashboard development
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - ID: 744000162216780 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162216780
 
 9. **Benefits Operations Specialist | Okta**
    - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
@@ -73,10 +73,9 @@
    - ID: 8354829 | open (ATS verified)
    - Apply: https://www.okta.com/company/careers/opportunity/8354829?gh_jid=8354829
 
-10. **Computational Designer (Remote, Full-Time) [AS354] | Smart Working Solutions**
-   - Bangalore, Delhi NCR, Hyderabad, India, Mohali, Mumbai, Pune [multi-city] | Work mode: remote | Section: Non-IT / Other
-   - Posted: 2026-11-13 (5 days ago) | fallback | Score 69
-   - Fit: yes | development. C# – 3+ years: Expert or advanced proficiency in C#, with
-   - Experience: 3+ yrs | Qualification: Master
-   - ID: d37f77cd-1e8c-4fa5-94db-ecb0de7ef793 | open (ATS verified)
-   - Apply: https://jobs.lever.co/smart-working-solutions/d37f77cd-1e8c-4fa5-94db-ecb0de7ef793
+10. **Associate, Executive Assistant | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 58
+   - Fit: unknown
+   - ID: R1000342 | unchecked (HTTP 429)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Executive-Assistant_R1000342

@@ -1,4 +1,4 @@
-# SERVE bulletin picks, 2026-11-18 03:08 UTC
+# SERVE bulletin picks, 2026-11-18 04:31 UTC
 6 jobs: 4 from today/yesterday, 2 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
 1. **Software Dev Engineer I, L4 | Amazon**
@@ -22,12 +22,12 @@
    - Experience: 3+ yrs
    - Apply: https://www.amazon.jobs/en/jobs/10594183/software-dev-engineer-ii-amazon-india-cfx-team
 
-4. **System Requirement Engineer | Bosch**
-   - coimbatore, India | Work mode: unspecified | Posted: 2026-11-17 (1 days ago) | fresh
-   - Fit: yes | / Electrical 3 to 15 years | Score 68 | second job
-   - ID: 744000162033799 | open (ATS verified)
-   - Experience: 3-15 yrs | Qualification: Bachelor
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162033799
+4. **Power BI Developer | Bosch**
+   - bangalore, India | Work mode: unspecified | Posted: 2026-11-18 (0 days ago) | fresh
+   - Fit: yes | Experience : At least 3-5 years experience in Power bi dashboard development | Score 74 | second job
+   - ID: 744000162216780 | open (ATS verified)
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162216780
 
 5. **Applications Dev Engineer | ServiceNow**
    - Hyderabad, India | Work mode: unspecified | Posted: 2026-11-12 (6 days ago) | fallback (older than yesterday)
@@ -47,5 +47,5 @@
 After you post, paste this line into data/sent_ids.txt:
 
 ```
-2026-11-18 10605737 744000162039884 10594183 744000162033799 744000161219059 8349847
+2026-11-18 10605737 744000162039884 10594183 744000162216780 744000161219059 8349847
 ```

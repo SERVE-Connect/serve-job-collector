@@ -1,11 +1,11 @@
-# SERVE jobs, collected 2026-11-18 03:08 UTC
-Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 41. Full list: jobs_latest.md
+# SERVE jobs, collected 2026-11-18 04:31 UTC
+Shortlist: IT sections only, fit_0_5 = yes or unknown. Jobs: 40. Full list: jobs_latest.md
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
 fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ years (listed under Senior IT roles).
 
-## IT / Software (23)
+## IT / Software (21)
 
 ### Delhi NCR / Haryana (2)
 
@@ -25,7 +25,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10607252 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10607252/software-development-engineer-last-mile-platform-services-sde
 
-### Bangalore (11)
+### Bangalore (10)
 
 **Software Dev Engineer I, L4 | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -34,15 +34,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 1-3 yrs | Qualification: Bachelor
 - ID: 10605737 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10605737/software-dev-engineer-i-l4
-
-**STIBO STEP Jr Developer | Bosch**
-- Location: bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-16 (2 days ago) | New today: no
-- Fit: yes | Experience Developer: 3-5 years Platform STIBO STEP Domain MDM / Product Mas | Score: 73
-- Experience: 3-5 yrs | Qualification: Bachelor
-- Requirements: and Competencies • Bachelor’s degree in Computer Science, Engineering or a related field. • Strong problem-solving, debugging and structured-thinking skills. • Ability to work independently while collaborating in a distributed agile team. • Good written and verbal communication, with an affinity
-- ID: 744000161763598 | Status: open (ATS verified)
-- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161763598
 
 **IN_RBAI_Senior Engineer Optical and Identification Process | Bosch**
 - Location: Bengaluru, KA, India | Work mode: unspecified
@@ -118,7 +109,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000161785289 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161785289
 
-### Hyderabad (6)
+### Hyderabad (5)
 
 **Software Dev Engineer II , Last Mile Delivery Prdct&Tech | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -143,14 +134,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 2-5 yrs | Qualification: Bachelor
 - ID: 744000161219059 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161219059
-
-**Construction Cost Engineer, Cost Control | Amazon**
-- Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-16 (2 days ago) | New today: no
-- Fit: yes | - 3+ years of vendor management experience - 2+ years o | Score: 65
-- Experience: 3+ yrs | Qualification: Bachelor
-- ID: 10606736 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10606736/construction-cost-engineer-cost-control
 
 **Software Development Engineer, Customer Experience and Business Trends | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
@@ -202,9 +185,17 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000161772005 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161772005
 
-## Data / Analytics / AI (9)
+## Data / Analytics / AI (10)
 
-### Bangalore (6)
+### Bangalore (7)
+
+**Power BI Developer | Bosch**
+- Location: bangalore, India | Work mode: unspecified
+- Posted: 2026-11-18 (0 days ago) | New today: yes
+- Fit: yes | Experience : At least 3-5 years experience in Power bi dashboard development | Score: 74
+- Experience: 3-5 yrs | Qualification: Bachelor
+- ID: 744000162216780 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162216780
 
 **Data Engineer II, Amazon Selection and Catalog Systems (ASCS) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified

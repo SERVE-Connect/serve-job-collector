@@ -1,6 +1,6 @@
-# SERVE jobs, collected 2026-11-18 03:08 UTC
-Window: last 7 days. Boards read OK: 37. Boards failed: 19. Jobs: 269 (IT: 138).
-Failed boards: workday:Accenture (HTTP 429); workday:Mastercard (HTTP 429); workday:Autodesk (HTTP 429); workday:NVIDIA (HTTP 429); workday:Broadcom (HTTP 429); workday:BMC Software (HTTP 429); workday:Fiserv (HTTP 429); workday:Salesforce (HTTP 429); workday:Adobe (HTTP 429); workday:HP (HTTP 429); workday:Wells Fargo (HTTP 429); workday:Barclays (HTTP 429); workday:Citi (HTTP 429); workday:Capital One (HTTP 429); workday:Intel (HTTP 429); workday:Qualcomm (HTTP 429); workday:Micron (HTTP 429); workday:PayPal (HTTP 429); workday:Workday (HTTP 429)
+# SERVE jobs, collected 2026-11-18 04:31 UTC
+Window: last 7 days. Boards read OK: 39. Boards failed: 17. Jobs: 276 (IT: 143).
+Failed boards: workday:Accenture (HTTP 429); workday:Mastercard (HTTP 429); workday:Autodesk (HTTP 429); workday:NVIDIA (HTTP 429); workday:Broadcom (HTTP 429); workday:BMC Software (HTTP 429); workday:Fiserv (HTTP 429); workday:Salesforce (HTTP 429); workday:Adobe (HTTP 429); workday:HP (HTTP 429); workday:Wells Fargo (HTTP 429); workday:Barclays (HTTP 429); workday:Citi (HTTP 429); workday:Intel (HTTP 429); workday:Micron (HTTP 429); workday:PayPal (HTTP 429); workday:Workday (HTTP 429)
 
 Cities are listed in this order: Pune, Mumbai, Chhatrapati Sambhajinagar, Remote (India), Delhi NCR / Haryana, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Other India.
 Work mode comes from the employer's own listing (remote / hybrid / onsite / unspecified). [multi-city] means the job is open in 3 or more cities.
@@ -38,7 +38,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **STIBO STEP Jr Developer | Bosch**
 - Location: bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-16 (2 days ago) | New today: no
+- Posted: 2026-11-16 (2 days ago) | New today: no | ALREADY SENT
 - Fit: yes | Experience Developer: 3-5 years Platform STIBO STEP Domain MDM / Product Mas | Score: 73
 - Experience: 3-5 yrs | Qualification: Bachelor
 - Requirements: and Competencies • Bachelor’s degree in Computer Science, Engineering or a related field. • Strong problem-solving, debugging and structured-thinking skills. • Ability to work independently while collaborating in a distributed agile team. • Good written and verbal communication, with an affinity
@@ -147,7 +147,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Construction Cost Engineer, Cost Control | Amazon**
 - Location: Hyderabad, India | Work mode: unspecified
-- Posted: 2026-11-16 (2 days ago) | New today: no
+- Posted: 2026-11-16 (2 days ago) | New today: no | ALREADY SENT
 - Fit: yes | - 3+ years of vendor management experience - 2+ years o | Score: 65
 - Experience: 3+ yrs | Qualification: Bachelor
 - ID: 10606736 | Status: open (listed in employer's live search)
@@ -211,9 +211,17 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000161772005 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161772005
 
-## Data / Analytics / AI (10)
+## Data / Analytics / AI (11)
 
-### Bangalore (6)
+### Bangalore (7)
+
+**Power BI Developer | Bosch**
+- Location: bangalore, India | Work mode: unspecified
+- Posted: 2026-11-18 (0 days ago) | New today: yes
+- Fit: yes | Experience : At least 3-5 years experience in Power bi dashboard development | Score: 74
+- Experience: 3-5 yrs | Qualification: Bachelor
+- ID: 744000162216780 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162216780
 
 **Data Engineer II, Amazon Selection and Catalog Systems (ASCS) | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -412,13 +420,13 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10600737 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10600737/support-engineer-iii-bxt
 
-## Senior IT roles (5+ yrs) (92)
+## Senior IT roles (5+ yrs) (96)
 
 ### Pune (3)
 
 **Senior Staff Software Engineer | Druva**
 - Location: Pune, Maharashtra, India | Work mode: unspecified
-- Posted: 2026-11-16 (2 days ago) | New today: no
+- Posted: 2026-11-16 (2 days ago) | New today: no | ALREADY SENT
 - Fit: no | Key Skills: 5 to 8 years of experience Extensive experience on Go/Pyt | Score: 64
 - Experience: 5-8 yrs | Qualification: Bachelor
 - Requirements: 5 to 8 years of experience Extensive experience on Go/Python/C++ Experience on OS - Unix/Linux&nbsp; and Windows Experience on leveraging AI tools in daily tasks Hands on experience in Networking and Multi-threading Desirable Skills: Experience in Cloud Technologies, system programming&nbsp; is a
@@ -446,7 +454,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior DevSecOps Engineer (Remote, Full-Time) [AS355] | Smart Working Solutions**
 - Location: Ahmedabad, Bangalore, Delhi, Hyderabad, Jaipur, Mumbai, Pune [multi-city] | Work mode: remote
-- Posted: 2026-11-16 (2 days ago) | New today: no
+- Posted: 2026-11-16 (2 days ago) | New today: no | ALREADY SENT
 - Fit: no | platform stability. 5+ years of experience in DevSecOps or a related role | Score: 60
 - Experience: 5+ yrs
 - ID: ea7609d0-fbe7-443e-ae95-5e92f5d1939f | Status: open (ATS verified)
@@ -502,7 +510,23 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10598923 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10598923/sr-solutions-architect-aws-industries-india-s-t
 
-### Bangalore (58)
+### Bangalore (62)
+
+**SAP FI  Consultant | Bosch**
+- Location: hosur road bangalore, India | Work mode: unspecified
+- Posted: 2026-11-18 (0 days ago) | New today: yes
+- Fit: no | / Rollouts. Minimum of 7 years of experience in SAP FI, 4 years in FSCM and | Score: 56
+- Experience: 7 yrs | Qualification: Bachelor
+- ID: 744000162218105 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162218105
+
+**Senior Power BI Developer & Consultant | Bosch**
+- Location: bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-18 (0 days ago) | New today: yes
+- Fit: no | Experience : At least 8-10 years experience in Power bi dashboard development | Score: 56
+- Experience: 8-10 yrs | Qualification: Bachelor
+- ID: 744000162216869 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162216869
 
 **Business Analyst II, WW FBA, FBA Analytics | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
@@ -511,6 +535,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 5+ yrs | Qualification: Bachelor
 - ID: 10606827 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10606827/business-analyst-ii-ww-fba-fba-analytics
+
+**Product Support Engineer III - ZTB (SDWAN) | Zscaler**
+- Location: Bangalore, IND | Work mode: unspecified
+- Posted: 2026-11-17 (1 days ago) | New today: yes
+- Fit: no | your functional domain 6+ years of experience as a Support Engineer supporti | Score: 53
+- Experience: 6+ yrs | Qualification: Bachelor
+- Requirements: a relentless focus on execution and a bias for action, delivering high-impact results quickly to win for the customer and the team. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven
+- ID: 5297253007 / 250620_I92722 | Status: open (ATS verified)
+- Apply: https://job-boards.greenhouse.io/zscaler/jobs/5297253007
 
 **Sr. Staff Software Development Engineer (Backend Dev - C/DLP/Linux) | Zscaler**
 - Location: Bangalore, IND | Work mode: unspecified
@@ -890,6 +923,15 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8358096 / P25946_3612224 | Status: open (ATS verified)
 - Apply: https://www.okta.com/company/careers/opportunity/8358096?gh_jid=8358096
 
+**Lead Software Engineer | Capital One**
+- Location: Bangalore, In | Work mode: unspecified
+- Posted: 2026-11-11 (7 days ago) | New today: no | ALREADY SENT
+- Fit: no | degree At least 10 years of experience in software engineering At lea | Score: 41
+- Experience: 10 yrs | Qualification: Bachelor
+- Requirements: Bachelor’s degree At least 10 years of experience in software engineering At least 8 years of experience building back-end services (Including but not limited to: Java, JavaScript, Python, Go, Node, Scala, TypeScript) At least 6 years of experience with a database technology (Including but not
+- ID: R1004514-1 / R1004514 | Status: open (ATS verified)
+- Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R1004514-1
+
 **Senior Solution Architect - Custom Web Aplications | Bosch**
 - Location: bangalore, India | Work mode: unspecified
 - Posted: 2026-11-13 (5 days ago) | New today: no
@@ -1189,7 +1231,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 744000161026409 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161026409
 
-## Non-IT / Other (131)
+## Non-IT / Other (133)
 
 ### Pune (2)
 
@@ -1203,7 +1245,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Senior Product Manager - Life Insurance & Annuity | Zinnia**
 - Location: Pune, Maharashtra, India | Work mode: unspecified | Also hiring in: Noida, Uttar Pradesh, India
-- Posted: 2026-11-16 (2 days ago) | New today: no
+- Posted: 2026-11-16 (2 days ago) | New today: no | ALREADY SENT
 - Fit: no | WHAT YOU’LL NEED: 9+ years of experience into Product Management, inclu | Score: 64
 - Experience: 9+ yrs | Qualification: Bachelor
 - Requirements: 9+ years of experience into Product Management, including analyzing software/product design, development, and deployment. Domain expertise in US Life Insurance &amp; Annuity. Bachelor’s/Master's or equivalent Degree in technology or related field Strong Background of working as a Technical &amp;
@@ -1412,7 +1454,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 
 **Product Management - App Product | Paytm**
 - Location: Noida, Uttar Pradesh | Work mode: onsite
-- Posted: 2026-11-16 (2 days ago) | New today: no
+- Posted: 2026-11-16 (2 days ago) | New today: no | ALREADY SENT
 - Fit: unknown | Score: 61
 - ID: 364ccee8-163f-4950-8ff5-3181a9345809 | Status: open (ATS verified)
 - Apply: https://jobs.lever.co/paytm/364ccee8-163f-4950-8ff5-3181a9345809
@@ -1449,7 +1491,7 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8327106 / 3273599598 | Status: open (ATS verified)
 - Apply: https://www.mongodb.com/careers/job/?gh_jid=8327106
 
-### Bangalore (70)
+### Bangalore (72)
 
 **HR Executive - Event Management | Bosch**
 - Location: bengaluru, India | Work mode: unspecified
@@ -1557,14 +1599,6 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 10605587 | Status: open (listed in employer's live search)
 - Apply: https://www.amazon.jobs/en/jobs/10605587/support-engineer-merchant-support-amazon-supply-chain-services
 
-**Tax Analyst I, Indirect Taxation | Amazon**
-- Location: Bengaluru, India | Work mode: unspecified
-- Posted: 2026-11-17 (1 days ago) | New today: yes
-- Fit: unknown | Score: 61
-- Qualification: Bachelor
-- ID: 10606878 | Status: open (listed in employer's live search)
-- Apply: https://www.amazon.jobs/en/jobs/10606878/tax-analyst-i-indirect-taxation
-
 **Marketplace Consultant, UAE 3P Marketplace | Amazon**
 - Location: Bengaluru, India | Work mode: unspecified
 - Posted: 2026-11-11 (7 days ago) | New today: no
@@ -1589,6 +1623,13 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - ID: 8344335 / R12601 | Status: open (ATS verified)
 - Apply: https://jobs.elastic.co/jobs?gh_jid=8344335&gh_jid=8344335
 
+**Associate, Executive Assistant | Capital One**
+- Location: Bangalore, In | Work mode: unspecified
+- Posted: 2026-11-17 (1 days ago) | New today: no
+- Fit: unknown | Score: 58
+- ID: R1000342 | Status: unchecked (HTTP 429)
+- Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Executive-Assistant_R1000342
+
 **Business Development Representative | ServiceNow**
 - Location: Bangalore, India | Work mode: hybrid
 - Posted: 2026-11-16 (2 days ago) | New today: no
@@ -1603,6 +1644,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Fit: unknown | Score: 57
 - ID: 744000161751224 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161751224
+
+**BBM_SAPSD_S4HANA_Consultant | Bosch**
+- Location: bangalore, India | Work mode: unspecified
+- Posted: 2026-11-18 (0 days ago) | New today: yes
+- Fit: no | Experience : 6-8 yrs SAP SD Consulting experience Mandatory/requi | Score: 56
+- Experience: 6-8 yrs | Qualification: Bachelor
+- ID: 744000162216590 | Status: open (ATS verified)
+- Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162216590
 
 **Senior Technical Writer I | Rubrik**
 - Location: Bangalore,India | Work mode: unspecified
@@ -1744,6 +1793,14 @@ fit_0_5: yes = asks under 5 years, unknown = no years found, no = senior or 5+ y
 - Experience: 15+ yrs | Qualification: Bachelor
 - ID: 744000161997929 | Status: open (ATS verified)
 - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161997929
+
+**Sr. Solutions Architect, Automotive and Manufacturing, AWS Industries | Amazon**
+- Location: Bengaluru, India | Work mode: unspecified
+- Posted: 2026-11-18 (0 days ago) | New today: yes
+- Fit: no | experience - 10+ years of IT development or implementation/consulti | Score: 52
+- Experience: 10+ yrs
+- ID: 10600209 | Status: open (listed in employer's live search)
+- Apply: https://www.amazon.jobs/en/jobs/10600209/sr-solutions-architect-automotive-and-manufacturing-aws-industries
 
 **Operations Manager (FinCrime) | Stripe**
 - Location: Bengaluru | Work mode: unspecified

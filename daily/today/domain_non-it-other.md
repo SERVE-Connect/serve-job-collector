@@ -1,5 +1,5 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-18 03:08 UTC
-10 jobs, best score first: 6 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-18 04:31 UTC
+10 jobs, best score first: 7 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Fast Track Operations Specialist 2 | Twilio**
    - Remote - India | Work mode: remote | Section: Non-IT / Other
@@ -65,18 +65,17 @@
    - ID: 744000162039739 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162039739
 
-9. **Computational Designer (Remote, Full-Time) [AS354] | Smart Working Solutions**
-   - Bangalore, Delhi NCR, Hyderabad, India, Mohali, Mumbai, Pune [multi-city] | Work mode: remote | Section: Non-IT / Other
-   - Posted: 2026-11-13 (5 days ago) | fallback | Score 69
-   - Fit: yes | development. C# – 3+ years: Expert or advanced proficiency in C#, with
-   - Experience: 3+ yrs | Qualification: Master
-   - ID: d37f77cd-1e8c-4fa5-94db-ecb0de7ef793 | open (ATS verified)
-   - Apply: https://jobs.lever.co/smart-working-solutions/d37f77cd-1e8c-4fa5-94db-ecb0de7ef793
-
-10. **Transportation Representative, AV | Amazon**
+9. **Transportation Representative, AV | Amazon**
    - Hyderabad - Virtual, India | Work mode: remote | Section: Non-IT / Other
    - Posted: 2026-11-17 (1 days ago) | fresh | Score 66 | second job
    - Fit: unknown
    - Qualification: Bachelor
    - ID: 10606874 | open (listed in employer's live search)
    - Apply: https://www.amazon.jobs/en/jobs/10606874/transportation-representative-av
+
+10. **Associate, Executive Assistant | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 58
+   - Fit: unknown
+   - ID: R1000342 | unchecked (HTTP 429)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Executive-Assistant_R1000342

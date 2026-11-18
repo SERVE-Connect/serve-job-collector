@@ -1,5 +1,5 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-18 03:08 UTC
-8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-18 04:31 UTC
+9 jobs, best score first: 9 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Software Dev Engineer I, L4 | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT / Software
@@ -25,7 +25,14 @@
    - ID: 8344335 | open (ATS verified)
    - Apply: https://jobs.elastic.co/jobs?gh_jid=8344335&gh_jid=8344335
 
-4. **Senior Product Manager | Meesho**
+4. **Associate, Executive Assistant | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 58
+   - Fit: unknown
+   - ID: R1000342 | unchecked (HTTP 429)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Executive-Assistant_R1000342
+
+5. **Senior Product Manager | Meesho**
    - Bangalore, Karnataka | Work mode: hybrid | Section: Non-IT / Other
    - Posted: 2026-11-17 (1 days ago) | fresh | Score 54
    - Fit: no | Overall experience of 7+ yrs with atleast 5+ yrs in product management in
@@ -33,16 +40,16 @@
    - ID: 19954b1f-3bbc-44b6-b836-65c0f854953b | open (ATS verified)
    - Apply: https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b
 
-5. **Sr. Staff Software Development Engineer (Backend Dev - C/DLP/Linux) | Zscaler**
+6. **Product Support Engineer III - ZTB (SDWAN) | Zscaler**
    - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
    - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
-   - Fit: no | your functional domain 7+ years of experience with systems software engineer
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 7+ years of experience with systems software engineering, including a proven track record of a tech
-   - ID: 5287177007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5287177007
+   - Fit: no | your functional domain 6+ years of experience as a Support Engineer supporti
+   - Experience: 6+ yrs | Qualification: Bachelor
+   - Requirements: a relentless focus on execution and a bias for action, delivering high-impact results quickly to win for the customer and the team. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven
+   - ID: 5297253007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5297253007
 
-6. **Engineering Manager   | Okta**
+7. **Engineering Manager   | Okta**
    - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
    - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
    - Fit: no | are a good fit if you: 8 - 12 years of experience with 3 years in Engineering Ma
@@ -50,7 +57,7 @@
    - ID: 8395428 | open (ATS verified)
    - Apply: https://www.okta.com/company/careers/opportunity/8395428?gh_jid=8395428
 
-7. **Sr Mgr, Software Engrg Mgmt - Moveworks | ServiceNow**
+8. **Sr Mgr, Software Engrg Mgmt - Moveworks | ServiceNow**
    - Bangalore, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
    - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
    - Fit: no | function or industry. 14+ years of experience designing, building, shipping,
@@ -59,7 +66,7 @@
    - ID: 744000162026555 | open (ATS verified)
    - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162026555
 
-8. **Operations Manager (FinCrime) | Stripe**
+9. **Operations Manager (FinCrime) | Stripe**
    - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
    - Posted: 2026-11-17 (1 days ago) | fresh | Score 51
    - Fit: no
