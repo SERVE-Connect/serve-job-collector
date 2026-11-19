@@ -1,86 +1,68 @@
-# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-11-17 02:58 UTC
-10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Senior IT roles (5+ yrs) jobs, collected 2026-11-18 04:31 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Sr. Collaboration Engineer | Workday**
-   - IND.Pune | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 68
-   - Fit: no | Experience: 8+ years of hands-on experience across core collabora
+1. **Quality Assurance Engineer II, ISFX QA | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-18 (0 days ago) | fresh | Score 58
+   - Fit: no | - 6+ years of quality assurance engineering experience
+   - Experience: 6+ yrs | Qualification: Bachelor
+   - ID: 10607788 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10607788/quality-assurance-engineer-ii-isfx-qa
+
+2. **Collection Manager - Team Lead - Lending Collections ( Frontend) | Paytm**
+   - Delhi-NCR | Work mode: onsite | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 57
+   - Fit: no | Skills. 2. More than 8+ years of relevant experience in Collections role.
    - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: Basic Qualifications: Professional Experience: 8+ years of hands-on experience across core collaboration platforms, specifically Google Workspace (Gmail, Drive, Vault), Slack Enterprise Grid, and Microsoft 365 / MS Teams. Automation & Scripting: Demonstrated proficiency in architecting automated
-   - ID: JR-0110517-1 | open (ATS verified)
-   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Collaboration-Engineer_JR-0110517-1
+   - ID: 8c290eb7-2f7a-40e3-9fae-f4e9b752dd85 | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/8c290eb7-2f7a-40e3-9fae-f4e9b752dd85
 
-2. **Senior Staff Software Engineer | Druva**
-   - Pune, Maharashtra, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 67
-   - Fit: no | Key Skills: 5 to 8 years of experience Extensive experience on Go/Pyt
-   - Experience: 5-8 yrs | Qualification: Bachelor
-   - Requirements: 5 to 8 years of experience Extensive experience on Go/Python/C++ Experience on OS - Unix/Linux&nbsp; and Windows Experience on leveraging AI tools in daily tasks Hands on experience in Networking and Multi-threading Desirable Skills: Experience in Cloud Technologies, system programming&nbsp; is a
-   - ID: 8814695002 | open (ATS verified)
-   - Apply: https://www.druva.com/why-druva/explore/careers/jobs/8814695002/?gh_jid=8814695002
+3. **SAP FI  Consultant | Bosch**
+   - hosur road bangalore, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-18 (0 days ago) | fresh | Score 56
+   - Fit: no | / Rollouts. Minimum of 7 years of experience in SAP FI, 4 years in FSCM and
+   - Experience: 7 yrs | Qualification: Bachelor
+   - ID: 744000162218105 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162218105
 
-3. **Senior System Software Engineer - vGPU Team | NVIDIA**
-   - India, Pune | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 67
-   - Fit: no | equivalent experience. 12+ years of experience in system software development
-   - Experience: 12+ yrs | Qualification: Bachelor
-   - ID: JR2028408 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer---vGPU-Team_JR2028408
+4. **Senior Power BI Developer & Consultant | Bosch**
+   - bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-18 (0 days ago) | fresh | Score 56 | second job
+   - Fit: no | Experience : At least 8-10 years experience in Power bi dashboard development
+   - Experience: 8-10 yrs | Qualification: Bachelor
+   - ID: 744000162216869 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162216869
 
-4. **Senior DevSecOps Engineer (Remote, Full-Time) [AS355] | Smart Working Solutions**
-   - Ahmedabad, Bangalore, Delhi, Hyderabad, Jaipur, Mumbai, Pune [multi-city] | Work mode: remote | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 63
-   - Fit: no | platform stability. 5+ years of experience in DevSecOps or a related role
-   - Experience: 5+ yrs
-   - ID: ea7609d0-fbe7-443e-ae95-5e92f5d1939f | open (ATS verified)
-   - Apply: https://jobs.lever.co/smart-working-solutions/ea7609d0-fbe7-443e-ae95-5e92f5d1939f
-
-5. **Computer Scientist 2 | Adobe**
-   - Noida | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 61
-   - Fit: no | you need to succeed 6–8 years in software/platform engineering with strong
-   - Experience: 6-8 yrs | Qualification: Bachelor
-   - ID: R172248 | open (ATS verified)
-   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R172248
-
-6. **Senior Lead Data Management Analyst | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 58
-   - Fit: no | Qualifications: 7+ years of Data Management, Business Analysis, Analy
+5. **Senior Software Engineer (Enterprise Advanced) | MongoDB**
+   - Gurugram | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 56
+   - Fit: no | your team Requirements 7+ years experience with a language such as Java or G
    - Experience: 7+ yrs | Qualification: Bachelor
-   - ID: R-581846 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Lead-Data-Management-Analyst_R-581846
+   - ID: 8358101 | open (ATS verified)
+   - Apply: https://www.mongodb.com/careers/job/?gh_jid=8358101
 
-7. **Staff Software Engineer, Full Stack | ServiceNow**
-   - Hyderabad, Telangana, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 55
-   - Fit: no | business or industry. 10+ years of experience with Java or a similar OO lang
-   - Experience: 10+ yrs | Qualification: Bachelor
-   - ID: 744000161772132 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000161772132
+6. **Senior Quality Performance Engineer - AI | ServiceNow**
+   - Hyderabad, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 55
+   - Fit: no | Required Qualifications 5 to 10 years of performance testing and engineering exper
+   - Experience: 5-10 yrs | Qualification: Bachelor
+   - Requirements: Experience load testing AI or LLM-enabled systems, including token throughput, time-to-first-token, streaming latency, and concurrency limits on inference endpoints. Experience benchmarking model-serving or RAG pipelines, including vector database query performance and GPU/CPU/memory profiling.
+   - ID: 744000162003390 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162003390
 
-8. **Senior Quality Assurance Engineer (QAE II), Amazon Business, Private Brands & RE-commerce | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 54
-   - Fit: no | - 4+ years of quality assurance engineering experience
-   - Experience: 4+ yrs | Qualification: Bachelor
-   - ID: 10605716 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10605716/senior-quality-assurance-engineer-qae-ii-amazon-business-private-brands-re-commerce
+7. **Senior Analyst, Analytics & Insights | Zscaler**
+   - Mohali, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 55
+   - Fit: no | your functional domain 4–7 years of experience in FP&amp;A analytics, finance
+   - Experience: 4-7 yrs | Qualification: Bachelor
+   - Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 4–7 years of experience in FP&amp;A analytics, finance BI, analytics engineering, or a related
+   - ID: 5289245007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5289245007
 
-9. **Staff Engineer - IT EA ERP | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 54
-   - Fit: no | and Experience · 8+ years of relevant SAP development experience with
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - Requirements: SAP Fiori certification. · SAP BTP, Build Work Zone, RAP OData V4, automated testing, and CI/CD experience. · Exposure to procurement, sourcing, MM, SRM, finance, or other enterprise processes. Expected Outcomes · Secure, responsive, accessible, reusable, and supportable user experiences. · Lower
-   - ID: JR115814 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer---IT-EA-ERP_JR115814
-
-10. **Senior Software Engineer - CPD  | Rubrik**
+8. **Engineering Manager   | Okta**
    - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 53
-   - Fit: no | experience of at least 8 Years Strong hands-on programming skills in Golang
-   - Experience: 8 yrs | Qualification: Bachelor
-   - Requirements: Must-have Minimum experience of at least 8 Years Strong hands-on programming skills in Golang . Deep, practical knowledge of identity protocols:&nbsp; OIDC/OAuth 2.0 &nbsp;and&nbsp; SAML 2.0 &nbsp;— including token/assertion internals, standard flows, and failure modes. Working knowledge of
-   - ID: 8349850 | open (ATS verified)
-   - Apply: https://www.rubrik.com/company/careers/departments/job.8349850?gh_jid=8349850
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
+   - Fit: no | are a good fit if you: 8 - 12 years of experience with 3 years in Engineering Ma
+   - Experience: 8-12 yrs | Qualification: Bachelor
+   - ID: 8395428 | open (ATS verified)
+   - Apply: https://www.okta.com/company/careers/opportunity/8395428?gh_jid=8395428

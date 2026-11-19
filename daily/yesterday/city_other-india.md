@@ -1,34 +1,27 @@
-# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-11-17 02:58 UTC
-4 jobs, best score first: 4 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Other India (all domains, all experience levels), collected 2026-11-18 04:31 UTC
+3 jobs, best score first: 3 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **IN_Bosch Rexroth India_Engineer / Executive_Project Management | Bosch**
+1. **IN_Bosch Rexroth India_Engineer / Executive _ Engineering Change Management & Project Co-ordination | Bosch**
    - Sanand, GJ, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 74
-   - Fit: yes | Engineering with 1 to 6 years of experience
-   - Experience: 1-6 yrs | Qualification: Bachelor
-   - ID: 744000161787824 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161787824
-
-2. **IN_Bosch Rexroth India_Engineer / Executive _Tool Engineering | Bosch**
-   - Sanand, GJ, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 74 | second job
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 74
    - Fit: yes | B.E. Mechanical with 1 - 3 years of Experience Preferred Skills : 1) SAP basi
    - Experience: 1-3 yrs | Qualification: Bachelor
-   - ID: 744000161771200 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161771200
+   - ID: 744000162039884 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162039884
 
-3. **ENGINEER, EQUIPMENT ENGINEER | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-17 (0 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: JR116316 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/ENGINEER--EQUIPMENT-ENGINEER_JR116316
+2. **System Requirement Engineer | Bosch**
+   - coimbatore, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 68 | second job
+   - Fit: yes | / Electrical 3 to 15 years
+   - Experience: 3-15 yrs | Qualification: Bachelor
+   - ID: 744000162033799 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162033799
 
-4. **Sr. Engineer, Mechanical & HVAC | Micron**
-   - Sanand - 303C - Facilities/Construction, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-16 (1 days ago) | fresh | Score 50 | second job
-   - Fit: no | • Experience: Minimum 10 years of experience in execution of HVAC and Proce
-   - Experience: 10 yrs | Qualification: Bachelor
-   - ID: JR111947 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303C---FacilitiesConstruction-India/Sr-Engineer--Mechanical---HVAC_JR111947
+3. **Senior Analyst, Analytics & Insights | Zscaler**
+   - Mohali, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-17 (1 days ago) | fresh | Score 55
+   - Fit: no | your functional domain 4–7 years of experience in FP&amp;A analytics, finance
+   - Experience: 4-7 yrs | Qualification: Bachelor
+   - Requirements: (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven solutions to optimize outcomes within your functional domain 4–7 years of experience in FP&amp;A analytics, finance BI, analytics engineering, or a related
+   - ID: 5289245007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5289245007
