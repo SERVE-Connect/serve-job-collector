@@ -1,76 +1,85 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-18 04:31 UTC
-9 jobs, best score first: 9 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-19 01:54 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Software Dev Engineer I, L4 | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 78
-   - Fit: yes | - Experience of 1 to 3 years as an SDE
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - ID: 10605737 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10605737/software-dev-engineer-i-l4
+1. **Corporate Banking Analyst (Securities Research Associate) | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Clinical / Research
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 82
+   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: R-558856-4 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Corporate-Banking-Analyst--Securities-Research-Associate-_R-558856-4
 
-2. **HR Executive - Event Management | Bosch**
-   - bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 77
-   - Fit: yes | graduate Experience : 2-4 years in event management Mandatory/requires Skill
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 744000161992419 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000161992419
+2. **Financial Analyst | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 82
+   - Fit: yes | • Typically has 0-2 years of work experience, preferably in financial
+   - Experience: 0-2 yrs | Qualification: Bachelor
+   - ID: 3165397 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Financial-Analyst_3165397
 
-3. **Senior Analyst, Sales Compensation Systems | Elastic**
-   - Bangalore, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 58
-   - Fit: no | goals What You Bring 5+ years with sales compensation analysis 3+ years ex
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - ID: 8344335 | open (ATS verified)
-   - Apply: https://jobs.elastic.co/jobs?gh_jid=8344335&gh_jid=8344335
+3. **Software Engineer - Backend (Java) | PayPal**
+   - Bangalore, Karnataka, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 77
+   - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: R0138270-1 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer---Backend--Java-_R0138270-1
 
-4. **Associate, Executive Assistant | Capital One**
-   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 58
-   - Fit: unknown
-   - ID: R1000342 | unchecked (HTTP 429)
-   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Executive-Assistant_R1000342
-
-5. **Senior Product Manager | Meesho**
-   - Bangalore, Karnataka | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 54
-   - Fit: no | Overall experience of 7+ yrs with atleast 5+ yrs in product management in
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - ID: 19954b1f-3bbc-44b6-b836-65c0f854953b | open (ATS verified)
-   - Apply: https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b
-
-6. **Product Support Engineer III - ZTB (SDWAN) | Zscaler**
-   - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
-   - Fit: no | your functional domain 6+ years of experience as a Support Engineer supporti
-   - Experience: 6+ yrs | Qualification: Bachelor
-   - Requirements: a relentless focus on execution and a bias for action, delivering high-impact results quickly to win for the customer and the team. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and experience leveraging, securing, or positioning AI-driven
-   - ID: 5297253007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5297253007
-
-7. **Engineering Manager   | Okta**
-   - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
-   - Fit: no | are a good fit if you: 8 - 12 years of experience with 3 years in Engineering Ma
-   - Experience: 8-12 yrs | Qualification: Bachelor
-   - ID: 8395428 | open (ATS verified)
-   - Apply: https://www.okta.com/company/careers/opportunity/8395428?gh_jid=8395428
-
-8. **Sr Mgr, Software Engrg Mgmt - Moveworks | ServiceNow**
-   - Bangalore, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 53
-   - Fit: no | function or industry. 14+ years of experience designing, building, shipping,
-   - Experience: 14+ yrs | Qualification: Bachelor
-   - Requirements: familiarity with building and integrating with API based platforms and have an understanding of REST and or other RPC based systems You have experience with SQL and noSQL databases You feel at home developing on Linux with languages like Python, Golang, or C++ B.S./M.S. in Computer Science or the
-   - ID: 744000162026555 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162026555
-
-9. **Operations Manager (FinCrime) | Stripe**
+4. **Communication Designer | Razorpay**
    - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-17 (1 days ago) | fresh | Score 51
-   - Fit: no
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 77
+   - Fit: yes | the future. Experience: 2+ years in graphic/visual design. A sharp portfolio
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: 4754926005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4754926005
+
+5. **Support Engineer, Global Solutions & Risk Compliance (GSRC) | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: IT Support / Operations
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 73
+   - Fit: yes | or related field - 1+ years of experience in BI/technical support roles.
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: 10607845 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10607845/support-engineer-global-solutions-risk-compliance-gsrc
+
+6. **AI & Backend Software Engineer – Intellectual Property Rights(Python / FastAPI / GenAI) | Bosch**
+   - bengaluru, India | Work mode: hybrid | Section: Data / Analytics / AI
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 72
+   - Fit: yes | field. Experience : 3+ years of professional software engineering experie
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: 744000162220979 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162220979
+
+7. **CPU  Floor Plan Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 71
+   - Fit: yes | education, with 3+ years of hands-on experience OR Master's degree in
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: Minimum Qualifications - Bachelor's degree in a relevant field such as Electrical Engineering, Electronics Engineering, or equivalent education, with 3+ years of hands-on experience OR Master's degree in a relevant field with 2+ years of hands-on experience. - Proven expertise in using Floor
+   - ID: JR0288134 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/CPU-Senior-Floor-Plan-Engineer_JR0288134
+
+8. **Senior Advisory Specialist Solutions Consultant | ServiceNow**
+   - Mumbai, Maharashtra, India | Work mode: hybrid | Also hiring in: Bangalore, Karnataka, India; Gurugram, HARYANA, India | Section: Non-IT / Other
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 67
+   - Fit: no | in this role you have: 7+ years of pre-sales solution consulting or sales en
+   - Experience: 7+ yrs | Qualification: Bachelor
+   - ID: 744000162286909 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162286909
+
+9. **Account Executive  - Enterprise | Zscaler**
+   - Bangalore, IND | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 60
+   - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: Experience leading complex financial crime investigations or risk review teams in a payments, fintech, or financial services environment. Experience reviewing higher-risk businesses or complex ownership structures across multiple markets. Experience improving investigative workflows, quality
-   - ID: 8336296 | open (ATS verified)
-   - Apply: https://stripe.com/jobs/search?gh_jid=8336296
+   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
+   - ID: 5295948007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5295948007
+
+10. **IT System Administrator I | Rubrik**
+   - Bangalore, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-18 (1 days ago) | fresh | Score 58
+   - Fit: no | qualifications: 5+ years supporting internal or external customers in
+   - Experience: 5+ yrs | Qualification: Bachelor
+   - Requirements: 5+ years supporting internal or external customers in a Global IT Service Desk environment. 5+ years experience supporting Mac and Windows devices. 5+ years managing user and role-based access in a predominantly SaaS-based environment. Hands-on experience administering Okta, building Okta
+   - ID: 8398152 | open (ATS verified)
+   - Apply: https://www.rubrik.com/company/careers/departments/job.8398152?gh_jid=8398152

@@ -1,59 +1,68 @@
-# SERVE ranked list: Data / Analytics / AI jobs (0-5 years), collected 2026-11-19 01:54 UTC
-7 jobs, best score first: 7 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Data / Analytics / AI jobs (0-5 years), collected 2026-11-20 01:47 UTC
+8 jobs, best score first: 6 from today/yesterday, 2 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Research Scientist - Nemotron India | NVIDIA**
-   - India, Bengaluru India, Hyderabad India, Pune India [multi-city] | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-19 (0 days ago) | fresh | Score 82
-   - Fit: yes | equivalent experience). 3+ years of experience. Extensive machine learning /
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: JR2028483 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Research-Scientist---Nemotron-India_JR2028483
+1. **Data Management Analyst | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 83
+   - Fit: yes | Qualifications: 2+ years of data management, business analysis, analy
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: R-586129 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Data-Management-Analyst_R-586129
 
-2. **Software Engineer - AI | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 74
+2. **AI Search Analyst (Remote, Full-Time) [HR224] | Smart Working Solutions**
+   - Bangalore, Delhi NCR, Hyderabad, India, Jaipur, Mumbai, Pune [multi-city] | Work mode: remote | Section: Data / Analytics / AI
+   - Posted: 2026-11-18 (2 days ago) | fallback | Score 83
+   - Fit: yes | and marketing teams. 3+ years of experience in digital, marketing or ecomm
+   - Experience: 3+ yrs
+   - ID: 80a8c1ec-1edc-41ad-bf96-ba1fdb25431c | open (ATS verified)
+   - Apply: https://jobs.lever.co/smart-working-solutions/80a8c1ec-1edc-41ad-bf96-ba1fdb25431c
+
+3. **Expertise Power BI Admin || Pune / Noida / Bangalore | Fiserv**
+   - Pune - Trion Business Park, India | Work mode: onsite | Section: Data / Analytics / AI
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 75
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000130900-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer---AI_JR-0000130900-1
+   - Requirements: to have: Administer and support the Microsoft Power BI Service and Power BI tenant. Manage Power BI Admin Portal/Tenant Settings in accordance with organizational governance and security requirements. Manage Power BI workspaces, including workspace creation, access, roles, and lifecycle activities.
+   - ID: R-10403963 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Expertise-Power-BI-Admin-Developer--Hands-on-SQL--ETL-and-Azure-----Pune---Noida---Bangalore_R-10403963
 
-3. **Data Engineer | Barclays**
+4. **Software Engineer - AI | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 74 | second job
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 74
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000114792-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Engineer_JR-0000114792-1
+   - ID: JR-0000131050 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer---AI_JR-0000131050
 
-4. **AI & Backend Software Engineer – Intellectual Property Rights(Python / FastAPI / GenAI) | Bosch**
-   - bengaluru, India | Work mode: hybrid | Section: Data / Analytics / AI
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 72
-   - Fit: yes | field. Experience : 3+ years of professional software engineering experie
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: 744000162220979 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162220979
+5. **Data Engineer, IN Data Engineering & Analytics | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 73
+   - Fit: yes | - 2+ years of data engineering experience - Experience
+   - Experience: 2+ yrs
+   - ID: 10609147 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10609147/data-engineer-in-data-engineering-analytics
 
-5. **Research Engineer – Neuro-Symbolic AI (Knowledge Graphs) & Multimodal Assistant Systems | Bosch**
-   - bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 71 | second job
-   - Fit: yes | Experience : At least 3 years of relevant professional or applied research
-   - Experience: 3 yrs | Qualification: Bachelor
-   - Requirements: in graph embeddings, graph neural networks, Answer Set Programming/Prolog, SWRL or Drools, causal reasoning, agentic AI workflows, MLOps/cloud deployment, research publications, and patent drafting will be an added advantage.
-   - ID: 744000162231579 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162231579
+6. **Computer Scientist-I (Java) | Adobe**
+   - Noida | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 71
+   - Fit: yes | Experience of min. 4 years with other backend languages like Java, C++
+   - Experience: 4 yrs | Qualification: Bachelor
+   - Requirements: skills: Experience in design and development of ML services and software systems Experience in Python and ML frameworks like TensorFlow and PyTorch B.S/B.E./B. Tech. in Computer Science or equivalent engineering degree Proven expertise in distributed systems and building RESTful services Preferred
+   - ID: R173668 | open (ATS verified)
+   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R173668
 
-6. **Data Engineer | HP**
+7. **Data Engineer | HP**
    - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 63
+   - Posted: 2026-11-18 (2 days ago) | fallback | Score 60
    - Fit: yes | • Typically has 4-7 years of work experience, preferably in data analy
    - Experience: 4-7 yrs | Qualification: Bachelor
    - ID: 3170389-1 | open (ATS verified)
    - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Engineer_3170389-1
 
-7. **Data Engineer, DSP Analytics | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 60
-   - Fit: yes | - 4+ years of data engineering experience - Experience
-   - Experience: 4+ yrs
-   - ID: 10607821 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10607821/data-engineer-dsp-analytics
+8. **AI / ML and Generative AI research assistant | Bosch**
+   - coimbatore, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 57
+   - Fit: unknown
+   - Qualification: PhD
+   - ID: 744000162445000 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162445000
