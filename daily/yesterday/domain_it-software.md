@@ -1,67 +1,67 @@
-# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-19 01:54 UTC
+# SERVE ranked list: IT / Software jobs (0-5 years), collected 2026-11-20 01:47 UTC
 8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Software Engineer (Python/Node.JS,AWS) | Autodesk**
-   - Pune, IND | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 85
-   - Fit: yes | Minimum Qualifications 3–5 years of professional software engineering experie
-   - Experience: 3-5 yrs | Qualification: Bachelor
-   - ID: 26WD102191-2 | open (ATS verified)
-   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Python-NodeJS-AWS-_26WD102191-2
+1. **Business Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 79
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: elicitation and analysis User Story creation BRD / FRD preparation Process mapping Gap analysis Impact assessment Data analysis and reporting UAT coordination Client Onboarding Broking & Trading Wealth Management Capital Markets Private Banking Client Lifecycle Management SQL and data analysis API
+   - ID: JR-0000122323-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Business-Analyst_JR-0000122323-1
 
-2. **Software Engineer - Salesforce Development | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 78
-   - Fit: yes | Qualifications: 2+ years of software engineering experience, or equiv
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-570932 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Salesforce-Development_R-570932
-
-3. **Software Engineer | ServiceNow**
-   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 78
-   - Fit: yes | Bachelor’s degree and 2+ years of experience building and shipping software
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - Requirements: Bachelor’s degree and 2+ years of experience building and shipping software, or an advanced degree, or equivalent work experience. Strong in at least one programming language, with solid grounding in data structures, algorithms, and object-oriented design. Curiosity and willingness to learn new
-   - ID: 744000162226349 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162226349
-
-4. **Software Engineer - Backend (Java) | PayPal**
+2. **Software Engineer, Android | PayPal**
    - Bangalore, Karnataka, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 77
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 77
    - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
    - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R0138270-1 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer---Backend--Java-_R0138270-1
+   - ID: R0138414-1 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer--Android_R0138414-1
 
-5. **Software Engineer - Mainframe | Barclays**
+3. **Automation Engineer | Micron**
+   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 74
+   - Fit: yes | candidates who have 2-8 years of experience in automation engineering. You
+   - Experience: 2-8 yrs | Qualification: Bachelor
+   - Requirements: To excel in this role, you should possess: Proficiency in PLC programming will be added advantage Experience in machine maintenance. Expertise in teaching/programming robots/cobots. Familiarity with material handling systems and conveyor upkeep. Demonstrated background in the automotive and/or
+   - ID: JR117794 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Automation-Engineer_JR117794
+
+4. **DevTool Engineer | Barclays**
    - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 74
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 74 | second job
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000125142 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer---Mainframe_JR-0000125142
+   - ID: JR-0000139398 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/DevTool-Engineer_JR-0000139398
 
-6. **Software Dev Engineer II, Amazon Freight | Amazon**
+5. **Software Dev Engineer II, Amazon Freight | Amazon**
    - Hyderabad, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 73
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 73
    - Fit: yes | - 3+ years of non-internship professional software deve
    - Experience: 3+ yrs
-   - ID: 10608233 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10608233/software-dev-engineer-ii-amazon-freight
+   - ID: 10609140 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10609140/software-dev-engineer-ii-amazon-freight
 
-7. **IN_Bosch Rexroth India_Engineer / Executive_Design | Bosch**
-   - Sanand, GJ, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 68
-   - Fit: yes | Production with 3 to 5 years of experience Preferred Knowledge / Exposure
-   - Experience: 3-5 yrs | Qualification: Bachelor
-   - ID: 744000162271249 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162271249
+6. **Software Development Engineer II, FAI Asset Creation Technology (FACT) | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 73 | second job
+   - Fit: yes | - 3+ years of non-internship professional software deve
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: 10609505 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10609505/software-development-engineer-ii-fai-asset-creation-technology-fact
 
-8. **Industrial Engineering Technician | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 57
+7. **Backend - Intern ( SEA & Europe) | Paytm**
+   - Noida, Uttar Pradesh | Work mode: remote | Section: IT / Software
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 70
+   - Fit: unknown
+   - ID: 0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8 | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8
+
+8. **VM Brakes BSW CAN Developer [Indian OEM] | Bosch**
+   - coimbatore, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 57
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR113343 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Industrial-Engineering-Technician_JR113343
+   - ID: 744000162443389 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162443389

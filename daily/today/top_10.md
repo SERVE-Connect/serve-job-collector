@@ -1,86 +1,86 @@
-# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-20 01:47 UTC
+# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-21 01:35 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Securities & Derivatives Analyst 2 (Digital Asset Custody Operations) - PUNE | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 97
-   - Fit: yes | field. Experience: 2–3 years in settlements or reconciliations (financial
-   - Experience: 2-3 yrs | Qualification: Bachelor
-   - Requirements: & Skills Required Education: (good to have) Bachelor’s degree in Finance, Technology, Business Administration, or related field. Experience: 2–3 years in settlements or reconciliations (financial services or digital asset environment). Exposure to blockchain transactions or digital asset custody
-   - ID: 261007224-1 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2--Digital-Asset-Custody-Operations----PUNE_261007224-1
+1. **Officer, Operations Readiness Analyst | Citi**
+   - Mumbai Maharashtra India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 95
+   - Fit: yes | skills and exposure: 1 to 3 years’ experience in Trade Technology/Trade Operat
+   - Experience: 1-3 yrs | Qualification: Bachelor
+   - Requirements: 1 to 3 years’ experience in Trade Technology/Trade Operations. Strong analytical and problem-solving skills. Understanding of Trade processes and Systemic Process flows. Proven system development lifecycle skills Proficient understanding of emerging technologies Effective verbal and written skills
+   - ID: 261010959 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Officer--Operations-Readiness-Analyst_261010959
 
-2. **Data Management Analyst | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 83
-   - Fit: yes | Qualifications: 2+ years of data management, business analysis, analy
+2. **AI Platforms Engineer | Workday**
+   - IND.Pune | Work mode: hybrid | Section: Data / Analytics / AI
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 92
+   - Fit: yes | Basic Qualifications 1+ years of experience in the field of data engineeri
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: Basic Qualifications 1+ years of experience in the field of data engineering. Hands-on experience with modern data stack technologies, including basic expertise in leveraging the Databricks platform. Proficiency in at least one core programming language commonly used in data engineering (e.g.,
+   - ID: JR-0111017-1 | open (ATS verified)
+   - Apply: https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/AI-Platforms-Engineer_JR-0111017-1
+
+3. **IN_RBIC_Sr.Engineer_ for measurement of NPD Parts. | Bosch**
+   - Pune, Maharashtra, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 85
+   - Fit: yes | often requiring 3–5 years. Technical Knowledge: Proficiency in NDE met
+   - Experience: 3-5 yrs | Qualification: Diploma
+   - ID: 744000162676810 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162676810
+
+4. **Corporate Banking Analyst -Securities Research Associate | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Clinical / Research
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 82
+   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
    - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-586129 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Data-Management-Analyst_R-586129
+   - ID: R-580935-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Corporate-Banking-Analyst--Securities-Research-Associate_R-580935-1
 
-3. **Business Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 79
+5. **Inv Specialist, IN, Worlwide Operations Investigations  | Amazon**
+   - Mumbai, India | Work mode: unspecified | Also hiring in: Bengaluru, India | Section: Non-IT / Other
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 80
+   - Fit: yes | - Bachelor's degree or 3+ years of non-internship professional work in a sec
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: 10610414 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10610414/inv-specialist-in-worlwide-operations-investigations
+
+6. **Analyst Macro Product Control | Barclays**
+   - Pune, Gera Commerzone SEZ Chennai, DLF IT Park India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 79
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: elicitation and analysis User Story creation BRD / FRD preparation Process mapping Gap analysis Impact assessment Data analysis and reporting UAT coordination Client Onboarding Broking & Trading Wealth Management Capital Markets Private Banking Client Lifecycle Management SQL and data analysis API
-   - ID: JR-0000122323-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Business-Analyst_JR-0000122323-1
+   - ID: JR-0000131221 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-Control_JR-0000131221
 
-4. **Software Engineer, Android | PayPal**
-   - Bangalore, Karnataka, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 77
+7. **Software Engineer | ServiceNow**
+   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 78
+   - Fit: yes | function or industry. 2+ years of experience with Java or a similar object-
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: 744000162697254 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162697254
+
+8. **Machine Learning Engineer, Fraud (Crypto & Debit Card) | PayPal**
+   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 77
    - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
    - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R0138414-1 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer--Android_R0138414-1
+   - Requirements: 1+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Familiarity with ML frameworks like TensorFlow or scikit-learn. Strong analytical and problem-solving skills. Additional Responsibilities & Preferred Qualifications : Responsibilities:
+   - ID: R0139149 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Machine-Learning-Engineer--Fraud--Crypto---Debit-Card-_R0139149
 
-5. **Expertise Power BI Admin || Pune / Noida / Bangalore | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Data / Analytics / AI
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 75
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: to have: Administer and support the Microsoft Power BI Service and Power BI tenant. Manage Power BI Admin Portal/Tenant Settings in accordance with organizational governance and security requirements. Manage Power BI workspaces, including workspace creation, access, roles, and lifecycle activities.
-   - ID: R-10403963 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Expertise-Power-BI-Admin-Developer--Hands-on-SQL--ETL-and-Azure-----Pune---Noida---Bangalore_R-10403963
+9. **People Operations Specialist (Payroll & Compensation ) | Okta**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 77
+   - Fit: yes | Qualifications 2 to 3 years of experience supporting the Payroll Team Wo
+   - Experience: 2-3 yrs | Qualification: Bachelor
+   - Requirements: 2 to 3 years of experience supporting the Payroll Team Work shift in PST time (9pm to 5pm IST ) Proficient in Workday and ServiceNow, or another ticketing system Proficient in Google and Microsoft Suite Experience with Compensation or Total Rewards Preferred experience in the employee lifecycle
+   - ID: 8405211 | open (ATS verified)
+   - Apply: https://www.okta.com/company/careers/opportunity/8405211?gh_jid=8405211
 
-6. **Automation Engineer | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 74
-   - Fit: yes | candidates who have 2-8 years of experience in automation engineering. You
-   - Experience: 2-8 yrs | Qualification: Bachelor
-   - Requirements: To excel in this role, you should possess: Proficiency in PLC programming will be added advantage Experience in machine maintenance. Expertise in teaching/programming robots/cobots. Familiarity with material handling systems and conveyor upkeep. Demonstrated background in the automotive and/or
-   - ID: JR117794 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Automation-Engineer_JR117794
-
-7. **Software Dev Engineer II, Amazon Freight | Amazon**
-   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 73
-   - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs
-   - ID: 10609140 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10609140/software-dev-engineer-ii-amazon-freight
-
-8. **Computer Scientist-I (Java) | Adobe**
-   - Noida | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 71
-   - Fit: yes | Experience of min. 4 years with other backend languages like Java, C++
-   - Experience: 4 yrs | Qualification: Bachelor
-   - Requirements: skills: Experience in design and development of ML services and software systems Experience in Python and ML frameworks like TensorFlow and PyTorch B.S/B.E./B. Tech. in Computer Science or equivalent engineering degree Proven expertise in distributed systems and building RESTful services Preferred
-   - ID: R173668 | open (ATS verified)
-   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R173668
-
-9. **Airbag Developer and Tester | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: QA / Testing
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 71
-   - Fit: yes | development Experience: 3-8 years Strong communication skills Good knowledge o
-   - Experience: 3-8 yrs | Qualification: Bachelor
-   - ID: 744000162475047 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162475047
-
-10. **Backend - Intern ( SEA & Europe) | Paytm**
-   - Noida, Uttar Pradesh | Work mode: remote | Section: IT / Software
-   - Posted: 2026-11-19 (1 days ago) | fresh | Score 70
-   - Fit: unknown
-   - ID: 0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8 | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8
+10. **Financial Analyst - AM - Lending | Paytm**
+   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-11-20 (1 days ago) | fresh | Score 72
+   - Fit: yes | skills & experience -4+ years of experience as a Data Analyst / Business A
+   - Experience: 4+ yrs | Qualification: Bachelor | Salary: rs,21
+   - ID: 4e9fab80-dd1f-42c1-a163-8737291e6004 | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/4e9fab80-dd1f-42c1-a163-8737291e6004

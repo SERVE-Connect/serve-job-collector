@@ -1,85 +1,84 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-19 01:54 UTC
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-20 01:47 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Corporate Banking Analyst (Securities Research Associate) | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Clinical / Research
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 82
-   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-558856-4 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Corporate-Banking-Analyst--Securities-Research-Associate-_R-558856-4
-
-2. **Financial Analyst | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 82
-   - Fit: yes | • Typically has 0-2 years of work experience, preferably in financial
-   - Experience: 0-2 yrs | Qualification: Bachelor
-   - ID: 3165397 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Financial-Analyst_3165397
-
-3. **Software Engineer - Backend (Java) | PayPal**
+1. **Software Engineer, Android | PayPal**
    - Bangalore, Karnataka, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 77
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 77
    - Fit: yes | Minimum Qualifications: 1+ years relevant experience and a Bachelor’s degree
    - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R0138270-1 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer---Backend--Java-_R0138270-1
+   - ID: R0138414-1 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer--Android_R0138414-1
 
-4. **Communication Designer | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 77
-   - Fit: yes | the future. Experience: 2+ years in graphic/visual design. A sharp portfolio
+2. **Business Execution Consultant | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 77
+   - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
    - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 4754926005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4754926005
+   - ID: R-586132-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-586132-1
 
-5. **Support Engineer, Global Solutions & Risk Compliance (GSRC) | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 73
-   - Fit: yes | or related field - 1+ years of experience in BI/technical support roles.
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: 10607845 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10607845/support-engineer-global-solutions-risk-compliance-gsrc
+3. **Data Engineer, IN Data Engineering & Analytics | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 73
+   - Fit: yes | - 2+ years of data engineering experience - Experience
+   - Experience: 2+ yrs
+   - ID: 10609147 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10609147/data-engineer-in-data-engineering-analytics
 
-6. **AI & Backend Software Engineer – Intellectual Property Rights(Python / FastAPI / GenAI) | Bosch**
-   - bengaluru, India | Work mode: hybrid | Section: Data / Analytics / AI
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 72
-   - Fit: yes | field. Experience : 3+ years of professional software engineering experie
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: 744000162220979 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162220979
+4. **Airbag Developer and Tester | Bosch**
+   - bangalore, India | Work mode: unspecified | Section: QA / Testing
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 71
+   - Fit: yes | development Experience: 3-8 years Strong communication skills Good knowledge o
+   - Experience: 3-8 yrs | Qualification: Bachelor
+   - ID: 744000162475047 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162475047
 
-7. **CPU  Floor Plan Engineer | Intel**
-   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 71
-   - Fit: yes | education, with 3+ years of hands-on experience OR Master's degree in
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: Minimum Qualifications - Bachelor's degree in a relevant field such as Electrical Engineering, Electronics Engineering, or equivalent education, with 3+ years of hands-on experience OR Master's degree in a relevant field with 2+ years of hands-on experience. - Proven expertise in using Floor
-   - ID: JR0288134 | open (ATS verified)
-   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/CPU-Senior-Floor-Plan-Engineer_JR0288134
+5. **SOC Analyst II | Saviynt**
+   - Bengaluru, India | Work mode: hybrid | Section: Cybersecurity
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 69
+   - Fit: yes | and night). ● 4-6 years of experience in a Security Operations (SOC)
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - ID: 9092af3c-a41f-499d-abc4-fc752709cec2 | open (ATS verified)
+   - Apply: https://jobs.lever.co/saviynt/9092af3c-a41f-499d-abc4-fc752709cec2
 
-8. **Senior Advisory Specialist Solutions Consultant | ServiceNow**
-   - Mumbai, Maharashtra, India | Work mode: hybrid | Also hiring in: Bangalore, Karnataka, India; Gurugram, HARYANA, India | Section: Non-IT / Other
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 67
-   - Fit: no | in this role you have: 7+ years of pre-sales solution consulting or sales en
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - ID: 744000162286909 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162286909
+6. **Digital Contact Center Management of Change | HP**
+   - Bengaluru, Karnataka, India Sant Cugat del Valles, Barcelona, Spain India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 63
+   - Fit: yes | • Typically has 4-7 years of work experience, preferably in project ma
+   - Experience: 4-7 yrs | Qualification: Bachelor
+   - ID: 3164728-2 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Digital-Contact-Center-Management-of-Change_3164728-2
 
-9. **Account Executive  - Enterprise | Zscaler**
-   - Bangalore, IND | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - Requirements: a true growth mindset and are obsessed with your own development, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose. What We’re Looking for (Minimum Qualifications) Foundational understanding of AI/ML technologies and
-   - ID: 5295948007 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5295948007
+7. **Associate Director, Risk Management  | Razorpay**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 58
+   - Fit: no | EXPERIENCE Experience: 10–12 years in AML, transaction monitoring, financial cr
+   - Experience: 10-12 yrs | Qualification: Bachelor
+   - Requirements: stood up monitoring functions in new geographies, hired and grown teams, selected and implemented tooling, and translated regulatory expectations into working controls. This role requires close collaboration with Compliance, Legal, Product, Operations, Data Science, Engineering, and external
+   - ID: 4753866005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4753866005
 
-10. **IT System Administrator I | Rubrik**
-   - Bangalore, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-18 (1 days ago) | fresh | Score 58
-   - Fit: no | qualifications: 5+ years supporting internal or external customers in
-   - Experience: 5+ yrs | Qualification: Bachelor
-   - Requirements: 5+ years supporting internal or external customers in a Global IT Service Desk environment. 5+ years experience supporting Mac and Windows devices. 5+ years managing user and role-based access in a predominantly SaaS-based environment. Hands-on experience administering Okta, building Okta
-   - ID: 8398152 | open (ATS verified)
-   - Apply: https://www.rubrik.com/company/careers/departments/job.8398152?gh_jid=8398152
+8. **Principal Adversary Emulation Specialist (Offensive Security) | Zscaler**
+   - Bangalore, IND | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 53
+   - Fit: no | augment problem-solving 9–14 years hands-on offensive security experience, with
+   - Experience: 9-14 yrs | Qualification: Bachelor
+   - ID: 5297757007 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/zscaler/jobs/5297757007
+
+9. **Salesforce Success Architect - Gen AI & Agentforce | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 53
+   - Fit: no | Person If... Minimum 8 years proven experience in enterprise consulting i
+   - Experience: 8 yrs | Qualification: Bachelor
+   - ID: JR330045-1 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Salesforce-Success-Architect--Agentforce-_JR330045-1
+
+10. **Accounting, Audit and Tax Manager | Capital One**
+   - Bangalore, In | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-19 (1 days ago) | fresh | Score 53
+   - Fit: no | Financial Analyst (CFA) 8+ years of experience as a Chartered Accountant Exce
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - Requirements: Certified Chartered Financial Analyst (CFA) 8+ years of experience as a Chartered Accountant Excellent communication skills - verbal, written and presentation At this time, Capital One will not sponsor a new applicant for employment authorization for this position. No agencies please. Capital One
+   - ID: R247703 | open (ATS verified)
+   - Apply: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Accounting--Audit-and-Tax-Manager_R247703
