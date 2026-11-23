@@ -1,4 +1,4 @@
-# SERVE ranked lists, collected 2026-11-22 00:25 UTC
+# SERVE ranked lists, collected 2026-11-23 00:57 UTC
 Each file below is a ready top-10 list. Commands read one file only.
 
 | File | List | Jobs |
@@ -22,7 +22,7 @@ Each file below is a ready top-10 list. Commands read one file only.
 | domain_qa-testing.md | QA / Testing jobs (0-5 years) | 3 |
 | domain_it-support-operations.md | IT Support / Operations jobs (0-5 years) | 3 |
 | domain_senior-it-roles-5-yrs.md | Senior IT roles (5+ yrs) jobs | 10 |
-| domain_clinical-research.md | Clinical / Research jobs (0-5 years) | 1 |
+| domain_clinical-research.md | Clinical / Research jobs (0-5 years) | 0 |
 | domain_non-it-other.md | Non-IT / Other jobs (0-5 years) | 10 |
 | domain_pharma.md | Pharma jobs (0-5 years, matched by keyword) | 0 |
 | domain_logistics.md | Logistics jobs (0-5 years, matched by keyword) | 4 |
