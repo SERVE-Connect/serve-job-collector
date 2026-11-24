@@ -1,9 +1,9 @@
-# SERVE ranked list: IT Support / Operations jobs (0-5 years), collected 2026-11-22 00:25 UTC
+# SERVE ranked list: IT Support / Operations jobs (0-5 years), collected 2026-11-23 00:57 UTC
 3 jobs, best score first: 0 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
 1. **Technical Support Engineer - Moveworks | ServiceNow**
    - Bangalore, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-20 (2 days ago) | fallback | Score 74
+   - Posted: 2026-11-20 (3 days ago) | fallback | Score 71
    - Fit: yes | or a related field 2-5 years of experience in customer-facing technical s
    - Experience: 2-5 yrs | Qualification: Bachelor
    - ID: 744000162831529 | open (ATS verified)
@@ -11,7 +11,7 @@
 
 2. **Support Engineer, Global Solutions & Risk Compliance (GSRC) | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-18 (4 days ago) | fallback | Score 64
+   - Posted: 2026-11-18 (5 days ago) | fallback | Score 61
    - Fit: yes | or related field - 1+ years of experience in BI/technical support roles.
    - Experience: 1+ yrs | Qualification: Bachelor
    - ID: 10607845 | open (listed in employer's live search)
@@ -19,7 +19,7 @@
 
 3. **Support Engineer , Amazon Pharmacy Operations | Amazon**
    - Bengaluru, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-17 (5 days ago) | fallback | Score 61 | second job
+   - Posted: 2026-11-17 (6 days ago) | fallback | Score 61 | second job
    - Fit: yes | - 2+ years of software development, or 2+ years of tech
    - Experience: 2+ yrs | Qualification: Bachelor
    - ID: 10606843 | open (listed in employer's live search)
