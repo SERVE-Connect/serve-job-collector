@@ -1,68 +1,67 @@
-# SERVE ranked list: Jobs in Hyderabad (all domains, all experience levels), collected 2026-11-23 00:57 UTC
-8 jobs, best score first: 1 from today/yesterday, 7 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Hyderabad (all domains, all experience levels), collected 2026-11-24 04:50 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Tax Analyst, US International Tax | Amazon**
+1. **Tax Analyst | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-20 (3 days ago) | fallback | Score 73
-   - Fit: yes | manipulation - Minimum 2 years of experience in international tax at a Big
-   - Experience: 2 yrs | Qualification: Bachelor
-   - ID: 10610151 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10610151/tax-analyst-us-international-tax
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 83
+   - Fit: yes | Qualifications: 2+ years of Corporate Tax, Finance, Accounting, Analy
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: R-586617 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Tax-Analyst_R-586617
 
-2. **Risk Specialist I, AWS Payments and Fraud Prevention | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Also hiring in: Hyderabad, India | Section: Non-IT / Other
-   - Posted: 2026-11-20 (3 days ago) | fallback | Score 72 | second job
-   - Fit: yes | 24/7/365 environment - 2+ years of fraud identification and detection, inves
-   - Experience: 2+ yrs
-   - ID: 10610040 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10610040/risk-specialist-i-aws-payments-and-fraud-prevention
-
-3. **Early in Career Recruiter | APAC & EMEA | ServiceNow**
-   - Hyderabad, India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-21 (2 days ago) | fallback | Score 70 | second job
-   - Fit: yes | in this role you have: 3+ years of full-cycle recruiting experience in a fas
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: 744000162954769 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162954769
-
-4. **Customer Service Representative | Wells Fargo**
+2. **Wealth Underwriting Assistant-CRE, Spreading, pre underwriting | Wells Fargo**
    - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-19 (4 days ago) | fallback | Score 69
-   - Fit: yes | Qualifications: 1+ year of customer service, financial services, or
+   - Posted: 2026-11-24 (0 days ago) | fresh | Score 81 | second job
+   - Fit: yes | Qualifications: 1+ years of Wealth Underwriting support experience, o
    - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R-587272 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Customer-Service-Representative_R-587272
+   - ID: R-588269 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Wealth-Underwriting-Assistant-CRE--Spreading--pre-underwriting_R-588269
 
-5. **Global Support Contract Specialist (EMEA Time Zone) | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-18 (5 days ago) | fallback | Score 60
-   - Fit: yes | Minimum Requirements 3+ years sales operations or order management experie
+3. **Software Engineer (Go & Kubernetes) | ServiceNow**
+   - Hyderabad, India | Work mode: hybrid | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 79
+   - Fit: yes | are a strong plus. 2+ years building production software. Programming sk
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: 744000163146999 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000163146999
+
+4. **Software Engineer | ServiceNow**
+   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 78 | second job
+   - Fit: yes | function or industry. 2-5 years of experience with Java or a similar OO lang
+   - Experience: 2-5 yrs | Qualification: Bachelor
+   - ID: 744000163151029 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000163151029
+
+5. **Software Engineer, Backend (Merchant Platform) | DoorDash India**
+   - Hyderabad, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 72
+   - Fit: yes | Science or equivalent 3+ years of industry experience working with backend
    - Experience: 3+ yrs | Qualification: Bachelor
-   - Requirements: strong research and problem-solving abilities. Excellent interpersonal skills; ability to articulate verbally and written, willingness to appropriately debate difficult issues; ability to think quickly. Ability to excel in a fast growing/fast paced environment delivering accuracy while managing to
-   - ID: JR355394 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Global-Support-Contract-Specialist--PST-Time-Zone-_JR355394
+   - ID: 8411698 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8411698
 
-6. **Staff Software Engineer, AI Native Engineering, Integrations | ServiceNow**
-   - Hyderabad, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-22 (1 days ago) | fresh | Score 55
-   - Fit: no | sync, delete detection. 8+ years of software engineering with strong fundamen
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - ID: 744000163090339 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000163090339
+6. **AI Workforce Development Specialist | Micron**
+   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 72
+   - Fit: yes | practical experience. 3+ years of experience in program management, learnin
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: Bachelor’s degree in Education, Communications, Human Resources, Business, STEM, or a related field, or equivalent practical experience. 3+ years of experience in program management, learning & development, enablement, communications, or a related subject area, including the design and delivery of
+   - ID: JR108610-1 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/AI-Workforce-Development-Specialist_JR108610-1
 
-7. **Engineer - Standard Cell Design | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-19 (4 days ago) | fallback | Score 52
+7. **Contract Sales Operations Associate Analyst | Salesforce**
+   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 72
+   - Fit: yes | You're Our Person If... 2+ years sales operations or order management experie
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: JR367849 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Contract-Sales-Operations-Associate-Analyst_JR367849
+
+8. **Quality Auditor, NOC Vigil | Amazon**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 57
    - Fit: unknown
    - Qualification: Bachelor
-   - Requirements: Good understanding of CMOS circuit design Good knowledge of CMOS device physics and layout Experience in total stdcells flow from DTCO development/ spec definition till lib release RTL/GDS flow setup, block level timing analysis, ICC2 experience. Preferred Synopsys EDA flow Finefet & planner
-   - ID: JR100652 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer---Standard-Cell-Design_JR100652
-
-8. **Manager, Regional Security Operations Center | DoorDash India**
-   - Hyderabad, TA  | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-16 (7 days ago) | fallback | Score 40
-   - Fit: no
-   - Qualification: Bachelor
-   - ID: 8394355 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8394355
+   - ID: 10611170 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10611170/quality-auditor-noc-vigil

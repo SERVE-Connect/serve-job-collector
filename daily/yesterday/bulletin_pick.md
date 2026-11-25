@@ -1,74 +1,81 @@
-# SERVE bulletin picks, 2026-11-23 00:57 UTC
-9 jobs: 3 from today/yesterday, 6 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
+# SERVE bulletin picks, 2026-11-24 04:50 UTC
+10 jobs: 10 from today/yesterday, 0 from the 7-day fallback. One job per company; a second job only when short (max 2 companies). Already-sent jobs are skipped.
 
-1. **Software Engineer (Backend Focused) | Autodesk**
-   - Bengaluru, IND | Work mode: unspecified | Posted: 2026-11-23 (0 days ago) | fresh
-   - Fit: yes | practical experience 2–4 years of relevant professional software engineerin | Score 80
-   - ID: 26WD102324-2 | open (ATS verified)
+1. **DevOps Engineer | Broadcom**
+   - IND-Pune-Panchshil | Work mode: unspecified | Posted: 2026-11-23 (1 days ago) | fresh
+   - Fit: yes | • Experience: 3-5 years of experience in software product. • Educati | Score 85
+   - ID: R027911 | open (ATS verified)
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-Panchshil/DevOps-Engineer_R027911
+
+2. **Software Engineer (Go & Kubernetes) | ServiceNow**
+   - Hyderabad, India | Work mode: hybrid | Posted: 2026-11-23 (1 days ago) | fresh
+   - Fit: yes | are a strong plus. 2+ years building production software. Programming sk | Score 79
+   - ID: 744000163146999 | open (ATS verified)
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000163146999
+
+3. **Axiom Developer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-11-24 (0 days ago) | fresh
+   - Fit: unknown | Score 77
+   - ID: JR-0000131420 | open (ATS verified)
+   - Qualification: Bachelor
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Axiom-Developer_JR-0000131420
+
+4. **Analytics Consultant | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Posted: 2026-11-23 (1 days ago) | fresh
+   - Fit: yes | Qualifications: 2+ years of Analytics experience, or equivalent demon | Score 77
+   - ID: R-587255 | open (ATS verified)
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Analytics-Consultant_R-587255
+
+5. **Software Development Engineer in Test | PayPal**
+   - Bangalore, Karnataka, India | Work mode: unspecified | Posted: 2026-11-23 (1 days ago) | fresh
+   - Fit: yes | do you need to bring: 2-4 years of experience in software testing, with at l | Score 77
+   - ID: R0138625 | open (ATS verified)
    - Experience: 2-4 yrs | Qualification: Bachelor
-   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Software-Engineer--Backend-Focused-_26WD102324-2
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Development-Engineer-in-Test_R0138625
 
-2. **IN_RBAI_Software Automation expert_IN | Bosch**
-   - Bengaluru, KA, India | Work mode: unspecified | Posted: 2026-11-22 (1 days ago) | fresh
-   - Fit: yes | fields) Experience * 1-2 years of experience in web application development | Score 77
-   - ID: 744000163090169 | open (ATS verified)
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000163090169
-
-3. **Software Dev Engineer II - Advertising | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Posted: 2026-11-22 (1 days ago) | fresh
+6. **Software Dev Engineer II, Amazon, Selection Monitoring | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Posted: 2026-11-23 (1 days ago) | fresh
    - Fit: yes | - 3+ years of non-internship professional software deve | Score 72
-   - ID: 10607231 | open (listed in employer's live search)
+   - ID: 10611406 | open (listed in employer's live search)
+   - Experience: 3+ yrs
+   - Apply: https://www.amazon.jobs/en/jobs/10611406/software-dev-engineer-ii-amazon-selection-monitoring
+
+7. **Software Engineer, Backend (Merchant Platform) | DoorDash India**
+   - Hyderabad, India | Work mode: unspecified | Posted: 2026-11-23 (1 days ago) | fresh
+   - Fit: yes | Science or equivalent 3+ years of industry experience working with backend | Score 72
+   - ID: 8411698 | open (ATS verified)
    - Experience: 3+ yrs | Qualification: Bachelor
-   - Apply: https://www.amazon.jobs/en/jobs/10607231/software-dev-engineer-ii-advertising
+   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8411698
 
-4. **Apps Dev Intmd Programmer Analyst - C11 - PUNE | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Posted: 2026-11-19 (4 days ago) | fallback (older than yesterday)
-   - Fit: yes | Qualifications: 3-6 years of relevant experience in the Financial Serv | Score 82
-   - ID: 261007379 | open (ATS verified)
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - Requirements: 3-6 years of relevant experience in the Financial Service industry Intermediate level experience in Applications Development role Consistently demonstrates clear and concise written and verbal communication Demonstrated problem-solving and decision-making skills Ability to work under pressure and
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Apps-Dev-Intmd-Programmer-Analyst---C11---PUNE_261007379
+8. **AI Workforce Development Specialist | Micron**
+   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Posted: 2026-11-23 (1 days ago) | fresh
+   - Fit: yes | practical experience. 3+ years of experience in program management, learnin | Score 72
+   - ID: JR108610-1 | open (ATS verified)
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: Bachelor’s degree in Education, Communications, Human Resources, Business, STEM, or a related field, or equivalent practical experience. 3+ years of experience in program management, learning & development, enablement, communications, or a related subject area, including the design and delivery of
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/AI-Workforce-Development-Specialist_JR108610-1
 
-5. **Technical Support Engineer - Moveworks | ServiceNow**
-   - Bangalore, India | Work mode: unspecified | Posted: 2026-11-20 (3 days ago) | fallback (older than yesterday)
-   - Fit: yes | or a related field 2-5 years of experience in customer-facing technical s | Score 71
-   - ID: 744000162831529 | open (ATS verified)
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162831529
+9. **eAxle engineering order management | Bosch**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Posted: 2026-11-23 (1 days ago) | fresh
+   - Fit: yes | discipline Minimum 3-5 years of relevant professional experience in one o | Score 71
+   - ID: 744000163280914 | open (ATS verified)
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: Professional experience in the automotive industry or electrification/electric vehicle sector Demonstrated experience in supplier relationship management and performance monitoring Proven track record in supply chain risk identification, mitigation strategy development, and implementation
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000163280914
 
-6. **Avaloq Developer | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Posted: 2026-11-20 (3 days ago) | fallback (older than yesterday)
-   - Fit: unknown | Score 68
-   - ID: JR-0000112102 | open (ATS verified)
-   - Qualification: Bachelor
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Avaloq-Developer_JR-0000112102
-
-7. **Engineer - Standard Cell Design | Micron**
-   - Hyderabad - Phoenix Aquila, India | Work mode: unspecified | Posted: 2026-11-19 (4 days ago) | fallback (older than yesterday)
-   - Fit: unknown | Score 52
-   - ID: JR100652 | open (ATS verified)
-   - Qualification: Bachelor
-   - Requirements: Good understanding of CMOS circuit design Good knowledge of CMOS device physics and layout Experience in total stdcells flow from DTCO development/ spec definition till lib release RTL/GDS flow setup, block level timing analysis, ICC2 experience. Preferred Synopsys EDA flow Finefet & planner
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer---Standard-Cell-Design_JR100652
-
-8. **Data Engineer | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Posted: 2026-11-18 (5 days ago) | fallback (older than yesterday)
-   - Fit: yes | • Typically has 4-7 years of work experience, preferably in data analy | Score 51
-   - ID: 3170389-1 | open (ATS verified)
-   - Experience: 4-7 yrs | Qualification: Bachelor
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Engineer_3170389-1
-
-9. **Software Engineer  | Rubrik**
-   - bangalore | Work mode: unspecified | Posted: 2026-11-16 (7 days ago) | fallback (older than yesterday)
-   - Fit: unknown | Score 48
-   - ID: 8349847 | open (ATS verified)
-   - Qualification: Bachelor
-   - Requirements: Must-have Strong hands-on programming skills in Golang . Deep, practical knowledge of identity protocols: OIDC/OAuth 2.0 and SAML 2.0 — including token/assertion internals, standard flows, and failure modes. Working knowledge of Active Directory . Applied cryptography/PKI experience: X.509,
-   - Apply: https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847
+10. **Computer Scientist- I (Java) | Adobe**
+   - Noida | Work mode: unspecified | Posted: 2026-11-23 (1 days ago) | fresh
+   - Fit: yes | have skills: Minimum 4 years' experience in the development and building | Score 71
+   - ID: R173771 | open (ATS verified)
+   - Experience: 4 yrs | Qualification: Bachelor
+   - Requirements: skills: Minimum 4 years' experience in the development and building of software systems. B.S/B.E./B. Tech. in Computer Science or equivalent engineering degree. Proficiency in Java and J2EE, including deploying, monitoring, and troubleshooting Spring Boot services. Proven expertise in building and
+   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist--I--Java-_R173771
 
 After you post, paste this line into data/sent_ids.txt:
 
 ```
-2026-11-23 26WD102324-2 744000163090169 10607231 261007379 744000162831529 JR-0000112102 JR100652 3170389-1 8349847
+2026-11-24 R027911 744000163146999 JR-0000131420 R-587255 R0138625 10611406 8411698 JR108610-1 744000163280914 R173771
 ```

@@ -1,83 +1,86 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-23 00:57 UTC
-10 jobs, best score first: 6 from today/yesterday, 4 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-24 04:50 UTC
+10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Software Engineer (Backend Focused) | Autodesk**
-   - Bengaluru, IND | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-23 (0 days ago) | fresh | Score 80
-   - Fit: yes | practical experience 2–4 years of relevant professional software engineerin
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 26WD102324-2 | open (ATS verified)
-   - Apply: https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Software-Engineer--Backend-Focused-_26WD102324-2
+1. **System Analyst | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 82
+   - Fit: yes | equivalent experience. 0-3 years of hands-on platform or systems support, adm
+   - Experience: 0-3 yrs | Qualification: Bachelor
+   - Requirements: Bachelor's degree in computer science, business, or equivalent experience. 0-3 years of hands-on platform or systems support, administration, or implementation experience in an enterprise IT environment. Strong knowledge of Salesforce native functionality and best practices. Demonstrated ability to
+   - ID: JR367594 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/System-Analyst_JR367594
 
-2. **IN_RBAI_Software Automation expert_IN | Bosch**
-   - Bengaluru, KA, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-22 (1 days ago) | fresh | Score 77
-   - Fit: yes | fields) Experience * 1-2 years of experience in web application development
-   - Experience: 1-2 yrs | Qualification: Bachelor
-   - ID: 744000163090169 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000163090169
-
-3. **Software Dev Engineer II - Advertising | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-22 (1 days ago) | fresh | Score 72
-   - Fit: yes | - 3+ years of non-internship professional software deve
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: 10607231 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10607231/software-dev-engineer-ii-advertising
-
-4. **Customer Solution Center Rep 5 - Technical | HP**
-   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-22 (1 days ago) | fresh | Score 71
-   - Fit: yes | are a plus. Experience: 3-4 years of experience in IT service desk as an SME o
-   - Experience: 3-4 yrs | Qualification: Bachelor
-   - Requirements: Excellent troubleshooting and problem-solving abilities in a range of IT systems and environments. Strong organizational and multitasking skills, with the ability to manage multiple priorities effectively. Exceptional communication skills, both written and verbal, with the ability to explain
-   - ID: 3167974-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Customer-Solution-Center-Rep-5---Technical_3167974-1
-
-5. **Technical Support Engineer - Moveworks | ServiceNow**
-   - Bangalore, India | Work mode: unspecified | Section: IT Support / Operations
-   - Posted: 2026-11-20 (3 days ago) | fallback | Score 71
-   - Fit: yes | or a related field 2-5 years of experience in customer-facing technical s
-   - Experience: 2-5 yrs | Qualification: Bachelor
-   - ID: 744000162831529 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000162831529
-
-6. **People Operations Specialist (Payroll & Compensation ) | Okta**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-20 (3 days ago) | fallback | Score 71
-   - Fit: yes | Qualifications 2 to 3 years of experience supporting the Payroll Team Wo
-   - Experience: 2-3 yrs | Qualification: Bachelor
-   - Requirements: 2 to 3 years of experience supporting the Payroll Team Work shift in PST time (9pm to 5pm IST ) Proficient in Workday and ServiceNow, or another ticketing system Proficient in Google and Microsoft Suite Experience with Compensation or Total Rewards Preferred experience in the employee lifecycle
-   - ID: 8405211 | open (ATS verified)
-   - Apply: https://www.okta.com/company/careers/opportunity/8405211?gh_jid=8405211
-
-7. **Associate Fraud & Claims Operations Representative-only freshers | Wells Fargo**
+2. **Associate Operations Processor | Wells Fargo**
    - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-23 (0 days ago) | fresh | Score 68
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 82
+   - Fit: yes | or any other discipline 0 to 1 year of experience in banking/Financial Services
+   - Experience: 0-1 yrs | Qualification: Bachelor
+   - ID: R-562782 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Operations-Processor_R-562782
+
+3. **Software Development Engineer in Test | PayPal**
+   - Bangalore, Karnataka, India | Work mode: unspecified | Section: QA / Testing
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 77
+   - Fit: yes | do you need to bring: 2-4 years of experience in software testing, with at l
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - ID: R0138625 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Development-Engineer-in-Test_R0138625
+
+4. **Sourcing Recruiter, Amazon University Talent Acquisition | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 73
+   - Fit: yes | and pipelines - 2+ years of corporate or search firm progressive recr
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - ID: 10611191 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10611191/sourcing-recruiter-amazon-university-talent-acquisition
+
+5. **eAxle engineering order management | Bosch**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 71
+   - Fit: yes | discipline Minimum 3-5 years of relevant professional experience in one o
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - Requirements: Professional experience in the automotive industry or electrification/electric vehicle sector Demonstrated experience in supplier relationship management and performance monitoring Proven track record in supply chain risk identification, mitigation strategy development, and implementation
+   - ID: 744000163280914 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000163280914
+
+6. **DFT Engineer / GPU Logic Design Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 71
+   - Fit: yes | or a related field with 3+ years of industry experience, OR a Master's degree
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - Requirements: Minimum Qualifications - Bachelor's degree in Electrical Engineering, Computer Engineering, or a related field with 3+ years of industry experience, OR a Master's degree in the same fields with 2+ years of industry experience, OR a PhD with no prior professional experience. - Demonstrated expertise
+   - ID: JR0287980 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/DFT-Engineer---GPU-Logic-Design-Engineer_JR0287980
+
+7. **Product Designer II | Razorpay**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 68
+   - Fit: yes | and have at least 4 - 6 years of core product design experience. Credible
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - Requirements: taste and you ship. Both matter equally here.&nbsp; Exceptional communicator :&nbsp;Whether 1:1 or to a group - you make complex ideas land simply.&nbsp; Systems thinker :&nbsp;You solve entire classes of problems, not individual tasks.&nbsp; Obsessively curious :&nbsp;Dissatisfied with what
+   - ID: 4757185005 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4757185005
+
+8. **Financial Analyst-Supply Chain | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 68
+   - Fit: yes | • Typically has 4-7 years of work experience, preferably in financial
+   - Experience: 4-7 yrs | Qualification: Bachelor
+   - ID: 3162017-2 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Financial-Analyst-Supply-Chain_3162017-2
+
+9. **Professional Services Consultant 4 | Adobe**
+   - Noida | Work mode: unspecified | Also hiring in: Bangalore | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 63
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: R-587953 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Fraud---Claims-Operations-Representative-only-freshers_R-587953
+   - ID: R173713 | open (ATS verified)
+   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Professional-Services-Consultant-4_R173713
 
-8. **Communication Designer | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-18 (5 days ago) | fallback | Score 65
-   - Fit: yes | the future. Experience: 2+ years in graphic/visual design. A sharp portfolio
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 4754926005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4754926005
-
-9. **Product Management - Senior Product Manager / PM-2 – Risk Product | Paytm**
-   - Bangalore, Karnataka | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-20 (3 days ago) | fallback | Score 51
-   - Fit: no
-   - ID: d08cc291-90b4-47bb-8300-59cc2011b662 | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/d08cc291-90b4-47bb-8300-59cc2011b662
-
-10. **Senior Risk Manager, AI Assurance & Inspections, FORGE | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-22 (1 days ago) | fresh | Score 49 | second job
-   - Fit: no | - 7+ years of compliance, audit or risk management expe
-   - Experience: 7+ yrs | Qualification: Bachelor
-   - ID: 10611004 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10611004/senior-risk-manager-ai-assurance-inspections-forge
+10. **Intern | Micron**
+   - Hyderabad - Phoenix Aquila, India Bengaluru, India India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-23 (1 days ago) | fresh | Score 60
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: JR108596 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596

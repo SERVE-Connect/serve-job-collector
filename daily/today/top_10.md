@@ -1,83 +1,82 @@
-# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-24 04:50 UTC
+# SERVE ranked list: Top jobs, all cities and domains (0-5 years), collected 2026-11-25 03:34 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Associate, Fraud Analysis | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 97
-   - Fit: yes | you will need to have: 0-2 years of financial or customer service experience
-   - Experience: 0-2 yrs | Qualification: Bachelor
-   - Requirements: to have: 0-2 years of financial or customer service experience What would be great to have: Knowledge of Regulation E and Regulation Z Knowledge of Visa and/or Mastercard operating regulations Experience with electronic funds transfer (EFT) Proficient in Microsoft 365 (Outlook, Word, Excel,
-   - ID: R-10402002 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Associate--Fraud-Analysis_R-10402002
+1. **Content Support Analyst II | AlphaSense**
+   - Remote - India | Work mode: remote | Section: Non-IT / Other
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 92
+   - Fit: yes | communication skills 0-4 years of data entry and/or data maintenance experi
+   - Experience: 0-4 yrs | Qualification: Bachelor
+   - ID: 8958236002 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/alphasenseindia/jobs/8958236002
 
-2. **FinOps Analyst - AP, AP Healthcare | Amazon**
-   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 92
-   - Fit: yes | or related field - 2+ years of finance operations/shared services, accou
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 10609353 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10609353/finops-analyst-ap-ap-healthcare
-
-3. **Young Apprentice - C00 - MUMBAI | Citi**
-   - Mumbai Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 91
-   - Fit: yes | Knowledge/Experience: 1 – 3 years’ experience in banking, finance, or law Expe
-   - Experience: 1-3 yrs | Qualification: Bachelor
-   - ID: 26980974 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980974
-
-4. **DevOps Engineer | Broadcom**
-   - IND-Pune-Panchshil | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 85
-   - Fit: yes | • Experience: 3-5 years of experience in software product. • Educati
+2. **Business Operations Analyst – Network Reporting & Fee Oversight Support | Fiserv**
+   - Pune - Trion Business Park, India | Work mode: onsite | Section: Cloud / DevOps / Infrastructure
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 91
+   - Fit: yes | to the field. 3-5 years of experience in payment operations, network
    - Experience: 3-5 yrs | Qualification: Bachelor
-   - ID: R027911 | open (ATS verified)
-   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-Panchshil/DevOps-Engineer_R027911
+   - ID: R-10407720 | open (ATS verified)
+   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Business-Operations-Analyst---Network-Reporting---Fee-Oversight-Support_R-10407720
 
-5. **Tax Analyst | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 83
-   - Fit: yes | Qualifications: 2+ years of Corporate Tax, Finance, Accounting, Analy
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: R-586617 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Tax-Analyst_R-586617
+3. **Data Center Engineering Operations Engineer, DCEO, BOM | Amazon**
+   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 86
+   - Fit: yes | - 2+ years of relevant work experience - Experience in
+   - Experience: 2+ yrs
+   - ID: 10612363 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10612363/data-center-engineering-operations-engineer-dceo-bom
 
-6. **System Analyst | Salesforce**
-   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 82
-   - Fit: yes | equivalent experience. 0-3 years of hands-on platform or systems support, adm
-   - Experience: 0-3 yrs | Qualification: Bachelor
-   - Requirements: Bachelor's degree in computer science, business, or equivalent experience. 0-3 years of hands-on platform or systems support, administration, or implementation experience in an enterprise IT environment. Strong knowledge of Salesforce native functionality and best practices. Demonstrated ability to
-   - ID: JR367594 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/System-Analyst_JR367594
+4. **Analyst, Tax - GIR Compliance | PayPal**
+   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 82
+   - Fit: yes | Minimum Qualifications: 1+ years of relevant experience and a Bachelor's degr
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - Requirements: 1+ years of relevant experience and a Bachelor's degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Demonstrated experience with manual review and software aided review of W-8/W9, FATCA and CRS Self Certification form
+   - ID: R0138590 | open (ATS verified)
+   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Analyst--Tax---GIR-Compliance_R0138590
 
-7. **Software Engineer (Go & Kubernetes) | ServiceNow**
-   - Hyderabad, India | Work mode: hybrid | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 79
-   - Fit: yes | are a strong plus. 2+ years building production software. Programming sk
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 744000163146999 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000163146999
-
-8. **Fraud & Dispute Analyst - BA3 | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 79
+5. **Data Analyst | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 79
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000136382-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Fraud---Dispute-Analyst---BA3_JR-0000136382-1
+   - ID: JR-0000089713-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000089713-1
 
-9. **Software Development Engineer in Test | PayPal**
-   - Bangalore, Karnataka, India | Work mode: unspecified | Section: QA / Testing
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 77
-   - Fit: yes | do you need to bring: 2-4 years of experience in software testing, with at l
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: R0138625 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Development-Engineer-in-Test_R0138625
+6. **Wealth Underwriting Assistant-CRE, Spreading, pre underwriting | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 78
+   - Fit: yes | Qualifications: 1+ years of Wealth Underwriting support experience, o
+   - Experience: 1+ yrs | Qualification: Bachelor
+   - ID: R-588269 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Wealth-Underwriting-Assistant-CRE--Spreading--pre-underwriting_R-588269
 
-10. **Risk Management - BOD/EOD | Paytm**
-   - Mumbai, Maharashtra | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-23 (1 days ago) | fresh | Score 74
+7. **Accounting Analyst | Stripe**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 76
+   - Fit: yes | ACA, ACCA, CIMA) with 3 - 6 years of relevant accounting experience Degree in
+   - Experience: 3-6 yrs | Qualification: Bachelor
+   - ID: 8401662 | open (ATS verified)
+   - Apply: https://stripe.com/jobs/search?gh_jid=8401662
+
+8. **SDE-III | Mindtickle**
+   - Bengaluru, Karnataka, Pune, Maharashtra | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 75
    - Fit: unknown
-   - ID: eed163b7-ae30-4d74-93e7-45823e0b0cc4 | open (ATS verified)
-   - Apply: https://jobs.lever.co/paytm/eed163b7-ae30-4d74-93e7-45823e0b0cc4
+   - ID: 2f32712f-bc84-4485-b2fb-99e167f54e21 | open (ATS verified)
+   - Apply: https://jobs.lever.co/mindtickle/2f32712f-bc84-4485-b2fb-99e167f54e21
+
+9. **ETD Brokerage Control Officer | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-24 (1 days ago) | fresh | Score 75
+   - Fit: unknown
+   - Qualification: Bachelor
+   - ID: 26974781 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_26974781
+
+10. **Physical Design Engineer | NVIDIA**
+   - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (0 days ago) | fresh | Score 74
+   - Fit: yes | equivalent experience. 3+ years of experience in Physical Design. Strong und
+   - Experience: 3+ yrs | Qualification: Bachelor
+   - ID: JR2030485-1 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Physical-Design-Engineer_JR2030485-1
