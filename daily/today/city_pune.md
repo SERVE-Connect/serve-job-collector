@@ -1,82 +1,67 @@
-# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-11-25 03:34 UTC
-10 jobs, best score first: 7 from today/yesterday, 3 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Jobs in Pune (all domains, all experience levels), collected 2026-11-26 02:53 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Business Operations Analyst – Network Reporting & Fee Oversight Support | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 91
-   - Fit: yes | to the field. 3-5 years of experience in payment operations, network
-   - Experience: 3-5 yrs | Qualification: Bachelor
-   - ID: R-10407720 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Business-Operations-Analyst---Network-Reporting---Fee-Oversight-Support_R-10407720
+1. **Apps Dev Intmd Programmer Analyst - C11 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: IT / Software
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 91
+   - Fit: yes | Qualifications: 3-6 years of relevant experience in the Financial Serv
+   - Experience: 3-6 yrs | Qualification: Bachelor
+   - Requirements: 3-6 years of relevant experience in the Financial Service industry Experience into Java Developer Intermediate level experience in Applications Development role Consistently demonstrates clear and concise written and verbal communication Demonstrated problem-solving and decision-making skills
+   - ID: 261006535 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Apps-Dev-Intmd-Programmer-Analyst---C11---PUNE_261006535
 
-2. **Product Support Analyst | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 91 | second job
-   - Fit: yes | Center and/or CLX. 3+ years of experience in customer support, product s
+2. **System Software Engineer | NVIDIA**
+   - India, Bengaluru India, Pune India | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 85
+   - Fit: yes | equivalent experience. 3+ years' experience in a related hardware/software p
    - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: R-10407724 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Product-Support-Analyst_R-10407724
+   - ID: JR2030549 | open (ATS verified)
+   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/System-Software-Engineer_JR2030549
 
-3. **FinOps Analyst - AP, AP Healthcare | Amazon**
+3. **Analyst, Technical Documentation & Knowledge Solutions | Mastercard**
    - Pune, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-23 (2 days ago) | fallback | Score 89
-   - Fit: yes | or related field - 2+ years of finance operations/shared services, accou
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 10609353 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10609353/finops-analyst-ap-ap-healthcare
-
-4. **DevOps Engineer | Broadcom**
-   - IND-Pune-Panchshil | Work mode: unspecified | Section: Cloud / DevOps / Infrastructure
-   - Posted: 2026-11-23 (2 days ago) | fallback | Score 82
-   - Fit: yes | • Experience: 3-5 years of experience in software product. • Educati
-   - Experience: 3-5 yrs | Qualification: Bachelor
-   - ID: R027911 | open (ATS verified)
-   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-Panchshil/DevOps-Engineer_R027911
-
-5. **Data Analyst | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 79
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 79
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000089713-1 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000089713-1
+   - ID: R-293582 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Content-Strategy-Analyst-II_R-293582
 
-6. **Analyst - SP Product Control | Barclays**
-   - Chennai, DLF IT Park Pune, Gera Commerzone SEZ India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 79 | second job
+4. **SAP Basis Developer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 74
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000133051 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051
+   - ID: JR-0000091741 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/SAP-Basis-Developer_JR-0000091741
 
-7. **SDE-III | Mindtickle**
-   - Bengaluru, Karnataka, Pune, Maharashtra | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 75
-   - Fit: unknown
-   - ID: 2f32712f-bc84-4485-b2fb-99e167f54e21 | open (ATS verified)
-   - Apply: https://jobs.lever.co/mindtickle/2f32712f-bc84-4485-b2fb-99e167f54e21
-
-8. **ETD Brokerage Control Officer | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 75
+5. **.Net Developer | Barclays**
+   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: IT / Software
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 74 | second job
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: 26974781 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_26974781
+   - ID: JR-0000103004 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/XMLNAME-Net-Developer_JR-0000103004
 
-9. **Manager, Technical Consulting - Revenue Cloud | Salesforce**
-   - India - Bangalore India - Hyderabad India - Pune India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-25 (0 days ago) | fresh | Score 70
-   - Fit: no | contributors. 8+ years of people management and Technical Architect
-   - Experience: 8+ yrs | Qualification: Bachelor
-   - ID: JR325976 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Manager--Technical-Consulting_JR325976
+6. **Applications Development Sr Programmer Analyst - C12 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 73 | second job
+   - Fit: no | Qualifications: 5-8 years of relevant experience Experience in systems
+   - Experience: 5-8 yrs | Qualification: Bachelor
+   - ID: 261011234 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Development-Sr-Programmer-Analyst---C12---PUNE_261011234
 
-10. **IN_Bosch Rexroth India_Application Engineer_Weld Control Systems_Pune | Bosch**
-   - Pune, Maharashtra, India | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-20 (5 days ago) | fallback | Score 55
-   - Fit: no | of Experience required: 5 Years Additional information Knowledge / Specializ
-   - Experience: 5 yrs | Qualification: Bachelor
-   - Requirements: 1 Job Title / Designation:Application Engineer 2 Location:Pune 3 Essential Educational Qualification:BE Electrical /BE Electronics 4 Preferred Educational Qualification:BE Electrical /BE Electronics 5 No. of years of Experience required: 5 Years Additional information Knowledge / Specialization /
-   - ID: 744000162665174 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000162665174
+7. **Technical Support Engineer | Broadcom**
+   - IND-Pune EON Kharadi Infrastructure | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 67
+   - Fit: no | in a related field. 10+ years of experience working with customers in a fa
+   - Experience: 10+ yrs | Qualification: Bachelor
+   - ID: R027987 | open (ATS verified)
+   - Apply: https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-EON-Kharadi-Infrastructure/Technical-Support-Engineer_R027987
+
+8. **Director, Technical Consulting (Salesforce Marketing Cloud) | Salesforce**
+   - India - Bangalore India - Hyderabad India - Pune India - Mumbai India - Gurgaon India [multi-city] | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 65
+   - Fit: no
+   - Qualification: Bachelor
+   - ID: JR356454 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Director--Technical-Consulting--Salesforce-Field-Service-Data-Cloud-_JR356454

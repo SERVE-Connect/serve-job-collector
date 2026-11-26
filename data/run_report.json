@@ -13,23 +13,23 @@
  },
  "greenhouse:Rubrik": {
   "ok": true,
-  "listed": 225
+  "listed": 219
  },
  "greenhouse:Elastic": {
   "ok": true,
-  "listed": 389
+  "listed": 392
  },
  "greenhouse:Druva": {
   "ok": true,
-  "listed": 25
+  "listed": 24
  },
  "greenhouse:Zscaler": {
   "ok": true,
-  "listed": 393
+  "listed": 390
  },
  "greenhouse:PubMatic": {
   "ok": true,
-  "listed": 79
+  "listed": 78
  },
  "greenhouse:DoorDash India": {
   "ok": true,
@@ -37,7 +37,7 @@
  },
  "greenhouse:Razorpay": {
   "ok": true,
-  "listed": 23
+  "listed": 24
  },
  "greenhouse:Graviton Research Capital": {
   "ok": true,
@@ -45,35 +45,35 @@
  },
  "greenhouse:Databricks": {
   "ok": true,
-  "listed": 889
+  "listed": 874
  },
  "greenhouse:Cloudflare": {
   "ok": true,
-  "listed": 513
+  "listed": 524
  },
  "greenhouse:Stripe": {
   "ok": true,
-  "listed": 771
+  "listed": 772
  },
  "greenhouse:Twilio": {
   "ok": true,
-  "listed": 115
+  "listed": 110
  },
  "greenhouse:Okta": {
   "ok": true,
-  "listed": 373
+  "listed": 363
  },
  "greenhouse:Datadog": {
   "ok": true,
-  "listed": 388
+  "listed": 392
  },
  "greenhouse:MongoDB": {
   "ok": true,
-  "listed": 418
+  "listed": 422
  },
  "greenhouse:Netskope": {
   "ok": true,
-  "listed": 124
+  "listed": 125
  },
  "greenhouse:PagerDuty": {
   "ok": true,
@@ -81,7 +81,7 @@
  },
  "lever:JumpCloud": {
   "ok": true,
-  "listed": 36
+  "listed": 34
  },
  "lever:Termgrid": {
   "ok": true,
@@ -97,15 +97,15 @@
  },
  "lever:Paytm": {
   "ok": true,
-  "listed": 189
+  "listed": 192
  },
  "lever:Coupa": {
   "ok": true,
-  "listed": 37
+  "listed": 38
  },
  "lever:Saviynt": {
   "ok": true,
-  "listed": 64
+  "listed": 69
  },
  "lever:Mindtickle": {
   "ok": true,
@@ -121,11 +121,11 @@
  },
  "lever:Nium": {
   "ok": true,
-  "listed": 30
+  "listed": 31
  },
  "workday:Accenture": {
   "ok": true,
-  "listed": 525
+  "listed": 522
  },
  "workday:Mastercard": {
   "ok": true,
@@ -137,7 +137,7 @@
  },
  "workday:NVIDIA": {
   "ok": true,
-  "listed": 144
+  "listed": 143
  },
  "workday:Broadcom": {
   "ok": true,
@@ -153,31 +153,31 @@
  },
  "workday:Salesforce": {
   "ok": true,
-  "listed": 109
+  "listed": 108
  },
  "workday:Adobe": {
   "ok": true,
-  "listed": 57
+  "listed": 59
  },
  "workday:HP": {
   "ok": true,
-  "listed": 84
+  "listed": 82
  },
  "workday:Wells Fargo": {
   "ok": true,
-  "listed": 65
+  "listed": 73
  },
  "workday:Barclays": {
   "ok": true,
-  "listed": 138
+  "listed": 139
  },
  "workday:Citi": {
   "ok": true,
-  "listed": 266
+  "listed": 278
  },
  "workday:Capital One": {
   "ok": true,
-  "listed": 16
+  "listed": 14
  },
  "workday:Intel": {
   "ok": true,
@@ -205,7 +205,7 @@
  },
  "smartrecruiters:ServiceNow": {
   "ok": true,
-  "listed": 81
+  "listed": 75
  },
  "amazon:Amazon": {
   "ok": true,
@@ -214,21 +214,21 @@
  "remote:We Work Remotely": {
   "ok": true,
   "listed": 100,
-  "kept": 99,
+  "kept": 98,
   "undated_skipped": 0,
   "without_company": 0
  },
  "remote:WordPress Jobs": {
   "ok": true,
   "listed": 10,
-  "kept": 2,
+  "kept": 1,
   "undated_skipped": 0,
   "without_company": 0
  },
  "remote:Laravel Jobs": {
   "ok": true,
-  "listed": 8,
-  "kept": 1,
+  "listed": 9,
+  "kept": 2,
   "undated_skipped": 0,
   "without_company": 0
  }
