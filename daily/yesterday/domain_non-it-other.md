@@ -1,82 +1,86 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-25 03:34 UTC
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-26 02:53 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Content Support Analyst II | AlphaSense**
-   - Remote - India | Work mode: remote | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 92
-   - Fit: yes | communication skills 0-4 years of data entry and/or data maintenance experi
-   - Experience: 0-4 yrs | Qualification: Bachelor
-   - ID: 8958236002 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/alphasenseindia/jobs/8958236002
+1. **Trade Processing - Securities and Derivatives Analyst | Citi**
+   - Gurugram Haryana India | Work mode: remote | Section: Non-IT / Other
+   - Posted: 2026-11-26 (0 days ago) | fresh | Score 95
+   - Fit: yes | skills and exposure: • 2-4 years of relevant experience • Fundamental knowled
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - ID: 261010668 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Trade-Processing---Securities-and-Derivatives-Analyst_261010668
 
-2. **Product Support Analyst | Fiserv**
-   - Pune - Trion Business Park, India | Work mode: onsite | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 91
-   - Fit: yes | Center and/or CLX. 3+ years of experience in customer support, product s
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: R-10407724 | open (ATS verified)
-   - Apply: https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Product-Support-Analyst_R-10407724
-
-3. **Data Center Engineering Operations Engineer, DCEO, BOM | Amazon**
+2. **Data Center Engineering Operations Engineer, DCEO, BOM | Amazon**
    - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 86
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 86
    - Fit: yes | - 2+ years of relevant work experience - Experience in
    - Experience: 2+ yrs
-   - ID: 10612363 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10612363/data-center-engineering-operations-engineer-dceo-bom
+   - ID: 10613733 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10613733/data-center-engineering-operations-engineer-dceo-bom
 
-4. **Analyst, Tax - GIR Compliance | PayPal**
-   - Bangalore, Karnataka, India Chennai, Tamil Nadu, India India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 82
-   - Fit: yes | Minimum Qualifications: 1+ years of relevant experience and a Bachelor's degr
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - Requirements: 1+ years of relevant experience and a Bachelor's degree OR Any equivalent combination of education and experience. Additional Responsibilities & Preferred Qualifications : Demonstrated experience with manual review and software aided review of W-8/W9, FATCA and CRS Self Certification form
-   - ID: R0138590 | open (ATS verified)
-   - Apply: https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Analyst--Tax---GIR-Compliance_R0138590
+3. **System Analyst | Salesforce**
+   - India - Hyderabad India - Bangalore India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 82
+   - Fit: yes | equivalent experience. 0-3 years of hands-on platform or systems support, adm
+   - Experience: 0-3 yrs | Qualification: Bachelor
+   - Requirements: Bachelor's degree in computer science, business, or equivalent experience. 0-3 years of hands-on platform or systems support, administration, or implementation experience in an enterprise IT environment. Strong knowledge of Salesforce native functionality and best practices. Demonstrated ability to
+   - ID: JR367594 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/System-Analyst_JR367594
 
-5. **Analyst - SP Product Control | Barclays**
-   - Chennai, DLF IT Park Pune, Gera Commerzone SEZ India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 79
+4. **Analyst, Technical Documentation & Knowledge Solutions | Mastercard**
+   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 79
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000133051 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst---SP-Product-Control_JR-0000133051
+   - ID: R-293582 | open (ATS verified)
+   - Apply: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Content-Strategy-Analyst-II_R-293582
 
-6. **Wealth Underwriting Assistant-CRE, Spreading, pre underwriting | Wells Fargo**
-   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 78
-   - Fit: yes | Qualifications: 1+ years of Wealth Underwriting support experience, o
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R-588269 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Wealth-Underwriting-Assistant-CRE--Spreading--pre-underwriting_R-588269
-
-7. **Accounting Analyst | Stripe**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 76
-   - Fit: yes | ACA, ACCA, CIMA) with 3 - 6 years of relevant accounting experience Degree in
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - ID: 8401662 | open (ATS verified)
-   - Apply: https://stripe.com/jobs/search?gh_jid=8401662
-
-8. **SDE-III | Mindtickle**
-   - Bengaluru, Karnataka, Pune, Maharashtra | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 75
-   - Fit: unknown
-   - ID: 2f32712f-bc84-4485-b2fb-99e167f54e21 | open (ATS verified)
-   - Apply: https://jobs.lever.co/mindtickle/2f32712f-bc84-4485-b2fb-99e167f54e21
-
-9. **ETD Brokerage Control Officer | Citi**
-   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
-   - Posted: 2026-11-24 (1 days ago) | fresh | Score 75
+5. **Analyst – Travel, Expenses and Coupa | Barclays**
+   - Mumbai, Nirlon Knowledge Park (BX) 9th & 11-12 floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 78
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: 26974781 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2---C10---PUNE_26974781
+   - ID: JR-0000139996 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst---Travel--Expenses-and-Coupa_JR-0000139996
 
-10. **Physical Design Engineer | NVIDIA**
-   - India, Bengaluru India, Hyderabad India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-25 (0 days ago) | fresh | Score 74
-   - Fit: yes | equivalent experience. 3+ years of experience in Physical Design. Strong und
-   - Experience: 3+ yrs | Qualification: Bachelor
-   - ID: JR2030485-1 | open (ATS verified)
-   - Apply: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Physical-Design-Engineer_JR2030485-1
+6. **Business Execution Consultant | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 77
+   - Fit: yes | Qualifications: 2+ years of Business Execution, Implementation, or St
+   - Experience: 2+ yrs | Qualification: Bachelor
+   - Requirements: good understanding of global trends and practices in emerging trends, threat identification and monitoring and reporting. Ability to handle multiple priorities and work to tight deadlines, coupled with a commitment to the highest quality standards and an eye for detail Team player, with the ability
+   - ID: R-577196 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-577196
+
+7. **GPU Logic Design Engineer | Intel**
+   - India, Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 77
+   - Fit: yes | or related field with 0-1 years of hands-on experience through internships,
+   - Experience: 0-1 yrs | Qualification: Bachelor
+   - Requirements: Minimum Qualifications - Bachelor's degree in Electrical Engineering, Computer Engineering, or related field with 0-1 years of hands-on experience through internships, academic projects, coursework, or training. - OR a Master's degree in Electrical Engineering, Computer Engineering, or related
+   - ID: JR0288631 | open (ATS verified)
+   - Apply: https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Logic-Design-Engineer_JR0288631
+
+8. **Talent Acquisition Intern- Product  hiring | Paytm**
+   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 64
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: Currently pursuing or recently completed a Bachelor's or Master's degree (MBA/PGDM in HR preferred) Strong written and verbal communication skills. Comfortable with LinkedIn, Excel/Google Sheets, and basic reporting. Highly organized, with the ability to manage multiple tasks and deadlines. Strong
+   - ID: 088a2cf3-101d-4ce8-91a7-880551d9cfd1 | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/088a2cf3-101d-4ce8-91a7-880551d9cfd1
+
+9. **SDC Recruiter | Stripe**
+   - Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 63
+   - Fit: yes | Minimum requirements 4+ years of full-cycle recruiting experience (in-hous
+   - Experience: 4+ yrs | Qualification: Bachelor
+   - ID: 8288879 | open (ATS verified)
+   - Apply: https://stripe.com/jobs/search?gh_jid=8288879
+
+10. **Asst. Manager_Plant Controlling (ChiP/CTG) | Bosch**
+   - Oragadam, TN, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-25 (1 days ago) | fresh | Score 60
+   - Fit: yes | experience of 4-6 years Preferably experience in costing field in pr
+   - Experience: 4-6 yrs | Qualification: Bachelor
+   - ID: 744000163605679 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000163605679
