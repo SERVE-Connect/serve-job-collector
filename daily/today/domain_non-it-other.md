@@ -1,82 +1,68 @@
-# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-27 02:55 UTC
-10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
+# SERVE ranked list: Non-IT / Other jobs (0-5 years), collected 2026-11-28 02:45 UTC
+8 jobs, best score first: 8 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Trade Processing - Securities and Derivatives Analyst | Citi**
-   - Gurugram Haryana India | Work mode: remote | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 92
-   - Fit: yes | skills and exposure: • 2-4 years of relevant experience • Fundamental knowled
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 261010668 | open (ATS verified)
-   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Officer--Trade-Processing---Securities-and-Derivatives-Analyst_261010668
-
-2. **Data Center Engineering Operations Engineer | Amazon**
-   - Mumbai, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 86
-   - Fit: yes | - 2+ years of relevant work experience - Experience rea
+1. **Functional App Analyst, AFFS Accounting Onboarding  | Amazon**
+   - Pune, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 92
+   - Fit: yes | - 2+ years of building financial and operational report
    - Experience: 2+ yrs
-   - ID: 10615141 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10615141/data-center-engineering-operations-engineer
+   - ID: 10615968 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10615968/functional-app-analyst-affs-accounting-onboarding
 
-3. **Associate, Business Operations | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 82
-   - Fit: yes | or equivalent.&nbsp; 0-2 years of experience in customer support or a servi
-   - Experience: 0-2 yrs | Qualification: Bachelor
-   - ID: 4757678005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4757678005
+2. **Asset Servicing Analyst 1 - C09 - PUNE | Citi**
+   - Pune Maharashtra India | Work mode: hybrid | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 91
+   - Fit: yes | degree preferred 3+ Years Related Experience Individuals at this level
+   - Experience: 3+ yrs | Qualification: Diploma
+   - Requirements: Bachelor's degree preferred 3+ Years Related Experience Individuals at this level exhibit basic executional capabilities and are beginning to take on more responsibility Knowledge of multiple types of investment instruments including: Equity securities, Fixed Income and Asset Backed securities
+   - ID: 261003964-1 | open (ATS verified)
+   - Apply: https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Asset-Servicing-Analyst-1---C09---PUNE_261003964-1
 
-4. **Customer Solution Center Consultant 2 - Technical | HP**
-   - Heredia, Heredia, Costa Rica Bengaluru, Karnataka, India Costa Rica | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 82
-   - Fit: yes | • Typically has 2-4 years of work experience, preferably in remote sup
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 3171120-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Heredia-Heredia-Costa-Rica/Customer-Solution-Center-Consultant-2---Technical_3171120-1
-
-5. **Process Associate | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 82
-   - Fit: yes | competency or a Minimum 1year experience in any customer service domain wi
-   - Experience: 1 yrs | Qualification: Bachelor
-   - ID: 744000163855169 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000163855169
-
-6. **Order Fulfilment Specialist | Rubrik**
-   - Bangalore | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 77
-   - Fit: yes | Experience you’ll need: 2+ years of relevant experience within Ops, Order Man
+3. **Investment Banking Analyst | Wells Fargo**
+   - Hyderabad, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 83
+   - Fit: yes | Qualifications: 2+ years of Securities Research experience, or equiva
    - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 8410806 | open (ATS verified)
-   - Apply: https://www.rubrik.com/company/careers/departments/job.8410806?gh_jid=8410806
+   - ID: R-589024-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Investment-Banking-Analyst_R-589024-1
 
-7. **Loan Servicing Representative | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 77
-   - Fit: yes | Qualifications: 1+ year of Loan Servicing support experience, or equ
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R-578607 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Loan-Servicing-Representative_R-578607
-
-8. **Operations Support - Legal Supplier Management | Barclays**
-   - Pune, Gera Commerzone SEZ | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 74
+4. **Operations Analyst - Private Bank and Wealth Management | Barclays**
+   - Mumbai, Nirlon Knowledge Park (IB) , 9th floor | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 78
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR-0000134847 | open (ATS verified)
-   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Operations-Support---Legal-Supplier-Management_JR-0000134847
+   - ID: JR-0000125427-1 | open (ATS verified)
+   - Apply: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Operations-Analyst---Private-Bank-and-Wealth-Management_JR-0000125427-1
 
-9. **Contract Sales Operations Associate Analyst | Salesforce**
-   - India - Hyderabad | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 72
-   - Fit: yes | You're Our Person If... 2+ years sales operations or order management experie
-   - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: JR367849 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Contract-Sales-Operations-Associate-Analyst_JR367849
+5. **Field Marketing Analyst, India | Salesforce**
+   - India - Bangalore | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 76
+   - Fit: yes | Minimum Requirements 3-5 years in B2B marketing operations or field marketi
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - ID: JR369669 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Field-Marketing-Analyst--India_JR369669
 
-10. **Electrical Shift Technician – Facilities Operations | Micron**
-   - Sanand - 303A - AT/SSD/MOD, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 68
-   - Fit: yes | Experience 3-8 years of experience in: Semiconductor Facilities E
-   - Experience: 3-8 yrs | Qualification: Diploma
-   - ID: JR118039 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Electrical-Shift-Technician---Facilities-Operations_JR118039
+6. **Vigilance- Forensic Investigation | Paytm**
+   - Noida, Uttar Pradesh | Work mode: onsite | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 75
+   - Fit: yes | concerns Experience- 3-7 Years Qualifications- -Bachelor's degree in a rela
+   - Experience: 3-7 yrs | Qualification: Bachelor
+   - ID: 8eb4449c-09d9-405e-8a25-fa5a4c497c62 | open (ATS verified)
+   - Apply: https://jobs.lever.co/paytm/8eb4449c-09d9-405e-8a25-fa5a4c497c62
+
+7. **D365 F&O Technical Consultant | Bosch**
+   - telengana, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 68
+   - Fit: yes | Consultant with 3–4 years of relevant experience in implementation and
+   - Experience: 3-4 yrs | Qualification: Bachelor
+   - ID: 744000164009868 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000164009868
+
+8. **Support Operations Trainer | DoorDash India**
+   - Hyderabad, TA  | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 61
+   - Fit: unknown
+   - Qualification: Bachelor
+   - Requirements: an advanced written and verbal English level&nbsp; You are a team player! You love helping people! You excel at managing multiple tasks simultaneously without compromising quality or efficiency. You are comfortable navigating uncertainty and can make informed decisions among changing circumstances.
+   - ID: 8417867 | open (ATS verified)
+   - Apply: https://job-boards.greenhouse.io/doordashindia/jobs/8417867

@@ -1,83 +1,83 @@
-# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-27 02:55 UTC
+# SERVE ranked list: Jobs in Bangalore (all domains, all experience levels), collected 2026-11-28 02:45 UTC
 10 jobs, best score first: 10 from today/yesterday, 0 from the 7-day fallback. One job per company (a 2nd job only when short, max 2 companies). Already-sent jobs are excluded. Use them in this order, do not re-rank.
 
-1. **Associate, Business Operations | Razorpay**
-   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 82
-   - Fit: yes | or equivalent.&nbsp; 0-2 years of experience in customer support or a servi
-   - Experience: 0-2 yrs | Qualification: Bachelor
-   - ID: 4757678005 | open (ATS verified)
-   - Apply: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4757678005
-
-2. **Customer Solution Center Consultant 2 - Technical | HP**
-   - Heredia, Heredia, Costa Rica Bengaluru, Karnataka, India Costa Rica | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 82
-   - Fit: yes | • Typically has 2-4 years of work experience, preferably in remote sup
-   - Experience: 2-4 yrs | Qualification: Bachelor
-   - ID: 3171120-1 | open (ATS verified)
-   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Heredia-Heredia-Costa-Rica/Customer-Solution-Center-Consultant-2---Technical_3171120-1
-
-3. **Process Associate | Bosch**
-   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 82
-   - Fit: yes | competency or a Minimum 1year experience in any customer service domain wi
-   - Experience: 1 yrs | Qualification: Bachelor
-   - ID: 744000163855169 | open (ATS verified)
-   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000163855169
-
-4. **Data Engineer I, CMT | Amazon**
-   - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 78
-   - Fit: yes | - 1+ years of data engineering experience - Experience
-   - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: 10614089 | open (listed in employer's live search)
-   - Apply: https://www.amazon.jobs/en/jobs/10614089/data-engineer-i-cmt
-
-5. **Order Fulfilment Specialist | Rubrik**
-   - Bangalore | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 77
-   - Fit: yes | Experience you’ll need: 2+ years of relevant experience within Ops, Order Man
+1. **Securities Research Associate | Wells Fargo**
+   - Bengaluru, India | Work mode: unspecified | Section: Clinical / Research
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 82
+   - Fit: yes | Qualifications : 2+ years of Securities Research experience, or equiva
    - Experience: 2+ yrs | Qualification: Bachelor
-   - ID: 8410806 | open (ATS verified)
-   - Apply: https://www.rubrik.com/company/careers/departments/job.8410806?gh_jid=8410806
+   - ID: R-587482-1 | open (ATS verified)
+   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Research-Associate_R-587482-1
 
-6. **Loan Servicing Representative | Wells Fargo**
-   - Bengaluru, India | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 77
-   - Fit: yes | Qualifications: 1+ year of Loan Servicing support experience, or equ
+2. **Business Analyst, WHS Data | Amazon**
+   - Bengaluru, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 78
+   - Fit: yes | business insights - 1+ years of Excel or Tableau (data manipulation, macr
    - Experience: 1+ yrs | Qualification: Bachelor
-   - ID: R-578607 | open (ATS verified)
-   - Apply: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Loan-Servicing-Representative_R-578607
+   - ID: 10615630 | open (listed in employer's live search)
+   - Apply: https://www.amazon.jobs/en/jobs/10615630/business-analyst-whs-data
 
-7. **Business Development Representative | Salesforce**
+3. **Machine Learning Engineer | HP**
+   - Bengaluru, Karnataka, India | Work mode: unspecified | Section: Data / Analytics / AI
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 77
+   - Fit: yes | • Typically has 2-4 years of work experience, preferably in computer p
+   - Experience: 2-4 yrs | Qualification: Bachelor
+   - ID: 3171594-1 | open (ATS verified)
+   - Apply: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Machine-Learning-Engineer_3171594-1
+
+4. **Field Marketing Analyst, India | Salesforce**
    - India - Bangalore | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 71
-   - Fit: yes | in English language 3-6 years of Experience in business development, sales
-   - Experience: 3-6 yrs | Qualification: Bachelor
-   - ID: JR351752 | open (ATS verified)
-   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Business-Development-Representative_JR351752
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 76
+   - Fit: yes | Minimum Requirements 3-5 years in B2B marketing operations or field marketi
+   - Experience: 3-5 yrs | Qualification: Bachelor
+   - ID: JR369669 | open (ATS verified)
+   - Apply: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Field-Marketing-Analyst--India_JR369669
 
-8. **Associate Engineer | Micron**
+5. **MSD365 F&O Finance Consultant | Bosch**
+   - bangalore, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 63
+   - Fit: yes | Expectations 4-5 years of experience in MS Dynamics 365 Finance and
+   - Experience: 4-5 yrs | Qualification: Bachelor
+   - ID: 744000164010558 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/BoschGroup/744000164010558
+
+6. **Engineer | Micron**
    - Hyderabad - Phoenix Aquila, India Bengaluru, India India | Work mode: unspecified | Section: IT / Software
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 65
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 60
    - Fit: unknown
    - Qualification: Bachelor
-   - ID: JR107841 | open (ATS verified)
-   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Associate-Engineer_JR107841
+   - ID: JR107840 | open (ATS verified)
+   - Apply: https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer_JR107840
 
-9. **Professional Services Sales – PSSi, Middle East | Adobe**
-   - Bangalore | Work mode: unspecified | Section: Non-IT / Other
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 60
-   - Fit: unknown
-   - Qualification: Bachelor
-   - ID: R173775-1 | open (ATS verified)
-   - Apply: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Professional-Services-Sales---PSSi--Middle-East_R173775-1
+7. **Staff Analyst - Workday Techno-Functional Consultant | Okta**
+   - Bengaluru | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 58
+   - Fit: no | to the role Experience: 8+ years of related experience in a professional role
+   - Experience: 8+ yrs | Qualification: Bachelor
+   - ID: 8420236 | open (ATS verified)
+   - Apply: https://www.okta.com/company/careers/opportunity/8420236?gh_jid=8420236
 
-10. **Senior Staff Engineer | MongoDB**
-   - Bengaluru | Work mode: unspecified | Section: Senior IT roles (5+ yrs)
-   - Posted: 2026-11-26 (1 days ago) | fresh | Score 53
-   - Fit: no | model. Requirements: 10+ years of experience as a field engineer or profess
+8. **Senior Software Engineer - Backend (Kirana Club) | Meesho**
+   - Bangalore, Karnataka | Work mode: onsite | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 54
+   - Fit: no | requirements. • 4 -6 years of relevant backend engineering experience.
+   - Experience: 4-6 yrs
+   - ID: 1d628f96-a365-441f-967d-11e647d2f587 | open (ATS verified)
+   - Apply: https://jobs.lever.co/meesho/1d628f96-a365-441f-967d-11e647d2f587
+
+9. **Sr Director, AI & Data Platform (15+ Years) - 11980 | Coupa**
+   - Bangalore, India | Work mode: hybrid | Section: Senior IT roles (5+ yrs)
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 54
+   - Fit: no | all AI capabilities. 15+ years of software engineering experience, with 5+
+   - Experience: 15+ yrs | Qualification: Bachelor
+   - ID: 9239c253-1413-45f9-82eb-afab2cc9b511 | open (ATS verified)
+   - Apply: https://jobs.lever.co/coupa/9239c253-1413-45f9-82eb-afab2cc9b511
+
+10. **Executive Assistant - Sales | ServiceNow**
+   - Bangalore, Karnataka, India | Work mode: unspecified | Section: Non-IT / Other
+   - Posted: 2026-11-27 (1 days ago) | fresh | Score 53
+   - Fit: no | function or industry. 10+ years experience supporting Only sales VP /Sales c
    - Experience: 10+ yrs | Qualification: Bachelor
-   - Requirements: 10+ years of experience as a field engineer or professional services consultant or full stack developer working directly with Enterprise clients.&nbsp; Proficiency in Python and Java or C#, and some familiarity with common database access patterns and frameworks in one or more of these languages.
-   - ID: 8304154 | open (ATS verified)
-   - Apply: https://www.mongodb.com/careers/job/?gh_jid=8304154
+   - Requirements: Positive and personable can-do attitude Proficient in Zoom, Microsoft Office suites (Word, Excel, PowerPoint, Outlook), Box, Concur and Google Docs Experience handling confidential materials FD21 Work Personas We approach our distributed world of work with flexibility and trust. Work personas
+   - ID: 744000164004019 | open (ATS verified)
+   - Apply: https://jobs.smartrecruiters.com/ServiceNow/744000164004019
